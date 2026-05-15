@@ -68,9 +68,21 @@ The sole usage describes three of ten horns being violently dislodged "from befo
 - **H6133 עֵקֶר (eqer)** — Hebrew noun; "stock, offshoot" — 1 occurrence (Lev 25:47)
 - **H6135 עָקָר (aqar)** — Hebrew adjective; "barren, childless" — 11 occurrences; uses same root concept of being "uprooted" from lineage
 
+### Synonyms
+
+No synonyms returned by `search_relationships.py` for this Aramaic lemma.
+
+### Antonyms
+
+No antonyms returned by `search_relationships.py` for this Aramaic lemma.
+
 ### Easily Confused Words
 
 *No overlapping KJV translations found with other Aramaic words — "plucked up by the roots" is unique to this word.*
+
+## Semantic Domains
+
+No semantic-domain data returned by `search_relationships.py` for this Aramaic lemma.
 
 ## LXX / Theodotion Mapping
 
@@ -83,5 +95,5 @@ No LXX alignment data available in database for this Aramaic passage.
 *(No TR, WG, or EN files currently link to this word. No cross-testament trace applicable — Aramaic hapax with no LXX bridge data. No word group created — insufficient collocations.)*
 
 ---
-*Generated from: gather_word_data.py, hebrew_parser.py, search_strongs.py --lexicon H6132*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, hebrew_parser.py, search_strongs.py --lexicon H6132, search_relationships.py*
+*Last updated: 2026-04-27*

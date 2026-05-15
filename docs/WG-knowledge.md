@@ -9,7 +9,7 @@ The Hebrew knowledge concept operates as a cluster of 7 words spanning three sem
 |----------|------|-----------------|-----|--------|-----------------|---------------|
 | H1847 | דַּעַת | da'ath | noun | 91 | The content — knowledge itself | [H1847](H1847-daath.md) |
 | H3045 | יָדַע | yada' | verb | 873 | The act — to know, perceive, ascertain | [H3045-yada.md](H3045-yada.md) |
-| H2451 | חׇכְמָה | chokmah | noun | 141 | Companion virtue — wisdom, skill in living | TODO(need H2451 study) |
+| H2451 | חׇכְמָה | chokmah | noun | 141 | Companion virtue — wisdom, skill in living | [H2451-chokmah.md](H2451-chokmah.md) |
 | H995 | בִּין | biyn | verb | 162 | Companion virtue — to discern, distinguish | [H995-biyn.md](H995-biyn.md) |
 | H8394 | תָּבוּן | tabuwn | noun | 42 | Companion virtue — understanding, insight | TODO(need H8394 study) |
 | H1844 | דֵּעָה | de'ah | noun | 6 | Alternate form — knowledge (feminine) | TODO(need H1844 study) |

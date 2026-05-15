@@ -24,6 +24,10 @@ Neuter substantive of G2413 (ἱερός, sacred); a sacred place, i.e. the enti
 
 *G2411 is mapped via its root adjective ἱερός (G2413), which shares this subdomain with ναός.*
 
+## UBS Semantic Domains
+
+*No UBS semantic-domain entry was returned by `search_relationships.py` for G2411.*
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -116,6 +120,14 @@ Abstract or functional references — includes one non-Jerusalem pagan temple.
 - **G2416 ἱεροσυλέω (hierosyleō)** — to desecrate a temple, commit sacrilege (Rom 2:22)
 - **G2417 ἱερόσυλος (hierosylos)** — temple robber (Acts 19:37)
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G2411.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G2411.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -137,5 +149,5 @@ No Hebrew source tracked in database for G2411. The word is used in the LXX but 
 - [TR-heykal-naos.md](TR-heykal-naos.md) — cross-testament trace: H1964 → G3485 (inner sanctuary)
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, louw_nida.db*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, search_strongs.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -23,11 +23,15 @@
 
 A primary verb; to be used (by habit or conventionality). The word expresses settled habitual behavior — not a one-time act but a regular, established practice. In all four NT occurrences the perfect/pluperfect form emphasizes the state of being accustomed, treating the habit as a completed-and-ongoing condition.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Domain:** 041 — Behavior and Related States
-- **Subdomain:** 041.002 — Custom, Tradition
-- **Other words in subdomain:** ἐθίζω G1480, ἔθος G1485, ἦθος G2239, νομίζω G3543, παρατηρέω G3906, συνήθεια G4914
+**Louw-Nida:**
+- **041.002** — Custom, Tradition
+
+Related words in 041.002: ἐθίζω (G1480), ἔθος (G1485), ἦθος (G2239), νομίζω (G3543), παρατηρέω (G3906), συνήθεια (G4914)
+
+**UBS Semantic Domains:**
+- **[041]** Behavior and Related States
 
 ## Translation Distribution (KJV)
 
@@ -97,6 +101,14 @@ Describes an established civic/political practice of the Roman governor — a cu
 
 *All derive from the same Greek root concept of repeated practice becoming established behavior.*
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G1486.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G1486.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -120,5 +132,5 @@ Describes an established civic/political practice of the Roman governor — a cu
 No LXX mapping data available. G1486 is a Greek primary verb with no strong tracked correspondence to a specific Hebrew lexeme. The semantic field is covered in Hebrew by words such as H4941 (mishpat, "manner/custom"), H1870 (derek, "way/manner"), and H2708 (chuqqah, "statute/custom").
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, strongs_translations.db*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, strongs_translations.db, search_relationships.py*
+*Last updated: 2026-04-27*

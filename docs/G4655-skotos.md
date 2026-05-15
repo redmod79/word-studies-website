@@ -22,6 +22,12 @@ Shadiness, i.e. obscurity (literally or figuratively). From the base of G4654 (s
 - **Domain 1.003:** Regions Below the Surface of the Earth — darkness as a place of punishment
 - **Other words in Darkness domain (14.007):** σκοτία (G4653), σκοτεινός (G4652), σκοτίζω (G4654), ζόφος (G2217), νύξ (G3571), σκιά (G4639), ἀποσκίασμα (G0644)
 
+### UBS Semantic Domains
+
+- **[014] Physical Events and States**
+- **[088] Moral and Ethical Qualities and Related Behavior**
+- **[001] Geographical Objects and Features**
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -120,6 +126,20 @@ Highest density in the Pauline epistles (1 Thessalonians, Ephesians, Colossians)
 - **G4652 σκοτεινός (skoteinos)** — adjective: dark, full of darkness (3x)
 - **G4656 σκοτόω (skotoo)** — verb: to make dark, be darkened (1x)
 
+### Synonyms
+- **G3571 νύξ** — night; the nearest temporal darkness term returned by `search_relationships.py`
+- **G4639 σκιά** — shadow / shade; adjacent obscuring term within the darkness cluster
+- **G1105 γνόφος**, **G2217 ζόφος** — gloom / thick darkness; deeper or murkier darkness vocabulary
+- **G3507 νεφέλη**, **G3509 νέφος** — cloud / cloud-mass; atmospheric obscuring neighbors
+- **G2073 ἑσπέρα**, **G3722 ὄρθρος** — evening / dawn; boundary-of-darkness temporal neighbors
+- **G86 ᾅδης** — Hades / the underworld; linked through the punitive-darkness field
+- **G3949 παροργίζω**, **G3119 μαλακία**, **G4728 στενός** — additional figurative neighbors surfaced by `search_relationships.py`
+
+### Antonyms
+- **G5338 φέγγος** — brightness / shining light; direct luminous opposite
+- **G5462 φωτισμός** — illumination; the act or result of giving light
+- **G4407 πρωϊνός**, **G3314 μεσημβρία**, **G2196 Ζάρα** — morning / midday / dawn-light terms returned as temporal-light contrasts
+
 ### Relationship: skotos (G4655) vs. skotia (G4653)
 
 Both mean "darkness" but differ in usage pattern:
@@ -163,10 +183,17 @@ Primary Hebrew source is H2822 choshek (67 co-occurrences, PMI 32.81) — the do
 ## See Also
 
 - [TR-choshek-skotos.md](TR-choshek-skotos.md) — cross-testament trace: H2822 choshek → G4655 skotos
+- [TR-owr-phos.md](TR-owr-phos.md) — paired light/darkness trace on the opposite side of the contrast
 - [G4653-skotia.md](G4653-skotia.md) — related word: the feminine form of darkness
+- [G5457-phos.md](G5457-phos.md) — antithetical light word study
 - [G2217-zophos.md](G2217-zophos.md) — related word: deep gloom/blackness
+- [G4639-skia.md](G4639-skia.md) — related word: shadow / shade
+- [G5020-tartaroo.md](G5020-tartaroo.md) — Tartarus study intersecting the punishment-darkness field
+- [G1067-geenna.md](G1067-geenna.md) — Gehenna / judgment-darkness overlap
+- [G3709-orge.md](G3709-orge.md) — wrath study referencing darkness/judgment imagery
+- [G2041-ergon.md](G2041-ergon.md) — works study: "works of darkness"
 - [WG-darkness.md](WG-darkness.md) — word group: darkness concept cluster
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, louw_nida.db*
-*Last updated: 2026-04-13*
+*Generated from: gather_word_data.py, search_strongs.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-28*

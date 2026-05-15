@@ -68,7 +68,7 @@ H6942, 153x            119x as translation      26x in NT
 - **Heb 10:10** — "By the which will we are sanctified through the offering of the body of Jesus Christ once for all"
 - **John 17:17** — "Sanctify them through thy truth: thy word is truth"
 
-→ Canonical word study: TODO(need G37 study)
+→ Canonical word study: [G37-hagiazo.md](G37-hagiazo.md)
 
 ## Direct OT→NT Quotations
 

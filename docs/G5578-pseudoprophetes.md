@@ -23,6 +23,12 @@ From G5571 and G4396; **a spurious prophet, i.e. pretended foreteller or religio
 - **Domain:** 053009 — Roles and Functions (Religious Activities)
 - **Other words in subdomain:** ἀντίχριστος (G500), ἀπόστολος (G652), ἀρχιερεύς (G749), γραμματεύς (G1122), διάκονος (G1249), ἐπίσκοπος (G1985)
 
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 053 | Religious Activities | `search_relationships.py` places ψευδοπροφήτης in the religious-role field; neighbors: ἁγιάζω (G37), ἁγιασμός (G38), ἅγιος (G40), ἁγιωσύνη (G42), ἁγνίζω (G48), ἁγνισμός (G49). |
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -97,6 +103,13 @@ In Revelation, "the false prophet" (singular, definite) becomes a specific escha
 - **G4396 προφήτης (prophētēs)** — root noun: prophet (143 vv)
 - **G5580 ψευδόχριστος (pseudochristos)** — parallel compound: false Christ (2 vv)
 
+### Synonyms
+- **G1797 ἐνυπνιάζομαι (enypniázomai)** — to dream; included by `search_relationships.py` as a semantic-domain neighbor.
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G5578.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -129,10 +142,15 @@ In Revelation, "the false prophet" (singular, definite) becomes a specific escha
 
 ## See Also
 
+- [G4105-planao.md](G4105-planao.md) — deceive; the defining activity of false prophets in the Synoptic warnings
+- [G4592-semeion.md](G4592-semeion.md) — signs; false-prophetic credentials in the eschatological warnings
+- [G500-antichristos.md](G500-antichristos.md) — adjacent counterfeit-role study from the same semantic field
+- [G5059-teras.md](G5059-teras.md) — wonders; paired with signs in deceptive displays
+- [G4442-pyr.md](G4442-pyr.md) — fire; final judgment context for the false prophet in Revelation
 - [WG-falseprophets.md](WG-falseprophets.md) — false prophets concept cluster (G5578, G5580, G4396, G4105, G5571)
 - [WG-beast.md](WG-beast.md) — Revelation beast cluster (includes the false prophet triad)
 - [WG-prophecy.md](WG-prophecy.md) — prophecy word group (includes G4396 base word)
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-28*

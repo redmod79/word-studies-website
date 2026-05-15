@@ -20,6 +20,10 @@ Probably from χαλάω; hail:—hail.
 - **Subdomain:** 2.4 — Water
 - **Other words in subdomain:** ἄνυδρος (G504), ἰκμάς (G2429), κρύσταλλος (G2930), ὕδωρ (G5204), ὑετός (G5205), χιών (G5510)
 
+## UBS Semantic Domains
+
+- **[002] Natural Substances** — `search_relationships.py` keeps χάλαζα in the physical-substance / weather-material field alongside water, snow, and other natural elements.
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -70,6 +74,20 @@ With only 3 verses, all collocations are 1x. The patterns cluster around two mot
 
 ## Related Words
 
+### Synonyms
+
+`search_relationships.py` surfaced a narrow storm-and-judgment cluster rather than strict lexical equivalents:
+- **G5510 χιών (chiōn)** — snow; the nearest frozen-precipitation neighbor.
+- **G5205 ὑετός (hyetos)** — rain; adjacent weather / precipitation term.
+- **G5204 ὕδωρ (hydōr)** — water; the broader material category behind hail.
+- **G4442 πῦρ (pyr)** — fire; recurring paired judgment agent in Rev 8:7.
+- **G417 ἄνεμος (anemos)** — wind; storm-sequence neighbor within apocalyptic weather imagery.
+- **G5456 φωνή (phōnē)** — voice / sound; theophanic storm accompaniment in Rev 11:19.
+
+### Antonyms
+
+*No direct antonyms were returned by `search_relationships.py` for G5464.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -101,6 +119,14 @@ With only 3 verses, all collocations are 1x. The patterns cluster around two mot
 
 The primary Hebrew equivalent is H1259 בָּרָד (barad), with 21 LXX co-occurrences and the highest PMI score by far. The secondary associations (vegetation, rain, fire) reflect the OT hail-plague contexts where these words co-occur.
 
+## See Also
+
+- [G4127-plege.md](G4127-plege.md) — plague / stroke; hail is explicitly called a plague in Rev 16:21
+- [G4442-pyr.md](G4442-pyr.md) — fire; paired with hail in the first trumpet judgment
+- [G4578-seismos.md](G4578-seismos.md) — earthquake; storm-theophany companion in Rev 11:19
+- [G1027-bronte.md](G1027-bronte.md) — thunder; storm-theophany companion in the temple-opening scene
+- [G987-blasphemeo.md](G987-blasphemeo.md) — blaspheme; humanity's response to the hail-plague in Rev 16:21
+
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-08*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-28*

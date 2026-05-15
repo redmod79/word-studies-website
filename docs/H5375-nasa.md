@@ -134,6 +134,22 @@ A specialized idiom: nāśāʾ ʾet-rōʾš ("lift the head of") means to take a
 - **H4853 מַשָּׂא (maśśāʾ)** — burden, oracle (derived noun from H5375: "that which is lifted/borne")
 - **H5375 as denominative noun:** נֹשֵׂא כֵלִים (nōśēʾ kēlîm) — "armor-bearer" (participle + H3627)
 
+### Synonyms
+- **H1364 גָּבֹהַּ** — high; elevation/exaltation neighbor.
+- **H7311 רוּם** — rise, be high, exalt; the closest parallel in the "lift up/exalt" sense.
+- **H3680 כָּסָה** — cover; overlaps with H5375 in the guilt-removal / forgiveness extension.
+- **H5352 נָקָה** — be clean, acquit; overlaps in the acquittal / guilt-clearing field.
+- **H5545 סָלַח** — forgive, pardon; explicit pardon parallel.
+- **H5674 עָבַר** — pass over; overlaps in removal / pardon idioms.
+- **H6662 צַדִּיק** — righteous, innocent; surfaced through the innocence/acquittal domain.
+- **H1431 גָּדַל** — grow, become great; exaltation field.
+- **H6965 קוּם** — arise, stand up; upward-motion neighbor.
+- **H7287 רָדָה**, **H1993 הָמָה**, **H6670 צָהַל**, **H6681 צוּחַ**, **H7442 רָנַן** — secondary neighbors surfaced by `search_relationships.py` from the wider action/speech/exaltation domains.
+
+### Antonyms
+- **H8213 שָׁפֵל** — be low, be abased; direct opposite of the exaltation sense.
+- **H8217 שָׁפָל** — low, humble; opposite of the lifted/high state.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -142,6 +158,18 @@ A specialized idiom: nāśāʾ ʾet-rōʾš ("lift the head of") means to take a
 | סָבַל (çâbal) | H5445 | "shall bear," "bear" | çâbal emphasizes the heaviness/suffering of the load (Isa 46:4, 7); nāśāʾ is semantically neutral |
 | לָקַח (lâqach) | H3947 | "take," "take up" | lâqach = acquisition/receiving; nāśāʾ = raising/carrying something already held |
 | סָלַח (çâlach) | H5545 | "forgive," "pardon" | çâlach is exclusively divine forgiveness; nāśāʾ covers both bearing guilt AND removing it |
+
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 002001001033 | High | Covers the literal and figurative "lift up / exalt" range. |
+| 002003003003 | Bear | Captures carrying burdens, guilt, or responsibility. |
+| 002003001009 | Hold | Fits the "take up / hold aloft / carry in hand" uses. |
+| 002004001009013 | Vow | Reflects the oath idiom "lift the hand." |
+| 002002001012 | Move | Covers transport / taking up / carrying away. |
+
+`search_relationships.py` surfaced many secondary domains for H5375 because of its unusually broad semantic range, including acquittal/pardon and speech-related idioms; the five above are the clearest fits for the study's main usage clusters.
 
 ## LXX Mapping
 
@@ -158,7 +186,16 @@ A specialized idiom: nāśāʾ ʾet-rōʾš ("lift the head of") means to take a
 ## See Also
 
 - [TR-nasa-airo.md](TR-nasa-airo.md) — cross-testament trace: nāśāʾ → αἴρω → NT usage
+- [H3722-kaphar.md](H3722-kaphar.md) — atonement/covering study that references H5375 in the guilt-removal field
+- [H5771-avon.md](H5771-avon.md) — iniquity study; major collocation in "bear iniquity"
+- [H5799-azazel.md](H5799-azazel.md) — scapegoat study; bearing away sin imagery
+- [H6588-pesha.md](H6588-pesha.md) — transgression study; paired with H5375 in pardon formulas
+- [H7307-ruach.md](H7307-ruach.md) — spirit study referencing H5375 in lifting / bearing contexts
+- [H7311-ruwm.md](H7311-ruwm.md) — closely related "be high / exalt" study
+- [TR-laqach-lambano.md](TR-laqach-lambano.md) — related trace for the "take/receive" overlap field
+- [G2983-lambano.md](G2983-lambano.md) — Greek "receive/take" study linked through LXX overlap
+- [WG-high.md](WG-high.md) — word group covering the exaltation/highness cluster
 
 ---
-*Generated from: gather_word_data.py, BHSA Text-Fabric (verb stems), gather_trace_data.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, BHSA Text-Fabric (verb stems), gather_trace_data.py, search_relationships.py*
+*Last updated: 2026-04-27*

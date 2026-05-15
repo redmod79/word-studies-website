@@ -145,6 +145,20 @@ Human accumulation of power, wealth, or reputation; Qal or Hiphil.
 - **H1433 godel** — noun: greatness, magnitude, pride
 - **H4026 migdal** — noun: tower (something made tall/great); place name Migdol
 
+### Synonyms
+- **רבה** — near-neighbor in the field of becoming many / increasing.
+- **H3205 ילד** — bear, beget, bring forth; overlaps with the growth and child-rearing side of *gâdal*.
+- **H7311 רום** — be high, exalt; overlaps with exaltation / magnification uses.
+- **H1935 הֹוד** — splendor, majesty; adjacent to declarative magnification and honor language.
+- **H1926 הָדָר** — honor, majesty; another exaltation / glory neighbor.
+- **H6286 פאר** — beautify, glorify; overlaps where *gâdal* means magnify or make great in honor.
+- **H2388 חזק** — strengthen, be strong; related in increase / empowerment contexts.
+- **H6009 עמק** — a broader size/intensity-field neighbor returned by `search_relationships.py`.
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for H1431.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -152,6 +166,16 @@ Human accumulation of power, wealth, or reputation; Qal or Hiphil.
 | gadowl | H1419 | "great", "great things", "greater" | H1419 = adjective state ("a great nation"); H1431 = verbal process ("become/make great") |
 | rab | H7227 | "great" | rab = abundance in quantity or multitude; gadal = greatness in scope, rank, or prestige |
 | meod | H3966 | "great" (as intensifier) | meod is an adverb of degree ("very"); gadal expresses ontological or relational greatness |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002001001034] Large** — core growth / size field behind "become great."
+- **[002001002012] Great** — central greatness/magnification field; the clearest lexical domain for H1431.
+- **[002004001009009] Praise** — reflects the doxological uses ("magnify the LORD") already documented in Psalms and prophecy.
+- **[002004001009008] Speak** — secondary verbal domain, fitting how magnification is often expressed in proclamation and praise speech.
+- **[002001001056] Stage** — aligns with the verb's "grow up / bring up" life-stage usage.
+- **[002001003012] Intense** — broader overlap where H1431 carries an overflowing or surpassing sense.
 
 ## LXX Mapping
 
@@ -170,5 +194,5 @@ Human accumulation of power, wealth, or reputation; Qal or Hiphil.
 - [WG-greatness](WG-greatness.md) — word group: greatness cluster (gadal, gadowl, geduwlah, rab, megas)
 
 ---
-*Generated from: gather_word_data.py, hebrew_parser.py*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, hebrew_parser.py, search_relationships.py*
+*Last updated: 2026-04-27*

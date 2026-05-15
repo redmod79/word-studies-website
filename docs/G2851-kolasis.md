@@ -17,11 +17,15 @@ From G2849 (κολάζω); **penal infliction**: punishment, torment.
 
 *Outlined usage references:* Ezekiel 14:3 (LXX); Matthew 25:46; 1 John 4:18
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
+**Louw-Nida:**
 - **Domain:** 38 — Punish, Reward
 - **Subdomain:** 38.1 (038001) — Punish
 - **Other words in subdomain:** βασανίζω (G928), δίκη (G1349), διχοτομέω (G1371), ἐκδικέω (G1556), ἐκδίκησις (G1557), ἔκδικος (G1558), ἐπιτιμία (G2009), ζημιόω (G2210), κολάζω (G2849), κρίσις (G2920)
+
+**UBS Semantic Domains:**
+- **[038]** Punish, Reward
 
 ## Translation Distribution (KJV)
 
@@ -65,6 +69,12 @@ The painful, punishing character of fear that grips those not perfected in love;
 ### Word Family / Cognates
 - **G2849 κολάζω (kolazō)** — root verb: to curtail, chastise, punish. Acts 4:21 ("how they might punish them"); 2 Pet 2:9 ("to reserve the unjust unto the day of judgment to be punished"). Derived from κόλος (cut short, dwarfed) — original idea of pruning/curtailing.
 
+### Synonyms
+- **G5098 τιμωρία (timōria)** — punishment, retributive penalty; the closest lexical overlap returned by `search_relationships.py`
+
+### Antonyms
+- **G1342 δίκαιος (dikaios)** — righteous, just; the clearest moral opposite to the penal consequence encoded in κόλασις
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -96,8 +106,13 @@ The painful, punishing character of fear that grips those not perfected in love;
 
 ## See Also
 
-*(No TR/WG/EN files currently reference G2851. See [G2920-krisis](G2920-krisis.md) and [WG-judgment](WG-judgment.md) for the broader judgment/verdict word cluster.)*
+- [G2920-krisis.md](G2920-krisis.md) — judgment as process, closely paired with penal outcome
+- [G166-aionios.md](G166-aionios.md) — "everlasting" in Matt 25:46's key collocation
+- [G2222-zoe.md](G2222-zoe.md) — eternal life contrasted with eternal punishment
+- [H5771-avon.md](H5771-avon.md) — iniquity / punishment-of-iniquity background noted in the Hebrew-source bridge
+- [TR-avon-adikia.md](TR-avon-adikia.md) — cross-testament trace for the avon/adikia guilt-injustice field
+- [WG-judgment.md](WG-judgment.md) — broader judgment/verdict word cluster
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, louw_nida.db*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, search_strongs.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

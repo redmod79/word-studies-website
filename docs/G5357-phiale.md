@@ -23,6 +23,12 @@ Of uncertain affinity; a broad shallow cup ("phial"): — vial.
 - **Subdomain:** 6.16 — Containers
 - **Other words in subdomain:** ἀγγεῖον (G30, vessel), ἀλάβαστρος (G211, alabaster box), ἄντλημα (G502, draw-bucket), ἀσκός (G779, wineskin), βαλλάντιον (G905, purse), γαζοφυλάκιον (G1049, treasury), γλωσσόκομον (G1101, bag), θήκη (G2336, sheath), θησαυρός (G2344, treasure)
 
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 006 | Artifacts | `search_relationships.py` keeps *phialē* in the artifacts/container field, complementing the narrower Louw-Nida placement under ritual vessels and bowls. |
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -82,6 +88,14 @@ After the plagues, the same angels who carried the vials reveal visions to John 
 ### Word Family / Cognates
 No cognate family identified in the NT. The word is of uncertain affinity; no derived verb, adjective, or compound exists in the biblical text.
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G5357.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G5357.*
+
 ### Easily Confused Words (Containers in the NT)
 
 | Word | Strong's | Context | Key Difference |
@@ -116,8 +130,11 @@ No cognate family identified in the NT. The word is of uncertain affinity; no de
 - [TR-mizraq-phiale.md](TR-mizraq-phiale.md) — cross-testament trace: Hebrew sanctuary sprinkling bowls into Revelation's judgment vials
 - [G2368-thymiama.md](G2368-thymiama.md) — incense; the content of the first vial (Rev 5:8)
 - [G2372-thumos.md](G2372-thumos.md) — thumos (wrath/fury); the content of the seven judgment vials (Rev 15:7; 16:1)
+- [G1632-ekcheo.md](G1632-ekcheo.md) — pour out; the action repeatedly performed with the bowls in Revelation 16
+- [G3173-megas.md](G3173-megas.md) — great; a repeated descriptor in the vial-judgment scenes
+- [G721-arnion.md](G721-arnion.md) — the Lamb before whom the first golden bowls appear in Rev 5:8
 - [WG-wrath.md](WG-wrath.md) — wrath word group; the vials are the climactic vessel of divine wrath
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, gather_trace_data.py*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, greek_parser.py, search_relationships.py, gather_trace_data.py*
+*Last updated: 2026-04-28*

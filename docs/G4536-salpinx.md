@@ -20,6 +20,10 @@
 - **Domain:** 006.012 — Musical Instruments (within 006: Artifacts)
 - **Glosses:** trumpet | trumpet blast | trumpet sound
 
+### UBS Semantic Domains
+
+- **[006]** Artifacts
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -90,6 +94,14 @@ The seven trumpets given to angels in Revelation, each signaling a successive es
 
 All three words derive from the σαλπ- root and form a tight lexical family. See [WG-trumpet.md](WG-trumpet.md).
 
+### Synonyms
+
+- **G1071 γέλως** — listed by `search_relationships.py`
+
+### Antonyms
+
+- **G2805 κλαυθμός** — contrast term listed by `search_relationships.py`
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -122,7 +134,14 @@ The Greek σάλπιγξ conflates both distinct OT instruments in LXX translati
 ## See Also
 
 - [WG-trumpet.md](WG-trumpet.md) — word group: σάλπιγξ, σαλπίζω, σαλπιστής
+- [G4537-salpizo.md](G4537-salpizo.md)
+- [G3321-mesouranema.md](G3321-mesouranema.md)
+- [A7162-qeren.md](A7162-qeren.md)
+- [H7782-showphar.md](H7782-showphar.md)
+- [TR-showphar-salpinx.md](TR-showphar-salpinx.md)
+- [G3173-megas.md](G3173-megas.md)
+- [H8643-truwah.md](H8643-truwah.md)
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

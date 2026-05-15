@@ -23,6 +23,10 @@ Louw-Nida glosses: *to put into effect | to put into force | to establish*
 - **Subdomain:** 013003 — Exist
 - **Other words in domain:** ἀνακαινίζω (G0340), ἀνακαινόω (G0341), ἀναγεννάω (G0313), ἀναπαύω (G0373)
 
+## UBS Semantic Domains
+
+- **[013] Be, Become, Exist, Happen** — `search_relationships.py` places **ἐγκαινίζω** in the establishment / inauguration field, matching the verb's covenant-opening force in Hebrews.
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -79,6 +83,14 @@ All collocations are from just 2 verses (each at 1x / 50%). The consistent clust
 - **G0340 ἀνακαινίζω (anakainízō)** — to renew, restore (Heb 6:6) — re-inauguration; same domain (LN 013)
 - **G0341 ἀνακαινόω (anakainoō)** — to make new, renew inwardly (2 Cor 4:16; Col 3:10) — same root family
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G1457.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G1457.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -96,5 +108,5 @@ All collocations are from just 2 verses (each at 1x / 50%). The consistent clust
 **H2596 chânak** (Deut 20:5; 1 Kgs 8:63; 2 Chr 7:5; Prov 22:6) is the primary Hebrew cognate — the word used for dedicating a house, an altar, or the temple. The Greek enkainizō carries this inaugural/dedicatory sense into the NT. **H2318 châdash** (renew, rebuild) contributes the "newness" dimension of the word, aligning with its ἐν + καινός etymology.
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_strongs.py*  
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_strongs.py, search_relationships.py*  
+*Last updated: 2026-04-27*

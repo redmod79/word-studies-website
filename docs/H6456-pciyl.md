@@ -102,6 +102,18 @@ The collocations paint a clear picture: pesiyl appears overwhelmingly in destruc
 - **H6458 פָּסַל (pasal)** — root verb: to carve, hew (6 occurrences; used for hewing the stone tablets in Exod 34:1, 4; Deut 10:1, 3; and for idol-making in Hab 2:18)
 - **H6459 פֶּסֶל (pesel)** — sibling noun from same root: carved/graven image (31 occurrences). The more common form; appears in the Decalogue (Exod 20:4; Deut 5:8), Deuteronomy 27:15, and heavily in Isaiah 40-48
 
+### Synonyms
+
+- **אֲשֵׁרָה (H842)**
+- **הֶבֶל (H1892)**
+- **מַסֵּכָה (H4541)**
+- **מַצֵּבָה (H4676)**
+- **עָצָב (H6091)**
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for H6456.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -110,6 +122,13 @@ The collocations paint a clear picture: pesiyl appears overwhelmingly in destruc
 | מַסֵּכָה (massekah) | H4541 | "molten image" | Massekah = a cast/poured metal image; pesiyl = a carved image. Often paired as complementary terms (2 Chr 34:3-4; Isa 30:22) |
 | עָצָב (atsab) | H6091 | "idol" / "image" | Atsab emphasizes the crafted product of human labor; pesiyl emphasizes the carving/sculpting process. Atsab is Hosea/Psalms-heavy |
 | גִּלּוּלִים (gillulim) | H1544 | "idols" | Contemptuous Ezekiel term (from "dung pellet" or "log"); conveys repulsiveness. Pesiyl is more neutral, describing the manufacturing method |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+
+- **[001002008001010] Images** — the primary idolatrous-image field returned by `search_relationships.py`.
+- **[001002008001006] Cult Objects** — the broader cult-object field that groups pesiyl with other false-worship artifacts.
 
 ## LXX Mapping
 
@@ -124,8 +143,10 @@ The LXX primarily renders pesiyl as εἴδωλον (idol), the generic Greek te
 
 ## See Also
 
+- [H6459-pecel.md](H6459-pecel.md) — sibling noun from the same carving/idol root
 - [G1497-eidolon.md](G1497-eidolon.md) — Greek NT counterpart for idol terminology; maps to pesiyl via LXX
+- [WG-gravenimage.md](WG-gravenimage.md) — word group: graven image / OT idol vocabulary
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py*
-*Last updated: 2026-04-15*
+*Generated from: gather_word_data.py, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

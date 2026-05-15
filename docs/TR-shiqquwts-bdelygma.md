@@ -50,7 +50,7 @@ Library entry: [H8251-shiqquwts.md](H8251-shiqquwts.md)
 - **Rev 17:4** — "a golden cup in her hand full of abominations (bdelygma) and filthiness of her fornication"
 - **Rev 21:27** — "there shall in no wise enter into it any thing... whatsoever worketh abomination (bdelygma)"
 
-Library entry: TODO(need G946 study)
+Library entry: [G946-bdelygma.md](G946-bdelygma.md)
 
 ## Direct OT→NT Quotations
 

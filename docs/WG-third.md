@@ -12,7 +12,7 @@ The NT ordinal number cluster centers on **τρίτος** (third, G5154) and its
 | G1208 | δεύτερος | deúteros | adjective | 45 | Second — the middle ordinal; second chance, second death | TODO(need G1208 study) |
 | G5154 | τρίτος | trítos | adjective | 49 | Third — primary study word; carries "third day" resurrection formula and "third part" judgment fraction | [G5154-tritos.md](G5154-tritos.md) |
 | G5067 | τέταρτος | tétartos | adjective | 9 | Fourth — completes enumerated series; "fourth beast" in Revelation | TODO(need G5067 study) |
-| G2250 | ἡμέρα | hēméra | noun | 365 | Day — top collocation with τρίτος (17x); "the third day" is the resurrection-timing phrase | TODO(need G2250 study) |
+| G2250 | ἡμέρα | hēméra | noun | 365 | Day — top collocation with τρίτος (17x); "the third day" is the resurrection-timing phrase | [G2250-hemera.md](G2250-hemera.md) |
 | G1453 | ἐγείρω | egeírō | verb | 135 | Raise/arise — co-occurs with τρίτος + ἡμέρα in 7 resurrection prediction verses | TODO(need G1453 study) |
 
 ## Relationships

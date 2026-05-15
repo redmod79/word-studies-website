@@ -23,6 +23,11 @@ From πέλομαι (pelomai, "to bustle"); warfare (literally or figuratively; 
 - **Other words in 39.005:** ἀγών (G73), ἀγωνίζομαι (G75), ἄμαχος (G269), ἀνταγωνίζομαι (G464), διαμάχομαι (G1264), ἐπαγωνίζομαι (G1864), ἔρις (G2054), θεομάχος (G2314), θηριομαχέω (G2341), μάχαιρα (G3162)
 - **Other words in 55.002:** ἐγείρω (G1453), μάχαιρα (G3162), πολεμέω (G4170), ῥομφαία (G4501), στρατεία (G4752), στρατεύω (G4754), ὑπαντάω (G5221)
 
+### UBS Semantic Domains
+
+- **[039]** Hostility, Strife
+- **[055]** Military Activities
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -99,6 +104,14 @@ Revelation dominates with 9 of 18 tokens (50%), far exceeding any other book. Th
 ### Word Family / Cognates
 - **G4170 πολεμέω (polemeo)** — verb: to wage war, to fight (6x in NT)
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G4171.*
+
+### Antonyms
+
+- **G5198 ὑγιαίνω (hygiainō)** — returned by `search_relationships.py` as a contrast term
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -136,7 +149,13 @@ The overwhelming LXX source is H4421 milchamah (219 co-occurrences, PMI 32.66). 
 - [WG-war.md](WG-war.md) — word group: War / Armed Conflict
 - [WG-sword.md](WG-sword.md) — word group (related weapon vocabulary)
 - [G3528-nikao.md](G3528-nikao.md) — overcoming (outcome of war in Revelation)
+- [G1163-dei.md](G1163-dei.md) — necessity language in war prophecy
+- [G4501-rhomphaia.md](G4501-rhomphaia.md) — weapon vocabulary cross-reference
+- [G1404-drakon.md](G1404-drakon.md) — dragon-war cross-reference
+- [H1391-gibown.md](H1391-gibown.md) — referenced study cross-link
+- [G2462-hippos.md](G2462-hippos.md) — battle-horse imagery cross-reference
+- [G3162-machaira.md](G3162-machaira.md) — sword/warfare comparison term
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-10*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

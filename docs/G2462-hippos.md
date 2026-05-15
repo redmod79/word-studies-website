@@ -20,6 +20,10 @@ Of uncertain affinity; a horse.
 - **Domain:** 004 — Animals
 - **Other words in domain:** ἀρνίον (G721, lamb), θηρίον (G2342, beast), δράκων (G1404, dragon), ζῷον (G2226, living creature), λέων (G3023, lion), ἀετός (G105, eagle), ἀκρίς (G200, locust), πῶλος (G4454, colt), ὄνος (G3688, donkey)
 
+## UBS Semantic Domains
+
+- **[004] Animals** — `search_relationships.py` places G2462 in the general animal domain, matching its literal base sense even where Revelation loads it with symbolic force.
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -98,6 +102,15 @@ The dominant collocation is kathēmai (60%) — nearly every horse in Revelation
 
 ## Related Words
 
+### Synonyms
+
+- **G5131 τράγος (trágos)** — he-goat; surfaced by `search_relationships.py` as another animal-image term in apocalyptic/cultic imagery, though not a direct lexical equivalent of "horse."
+- **G1411 δύναμις (dýnamis)** — power / force; included by `search_relationships.py` as a symbolic associate of strength rather than a literal animal synonym.
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G2462.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -139,6 +152,13 @@ The primary Hebrew source is H5483 סוּס (sus), the standard OT word for hors
 
 The singular nominative dominates the seal visions (each horse introduced individually). Genitive plural dominates later chapters (horses as a group — their tails, their flesh, their bridles).
 
+## See Also
+
+- [G3022-leukos.md](G3022-leukos.md) — white imagery for the conquering and triumphant horses of Revelation
+- [G2226-zoon.md](G2226-zoon.md) — living-creature imagery in Revelation's symbolic world
+- [G1404-drakon.md](G1404-drakon.md) — dragon imagery in the same apocalyptic battle scenes
+- [G4171-polemos.md](G4171-polemos.md) — war / battle vocabulary tightly paired with horse imagery
+
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-15*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -22,6 +22,10 @@ Neuter singular of G5036 (ταχύς), used adverbially; shortly, i.e. without d
 - **Parent Domain:** 067 — Time
 - **Note:** The word occupies multiple subdomains because ταχύ can denote both the promptness of an action (relative timing) and the imminence of an event (duration-based imminence).
 
+### UBS Semantic Domains (search_relationships.py)
+
+- **[067] Time** — the broader semantic field for promptness and imminence.
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -96,6 +100,14 @@ Prompt settlement before a matter escalates; prompt response before opportunity 
 | ταχινός (tachinós) | G5031 | adjective | 2 | swift, impending (Petrine epistles) |
 | τάχιον (táchion) | G5032 | comparative adverb | 5 | more quickly, sooner |
 
+### Synonyms
+
+No separate synonym surfaced in `search_relationships.py`; the closest lexical parallels remain the other ταχύς-family forms already listed above.
+
+### Antonyms
+
+No antonym surfaced in `search_relationships.py`.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -115,5 +127,5 @@ No primary Hebrew source attested via LXX alignment for G5035 specifically. The 
 - [G5034-tachos.md](G5034-tachos.md) — τάχος, the noun form (ἐν τάχει idiom)
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-28*

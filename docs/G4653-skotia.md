@@ -15,14 +15,19 @@
 
 Dimness, obscurity (literally or figuratively). Feminine form derived from G4655 (skotos). Carries the same basic meaning but with a distinct distribution pattern favoring Johannine literature.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Domain 14.007:** Darkness — physical absence of light
-- **Domain 28.005:** Not Able To Be Known, Secret — darkness as hiddenness
-- **Domain 88.015:** Bad, Evil, Harmful, Damaging — moral darkness
-- **Other words in Darkness domain (14.007):** σκότος (G4655), σκοτεινός (G4652), σκοτίζω (G4654), ζόφος (G2217), νύξ (G3571), σκιά (G4639)
+**Louw-Nida:**
+- **14.007** — Darkness — physical absence of light
+- **28.005** — Not Able To Be Known, Secret — darkness as hiddenness
+- **88.015** — Bad, Evil, Harmful, Damaging — moral darkness
+- **Other words in 14.007:** σκότος (G4655), σκοτεινός (G4652), σκοτίζω (G4654), ζόφος (G2217), νύξ (G3571), σκιά (G4639)
+- **Note:** skotia appears in domain 28.005 (Secrecy/Hiddenness) where skotos does not — reflecting skotia's use for "in darkness" = "in secret" (Mat 10:27, Luk 12:3)
 
-Note: skotia appears in domain 28.005 (Secrecy/Hiddenness) where skotos does not — reflecting skotia's use for "in darkness" = "in secret" (Mat 10:27, Luk 12:3).
+**UBS Semantic Domains:**
+- **[014]** Physical Events and States
+- **[028]** Know
+- **[088]** Moral and Ethical Qualities and Related Behavior
 
 ## Translation Distribution (KJV)
 
@@ -105,6 +110,14 @@ The 75% co-occurrence with phos (light) is notably higher than skotos's 39%, con
 
 Key distinction: skotia is the Johannine term for the existential/dualistic opposition of darkness to light. Skotos is the Synoptic and Pauline term used more broadly for cosmic phenomena, evil domains, and eschatological punishment.
 
+### Synonyms
+
+*No synonyms were returned by `search_relationships.py` for G4653.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G4653.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -118,11 +131,14 @@ No direct Hebrew sources found for G4653 in the LXX mapping data. The LXX primar
 
 ## See Also
 
+- [G4639-skia.md](G4639-skia.md) — shadow; adjacent darkness/shadow field
 - [G4655-skotos.md](G4655-skotos.md) — the neuter form; broader NT darkness word
+- [G5457-phos.md](G5457-phos.md) — light; the dominant Johannine opposite of skotia
 - [G2217-zophos.md](G2217-zophos.md) — deep gloom/blackness
 - [TR-choshek-skotos.md](TR-choshek-skotos.md) — cross-testament trace for the cognate form
 - [WG-darkness.md](WG-darkness.md) — word group: darkness concept cluster
+- [WG-light.md](WG-light.md) — opposing light vocabulary cluster
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, louw_nida.db*
-*Last updated: 2026-04-13*
+*Generated from: gather_word_data.py, search_strongs.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-28*

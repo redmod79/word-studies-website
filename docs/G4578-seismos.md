@@ -21,6 +21,10 @@ From G4579 (seíō); a commotion, i.e. (of the air) a gale, (of the ground) an e
 - **Domain 014005:** Events Involving Liquids and Dry Masses (secondary — covers Matt 8:24 "tempest/storm")
 - **Domain 014:** Physical Events and States
 
+### UBS Semantic Domains
+
+- **[014]** Physical Events and States
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -98,6 +102,14 @@ Revelation's standard theophanic formula pairs seismós with φωνή (voices), 
 ### Word Family / Cognates
 - **G4579 σείω (seíō)** — root verb: to rock, vibrate, agitate; used of the earth shaking at the crucifixion (Matt 27:51), of the city being "moved" at Jesus' triumphal entry (Matt 21:10), and of the eschatological shaking in Heb 12:26
 
+### Synonyms
+
+- **G3709 ὀργή** — judgment-context synonym listed by `search_relationships.py`
+
+### Antonyms
+
+No direct antonyms surfaced by `search_relationships.py`.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -117,7 +129,13 @@ H7494 raʻash is the dominant LXX source word (PMI 10.23). The LXX consistently 
 ## See Also
 
 - [WG-earthquake.md](WG-earthquake.md) — word group: eschatological signs cluster (σεισμός, ἀστραπή, βροντή, φωνή, λιμός, λοιμός)
+- [G1484-ethnos.md](G1484-ethnos.md)
+- [G3709-orge.md](G3709-orge.md)
+- [G3031-libanotos.md](G3031-libanotos.md)
+- [G1027-bronte.md](G1027-bronte.md)
+- [G5464-chalaza.md](G5464-chalaza.md)
+- [G455-anoigo.md](G455-anoigo.md)
 
 ---
-*Generated from: gather_word_data.py, gather_word_group_data.py, search_strongs.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, gather_word_group_data.py, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -22,6 +22,9 @@ From πόρνη (pornē); to act the harlot, i.e. (literally) indulge unlawful l
 - **Broader Domain:** 088 — Moral and Ethical Qualities and Related Behavior
 - **Other words in subdomain:** ἀρσενοκοίτης (G733), ἀσέλγεια (G766), ἐκπορνεύω (G1608), κοίτη (G2845), μαλακός (G3120), μοιχαλίς (G3428), μοιχάω (G3429), μοιχεία (G3430), μοιχεύω (G3431)
 
+**UBS Semantic Domains:**
+- **[088]** Moral and Ethical Qualities and Related Behavior
+
 ## Greek Morphological Distribution
 
 | Form | Parsing | Count | Verses |
@@ -96,6 +99,14 @@ In the Babylon judgment chapters, porneuō describes the complicity of the "king
 - **G4205 πόρνος (pornos)** — masculine noun: fornicator, whoremonger (10 vv)
 - **G1608 ἐκπορνεύω (ekporneuō)** — compound verb: give oneself wholly to fornication (1 v; Jude 7)
 
+### Synonyms
+
+*No distinct synonyms were returned by `search_relationships.py` for G4203 beyond the cognate family already listed above.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G4203.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -130,8 +141,12 @@ The primary Hebrew bridge is H2181 zanah (to commit harlotry). The LXX translato
 ## See Also
 
 - [G4202-porneia.md](G4202-porneia.md) — cognate noun: fornication
+- [G4204-porne.md](G4204-porne.md) — cognate feminine noun: harlot
+- [G4205-pornos.md](G4205-pornos.md) — cognate masculine noun: fornicator
+- [TR-zanah-porne.md](TR-zanah-porne.md) — cross-testament trace: zanah into the πόρνη / πορνεύω family
+- [G3631-oinos.md](G3631-oinos.md) — wine; Babylon's fornication imagery
 - [WG-fornication.md](WG-fornication.md) — word group: πορνεία, πορνεύω, πόρνη, πόρνος, μοιχεία, ἀκαθαρσία, ἀσέλγεια
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-08*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

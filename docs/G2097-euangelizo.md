@@ -15,11 +15,15 @@
 
 From εὖ and ἀγγέλλω; to announce good news ("evangelize"), especially the gospel.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Domain:** 33.015 — Inform, Announce
-- **Parent Domain:** 33 — Communication
-- **Other words in subdomain:** ἀγγελία (G31), ἄγγελος (G32), ἀκοή (G189), ἀκούω (G191), ἀναγγέλλω (G312), ἀπαγγέλλω (G518), ἀπόστολος (G652), διαγγέλλω (G1229)
+**Louw-Nida:**
+- **33.015** — Inform, Announce
+
+Other words in 33.015: ἀγγελία (G31), ἄγγελος (G32), ἀκοή (G189), ἀκούω (G191), ἀναγγέλλω (G312), ἀπαγγέλλω (G518), ἀπόστολος (G652), διαγγέλλω (G1229)
+
+**UBS Semantic Domains:**
+- **[033]** Communication
 
 ## Voice Distribution
 
@@ -128,6 +132,12 @@ Heaviest concentration in Galatians (Paul defending the content of his gospel me
 - **G2099 εὐαγγελιστής (euangelistes)** — evangelist, gospel-proclaimer (noun, 3 vv)
 - **G4283 προευαγγελίζομαι (proeuangelizomai)** — to preach the gospel beforehand (verb, 1 v — Gal 3:8)
 
+### Synonyms
+- **G518 ἀπαγγέλλω (apangello)** — announce, report
+
+### Antonyms
+- No direct antonyms surfaced from `search_relationships.py` for this lemma.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -163,7 +173,10 @@ H1319 basar is the dominant Hebrew source (18 of 21 OT uses map to euangelizo in
 - [G2098-euangelion.md](G2098-euangelion.md) — the noun cognate (gospel/good news)
 - [TR-basar-euangelizo.md](TR-basar-euangelizo.md) — cross-testament trace: H1319 basar -> G2097
 - [WG-gospel.md](WG-gospel.md) — gospel concept word group
+- [H1319-basar.md](H1319-basar.md)
+- [G2782-kerygma.md](G2782-kerygma.md)
+- [G4283-proeuangelizomai.md](G4283-proeuangelizomai.md)
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py (--hebrew-source)*
-*Last updated: 2026-04-13*
+*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py (--hebrew-source), search_relationships.py*
+*Last updated: 2026-04-27*

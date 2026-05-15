@@ -21,6 +21,10 @@ Of uncertain affinity; **smoke** — the visible gas produced by combustion. Use
 - **Subdomain:** 1.5 — Atmospheric Objects
 - **Other words in subdomain:** ἀτμίς (G822, vapor/mist), ἶρις (G2463, rainbow), νεφέλη (G3507, cloud)
 
+## UBS Semantic Domains
+
+- **[001] Geographical Objects and Features** — UBS likewise classifies καπνός as a concrete atmospheric feature rather than an abstract metaphor word.
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -88,6 +92,12 @@ No direct Greek cognates in the NT. Hebrew source word family:
 - **H6225 עָשַׁן (ʻâshan)** — the verb: to smoke, emit smoke
 - **H6227 עָשָׁן (ʻâshân)** — the noun: smoke (primary OT equivalent via LXX)
 
+### Synonyms
+No direct curated synonyms returned by `search_relationships.py`.
+
+### Antonyms
+No direct curated antonyms returned by `search_relationships.py`.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -109,7 +119,10 @@ No direct Greek cognates in the NT. Hebrew source word family:
 
 - [TR-ashan-kapnos.md](TR-ashan-kapnos.md) — cross-testament trace: עָשָׁן (H6227) → καπνός
 - [WG-smoke.md](WG-smoke.md) — word group: smoke, fire, brimstone, burning
+- [G4442-pyr.md](G4442-pyr.md) — πῦρ (pŷr)
+- [H5927-alah.md](H5927-alah.md) — עָלָה (ʻâlâh)
+- [G444-anthropos.md](G444-anthropos.md) — ἄνθρωπος (anthrōpos)
 
 ---
-*Generated from: gather_word_data.py, gather_trace_data.py, gather_word_group_data.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, gather_trace_data.py, gather_word_group_data.py, search_relationships.py*
+*Last updated: 2026-04-27*

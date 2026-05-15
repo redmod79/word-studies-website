@@ -120,6 +120,27 @@ tsedeq used prophetically for the coming righteous king and the restoration of r
 | צְדָקָה (tsedaqah) | H6666 | fem. noun | righteousness, righteous act, justice |
 | צַדִּיק (tsaddiq) | H6662 | adjective | just, righteous (person) |
 
+### Synonyms
+
+`search_relationships.py` returns a broad semantic neighborhood for this noun; the closest lexical neighbors include:
+
+- **H4941 מִשְׁפָּט (mishpat)** — justice, judgment; the noun most constantly paired with *tsedeq*.
+- **H530 אֱמוּנָה (emunah)** and **H571 אֶמֶת (emeth)** — faithfulness / truth; ethical-rightness neighbors in covenant and wisdom contexts.
+- **H3477 יָשָׁר (yashar)**, **H4334 מִישׁוֹר (mishor)**, **H4339 מֵישָׁר (meyshar)**, and **H8537 תֹּם (tom)** — uprightness / equity / straightness cluster.
+- **H8003 שָׁלֵם (shalem)** — completeness, wholeness, peaceable soundness; a neighboring "rightness/wholeness" term.
+- **H2617 חֶסֶד (chesed)** and **H6037 עַנְוָה (anavah)** — kindness / meekness; related ethical virtues in the same moral field.
+- **H3444 יְשׁוּעָה (yeshuah)** and **H3468 יֶשַׁע (yesha')** — deliverance / salvation; frequent outcomes or companions of God's righteousness.
+- **H3519 כָּבוֹד (kabod)** — glory / honor; surfaced by the relationship tool as part of the wider honor-rightness field.
+
+### Antonyms
+
+*`search_relationships.py` returns a broad contrastive set here; the clearest opposites are direct injustice/crookedness terms, with one looser contrastive neighbor retained as returned by the tool.*
+
+- **H5766 עֶוֶל (evel)** and **H7562 רֶשַׁע (resha')** — injustice / wickedness; direct moral opposites to *tsedeq*.
+- **H4820 מִרְמָה (mirmah)** — deceit, fraud; opposite to the truth and equity side of *tsedeq*.
+- **H6141 עִקֵּשׁ (iqqesh)** and **H6617 פָּתַל (pathal)** — crooked / tortuous; direct opposites to straightness and uprightness.
+- **H539 אָמַן (aman)** — retained as returned by `search_relationships.py`; here it functions as a broader contrastive neighbor rather than a clean antonym.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -127,6 +148,12 @@ tsedeq used prophetically for the coming righteous king and the restoration of r
 | צְדָקָה (tsedaqah) | H6666 | righteousness, justice | Same root, feminine form; tsedaqah tends toward concrete righteous acts or beneficence; tsedeq is the abstract standard or norm of rightness. Both share nearly all KJV translations. |
 | מִשְׁפָּט (mishpat) | H4941 | justice, judgment | mishpat is the verdict or judicial process; tsedeq is the ethical norm against which the verdict is measured. They nearly always appear together. |
 | צַדִּיק (tsaddiq) | H6662 | just, righteous | tsaddiq is the adjectival form — describing a righteous person; tsedeq is the abstract noun — the quality or standard of righteousness. |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002001001029] Good** — places *tsedeq* within the broader field of moral goodness and rightness.
+- **[002001003014] Right** — centers the straight/right/equitable sense of the noun.
 
 ## LXX Mapping
 
@@ -147,7 +174,14 @@ tsedeq used prophetically for the coming righteous king and the restoration of r
 - [TR-mishpat-krima.md](TR-mishpat-krima.md) — trace of tsedeq's constant pair: mishpat → krima
 - [WG-hebrew-righteousness.md](WG-hebrew-righteousness.md) — word group: Hebrew righteousness cluster
 - [WG-righteousness.md](WG-righteousness.md) — word group: righteousness (cross-testament)
+- [TR-emeth-aletheia.md](TR-emeth-aletheia.md) — related truth trace surfaced by relationship overlap
+- [H6663-tsadaq.md](H6663-tsadaq.md) — cognate root verb
+- [H4941-mishpat.md](H4941-mishpat.md) — primary משפט pair in the justice field
+- [H8199-shaphat.md](H8199-shaphat.md) — judge / rule verb closely paired with tsedeq
+- [TR-shaphat-krino.md](TR-shaphat-krino.md) — cross-testament trace for the shaphat judicial cluster
+- [G1342-dikaios.md](G1342-dikaios.md) — Greek adjective in the same δικ- family
+- [G1343-dikaiosyne.md](G1343-dikaiosyne.md) — primary Greek noun counterpart
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, gather_trace_data.py, kjv.txt*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, search_strongs.py, gather_trace_data.py, kjv.txt, search_relationships.py*
+*Last updated: 2026-04-27*

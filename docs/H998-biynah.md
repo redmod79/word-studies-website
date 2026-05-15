@@ -101,6 +101,15 @@ Heavily concentrated in wisdom literature (Proverbs, Job = 23 of 38 verses, 61%)
 - **H995 בִּין (biyn)** — root verb: to separate mentally, discern, understand, consider
 - **H8394 תָּבוּן (tabuwn)** — related noun from same root: intelligence, understanding, reason
 
+### Synonyms
+- **H3948 לֶקַח (leqach)** — received teaching or instruction closely paired with understanding.
+- **H4148 מוּסָר (muwcar)** — instruction or discipline as the training context for understanding.
+- **H6097 עֵצָה ('etsah)** — counsel within the same discernment field.
+- **H8454 תּוּשִׁיָּה (tushiyyah)** — sound wisdom or resourcefulness allied to understanding.
+
+### Antonyms
+- **H6612 פֶּתִי (pethiy)** — the simple or naive person, set opposite to mature discernment.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -110,6 +119,11 @@ Heavily concentrated in wisdom literature (Proverbs, Job = 23 of 38 verses, 61%)
 | לֵב (leb) | H3820 | "understanding" (5v) | leb = heart/mind as organ of thought; biynah = the quality of comprehension |
 | בִּין (biyn) | H995 | "understanding" (5v) | biyn = the verb "to understand/discern"; biynah = the noun, the capacity itself |
 | שׇׂכְלְתָנוּ (soklethanuw) | H7924 | "and understanding" (3v) | Aramaic equivalent of sekel; appears only in Daniel's Aramaic sections |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002004002007] Know** — other words: אוה (H183), אוה (H184), אֹות (H226), אַחֲוָה (H262), אַחֲוָה (H264), אלף (H502).
 
 ## LXX Mapping
 
@@ -125,5 +139,5 @@ Heavily concentrated in wisdom literature (Proverbs, Job = 23 of 38 verses, 61%)
 - [WG-wise.md](WG-wise.md) — wisdom and insight word group (covers H995 biyn root verb, H7919 sakal, H2450 chakam)
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py*
-*Last updated: 2026-04-11*
+*Generated from: gather_word_data.py, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

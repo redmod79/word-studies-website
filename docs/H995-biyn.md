@@ -134,6 +134,30 @@ Directing attention toward something; the opposite is failing to attend.
 - **H999 בִּינָה (biynah)** — Aramaic cognate of H998 (appears in Daniel Aramaic sections)
 - **H8394 תָּבוּן (tabuwn)** — masculine noun from same root: understanding, intelligence, discretion (42x)
 
+### Synonyms
+- **H2450 חָכָם (chakam)** — overlaps with biyn in the wisdom/discernment field.
+- **H3045 יָדַע (yada)** — overlaps where discernment leads to knowledge.
+- **מָצָא דַּעַת** — idiom listed by `search_relationships.py` within the knowledge field.
+- **H238 אָזַן (azan)** — attentive weighing or listening in order to discern.
+- **H2142 זָכַר (zakar)** — reflective recall grouped with discernment by `search_relationships.py`.
+- **H7200 רָאָה (raah)** — perception language that overlaps with mental seeing.
+- **H7919 שָׂכַל (sakal)** — prudent insight with practical success.
+- **H7592 שָׁאַל (shaal)** — inquiry as a path toward understanding.
+- **H8085 שָׁמַע (shama)** — hearing that moves into comprehension.
+- **H3384 יָרָה (yarah)** — instruction that produces understanding.
+- **H3925 לָמַד (lamad)** — learning and training in wisdom.
+- **H5336 נָצַר (natsar)** — attentive guarding of wisdom.
+- **H5437 סָבַב (sabab)** — reflective turning or considering, as grouped by `search_relationships.py`.
+
+### Antonyms
+- **H191 אֱוִיל (eviyl)** — folly term opposed to discernment in the wisdom field.
+- **חֲסַר־לֵב** — "lacking heart," the non-discerning person in wisdom discourse.
+- **H3684 כְּסִיל (kesil)** — stubborn folly set over against prudent understanding.
+- **H3887 לִיץ (liyts)** — scoffing posture that resists instruction.
+- **H5530 סָכָל (cakal)** — foolishness returned by `search_relationships.py` as an opposing wisdom term.
+- **H8527 תַּלְמִיד (talmiyd)** — included by `search_relationships.py` in its opposing set for this wisdom cluster.
+- **H6030 עָנָה ('anah)** — included by `search_relationships.py` in its opposing set for this wisdom cluster.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -143,6 +167,13 @@ Directing attention toward something; the opposite is failing to attend.
 | שָׁמַע (shama) | H8085 | "understand," "perceive" | shama is primarily hearing/obeying; overlaps with biyn only when hearing leads to comprehension |
 | בִּינָה (biynah) | H998 | "understanding" | biynah is the noun (the faculty/result); biyn is the verb (the act of understanding) |
 | חָכָם (chakam) | H2450 | "wise," "prudent" | chakam is broad practical wisdom/skill; biyn is specifically analytical mental discernment |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002001002029] Wise** — other words: אחז (H270), אשׁר (H833), בוא (H935), דַּעַת (H1847), זִכָּרוֹון (H2146), זָקֵן (H2205).
+- **[002004002007] Know** — other words: אוה (H183), אוה (H184), אֹות (H226), אַחֲוָה (H262), אַחֲוָה (H264), אלף (H502).
+- **[002003003019] Safe** — other words: אָב (H1), אסף (H622), אֲרוּכָה (H724), בוא (H935), גְּאוּלִים (H1350), גאל (H1350).
 
 ## LXX Mapping
 
@@ -167,5 +198,5 @@ Directing attention toward something; the opposite is failing to attend.
 - [H998-biynah.md](H998-biynah.md) — nominal cognate
 
 ---
-*Generated from: gather_word_data.py, hebrew_parser.py, search_strongs.py (--lxx-map)*
-*Last updated: 2026-04-11*
+*Generated from: gather_word_data.py, hebrew_parser.py, search_strongs.py (--lxx-map), search_relationships.py*
+*Last updated: 2026-04-27*

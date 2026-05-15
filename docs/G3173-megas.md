@@ -14,14 +14,24 @@
 
 Including the prolonged forms: feminine μεγάλη (megalē), plural μεγάλοι (megaloi), etc. Big (literally or figuratively, in a very wide application): great, high, large, loud, mighty, strong.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
+**Louw-Nida:**
 - **Domain 79.28:** Large, Small — primary domain for physical/metaphorical size
 - **Other words in subdomain:** ἐλάχιστος (G1646), ἡλίκος (G2245), μεγαλύνω (G3170), μικρός (G3398), πηλίκος (G4080), τηλικοῦτος (G5082)
 - **Domain 78.1:** Much, Little (Positive-Negative Degree)
 - **Domain 87.3:** High Status or Rank
 - **Domain 65.6:** Important, Unimportant
 - **Domain 25.20:** Surprise, Astonish
+
+**UBS Semantic Domains:**
+- **[059]** Quantity
+- **[078]** Degree
+- **[079]** Features of Objects
+- **[087]** Status
+- **[025]** Attitudes and Emotions
+- **[067]** Time
+- **[065]** Value
 
 ## Translation Distribution (KJV)
 
@@ -123,6 +133,20 @@ The collocation μέγας + φωνή ("loud voice") accounts for ~33 verses —
 - **G3176 μέγιστος (megistos)** — greatest (superlative)
 - **G3167 μεγαλεῖος (megaleios)** — magnificent, great things
 
+### Synonyms
+- **G2478 ἰσχυρός (ischyrós)** — strong, mighty
+- **G1210 δέω (déō)** — bind, constrain
+- **G5312 ὑψόω (hupsóō)** — exalt, lift up
+- **G2427 ἱκανόω (hikanóō)** — make able, qualify
+- **G1415 δυνατός (dynatós)** — mighty, powerful, able
+- **G4116 πλατύς (platýs)** — broad, wide
+- **G4129 πληθύνω (plēthýnō)** — increase, multiply
+
+### Antonyms
+- **G3398 μικρός (mikrós)** — small, little
+- **G4434 πτωχός (ptōchós)** — poor, needy
+- **G4728 στενός (stenós)** — narrow, strait
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -159,11 +183,18 @@ The primary Hebrew equivalent is גָּדוֹל (gadol, H1419) with 415 LXX co-o
 
 ## See Also
 
+- [G2372-thumos.md](G2372-thumos.md) — related intensity study
+- [G3709-orge.md](G3709-orge.md) — related wrath/judgment study
+- [G3466-mysterion.md](G3466-mysterion.md) — related apocalyptic-scale study
+- [G4536-salpinx.md](G4536-salpinx.md) — related apocalyptic trumpet study
+- [G4537-salpizo.md](G4537-salpizo.md) — related trumpet-sounding study
+- [G5357-phiale.md](G5357-phiale.md) — related apocalyptic-bowl study
+- [G1238-diadema.md](G1238-diadema.md) — related royal-greatness study
 - [TR-gadowl-megas.md](TR-gadowl-megas.md) — cross-testament trace: gadol → megas (primary bridge)
 - [TR-gadal-megaluno.md](TR-gadal-megaluno.md) — cross-testament trace: gadal → megalynō (verb cognate)
 - [TR-gadal-megalyno.md](TR-gadal-megalyno.md) — cross-testament trace variant
 - [WG-greatness.md](WG-greatness.md) — Hebrew word group for greatness/magnitude
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, louw_nida.db*
-*Last updated: 2026-04-08*
+*Generated from: gather_word_data.py, search_strongs.py, search_relationships.py, louw_nida.db*
+*Last updated: 2026-04-27*

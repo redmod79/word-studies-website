@@ -104,6 +104,14 @@ One occurrence applies to personal bereavement rather than mass death.
 - **H5062 נָגַף (nagaph)** — root verb: to push, gore, strike, plague (49 occurrences). The maggephah is the result-noun of this action.
 - **H5063 נֶגֶף (negeph)** — masculine noun from same root: a trip, stumbling, infliction of disease (7 occurrences). Narrower: focused on "stumbling" and the striking-event itself.
 
+### Synonyms
+
+No synonyms were returned by `search_relationships.py` for H4046.
+
+### Antonyms
+
+No antonyms were returned by `search_relationships.py` for H4046.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -123,11 +131,16 @@ One occurrence applies to personal bereavement rather than mass death.
 
 The primary LXX equivalent is G4127 πληγή (plege), which is also the dominant NT word for divine plagues (especially in Revelation).
 
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002001001024] Impact** — `search_relationships.py` places *maggephah* in the strike/blow field, alongside neighbors such as **H76 אֲבַעְבֻּעָה**, **H402 אָכְלָה**, **H779 ארר**, **H816 אשׁם**, **H919 בֶּדֶק**, and **H933 בֹּהַק**.
+
 ## See Also
 
 - [G4127-plege.md](G4127-plege.md) — Greek equivalent (LXX primary rendering)
 - [WG-plagues.md](WG-plagues.md) — Word group: Plagues, Stripes, Wounds (Greek NT side)
 
 ---
-*Generated from: gather_word_data.py H4046*
-*Last updated: 2026-04-08*
+*Generated from: gather_word_data.py H4046, search_relationships.py*
+*Last updated: 2026-04-27*

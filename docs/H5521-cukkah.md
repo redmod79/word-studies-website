@@ -109,6 +109,17 @@ A sukkah as a figure for something abandoned, collapsing, or fallen — the oppo
 - **H5520 סֹךְ (sok)** — root noun (masculine): a thicket, lair, covert; the parent word from which sukkah is derived. 4x in OT (Ps 10:9; 27:5; 31:21; 76:3). More often refers to a natural concealment (animal den, undergrowth) while sukkah refers to a constructed shelter.
 - **H5523 סֻכּוֹת (Sukkoth)** — proper name (plural of sukkah): "Booths"; the place Jacob named after building sukkot (Gen 33:17); also a wilderness camp site (Num 33:5–6). Named directly from this word.
 
+### Synonyms
+- **בַּיִת (H1004)**
+- **אֹהֶל (H168)**
+- **מָלֹון (H4411)**
+
+### Antonyms
+No antonyms returned by `search_relationships.py`.
+
+### Semantic Domains
+- **[001002009009] Tents** — Other words: אֹהֶל (H168), אֹהֶל (H169), אַפֶּדֶן (H643), דֹּור (H1755), דֹּור (H1756), וָו (H2053)
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -132,10 +143,11 @@ A sukkah as a figure for something abandoned, collapsing, or fallen — the oppo
 
 - [TR-cukkah-skene.md](TR-cukkah-skene.md) — cross-testament trace: sukkah → σκηνή → NT tabernacle theology
 - [WG-tabernacle.md](WG-tabernacle.md) — word group: tabernacle / tent-dwelling concept cluster
+- [H2282-chag.md](H2282-chag.md) — festival collocate: חַג (chag), especially in Feast of Tabernacles contexts
 - [G4633-skene.md](G4633-skene.md) — Greek counterpart: σκηνή (skēnē)
 - [H7931-shakan.md](H7931-shakan.md) — related concept: שָׁכַן (shākan) "to dwell/encamp"
 - [TR-shakan-kataskenoo.md](TR-shakan-kataskenoo.md) — trace: shākan → κατασκηνόω → NT
 
 ---
-*Generated from: gather_word_data.py, gather_trace_data.py, kjv.txt*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, gather_trace_data.py, search_relationships.py, kjv.txt*
+*Last updated: 2026-04-27*

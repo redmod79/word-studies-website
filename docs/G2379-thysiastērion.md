@@ -15,11 +15,17 @@
 
 From a derivative of G2380 (θύω); a place of sacrifice, i.e. an altar. The word literally means "a place for slaughtering/sacrificing." Unlike G1041 (βωμός), which is the generic Greek term for any altar, θυσιαστήριον is used exclusively in biblical Greek for the altar of the true God (both earthly and heavenly).
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Domain:** 6.115 — Furniture (within 6 — Artifacts)
-- **Glosses:** altar
-- **Other words in domain:** βωμός (bōmos, altar/pagan), θρόνος (thronos, throne), θυμιατήριον (thymiatērion, incense altar)
+**Louw-Nida:**
+- **6.115** — Furniture (within 6 — Artifacts)
+
+Glosses: altar
+
+Other words in domain: βωμός (bōmos, altar/pagan), θρόνος (thronos, throne), θυμιατήριον (thymiatērion, incense altar)
+
+**UBS Semantic Domains:**
+- **[006]** Artifacts
 
 ## Translation Distribution (KJV)
 
@@ -98,6 +104,14 @@ Heavy concentration in Revelation (36% of all uses), where it refers to the heav
 - **G2378 θυσία (thysía)** — sacrifice, the act or victim (29x) — the offering placed on the altar
 - **G2374 θύρα (thyra)** — door (39x) — unrelated despite surface similarity (different root)
 
+### Synonyms
+
+*`search_relationships.py` surfaced loose study-neighbor matches rather than usable lexical synonyms for G2379, so no true synonyms are listed here.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G2379.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -117,8 +131,17 @@ The LXX consistently renders H4196 (mizbêach) as θυσιαστήριον, maki
 
 ## See Also
 
+- [G2378-thysia.md](G2378-thysia.md) — sacrifice; the offering placed on the altar
+- [G2368-thymiama.md](G2368-thymiama.md) — incense; offered on the golden altar in Luke and Revelation
+- [H7004-qtoreth.md](H7004-qtoreth.md) — Hebrew incense noun linked to altar service
+- [H5930-olah.md](H5930-olah.md) — burnt offering; principal altar offering
+- [G2362-thronos.md](G2362-thronos.md) — throne; the heavenly altar stands before God's throne in Revelation
+- [G2316-theos.md](G2316-theos.md) — God; altar-before-God sanctuary scenes
+- [G3031-libanotos.md](G3031-libanotos.md) — frankincense; related incense vocabulary
+- [TR-olah-holokautoma.md](TR-olah-holokautoma.md) — burnt-offering trace; sacrificial-system background
+- [TR-shachat-sphazo.md](TR-shachat-sphazo.md) — slay/corrupt trace; martyrdom and sacrificial-death imagery
 - [WG-altar.md](WG-altar.md) — word group: altar and sacrifice concept cluster
 
 ---
-*Generated from: search_strongs.py, greek_parser.py, louw_nida.db, strongs_translations.db*
-*Last updated: 2026-03-31*
+*Generated from: search_strongs.py, greek_parser.py, louw_nida.db, strongs_translations.db, search_relationships.py*
+*Last updated: 2026-04-27*

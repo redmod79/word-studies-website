@@ -38,6 +38,19 @@ Two primary domains (word appears in multiple):
 - **Domain 059.004 — Full, Empty:** Physical/metaphorical fullness. Related: γεμίζω (G1072), γέμω (G1073), μεστός (G3324), πίμπλημι (G4130a), πλήρης (G4134), πλήρωμα (G4138)
 - **Domain 068.003 — Complete, Finish, Succeed:** Prophetic or task completion. Related: ἀναπληρόω (G0378), ἐπιτελέω (G2005), πληροφορέω (G4135), συντελέω (G4931)
 
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 059 | Quantity | Covers literal or metaphorical filling/fullness. |
+| 068 | Aspect | Covers completion, fulfillment, and bringing a process to its intended end. |
+| 035 | Help, Care For | Fits supply/provision uses where what is lacking is fully furnished. |
+| 033 | Communication | Fits passages where words, Scripture, or proclamation are brought to their full effect. |
+| 013 | Be, Become, Exist, Happen | Fits temporal/eventive uses where days, years, or events "come to pass" in fullness. |
+| 030 | Think | Fits mental/spiritual fullness: knowledge, joy, or inward states brought to completion. |
+| 067 | Time | Captures appointed periods being filled up or reaching completion. |
+| 078 | Degree | Captures movement toward full measure, abundance, or completeness. |
+
 ## Translation Distribution (KJV)
 
 | Translation Group | Verses | % |
@@ -140,6 +153,23 @@ Christ as the one who fills all things; believers as complete or fully supplied 
 - **G4322 προσαναπληρόω (prosanaplēróō)** — to supply additionally, fully furnish (compound)
 - **G4135 πληροφορέω (plērophoréō)** — to fully persuade, fully assure (compound)
 
+### Synonyms
+
+*The relationship tool returns broad domain-neighbors here as well as close fill/fulfill parallels, reflecting πληρόω's unusually wide semantic range.*
+
+- **G837 αὐξάνω (auxanō)** — increase, grow; overlaps where something rises toward fullness.
+- **G2407 ἱερατεύω (hierateuō)** — serve as priest; overlaps in the sense of fully discharging an office or appointed role.
+- **G2062 ἑρπετόν (herpeton)** — creeping thing; a domain-neighbor from creation "fill/teem" contexts rather than a direct lexical synonym.
+- **G3184 μεθύω (methyō)** — be drunk; overlaps with the filled/full state, especially in contrast passages such as Eph 5:18.
+- **G5526 χορτάζω (chortazō)** — satisfy, fill with food; the nearest concrete parallel for being filled to fullness.
+
+### Antonyms
+
+- **G5579 ψεῦδος (pseudos)** — falsehood; contrasts realized fulfillment with what is false or untrue.
+- **G3310 μερίς (meris)** — portion, share; opposes the idea of fullness by marking only a part.
+- **G1266 διαμερίζω (diamerizō)** — divide, distribute; contrasts completion/fullness with division into parts.
+- **G3132 μαντεύομαι (manteuomai)** — practice divination; returned as a domain-opposite by `search_relationships.py`, contrasting pagan oracular speech with true prophetic fulfillment.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -163,9 +193,18 @@ Primary Hebrew root: H4390 מָלֵא dominates (PMI 6.17, 62 co-occurrences). T
 
 ## See Also
 
+- [H4390-male.md](H4390-male.md) — מָלֵא; primary Hebrew source in the LXX bridge
+- [G5055-teleo.md](G5055-teleo.md) — τελέω; complete, finish, bring to fulfillment
+- [G5056-telos.md](G5056-telos.md) — τέλος; end, goal, consummation
+- [G3551-nomos.md](G3551-nomos.md) — νόμος; πληρόω often appears in law-fulfillment contexts
+- [G3182-methysko.md](G3182-methysko.md) — μεθύσκω; contrast passage for being filled with wine versus the Spirit
+- [G5479-chara.md](G5479-chara.md) — χαρά; Johannine "joy made full" pattern
 - [TR-male-pleroo.md](TR-male-pleroo.md) — cross-testament trace: H4390 (male) to G4137 (pleroo), 62 LXX co-occurrences
+- [G4931-synteleo.md](G4931-synteleo.md) — συντελέω; bring entirely to completion
+- [G2005-epiteleo.md](G2005-epiteleo.md) — ἐπιτελέω; finish, bring to full completion
+- [G5048-teleioo.md](G5048-teleioo.md) — τελειόω; complete, perfect, bring to the intended end
 - [WG-fulfillment.md](WG-fulfillment.md) — word group: pleroo, pleroma, pleres, teleioo, synteleo
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, kjv.txt*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, greek_parser.py, kjv.txt, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -15,12 +15,19 @@
 
 A primary verb; to stay (in a given place, state, relation or expectancy).
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
+
+**Louw-Nida:**
 
 - **Domain 85.55:** Existence in Space > Remain, Stay
 - **Domain 13.89:** Be, Become, Exist, Happen > Exist
 - **Domain 68.11:** Aspect > Continue
 - **Other words in 85.55 (Remain, Stay):** ἀγραυλέω (G63), ἀναμένω (G362), διατρίβω (G1304), ἐμμένω (G1696), ἐπιμένω (G1961), κάθημαι (G2521), καταμένω (G2650), προσμένω (G4357)
+
+**UBS Semantic Domains:**
+- **[085]** Existence in Space
+- **[013]** Be, Become, Exist, Happen
+- **[068]** Aspect
 
 ## Tense-Mood Distribution
 
@@ -159,6 +166,14 @@ The dominance of the present tense (63% of forms) is notable: meno characteristi
 - **G4357 προσμένω (prosmeno)** — to stay further, remain with (with πρός-)
 - **G5278 ὑπομένω (hupomeno)** — to stay under, endure (with ὑπό-)
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G3306.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G3306.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -194,9 +209,11 @@ The dominance of the present tense (63% of forms) is notable: meno characteristi
 
 ## See Also
 
+- [G1510-eimi.md](G1510-eimi.md) — be; existential partner and contrast to becoming/remain language
 - [G26-agape.md](G26-agape.md) — love (major collocation in 1 John mutual-indwelling passages)
+- [H5975-amad.md](H5975-amad.md) — stand; major Hebrew source-field behind remaining/standing language
 - [WG-abide.md](WG-abide.md) — word group: abide/dwell/remain concept cluster
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py --hebrew-source*
-*Last updated: 2026-04-13*
+*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py --hebrew-source, search_relationships.py*
+*Last updated: 2026-04-27*

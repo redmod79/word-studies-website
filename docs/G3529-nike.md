@@ -22,6 +22,12 @@ Not present in Strong's lexicon DB. The word νίκη is the classical Greek fem
 - **Glosses:** to be victorious over, to be a victor, to conquer
 - **Other words in subdomain:** νικάω (nikaō, G3528), νῖκος (nikos, G3534), ὑπερνικάω (hypernikaō, G5245), ἡσσάομαι (hēssaomai, "be defeated"), θριαμβεύω (thriambeuō, "triumph over"), καταγωνίζομαι (katagōnizomai, "conquer"), κατακυριεύω (katakyrieuo, "rule over"), κατισχύω (katischuō, "overpower"), πατέω (pateō, "trample"), συντρίβω (syntribō, "crush")
 
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 039 | Hostility, Strife | `search_relationships.py` places *nikē* in the same conflict/victory field as its cognates, fitting its single NT use for decisive triumph over the world. |
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -65,6 +71,14 @@ As a hapax legomenon, nikē has no meaningful collocation statistics across mult
 - **G3534 νῖκος (nikos)** — victory, conquest (neuter noun, 4x: Matt 12:20; 1 Cor 15:54, 55, 57). Later Koine equivalent of nikē. Used for victory over death in 1 Corinthians 15.
 - **G5245 ὑπερνικάω (hypernikaō)** — to more than conquer (1x: Rom 8:37). Intensified form with ὑπερ- prefix — "we are more than conquerors through him that loved us."
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G3529.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G3529.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -80,7 +94,8 @@ No LXX alignment data available for G3529. The word νίκη is primarily a clas
 ## See Also
 
 - [G3528-nikao.md](G3528-nikao.md) — cognate verb: to conquer, overcome (28x)
+- [G2316-theos.md](G2316-theos.md) — God; 1 John 5:4 frames victory as flowing from being born of God
 
 ---
-*Generated from: search_strongs.py, greek_parser.py, louw_nida.db, kjv.txt*
-*Last updated: 2026-04-08*
+*Generated from: search_strongs.py, greek_parser.py, louw_nida.db, kjv.txt, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -121,6 +121,15 @@ Lexicographers debate whether the "net" uses represent a true homonym (II חרם
 - **H2762 חֶרֶם (cherem II)** — homographic sense cluster: "net" (sometimes treated as separate root by lexica).
 - **H2766 חָרִם (charim)** — proper name derived from the root.
 
+### Synonyms
+- **חַכָּה (H2443)** — returned by `search_relationships.py`.
+- **מִכְמֶרֶת (H4365)** — returned by `search_relationships.py`.
+- **רֶשֶׁת (H7568)** — returned by `search_relationships.py`.
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for H2764.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -132,6 +141,13 @@ Lexicographers debate whether the "net" uses represent a true homonym (II חרם
 | שָׂבָךְ (sabak) | H7638 | "net" | Lattice/network; purely literal. |
 | δίκτυον (diktyon) | G1350 | "nets" (NT) | Standard NT Greek word for fishing nets. |
 | תּוֹעֵבָה (toʻevah) | H8441 | "abomination" (paired in Deut 7:26) | Abomination is the category from which a herem-cursed object comes; herem is the resulting status. |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[001002008001018] Traps** — Neighboring entries returned by `search_relationships.py`: גּוּמָּץ (H1475), חֶבֶל (H2256), חֹוחַ (H2336), חֹוחַ (H2337), חָח (H2397), חַכָּה (H2443).
+- **[002003002009] Dissociate** — Neighboring entries returned by `search_relationships.py`: אחז (H270), אַלְמֹון (H489), אַלְמָן (H488), אַלְמָנוּת (H491), בַּד (H905), בַּד (H906).
+- **[002002002006] Non-Exist** — Neighboring entries returned by `search_relationships.py`: אבד (A7), אבד (H6), אֹבֵד (H8), אַבְדָן (H12), אָבְדָן (H13), אֶבֶן (A69).
 
 ## LXX Mapping
 
@@ -153,5 +169,5 @@ The LXX thus preserves both semantic streams of chērem: ἀνάθεμα for the
 *(Both files to be created as companion studies; see TODO.md for any missing linked word studies.)*
 
 ---
-*Generated from: gather_word_data.py H2764*
-*Last updated: 2026-04-16*
+*Generated from: gather_word_data.py H2764, search_relationships.py*
+*Last updated: 2026-04-27*

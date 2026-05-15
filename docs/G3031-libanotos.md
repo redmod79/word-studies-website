@@ -26,6 +26,10 @@ From G3030 (λίβανος, frankincense); frankincense, i.e. (by extension) a c
 - **Subdomain:** 006.016 — Containers
 - **Other words in subdomain:** ἀγγεῖον (G30, vessel), ἀλάβαστρος (G211, alabaster box), ἀσκός (G779, wineskin/bottle), βαλλάντιον (G905, purse), γαζοφυλάκιον (G1049, treasury/offering box), γλωσσόκομον (G1101, bag), θήκη (G2336, sheath), θησαυρός (G2344, treasure chest)
 
+### UBS Semantic Domains
+
+- **[006] Artifacts** — ritual and material objects. Other words: ἀγγεῖον (G30), ἄγγος (G30), ἄγκιστρον (G44), ἄγκυρα (G45), ἀλάβαστρος (G211), ἀλόη (G250)
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -75,6 +79,12 @@ After the offering of incense, the same censer is filled with fire from the alta
 - **G3030 λίβανος** (*líbanos*) — frankincense; the incense-tree and its resin (Matt 2:11: gift of the Magi; Rev 18:13: cargo of fallen Babylon). G3031 is formed from this root: the censer is "the thing for frankincense."
 - **H3828 לְבוֹנָה** (*lebonah*) — Hebrew source of λίβανος: white/pure frankincense, used in Levitical offerings and the grain offering formula (Lev 2:1–2)
 
+### Synonyms
+- No direct synonym entries were returned by `search_relationships.py` for G3031.
+
+### Antonyms
+- No direct antonym entries were returned by `search_relationships.py` for G3031.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -100,11 +110,13 @@ No LXX mapping found for G3031. The word is not attested as a Greek translation 
 
 ## See Also
 
+- [G2362-thronos.md](G2362-thronos.md) — throne study: the altar scene stands before the throne
 - [G2368-thymiama](G2368-thymiama.md) — θυμίαμα: incense — the substance placed in the censer; cross-testament study of the incense offering
+- [G2379-thysiastērion.md](G2379-thysiastērion.md) — altar study paired with the censer in Rev 8
 - [TR-qtoreth-thymiama](TR-qtoreth-thymiama.md) — cross-testament trace: H6988 קְטֹרֶת (*qetoreth*, incense) → G2368 θυμίαμα — the OT-to-NT incense trajectory
 - [WG-worship](WG-worship.md) — word group covering heavenly/temple worship vocabulary
 - [WG-altar](WG-altar.md) — word group covering altar, sacrifice, and offerings
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py --lexicon, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, search_strongs.py --lexicon, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

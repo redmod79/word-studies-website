@@ -17,12 +17,26 @@ From the base of δοκέω (G1380); **glory** (as very apparent), in a wide app
 
 The word shifted from classical Greek (where δόξα meant *opinion* or *reputation*) to its LXX sense of visible, luminous majesty — particularly the manifest presence of God (Hebrew כָּבוֹד, kabod). In NT usage it carries both the visible-radiance sense and the relational honor/status sense.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Primary Domain:** 87 — Status (87.002 Honor or Respect in Relation to Status)
-- **Secondary Domain:** 79.005 — Glorious (visible splendor)
-- **Also appears in:** 14.006 (Light), 33.037 (Praise), 12 (Supernatural Beings and Powers)
-- **Domain neighbors (79.005):** ἀμαράντινος G262 (unfading), ἔνδοξος G1741 (glorious), ἐπιφανής G2016 (notable), λαμπρός G2986 (bright, splendid)
+**Louw-Nida:**
+- **87.002** — Honor or Respect in Relation to Status
+- **79.005** — Glorious / Visible Splendor
+- **14.006** — Light
+- **33.037** — Praise
+- **12** — Supernatural Beings and Powers
+
+δόξα ranges from visible splendor to honor, praise, and majesty, which is why the same noun can name radiance, reputation, or doxological acclaim.
+
+**UBS Semantic Domains:**
+- **[079]** Features of Objects
+- **[014]** Physical Events and States
+- **[076]** Power, Force
+- **[033]** Communication
+- **[087]** Status
+- **[012]** Supernatural Beings and Powers
+- **[001]** Geographical Objects and Features
+- **[025]** Attitudes and Emotions
 
 ## Translation Distribution (KJV)
 
@@ -129,6 +143,21 @@ The Shekinah sense: δόξα as visible, radiant manifestation — light that fi
 - **G1741 ἔνδοξος (éndoxos)** — glorious, honorable (adjective, 4 vv)
 - **G1380 δοκέω (dokeō)** — root: to seem, to think, to have an opinion
 
+### Synonyms
+
+`search_relationships.py` surfaced a broad relational set; the clearest lexical overlaps are:
+- **G5092 τιμή (timē)** — honor, esteem
+- **G1868 ἔπαινος (epainos)** — praise, commendation
+- **G1411 δύναμις (dynamis)** — power / majesty in doxological pairings
+- **G2904 κράτος (kratos)** — might, dominion in praise formulae
+
+### Antonyms
+
+`search_relationships.py` surfaced several contrastive terms; the clearest are:
+- **G152 αἰσχύνη (aischynē)** — shame
+- **G819 ἀτιμία (atimia)** — dishonor, contempt
+- **G1791 ἐντροπή (entropē)** — disgrace, humiliation
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -153,8 +182,18 @@ The Shekinah sense: δόξα as visible, radiant manifestation — light that fi
 
 ## See Also
 - [TR-kabod-doxa](TR-kabod-doxa.md) — cross-testament trace: כָּבוֹד → δόξα
+- [H3519-kabowd](H3519-kabowd.md) — dominant Hebrew source behind δόξα in the LXX
+- [G1411-dynamis](G1411-dynamis.md) — power; frequent doxological pair with glory
+- [G5485-charis](G5485-charis.md) — grace/glory pairing in Pauline theology
+- [G5547-christos](G5547-christos.md) — Christ as bearer and revealer of glory
+- [G4352-proskyneo](G4352-proskyneo.md) — worship response to manifested glory
+- [G3022-leukos](G3022-leukos.md) — white / brightness imagery linked with glory in Revelation
+- [G1504-eikon](G1504-eikon.md) — image; visible manifestation / reflection of glory
+- [G3466-mysterion](G3466-mysterion.md) — mystery; linked to "riches of the glory" in Paul
+- [G2673-katargeo](G2673-katargeo.md) — abolish / fade; contrastive in 2 Corinthians 3
 - [WG-glory](WG-glory.md) — word group: glory, honor, and praise concept cluster
+- [WG-strength](WG-strength.md) — word group where glory appears in repeated power pairings
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

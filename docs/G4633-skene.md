@@ -15,12 +15,15 @@
 
 A tent or cloth hut (literally or figuratively); used of the Mosaic tabernacle, the heavenly sanctuary, tents for dwelling, and pagan shrines.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Domain:** 007 — Constructions
-- **Subdomain:** 007.002 — Buildings
+**Louw-Nida:**
+- **007.002** — Buildings (Domain 007: Constructions)
 - **Glosses:** tent, tabernacle tent
 - **Other words in domain:** ναός (naos, temple), οἶκος (oikos, house), σκήνωμα (skēnōma, dwelling), σκηνοποιός (skēnopoios, tentmaker), παρεμβολή (parembolē, camp)
+
+**UBS Semantic Domains:**
+- **[007]** Constructions
 
 ## Translation Distribution (KJV)
 
@@ -98,6 +101,15 @@ Hebrews dominates with 50% of all occurrences, reflecting the epistle's sustaine
 - **G4638 σκήνωμα (skēnōma)** — a dwelling, encampment; the Temple as God's residence (Acts 7:46); the body as a tent (2 Pet 1:13-14); 3 occurrences
 - **G4639 σκιά (skia)** — shadow; used in Heb 8:5 and 10:1 alongside tabernacle language ("shadow of heavenly things"); 7 occurrences
 
+### Synonyms
+- **G4638 σκήνωμα (skēnōma)** — dwelling place; the nearest cognate noun for residence/tabernacle
+- **G4634 σκηνοπηγία (skēnopēgia)** — tabernacles / booth-feast; shares the tent/booth field
+- **G3542 νομή (nomē)** — pasture, ranging-place; habitation-space vocabulary returned by `search_relationships.py`
+- **G5131 τράγος (tragos)** — he-goat; returned by `search_relationships.py` in the tabernacle/sanctuary field
+
+### Antonyms
+- **G68 ἀγρός (agros)** — field, open country; contrasts with tented or built shelter space
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -119,9 +131,19 @@ The LXX uses σκηνή broadly for both ʼohel (the tent structure) and mishkan
 
 ## See Also
 
-- [WG-tabernacle](WG-tabernacle.md) — word group: tabernacle/tent dwelling
-- [WG-temple](WG-temple.md) — word group: temple/sanctuary (overlapping concept)
+- [G3485-naos.md](G3485-naos.md) — temple / inner sanctuary
+- [G2411-hieron.md](G2411-hieron.md) — temple precinct
+- [G4637-skenoo.md](G4637-skenoo.md) — cognate verb: to tabernacle / dwell
+- [G2316-theos.md](G2316-theos.md) — "the tabernacle of God" and divine-dwelling contexts
+- [G5179-typos.md](G5179-typos.md) — pattern/copy language paired with the tabernacle in Hebrews
+- [H4150-moed.md](H4150-moed.md) — appointed meeting; tent-of-meeting background
+- [H5521-cukkah.md](H5521-cukkah.md) — booth / hut; festival-tabernacle background
+- [H5715-eduwth.md](H5715-eduwth.md) — testimony; "tabernacle of testimony" background
+- [H1391-gibown.md](H1391-gibown.md) — Gibeon; major OT tabernacle location
+- [TR-cukkah-skene.md](TR-cukkah-skene.md) — cross-testament trace: booth/tabernacle language
+- [WG-tabernacle.md](WG-tabernacle.md) — word group: tabernacle/tent dwelling
+- [WG-temple.md](WG-temple.md) — word group: temple/sanctuary (overlapping concept)
 
 ---
-*Generated from: search_strongs.py, greek_parser.py, louw_nida.db, strongs_translations.db*
-*Last updated: 2026-03-31*
+*Generated from: search_strongs.py, greek_parser.py, louw_nida.db, strongs_translations.db, search_relationships.py*
+*Last updated: 2026-04-28*

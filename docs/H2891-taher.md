@@ -119,6 +119,19 @@ A primitive root; properly, to be bright; i.e. (by implication) to be pure (phys
 - **H2893 טׇהֳרָה (ṭohŏrâh)** — noun: purification, cleanness (13x) — the process or condition
 - **H2892 טֹהַר (ṭôhar)** — noun: purity, brightness (4x) — the quality itself
 
+### Synonyms
+- **H2212 זקק** — returned by `search_relationships.py` as a near-neighbor in the purification / refinement field.
+- **H3526 כבס** — another cleansing neighbor in the wash-and-purify field.
+- **H3722 כפר** — paired by the tool with atonement / purge language that often precedes restored cleanness.
+- **H6942 קדשׁ** — adjacent holiness / consecration vocabulary in the broader purity field.
+- **H3835 לבן** — whiten/brighten language that overlaps with purification imagery.
+- **H6663 צדק** — moral-rightness vocabulary surfaced alongside purity language.
+- **H5545 סלח** — forgiveness language returned as another restoration neighbor.
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for H2891.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -129,6 +142,13 @@ A primitive root; properly, to be bright; i.e. (by implication) to be pure (phys
 | זָכָה (zâkâh) | H2135 | "be clean" (2x KJV) | zakah = be translucent/clear (moral innocence). Taher = broader: ritual + moral + physical |
 | בָּרַר (bârar) | H1305 | "purify" (1x), "purge" (2x) | barar = clarify/select/refine (metallurgical metaphor). Taher = ceremonial/religious purification |
 | כָּפַר (kâphar) | H3722 | "purge" (9x) | kaphar = cover/atone (deals with guilt). Taher = cleanse (deals with impurity). Often sequential: atonement → cleansing |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002003001014] Pure** — `search_relationships.py` places *ṭâhêr* in the core purity field with neighbors such as **H2134 זַךְ**, **H2141 זכך**, **H2889 טָהוֹר**, **H2892 טֹהַר**, and **H4357 מִכְלֹות**.
+- **[002001001012] Clean** — the same tool also groups *ṭâhêr* with cleanliness vocabulary including **H1252/H1253 בֹּר**, **H1305 ברר**, **H1740 דוח**, **H2212 זקק**, and **H2219 זרה**.
+- **[002003003015] Innocent** — a secondary domain linking purity language with blamelessness, with neighbors such as **H935 בוא**, **H1252/H1253 בֹּר**, **H1305 ברר**, and **H1460 גֵּו**.
 
 ## LXX Mapping
 
@@ -147,5 +167,5 @@ A primitive root; properly, to be bright; i.e. (by implication) to be pure (phys
 - [WG-atonement.md](WG-atonement.md) — word group: taher as the result of atonement
 
 ---
-*Generated from: search_strongs.py, hebrew_parser.py, lxx-map, co-occurrence queries*
-*Last updated: 2026-03-31*
+*Generated from: search_strongs.py, hebrew_parser.py, lxx-map, co-occurrence queries, search_relationships.py*
+*Last updated: 2026-04-27*

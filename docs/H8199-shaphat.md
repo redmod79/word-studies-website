@@ -147,6 +147,22 @@ Future judgment of all nations, associated with the end-time coming of the LORD 
 - **H4941 מִשְׁפָּט (mishpat)** — derived noun from shaphat: judgment, justice, ordinance, case, manner. Occurs 421x. The result or standard embodied by shaphat.
 - **H8194 שָׁפָה (shapah)** — adjacent number; unrelated root (cream/cheese); not cognate.
 
+### Synonyms
+
+- **H1696 דָּבַר** — near-neighbor returned by `search_relationships.py`, reflecting the pronouncing/declaring side of judicial speech.
+- **H1777 דִּין** — close legal neighbor in the decision / contention field.
+- **H3198 יָכַח** — arbitrate, decide, reprove; overlaps with the deliberative side of judging.
+- **H3467 יָשַׁע** — save / deliver; captures the vindicating side of righteous judgment.
+- **H6403 פָּלַט** — rescue / cause to escape; another relief-oriented neighbor.
+- **H6663 צָדַק** — be righteous / justify; overlaps where judgment results in vindication.
+- **H7378 רִיב** — contend / plead; legal-dispute verb closely paired with *shaphat*.
+- **H7121 קָרָא** — call / summon; surfaced by the relationship data in juridical-address settings.
+- **H7379 רִיב** — noun "contention, lawsuit"; the dispute that judgment resolves.
+
+### Antonyms
+
+- **H1792 דָּכָא** — "crush, oppress"; returned by `search_relationships.py` as the opposite-side term to the protecting/vindicating work of righteous judgment.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -155,6 +171,17 @@ Future judgment of all nations, associated with the end-time coming of the LORD 
 | רִיב (riyb) | H7378 | "plead," "will plead," "contend" | riyb is the bringing of a lawsuit or entering into a dispute; shaphat is the official pronouncement that resolves it |
 | פָּלִיל (palil) | H6414 | "judge" (as noun) | palil is a rarer word for a magistrate; shaphat in Qal participle form is the primary Hebrew term for a judge as an official |
 | אֱלֹהִים (Elohim) | H430 | "the judges" (Exo 21:6; 22:8–9) | Elohim occasionally rendered "judges" as human representatives of divine authority; shaphat is always the verbal/participial action, not a title |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002004002006] Judge** — the primary field returned by `search_relationships.py`, directly matching the verb's core judicial sense.
+- **[002001002023] Relief** — the relationship tool also links *shaphat* to relief/deliverance vocabulary, reflecting the vindicating side of judging the poor, widow, or oppressed.
+- **[002003003019] Safe** — righteous judgment preserves safety and order, so the tool places *shaphat* near protective vocabulary as well.
+- **[002003002005] Chastise** — the punitive side of judgment appears in this discipline/punishment field.
+- **[002003002007] Control** — *shaphat* also overlaps with governance and rule, especially in the era of the judges and royal administration.
+- **[001002007005] Leaders** — the participial sense "judge" as officeholder naturally places the word in the leaders/officials field.
+- **[002003002006] Conflict** — litigation, dispute, and formal contention form the final major domain returned for *shaphat*.
 
 ## LXX Mapping
 
@@ -170,12 +197,18 @@ Future judgment of all nations, associated with the end-time coming of the LORD 
 
 ## See Also
 
+- [H4941-mishpat.md](H4941-mishpat.md) — the derived noun: judgment, justice, ordinance
+- [A1780-diyn.md](A1780-diyn.md) — Aramaic cognate for judgment / legal decision
+- [H6663-tsadaq.md](H6663-tsadaq.md) — "be righteous / justify," a close vindication-side neighbor
+- [H6664-tsedeq.md](H6664-tsedeq.md) — "righteousness / justice," the standard by which judgment is measured
+- [H430-elohiym.md](H430-elohiym.md) — occasionally rendered "judges" for human authorities in covenant law
+- [G2920-krisis.md](G2920-krisis.md) — Greek "judgment," the LXX/NT noun-field counterpart
+- [G1344-dikaioo.md](G1344-dikaioo.md) — Greek "justify / declare righteous," carrying the vindication side of the judicial field
 - [TR-shaphat-krino.md](TR-shaphat-krino.md) — cross-testament trace: שָׁפַט → κρίνω
 - [TR-mishpat-krima.md](TR-mishpat-krima.md) — trace of the derived noun mishpat
 - [WG-judgment.md](WG-judgment.md) — word group: the NT κρίν- family
 - [WG-hebrew-righteousness.md](WG-hebrew-righteousness.md) — shaphat in the righteousness/justice cluster
-- [H4941-mishpat.md](H4941-mishpat.md) — the derived noun: judgment, justice, ordinance
 
 ---
-*Generated from: gather_word_data.py, gather_trace_data.py, hebrew_parser.py (BHSA/TF stems), search_strongs.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, gather_trace_data.py, hebrew_parser.py (BHSA/TF stems), search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

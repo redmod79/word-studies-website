@@ -10,7 +10,7 @@ The NT patience concept clusters around five words: the noun ὑπομονή (hu
 | G5281 | ὑπομονή | hupomone | feminine noun | 31 | Noun of steadfast endurance under trial | [G5281](G5281-hupomone.md) |
 | G5278 | ὑπομένω | hupomeno | verb | 16 | Cognate verb: to stay under, remain, endure | TODO(need G5278 study) |
 | G3115 | μακροθυμία | makrothymia | feminine noun | 14 | Longanimity; patient forbearance toward persons | TODO(need G3115 study) |
-| G1680 | ἐλπίς | elpis | feminine noun | 48 | Hope — the forward anchor that sustains endurance | TODO(need G1680 study) |
+| G1680 | ἐλπίς | elpis | feminine noun | 48 | Hope — the forward anchor that sustains endurance | [G1680-elpis.md](G1680-elpis.md) |
 | G2347 | θλῖψις | thlipsis | feminine noun | 43 | Tribulation/affliction — the context that produces patience | [G2347-thlipsis.md](G2347-thlipsis.md) |
 
 ## Relationships

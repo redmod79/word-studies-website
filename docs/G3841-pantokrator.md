@@ -21,6 +21,12 @@ From G3956 (pas — all) and G2904 (kratos — dominion); the all-ruling, i.e. G
 - **Subdomain:** 12.1 — Supernatural Beings
 - **Other words in subdomain:** ἀββά (G5), ἄγγελος (G32), ἄθεος (G112), αἰών (G165), ἀρχάγγελος (G743), δαιμόνιον (G1140), διάβολος (G1228)
 
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 012 | Supernatural Beings and Powers | `search_relationships.py` places *pantokrator* in the divine/supernatural sovereignty field, consistent with its fixed use as a title for God. |
+
 ## Morphological Distribution
 
 All 10 occurrences are nominative singular masculine (N-NSM) except two genitive singular (N-GSM):
@@ -94,6 +100,14 @@ The genitive form appears when divine power is exercised in final acts of judgme
 - **G2902 κρατέω (krateo)** — to seize, hold fast, prevail (47 NT occurrences)
 - **G2900 κραταιός (krataios)** — mighty (1 NT occurrence, 1 Pet 5:6 — "the mighty hand of God")
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G3841.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G3841.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -127,7 +141,16 @@ The dominant LXX pattern: **יהוה צְבָאוֹת** (YHWH tseba'oth, "LORD o
 ## See Also
 
 - [WG-power.md](WG-power.md) — Word group: Power / Authority (includes cognate G2904 kratos)
+- [WG-ofhosts.md](WG-ofhosts.md) — word group for the "Lord of hosts" field behind παντοκράτωρ
+- [TR-tsaba-pantokrator.md](TR-tsaba-pantokrator.md) — cross-testament trace from צָבָא to παντοκράτωρ
+- [H6635-tsaba.md](H6635-tsaba.md) — primary Hebrew source in the LXX bridge
+- [H7706-shaddai.md](H7706-shaddai.md) — closest Hebrew "Almighty" equivalent
+- [H3068-yhwh.md](H3068-yhwh.md) — divine-name overlap in the same source field
+- [H410-el.md](H410-el.md) — related Hebrew divine title
+- [H433-eloah.md](H433-eloah.md) — singular divine-title overlap
+- [G721-arnion.md](G721-arnion.md) — Rev 21:22 pairs "the Lord God Almighty and the Lamb"
+- [G1228-diabolos.md](G1228-diabolos.md) — contrastive rival power within the supernatural domain
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db*
-*Last updated: 2025-04-09*
+*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

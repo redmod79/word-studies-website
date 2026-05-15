@@ -25,6 +25,15 @@
 - **Domain 039.012:** Conquer — *overcome by force*
   - Other words: νικάω (G3528), κατακυριεύω (G2634), συντρίβω (G4937)
 
+## UBS Semantic Domains
+
+- **[015]** Linear Movement
+- **[019]** Physical Impact
+- **[020]** Violence, Harm, Destroy, Kill
+- **[039]** Hostility, Strife
+
+*UBS broadens the profile beyond simple locomotion: πατέω can describe walking, crushing impact, destructive force, and hostile trampling.*
+
 ## Translation Distribution (KJV)
 
 All 5 occurrences translate to tread/trample variants:
@@ -81,6 +90,14 @@ Treading the winepress is a vivid image of God's wrath being executed; the word 
 ### Word Family / Cognates
 - **G2662 καταπατέω (katapatéō)** — compound: κατά + πατέω; intensive form meaning to trample down utterly, stamp underfoot (Matt 5:13; 7:6; Luke 8:5; Heb 10:29)
 
+### Synonyms
+
+*No direct curated synonyms were returned by `search_relationships.py` for G3961.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G3961.*
+
 ### Domain Neighbors (Conquer — 039.012)
 | Word | Strong's | Total vv | Primary KJV |
 |------|----------|----------|-------------|
@@ -107,10 +124,16 @@ Primary Hebrew background is H1869 dârak (to tread/march), especially in prophe
 ## See Also
 
 - [G1484-ethnos.md](G1484-ethnos.md) — top collocation: the Gentiles who tread and are judged
+- [G2662-katapateo.md](G2662-katapateo.md) — intensive compound "trample down"; strongest lexical counterpart
+- [G3039-likmao.md](G3039-likmao.md) — crush / winnow / trample imagery near the same physical-impact domain
+- [G4348-proskomma.md](G4348-proskomma.md) — stumbling-block language; another study that references πατέω
 - [G3528-nikao.md](G3528-nikao.md) — domain neighbor (Conquer 039.012); overlapping concept of overcoming
+- [H4823-mirmac.md](H4823-mirmac.md) — מִרְמָס, "trampling / trodden place," the Daniel 8 noun background
+- [H947-buwc.md](H947-buwc.md) — בּוּס, secondary Hebrew trample/down-tread source
+- [TR-ramas-katapateo.md](TR-ramas-katapateo.md) — trace for the intensified trampling vocabulary
 - [WG-wrath.md](WG-wrath.md) — winepress as wrath context (Rev 14:20; 19:15)
 - [G3709-orge.md](G3709-orge.md) — "wrath" directly paired in Rev 19:15
 
 ---
-*Generated from: gather_word_data.py, kjv.txt*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, kjv.txt, search_relationships.py*
+*Last updated: 2026-04-27*

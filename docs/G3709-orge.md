@@ -24,6 +24,13 @@ Properly, desire (as a reaching forth or excitement of the mind); by analogy, vi
 
 The dual-domain classification reflects orgē's range: it denotes both the emotional state of anger (88.024) and the resulting judicial action of punishment (38.001).
 
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 088 | Moral and Ethical Qualities and Related Behavior | `search_relationships.py` places *orgē* in the anger/ethical-response field, matching both vice-list uses and descriptions of human wrath. |
+| 038 | Punish, Reward | The same tool also places *orgē* in the judicial consequence field, fitting the many passages where wrath is punishment rather than mere emotion. |
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -109,6 +116,35 @@ Heavily concentrated in Paul's epistles (21 of 36 occurrences). Romans alone acc
 - **G3949 παροργίζω (parorgizō)** — verb: to provoke to anger (παρά + ὀργή) (2x)
 - **G3950 παροργισμός (parorgismos)** — noun: provocation, anger (παρά + ὀργή) (1x)
 
+### Synonyms
+
+`search_relationships.py` surfaced the broader wrath/judgment field around ὀργή:
+- **G2372 θυμός**
+- **G5243 ὑπερηφανία**
+- **G1656 ἔλεος**
+- **G121 ἀθῷος**
+- **G1655 ἐλεήμων**
+- **G3340 μετανοέω**
+- **G4655 σκότος**
+- **G2373 θυμόω**
+- **G225 ἀλήθεια**
+- **G150 αἰσχρός**
+- **G3949 παροργίζω**
+- **G2873 κόπος**
+- **G2347 θλῖψις**
+- **G5196 ὕβρις**
+- **G318 ἀνάγκη**
+- **G5244 ὑπερήφανος**
+- **G684 ἀπώλεια**
+- **G4578 σεισμός**
+- **G3629 οἰκτίρμων**
+- **G2205 ζῆλος**
+
+### Antonyms
+
+- **G2270 ἡσυχάζω** — contrast term returned by `search_relationships.py`
+- **G2107 εὐδοκία** — contrast term returned by `search_relationships.py`
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -133,8 +169,17 @@ The LXX translators used orgē to render multiple Hebrew anger words, consolidat
 
 ## See Also
 
+- [G2372-thumos.md](G2372-thumos.md) — closest NT comparison term in the wrath/anger field
 - [WG-wrath.md](WG-wrath.md) — Word group: Wrath / Anger concept cluster
+- [G2316-theos.md](G2316-theos.md) — dominant "wrath of God" collocation
+- [H2195-zaam.md](H2195-zaam.md) — Hebrew indignation/fury counterpart
+- [G2064-erchomai.md](G2064-erchomai.md) — "wrath to come" formula
+- [G1484-ethnos.md](G1484-ethnos.md) — nations in Revelation's wrath scenes
+- [G2347-thlipsis.md](G2347-thlipsis.md) — distress/tribulation field adjoining judgment passages
+- [G3961-pateo.md](G3961-pateo.md) — treading imagery in Rev 19:15
+- [G3173-megas.md](G3173-megas.md) — "great wrath / great day" collocation
+- [G2663-katapausis.md](G2663-katapausis.md) — contrastive rest motif cross-reference
 
 ---
-*Generated from: search_strongs.py, greek_parser.py, louw_nida.db, strongs_translations.db*
-*Last updated: 2026-03-31*
+*Generated from: search_strongs.py, greek_parser.py, louw_nida.db, strongs_translations.db, search_relationships.py*
+*Last updated: 2026-04-27*

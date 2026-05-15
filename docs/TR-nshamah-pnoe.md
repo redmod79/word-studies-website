@@ -56,7 +56,7 @@ Areopagus speech.
 - **Acts 2:2** — "suddenly there came a sound from heaven as of a rushing mighty wind (πνοή), and it filled all the house where they were sitting" — the Spirit's arrival echoes Gen 2:7 (divine breath filling a space)
 - **Acts 17:25** — "seeing he giveth to all life, and breath (πνοή), and all things" — Paul echoes the creation theology of Isa 42:5 (God "giveth breath unto the people")
 
-[Canonical word study: TODO(need G4157 study) — G4157-pnoe.md]
+[Canonical word study: [G4157-pnoe.md](G4157-pnoe.md)]
 
 ## Direct OT→NT Echoes
 

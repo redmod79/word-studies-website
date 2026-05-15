@@ -12,7 +12,7 @@ The spirit concept in the NT centers on πνεῦμα (pneuma), which carries th
 | G5590 | ψυχή | psychē | noun | 105 | Contrast/confusion — soul vs. spirit | [G5590](G5590-psyche.md) |
 | G4152 | πνευματικός | pneumatikos | adj | 26 | Derivative — "spiritual" (things/persons) | TODO(need G4152 study) |
 | G4154 | πνέω | pneō | verb | 7 | Root verb — to blow (wind) | TODO(need G4154 study) |
-| G4157 | πνοή | pnoē | noun | 2 | Cognate — breath, wind (physical) | TODO(need G4157 study) |
+| G4157 | πνοή | pnoē | noun | 2 | Cognate — breath, wind (physical) | [G4157](G4157-pnoe.md) |
 
 ## Relationships
 

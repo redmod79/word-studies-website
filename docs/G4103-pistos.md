@@ -22,6 +22,14 @@ From πιστεύω (G4100); objectively, trustworthy; subjectively, trustful. U
 - **Secondary Domains:** 11.002 (Socio-Religious: faithful member of community), 71.003 (Mode: certain/reliable)
 - **Key words in same subdomain (31.010):** πιστεύω G4100 (119 vv), πίστις G4102 (201 vv), ἄπιστος G0571 (11 vv), ἀπιστία G0570 (10 vv)
 
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 031 | Hold a View, Believe, Trust | Captures the core πισ-/faith vocabulary: one who believes, trusts, or proves trustworthy. |
+| 071 | Mode | Covers the reliability/certainty nuance in "faithful saying" formulas and divine trustworthiness. |
+| 011 | Groups and Classes of Persons and Members of Such Groups and Classes | Fits uses of πιστός for "the faithful" / believing persons as a recognized class within the church. |
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -121,12 +129,20 @@ Christ's faithfulness as the foundation of the new covenant.
 - **G4104 πιστόω (pistóō)** — verb: to make trustworthy, to confirm; rare (1 vv)
 - **G571 ἄπιστος (apistos)** — adjective: unbelieving, faithless; direct antonym (11 vv)
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G4103.*
+
+### Antonyms
+
+- **G571 ἄπιστος (apistos)** — alpha-privative opposite within the πισ-/faith family: unbelieving, faithless, untrustworthy; the clearest lexical counterpoint to πιστός.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
 |------|----------|--------------------|----------------|
 | πίστις (pistis) | G4102 | both → "faithful" or "faith" in some contexts | pistis is the noun (faith itself); pistós is the adjective (one characterized by faith or faithfulness) |
-| ἀληθινός (alēthinós) | G1228 | both → "true" occasionally | alēthinós = genuine/real; pistós = reliable/trustworthy |
+| ἀληθινός (alēthinós) | G228 | both → "true" occasionally | alēthinós = genuine/real; pistós = reliable/trustworthy |
 | ἄπιστος (apistos) | G571 | both share "believing" by negation | apistos = unbelieving, faithless — direct antonym |
 | אָמַן (ʼāman) | H539 | both → "faithful" | aman = Hebrew root; pistós = the LXX/NT Greek equivalent — see trace |
 
@@ -147,9 +163,14 @@ Christ's faithfulness as the foundation of the new covenant.
 ## See Also
 
 - [TR-aman-pistos.md](TR-aman-pistos.md) — cross-testament trace: H539 ʼāman → G4103 pistós
+- [G4100-pisteuo.md](G4100-pisteuo.md) — cognate verb: believe, trust
 - [G4102-pistis.md](G4102-pistis.md) — canonical word study: πίστις (faith/belief)
+- [G3144-martys.md](G3144-martys.md) — μάρτυς; "faithful witness" overlaps especially in Revelation
+- [G228-alethinos.md](G228-alethinos.md) — ἀληθινός; paired with πιστός in Revelation's "Faithful and True" title
+- [H6662-tsaddiyq.md](H6662-tsaddiyq.md) — צַדִּיק; covenant reliability/righteousness overlap in the Hebrew bridge material
 - [WG-faith.md](WG-faith.md) — word group: faith / belief cluster
+- [WG-truth.md](WG-truth.md) — word group: truth/faithfulness vocabulary cluster
 
 ---
-*Generated from: gather_word_data.py, gather_trace_data.py, search_strongs.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, gather_trace_data.py, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

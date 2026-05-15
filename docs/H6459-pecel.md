@@ -95,6 +95,15 @@ A distinctive Isaianic usage: God reveals prophecy in advance so Israel cannot c
 - **H6458 פָּסַל (pacal)** — root verb: to carve, hew (6 occurrences; used both for hewing tablets and for carving idols)
 - **H6456 פְּסִיל (peciyl)** — sibling noun from same root: carved/graven image (23 OT uses); used in Deu 7:5, 25; Isa 10:10; Mic 1:7; 5:12
 
+### Synonyms
+- **H457 אֱלִיל (eliyl)** — idol; emphasizes the false and worthless status of the object.
+- **H4541 מַסֵּכָה (massekah)** — molten image; often paired with *pecel* as a complementary idol term.
+- **H6091 עָצָב (atsab)** — idol/image; another carved-object term in the idolatry field.
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for H6459.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -103,6 +112,12 @@ A distinctive Isaianic usage: God reveals prophecy in advance so Israel cannot c
 | מַסֵּכָה (massekah) | H4541 | "image" (paired context) | Molten/cast image (poured metal) vs. pecel (carved wood/stone); the two frequently pair as "graven image and molten image" |
 | תְּרָפִים (teraphiym) | H8655 | idols (co-occurs in Jdg 17-18) | Household gods / divinatory figurines; not carved from the root p-s-l |
 | אֱלִיל (eliyl) | H457 | "idols" | Emphasizes worthlessness/vanity ("good for nothing"); co-occurs 3x with pecel |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[001002008001010] Images** — `search_relationships.py` places *pecel* in the image/idol field alongside terms such as **H457 אֱלִיל**, **H842 אֲשֵׁרָה**, **H1544 גִּלּוּל**, and **H4541 מַסֵּכָה**.
+- **[001002008001006] Cult Objects** — the same tool also groups *pecel* with cult-object vocabulary used for shrine items and idol paraphernalia.
 
 ## LXX Mapping
 
@@ -119,11 +134,13 @@ The LXX renders pecel with several Greek words depending on context. In the Deca
 ## See Also
 
 - [G1497-eidolon.md](G1497-eidolon.md) — NT idol word; LXX equivalent of pecel
+- [G3667-homoioma.md](G3667-homoioma.md) — "likeness/image" term used in LXX commandment renderings alongside pecel
 - [WG-gravenimage.md](WG-gravenimage.md) — OT idol vocabulary word group (pecel, massekah, peciyl, eliyl, temunah)
 - [WG-image.md](WG-image.md) — NT image/likeness word group (eikon, homoioma, etc.)
 - [H6456-pciyl.md](H6456-pciyl.md) — sibling noun from same root (carved image)
+- [H5262-necek.md](H5262-necek.md) — includes the rare "molten image" sense adjacent to pecel's carved-image field
 - [H6884-tsaraph.md](H6884-tsaraph.md) — "refiner/goldsmith"; collocates with pecel in Isaiah's fabrication polemic
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py*
-*Last updated: 2026-04-15*
+*Generated from: gather_word_data.py, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

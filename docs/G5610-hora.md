@@ -15,13 +15,17 @@
 
 An "hour" (literally or figuratively): — day, hour, instant, season, short, (even-)tide, (high) time.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Domain 067:** Time
-- **Subdomain 067.009:** Definite Units of Time: Year, Month, Week, Day, Hour
-- **Subdomain 067.004:** A Point of Time with Reference to Units of Time: Daybreak, Midday, Midnight, Late
-- **Subdomain 067.001:** A Point of Time without Reference to Other Points of Time: Time, Occasion, Ever, Often
+**Louw-Nida:**
+- **067** — Time
+- **067.009** — Definite Units of Time: Year, Month, Week, Day, Hour
+- **067.004** — A Point of Time with Reference to Units of Time: Daybreak, Midday, Midnight, Late
+- **067.001** — A Point of Time without Reference to Other Points of Time: Time, Occasion, Ever, Often
 - **Glosses:** time, occasion, a while
+
+**UBS Semantic Domains:**
+- **[067]** Time
 
 ## Translation Distribution (KJV)
 
@@ -120,6 +124,12 @@ Gospels + Acts account for 82 of 100 verses (82%). John has the highest raw coun
 
 ## Related Words
 
+### Synonyms
+- None listed by `search_relationships.py` for this lemma.
+
+### Antonyms
+- None listed by `search_relationships.py` for this lemma.
+
 ### Domain Neighbors (Louw-Nida 067.004)
 
 | Word | Strong's | Verses | Primary KJV | Key Difference |
@@ -155,9 +165,15 @@ The primary OT antecedent is H6256 ʻêth ("time, season"), which the LXX render
 
 - [WG-time.md](WG-time.md) — word group: Greek NT time vocabulary (chronos, kairos, aion, hora)
 - [TR-eth-kairos.md](TR-eth-kairos.md) — cross-testament trace: ʻêth → kairos (also maps hora as secondary LXX rendering)
+- [H6256-eth.md](H6256-eth.md) — primary Hebrew time/season source behind many LXX hora renderings
+- [G2064-erchomai.md](G2064-erchomai.md) — "the hour cometh" collocation study
 - [G2540-kairos.md](G2540-kairos.md) — kairos: the appointed season (primary confusion candidate)
 - [G5550-chronos.md](G5550-chronos.md) — chronos: measured duration
+- [G2250-hemera.md](G2250-hemera.md) — day/hour pairing in eschatological sayings
+- [G5154-tritos.md](G5154-tritos.md) — third-hour time marker study
+- [G3376-men.md](G3376-men.md) — time-unit domain neighbor study
+- [G4655-skotos.md](G4655-skotos.md) — darkness study linked by sixth-hour / ninth-hour passion contexts
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_strongs.py*
-*Last updated: 2026-04-13*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-28*

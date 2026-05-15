@@ -114,6 +114,13 @@ Zechariah envisions chag expanding from an Israelite obligation to a universal a
 - **H2283 חָגָא (châgâʼ)** — only 1x (Psa 107:27) — terror, dread (related to giddy/reeling motion of root)
 - **H2284 חָגָב (châgâb)** — locust (possibly from same root of circular movement)
 
+### Synonyms
+- **H4150 מוֹעֵד (môwʻêd)** — appointed time, festival, assembly; broader feast term overlapping *chag*
+- **H6116 עֲצָרָה (ʻătsârâh)** — solemn assembly, especially a festival gathering
+
+### Antonyms
+- **H60 אֵבֶל (ʼêbel)** — mourning; explicit feast-to-mourning reversal in Amos 8:10
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -121,6 +128,13 @@ Zechariah envisions chag expanding from an Israelite obligation to a universal a
 | מוֹעֵד (môwʻêd) | H4150 | both → "feast", "solemn feast" | môwʻêd = any appointed time/place/meeting (229x, broader); chag = specifically the pilgrimage festival with processional character |
 | מִשְׁתֶּה (mishteh) | H4960 | both → "feast", "a feast" | mishteh = a drinking feast, banquet (social/celebratory); chag = a sacred pilgrimage festival commanded by God |
 | עֲצֶרֶת (ʻătsâreth) | H6116 | both appear in festival contexts | ʻătsâreth = the closing solemn assembly at end of feast; chag = the whole festival period |
+
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 002002002011 | Festivals | Primary pilgrimage-feast field documented throughout the study |
+| 001002006 | Animals | Secondary sacrificial-victim sense, matching the lexicon note "a victim therefor" |
 
 ## LXX Mapping
 
@@ -141,5 +155,5 @@ Zechariah envisions chag expanding from an Israelite obligation to a universal a
 - [WG-weeks.md](WG-weeks.md) — feast of weeks context
 
 ---
-*Generated from: gather_word_data.py, gather_trace_data.py, search_strongs.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, gather_trace_data.py, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

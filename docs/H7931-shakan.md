@@ -145,12 +145,28 @@ Judgment oracles invert the dwelling promise: where Israel once shakan in the la
 - **H4908 מִשְׁכָּן (mishkân)** — tabernacle, dwelling-place; the primary derived noun (139x); the portable sanctuary where YHWH chose to shakan
 - **H4907 מִשְׁכַּן (mishkan)** — Aramaic cognate noun; "habitation/residence"
 
+### Synonyms
+- **H5123 נום** — the only direct synonym returned by `search_relationships.py`, linking shākan with the "rest/settle" field.
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for H7931.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
 |------|----------|--------------------|----------------|
 | יָשַׁב (yâshab) | H3427 | both = "dwell/dwelt" (dominant overlap) | yashab = sit, settle with established permanence; shakan = encamp, rest like a bird or cloud — implies a choosing to settle, often divine condescension |
 | גּוּר (gûwr) | H1481 | both = "dwell/abide" occasionally | gur = to sojourn as an outsider, temporary foreigner; shakan = to establish a settled presence, permanent or semi-permanent |
+
+## UBS Semantic Domains
+
+- **[002002001005] Dwell** — primary residence field; `search_relationships.py` groups *shākan* with H166/H168 אֹהֶל and H1481 גּוּר.
+- **[002001001019] Dead** — a secondary broader bucket returned by the relationship tool.
+- **[002003003011] Engage** — broader occupancy/encounter field in the UBS relationship data.
+- **[002002001017] Space** — spatial-location vocabulary linked with dwelling and place.
+- **[002001001057] Stance** — settled/resting posture bucket adjacent to shākan's "abide" nuance.
+- **[002001001064] Weak** — another secondary relationship bucket returned by the tool.
 
 ## LXX Mapping
 
@@ -166,9 +182,11 @@ The LXX's dominant choice, G2681 κατασκηνόω (kata + skēnē, "to camp 
 
 - [TR-shakan-kataskenoo.md](TR-shakan-kataskenoo.md) — cross-testament trace: shākan → κατασκηνόω
 - [G4637-skenoo.md](G4637-skenoo.md) — σκηνόω (NT "tabernacle" verb derived from same σκηνή root)
+- [G2647-katalyo.md](G2647-katalyo.md) — Greek lodging/dwelling verb surfaced by the relationship tool
+- [H5521-cukkah.md](H5521-cukkah.md) — dwelling/booth study linked through the same habitation field
 - [WG-tabernacle.md](WG-tabernacle.md) — tabernacle/tent-dwelling word group (σκηνή family)
 - [H4908-mishkan.md](H4908-mishkan.md) — TODO: primary derived noun (Tabernacle)
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, kjv.txt*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, search_strongs.py, kjv.txt, search_relationships.py*
+*Last updated: 2026-04-27*

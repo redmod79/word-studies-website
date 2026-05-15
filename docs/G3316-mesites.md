@@ -15,10 +15,16 @@
 
 *Thayer:* μεσίτης, μεσίτου, ὁ (μέσος) — one who intervenes between two, either in order to make or restore peace and friendship, or to form a compact, or for ratifying a covenant: a medium of communication, arbitrator (Vulg. and KJV: *mediator*). Used of Moses, as one who brought the commands of God to the people and acted as mediator on their behalf (Gal 3:19; cf. Deut 5:5); called μεσίτης καί διαλλακτής by Philo. Christ is called the μεσίτης Θεοῦ καί ἀνθρώπων, since he interposed by his death and restored the harmony between God and man which human sin had broken (1 Tim 2:5); also μεσίτης διαθήκης (Heb 8:6; 9:15; 12:24). Also in Polybius, Diodorus, Philo, Josephus, Plutarch; once in LXX at Job 9:33.
 
-## Louw-Nida Semantic Domains
+## Semantic Domains
+
+**Louw-Nida:**
 
 - **Domain 031003** — Agree, Consent (classified as go-between facilitating agreement)
 - **Domain 040 / 040001** — Reconciliation, Forgiveness / Reconciliation (classified as restorer of broken relationship)
+
+**UBS Semantic Domains:**
+- **[031]** Hold a View, Believe, Trust
+- **[040]** Reconciliation, Forgiveness
 
 | Neighbor (031003) | Strong's | Total vv | Primary KJV Translation |
 |-------------------|----------|----------|-------------------------|
@@ -87,6 +93,14 @@ The word binds directly to διαθήκη (covenant) in all three Hebrews occurr
 - **G3315 μεσιτεύω** (mesiteuo) — to mediate, to interpose, to act as surety; verb (1 occ., Heb 6:17: God "confirmed it by an oath")
 - **G3319 μέσος** (mesos) — middle, midst; root adjective (61 occ., e.g. "in the midst of")
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G3316.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G3316.*
+
 ### Easily Confused Words
 μεσίτης is consistently and exclusively translated "mediator" in the KJV with no overlap with other Strong's numbers. Conceptually related but distinct:
 
@@ -107,7 +121,14 @@ The theological role maps conceptually to:
 ## See Also
 
 - [G1242-diatheke.md](G1242-diatheke.md) — covenant (co-occurs 3×; "mediator of a better/new covenant")
+- [G2643-katallage.md](G2643-katallage.md) — reconciliation; result of successful mediation
+- [G2409-hiereus.md](G2409-hiereus.md) — priest; overlapping but distinct intercessory role
+- [G3875-parakletos.md](G3875-parakletos.md) — advocate / comforter; related but not identical mediatorial imagery
+- [G487-antilytron.md](G487-antilytron.md) — ransom; appears in the immediate 1 Tim 2 context
+- [G1793-entynchano.md](G1793-entynchano.md) — intercede; the verbal action related to mediation
+- [WG-intercession.md](WG-intercession.md) — word group for intercession language
+- [WG-advocacy-comfort.md](WG-advocacy-comfort.md) — broader advocacy / helper concept cluster
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py --lexicon, louw_nida.db*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py --lexicon, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

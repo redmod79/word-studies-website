@@ -16,7 +16,7 @@ capture.
 | H995 | בִּין | bîyn | verb | 162 | Mental discernment — separating true from false | [H995-biyn.md](H995-biyn.md) |
 | H2450 | חָכָם | châkâm | adj | 133 | The quality of being wise (skilled, intelligent) | TODO(need H2450 study) |
 | H2449 | חָכַם | châkam | verb | 26 | To become/be wise (root of entire ḥokmāh cluster) | TODO(need H2449 study) |
-| H6743 | צָלַח | tsâlach | verb | 64 | To prosper, succeed — the outcome of wise obedience | TODO(need H6743 study) |
+| H6743 | צָלַח | tsâlach | verb | 64 | To prosper, succeed — the outcome of wise obedience | [H6743-tsalach.md](H6743-tsalach.md) |
 
 ## Relationships
 

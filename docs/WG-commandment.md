@@ -9,8 +9,8 @@ The commandment concept in the NT involves a cluster of Greek words for authorit
 |----------|------|-----------------|-----|-------------|-----------------|---------------|
 | G1785 | ἐντολή | entolē | noun | 67 | The directive itself (commandment) | [G1785](G1785-entole.md) |
 | G1781 | ἐντέλλομαι | entellomai | verb | 17 | The act of commanding | TODO(need G1781 study) |
-| G1778 | ἔνταλμα | entalma | noun | 3 | Human precept (pejorative) | TODO(need G1778 study) |
-| G2003 | ἐπιταγή | epitagē | noun | 7 | Authoritative decree/injunction | TODO(need G2003 study) |
+| G1778 | ἔνταλμα | entalma | noun | 3 | Human precept (pejorative) | [G1778](G1778-entalma.md) |
+| G2003 | ἐπιταγή | epitagē | noun | 7 | Authoritative decree/injunction | [G2003](G2003-epitage.md) |
 | G3551 | νόμος | nomos | noun | 194 | The law system containing commandments | [G3551](G3551-nomos.md) |
 | G5083 | τηρέω | tēreō | verb | 75 | The response: to keep/guard | [G5083-tereo](G5083-tereo.md) |
 | G25 | ἀγαπάω | agapaō | verb | 143 | Love: both content and motive of obedience | — |

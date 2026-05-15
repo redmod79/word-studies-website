@@ -122,6 +122,14 @@ Architectural usage for the third level of a building.
 - **H8027 שָׁלַשׁ (shalash)** — verb: to do a third time, to do three things, to be three years old
 - **H8029 שִׁלֵּשׁ (shillesh)** — great-grandchild (third-generation descendant)
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for H7992.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for H7992.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -131,6 +139,12 @@ Architectural usage for the third level of a building.
 | שִׁלֵּשׁ (shillesh) | H8029 | "the third" (4x) | H8029 = noun "great-grandchild" (third generation); H7992 = ordinal numeral |
 | תְּלִיתַי (tlithay) | H8523 | "third" (Aramaic) | H8523 = Aramaic ordinal used in Daniel; H7992 = Hebrew ordinal |
 | תְּלַת (tlath) | H8531 | "third" (Aramaic) | H8531 = Aramaic "tertiary rank"; H7992 = standard Hebrew ordinal |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002001001042] Quantity** — `search_relationships.py` places *shliyshiy* in the same numeric field as the base numeral family, reflecting its ordinal derivation from **H7969 שָׁלוֹשׁ**.
+- **[002001003009] Frequency** — the relationship data also links *shliyshiy* to recurrence / sequence language, fitting uses such as "the third time" and recurring rank markers.
 
 ## LXX Mapping
 
@@ -145,9 +159,11 @@ Architectural usage for the third level of a building.
 
 ## See Also
 
+- [G5154-tritos.md](G5154-tritos.md) — Greek ordinal counterpart closely aligned with shliyshiy
+- [H7969-shalowsh.md](H7969-shalowsh.md) — underlying cardinal number from which shliyshiy is derived
 - [TR-shliyshiy-tritos.md](TR-shliyshiy-tritos.md) — cross-testament trace: Hebrew "third" through LXX into NT
 - [WG-third.md](WG-third.md) — word group: ordinal numbers and "third" concept cluster
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, kjv.txt*
-*Last updated: 2026-04-15*
+*Generated from: gather_word_data.py, search_strongs.py, kjv.txt, search_relationships.py*
+*Last updated: 2026-04-27*

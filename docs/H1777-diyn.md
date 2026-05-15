@@ -110,12 +110,34 @@ The alternate root form dûwn emphasizes dispute and contest rather than formal 
 - **H1778 דִּין (diyn, Aramaic)** — Aramaic equivalent: to judge (Dan 4, Ezra 7)
 - **H1781 דַּיָּן (dayyan)** — judge, advocate (1 Sam 24:15 in some MSS; Isa 33:22)
 
+### Synonyms
+- **H3467 יָשַׁע (yasha')** — `search_relationships.py` links *dîyn* with the vindicating/delivering side of judging, where right judgment rescues the oppressed.
+- **H5162 נָחַם (nacham)** — returned as a near-neighbor in the relief/comfort field touched by just judgment or advocacy.
+- **H7379 רִיב (riyb)** — close overlap in the legal-dispute / contention field.
+- **H8104 שָׁמַר (shamar)** — grouped by the relationship tool where judging overlaps with guarding or keeping covenant order.
+- **H8199 שָׁפַט (shaphat)** — the nearest judicial parallel; broader and more common, but semantically adjacent throughout the legal domain.
+
+### Antonyms
+
+No antonyms were returned by `search_relationships.py` for H1777.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
 |------|----------|--------------------|----------------|
 | שָׁפַט (shaphat) | H8199 | both: "shall judge," "judge" | shaphat is the standard term for adjudicating cases (204+ verses); H1777 specifically stresses ruling authority and championing a cause (24 verses) |
 | רִיב (riyb) | H7378 | both: "plead," "contend" | riyb emphasizes adversarial dispute/quarrel; H1777 emphasizes judicial function |
+
+## Semantic Domains
+
+Because *dîyn* spans judging, pleading, contending, and vindicating, `search_relationships.py` maps it into several adjacent domains:
+
+### UBS / Relationship Domains
+- **[002004002006] Judge** — the core judicial bucket, with neighbors such as **H1779 דּוּן**, **A1780 דִּין**, **A1784 דִּינָיֵא**, **A1884 דְּתָבַר**, and **H3027 יָד**.
+- **[002001002023] Relief** — an advocacy / rescue-adjacent field, alongside **H935 בוא**, **H3947 לקח**, **A4391/H4390/H4392 מלא**, and **H4494 מָנֹוחַ**.
+- **[002003003019] Safe** — a preservation field that helps explain why the relationship tool associates judgment with protection or vindication, alongside **H1 אָב**, **H622 אסף**, **H724 אֲרוּכָה**, **H995 בין**, and **H1350 גאל / גְּאוּלִים**.
+- **[002003002006] Conflict** — the contention side of *dîyn*, grouped with **H340/H341 איב**, **H578/H579 אנה**, **H935 בוא**, and **H1464 גוד**.
+- **[002002001017] Space** — a broad adjacent bucket also returned by the relationship tool, alongside **A638/H637/H639 אַף**, **A870 אֲתַר**, and **H935 בוא**.
 
 ## LXX Mapping
 
@@ -134,5 +156,5 @@ The alternate root form dûwn emphasizes dispute and contest rather than formal 
 - [H1779-diyn.md](H1779-diyn.md) — cognate noun (judgment, cause) — *TODO: not yet in library*
 
 ---
-*Generated from: gather_word_data.py, hebrew_parser.py, kjv.txt*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, hebrew_parser.py, kjv.txt, search_relationships.py*
+*Last updated: 2026-04-27*

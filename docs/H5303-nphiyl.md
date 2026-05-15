@@ -64,6 +64,14 @@ The word appears twice in this verse — first identifying what the spies saw, t
 ### Word Family / Cognates
 - **H5307 נָפַל (nâphal)** — root verb, "to fall" (434 occurrences); nᵉphîyl derives from this root via the nif'al pattern
 
+### Synonyms
+
+No curated synonyms were returned by `search_relationships.py` for H5303.
+
+### Antonyms
+
+No antonyms were returned by `search_relationships.py` for H5303.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -71,11 +79,16 @@ The word appears twice in this verse — first identifying what the spies saw, t
 | רָפָא (râphâʼ / Rephaim) | H7497 | both translated "giants" / "of the giants" | H7497 is used for the Rephaim, a distinct group of ancient large people in Canaan/Transjordan (Gen 14:5; Deut 2:10–11; 2 Sam 21); H5303 (Nephilim) appears only in Gen 6:4 and Num 13:33 |
 | גִּבּוֹר (gibbôwr) | H1368 | KJV translates H1368 "like a giant" once (Ps 19:5) | gibbôwr means "mighty man / warrior / hero" (160+ uses); nᵉphîyl is a specific category of being, not a generic word for "mighty" |
 
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[003001006] Names of Groups** — `search_relationships.py` places *nᵉphîyl* in a group-name category alongside ethnonym / clan labels such as **H33 אֲבִי הָעֶזְרִי**, **H91 אֲגָגִי**, **H123/H130/H726 אֱדוֹם / אֱדוֹמִי**, and **H244 אָזְנִי**.
+
 ## See Also
 
 - [H5315-nephesh.md](H5315-nephesh.md) — related root cluster (nâphal vs. nâphash); both in the H53xx range
-- [H5307-naphal.md](H5307-naphal.md) — root verb (study not yet created) — TODO(need H5307 study)
+- [H5307-naphal.md](H5307-naphal.md) — root verb: to fall (traditional etymology for nᵉphîyl as "fallen ones")
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py --lookup, search_strongs.py --lxx-map*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, search_strongs.py --lookup, search_strongs.py --lxx-map, search_relationships.py*
+*Last updated: 2026-04-27*

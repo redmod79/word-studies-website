@@ -68,6 +68,14 @@ With only 2 verses, each collocation appears once (50%). Theologically meaningfu
 
 No documented Hebrew cognates; root is marked "unused" in the lexicon. The word appears to be a nominal form from a root that left no other biblical derivatives.
 
+### Synonyms
+
+No synonym entries were returned by `search_relationships.py` for H1860.
+
+### Antonyms
+
+No antonym entries were returned by `search_relationships.py` for H1860.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -76,10 +84,15 @@ No documented Hebrew cognates; root is marked "unused" in the lexicon. The word 
 | חֶרְפָּה (cherpâh) | H2781 | both in shame/contempt vocabulary | cherpah = reproach/disgrace before others (73x, wide social range); deraon = visceral revulsion, occurs only in final-judgment contexts |
 | בִּזָּיוֹן (bizzâyôwn) | H963 | both → "contempt" | bizzayon = contempt/disesteem (1x, Esth 1:18, non-eschatological); deraon restricted to eschatological disgrace |
 
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002001002005] Despise** — `search_relationships.py` places *dᵉrâʼôwn* in the contempt/despising field alongside **H936 בוז**, **H937 בּוּז**, **H938 בּוּז**, **H939 בּוּזָה**, **H947 בוס**, and **H959 בזה**.
+
 ## LXX Mapping
 
 No LXX alignment data available in the tools database for H1860. The word's extreme rarity (2 occurrences) limits cross-reference data. The LXX treatment of Dan 12:2 varies between the Old Greek and Theodotion recensions; no PMI-weighted mapping was returned.
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, kjv.txt*
-*Date: 2026-04-01*
+*Generated from: gather_word_data.py, search_strongs.py, kjv.txt, search_relationships.py*
+*Last updated: 2026-04-27*

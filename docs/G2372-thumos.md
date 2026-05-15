@@ -15,11 +15,17 @@
 
 Passion (as if breathing hard); fierceness, indignation, wrath. From θύω (G2380), "to rush/breathe hard." The root image is of heated breathing — the physical sensation of intense, boiling anger. Distinguished from ὀργή (orgē) as the more passionate, turbulent eruption of fury versus settled, deliberate anger.
 
-## Louw-Nida Semantic Domains
+## Semantic Domains
 
-- **Domain 88.24** — Anger, Be Indignant With (anger, fury, wrath)
-- **Domain 25.2** — Desire Strongly (passionate intensity)
-- **Other words in 88.24:** ὀργή (orgē, G3709), ὀργίζω (orgizō, G3710), ὀργίλος (orgilos, G3711), θυμόω (thumoō, G2373), θυμομαχέω (thumomacheō, G2371), παροργίζω (parorgizō, G3949)
+**Louw-Nida:**
+- **88.24** — Anger, Be Indignant With (anger, fury, wrath)
+- **25.2** — Desire Strongly (passionate intensity)
+
+Other words in 88.24: ὀργή (orgē, G3709), ὀργίζω (orgizō, G3710), ὀργίλος (orgilos, G3711), θυμόω (thumoō, G2373), θυμομαχέω (thumomacheō, G2371), παροργίζω (parorgizō, G3949)
+
+**UBS Semantic Domains:**
+- **[088]** Moral and Ethical Qualities and Related Behavior
+- **[025]** Attitudes and Emotions
 
 ## Translation Distribution (KJV)
 
@@ -105,6 +111,18 @@ The "wine of wrath" collocation (oinos + thumos) is distinctive to Revelation an
 - **G1760 ἐνθυμέομαι (enthyméomai)** — to ponder inwardly (compound: ἐν + θυμός)
 - **G2115 εὔθυμος (eúthymos)** — of good cheer (compound: εὖ + θυμός)
 
+### Synonyms
+
+`search_relationships.py` surfaced the immediate wrath/anger field around θυμός:
+- **G3709 ὀργή (orgē)** — wrath; the nearest NT parallel, though typically more settled or judicial than θυμός
+- **G3950 παροργισμός (parorgismos)** — provocation to anger / wrath; a closely related anger term but narrower than θυμός
+- **G2205 ζῆλος (zēlos)** — zeal, jealousy; overlaps in heated emotional intensity
+- **G3949 παροργίζω (parorgizō)** — provoke to wrath; verbal counterpart in the same anger field
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G2372.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -128,8 +146,17 @@ The primary Hebrew equivalent is חֵמָה (chemah, H2534), sharing the core me
 
 ## See Also
 
-- No TR, WG, or EN files currently exist for this word.
+- [G3709-orge.md](G3709-orge.md) — wrath/anger; the closest NT comparison term
+- [WG-wrath.md](WG-wrath.md) — wrath word group
+- [H2534-chemah.md](H2534-chemah.md) — Hebrew heat/fury; primary OT source field
+- [H2195-zaam.md](H2195-zaam.md) — indignation/fury; secondary OT source field
+- [H2550-chamal.md](H2550-chamal.md) — pity/compassion; contrasting emotional response
+- [G3631-oinos.md](G3631-oinos.md) — wine; Revelation's "wine of wrath" collocation
+- [G1484-ethnos.md](G1484-ethnos.md) — nations; recurring object of wrath imagery in Revelation
+- [G2316-theos.md](G2316-theos.md) — God; dominant "wrath of God" collocation
+- [G2368-thymiama.md](G2368-thymiama.md) — incense; linked by the shared fume/smoke root imagery
+- [G5357-phiale.md](G5357-phiale.md) — vial/bowl; wrath poured out from the bowls in Revelation
 
 ---
-*Generated from: search_strongs.py, louw_nida.db, strongs_translations.db*
-*Last updated: 2026-03-31*
+*Generated from: search_strongs.py, louw_nida.db, strongs_translations.db, search_relationships.py*
+*Last updated: 2026-04-27*

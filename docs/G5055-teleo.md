@@ -23,6 +23,28 @@ accomplish, make an end, expire, fill up, finish, go over, pay, perform.
 - **Other words in domain:** ἀναπληρόω (G0378), ἀπαρτισμός (G0535), ἀποτελέω (G0658), διανύω (G1274), ἐκτελέω (G1615), ἐπιτελέω (G2005), εὐοδόω (G2137), κρατέω (G2902), πληροφορέω (G4135), πληρόω (G4137)
 - **Also classified:** 067.003 (End/Beginning), 036.003 (Obey/Fulfill), 013 (Happen/Come to pass)
 
+**UBS Semantic Domains:**
+- **[068]** Aspect
+- **[067]** Time
+- **[013]** Be, Become, Exist, Happen
+- **[036]** Guide, Discipline, Follow
+- **[057]** Possess, Transfer, Exchange
+
+### Louw-Nida Domain Neighbors (068.003 — Complete, Finish, Succeed)
+
+| Strong's | Lemma | Total vv | Primary KJV Translation(s) |
+|----------|-------|----------|---------------------------|
+| G0378 | ἀναπληρόω | 6 | fill up, fulfil, supply |
+| G0535 | ἀπαρτισμός | 1 | finishing |
+| G0658 | ἀποτελέω | 2 | finish, was..perfected |
+| G1274 | διανύω | 1 | had finished |
+| G1615 | ἐκτελέω | 2 | finish |
+| G2005 | ἐπιτελέω | 10 | perform, accomplish, finish, complete |
+| G2137 | εὐοδόω | 4 | prosper, have a prosperous journey |
+| G2902 | κρατέω | 47 | hold, take, hold fast |
+| G4135 | πληροφορέω | 5 | be fully persuaded, be most surely believed |
+| G4137 | πληρόω | 87 | fulfil, fill, be full, complete |
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -111,6 +133,14 @@ Prophetic periods, plagues, and the mystery of God reaching their terminus.
 - **G4931 συντελέω (synteleō)** — to complete, consummate (7 verses)
 - **G2005 ἐπιτελέω (epiteléō)** — to bring to completion, finish off (10 verses)
 
+### Synonyms
+
+*No synonyms were returned by `search_relationships.py` for G5055.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G5055.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -131,9 +161,19 @@ The primary Hebrew background word is H3615 כָּלָה (kalah) — "to end, ce
 
 ## See Also
 
-- [G4137-pleroo.md](G4137-pleroo.md) — πληρόω: closely related "fulfill/fill" verb often used in same contexts
-- [WG-fulfillment.md](WG-fulfillment.md) — Word group: Fulfillment / Fullness (includes cognate G5048 τελειόω)
+- [G5056-telos.md](G5056-telos.md) — τέλος: root noun — end, goal, tribute, outcome (32 verses)
+- [G5048-teleioo.md](G5048-teleioo.md) — τελειόω: make perfect, bring to completion (24 verses)
+- [G4931-synteleo.md](G4931-synteleo.md) — συντελέω: consummate, end entirely (7 verses)
+- [G4930-synteleia.md](G4930-synteleia.md) — συντέλεια: consummation, end of an age (6 verses)
+- [G2005-epiteleo.md](G2005-epiteleo.md) — ἐπιτελέω: bring to completion, finish off (10 verses)
+- [G4137-pleroo.md](G4137-pleroo.md) — πληρόω: fill, fulfill (87 verses)
+- [G3551-nomos.md](G3551-nomos.md) — law vocabulary linked by the "fulfil the law" usage
+- [G1125-grapho.md](G1125-grapho.md) — Scripture-writing vocabulary in the "accomplished/fulfilled" contexts
+- [G2424-Iesous.md](G2424-Iesous.md) — Jesus as the speaker of τετέλεσται and agent in narrative-completion uses
+- [TR-kalah-synteleo.md](TR-kalah-synteleo.md) — Cross-testament trace: H3615 kalah → G4931 synteleō
+- [WG-fulfillment.md](WG-fulfillment.md) — Word group: Fulfillment / Fullness vocabulary cluster
+- [WG-perfection.md](WG-perfection.md) — Word group: Perfection / Completion (τελ- family)
 
 ---
-*Generated from: gather_word_data.py G5055, greek_parser.py --lemma τελέω*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py G5055, search_relationships.py G5055, strongs_translations.db, louw_nida.db*
+*Last updated: 2026-04-28*

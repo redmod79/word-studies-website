@@ -8,7 +8,7 @@ The concept of "opening" in the NT involves a cluster of words describing the ac
 | Strong's | Word | Transliteration | POS | Verses | Role in Concept | Library Entry |
 |----------|------|-----------------|-----|--------|-----------------|---------------|
 | G455 | ἀνοίγω | anoigo | verb | 75 | The primary action: to open | [G455-anoigo.md](G455-anoigo.md) |
-| G2808 | κλείω | kleio | verb | 15 | Antonym: to shut/close | TODO(need G2808 study) |
+| G2808 | κλείω | kleio | verb | 15 | Antonym: to shut/close | [G2808-kleio.md](G2808-kleio.md) |
 | G1272 | διανοίγω | dianoigo | verb | 8 | Intensified opening: to open thoroughly | TODO(need G1272 study) |
 | G4973 | σφραγίς | sphragis | noun | 16 | Object opened: seal | [G4973-sphragis.md](G4973-sphragis.md) |
 | G2374 | θύρα | thyra | noun | 37 | Object opened: door | TODO(need G2374 study) |

@@ -83,6 +83,14 @@ Kippur cited as a category marker for the special sin offering prescribed alongs
 - **H3724 כֹּפֶר (kopher)** — ransom price, satisfaction, bribe; the amount paid (17 occurrences)
 - **H3727 כַּפֹּרֶת (kapporeth)** — the mercy seat / atonement cover on the ark (27 occurrences)
 
+### Synonyms
+
+No synonyms were returned by `search_relationships.py` for H3725.
+
+### Antonyms
+
+No antonyms were returned by `search_relationships.py` for H3725.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -90,6 +98,11 @@ Kippur cited as a category marker for the special sin offering prescribed alongs
 | כָּפַר (kaphar) | H3722 | both yield "atonement" in KJV | kaphar is the verb (the action performed); kippur is the noun (the event or ritual result) |
 | כַּפֹּרֶת (kapporeth) | H3727 | both tied to "atonement" context | kapporeth = the physical atonement cover / mercy seat; kippur = the abstract event of expiation |
 | כֹּפֶר (kopher) | H3724 | both derive from כפר root | kopher = the ransom price or substitute paid; kippur = the resulting state of expiation |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002003003015] Innocent** — `search_relationships.py` places *kippur* in a cleared/blameless field, alongside neighbors such as **H935 בוא**, **H1252/H1253 בֹּר**, **H1305 ברר**, and **H1460 גֵּו**.
 
 ## LXX Mapping
 
@@ -111,5 +124,5 @@ No auto-trace generated: no dominant Greek equivalent meets the threshold (≥20
 - [WG-atonement.md](WG-atonement.md) — word group: the full atonement concept cluster (kaphar, kopher, kippur, kapporeth, chattaah, dam, kohen, mizbeach, salach, taher, avon)
 
 ---
-*Generated from: gather_word_data.py, KJV verse texts*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, KJV verse texts, search_relationships.py*
+*Last updated: 2026-04-27*

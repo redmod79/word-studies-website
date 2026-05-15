@@ -129,6 +129,20 @@ Proverbs and Qohelet treat keeping commandments as the path to flourishing — f
 ### Word Family / Cognates
 - **H6680 צָוָה (tsavah)** — root verb: to command, charge, appoint (494 occurrences — the verbal form that generates mitsvah)
 
+### Synonyms
+- **H548 אֲמָנָה (amanah)** — covenant obligation or binding provision; overlaps with *mitsvâh* in legal-obligational contexts.
+- **H2706 חֹק (choq)** — statute, fixed decree; a close law-term neighbor for prescribed obligations.
+- **H2708 חֻקָּה (chuqqah)** — statute, ordinance; often paired with *mitsvâh* in covenant-law formulas.
+- **H4931 מִשְׁמֶרֶת (mishmereth)** — charge, obligation to be kept; overlaps in "keep the charge/commandment" contexts.
+- **H4941 מִשְׁפָּט (mishpat)** — judgment, ordinance; another core covenant-law term alongside *mitsvâh*.
+- **H5713 עֵדוּת (eduth)** — testimony, covenant witness; part of the same covenant-instruction cluster.
+- **H6490 פִּקּוּדִים (piqqudim)** — precepts; especially close in Psalm 119's legal vocabulary.
+- **H8451 תּוֹרָה (torah)** — law, instruction; broader than a single commandment but semantically adjacent.
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for H4687.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -137,6 +151,12 @@ Proverbs and Qohelet treat keeping commandments as the path to flourishing — f
 | פִּקּוּד (piqqud) | H6490 | "his commandments" (2v) | piqqud = an enumerable precept/oversight; Psalm 119's vocabulary; mitsvah = a standing command |
 | תּוֹרָה (torah) | H8451 | "law/commandment" overlap | torah = the whole body of divine instruction; mitsvah = a single specific commandment within it |
 | דָּבָר (dabar) | H1697 | "commandment" (8v) | dabar = the authoritative word/thing spoken; mitsvah = the standing charge itself |
+
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 002003003016 | Laws | `search_relationships.py` places *mitsvâh* in the law/legislation field, matching its role as a specific enjoined command within the broader covenant code. |
 
 ## LXX Mapping
 
@@ -157,5 +177,5 @@ The mapping to G1785 is nearly exclusive and highly reliable (PMI 6.75, score 34
 - [H4941-mishpat](H4941-mishpat.md) — mishpat (co-occurs in standard Deuteronomic triad)
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py (--lexicon, --lookup, --lxx-map)*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, search_strongs.py (--lexicon, --lookup, --lxx-map), search_relationships.py*
+*Last updated: 2026-04-27*

@@ -24,6 +24,12 @@ The word pictures bearing a weight *from below* — the posture of one who stays
 - **Subdomain:** 025.015 — Patience, Endurance, Perseverance
 - **Other words in subdomain:** ἀνεκτός (G414), ἀνεξίκακος (G420), ἀνέχω (G430), ἀνοχή (G463), βαστάζω (G941), καρτερέω (G2594), μακροθυμέω (G3114), μακροθυμία (G3115), στέγω (G4722), ὑπομένω (G5278)
 
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 025 | Attitudes and Emotions | `search_relationships.py` keeps *hupomonē* in the emotional/attitudinal field of endurance, aligning with its NT profile as steadfastness under pressure and hope-shaped waiting. |
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -116,6 +122,14 @@ Patience as a publicly visible mark — of apostolic ministry, of a congregation
 ### Word Family / Cognates
 - **G5278 ὑπομένω (hupomeno)** — cognate verb: to stay under, remain, endure (16 verses); the verbal action hupomone expresses as a noun
 
+### Synonyms
+
+- **G3115 μακροθυμία (makrothymia)** — returned by `search_relationships.py`; a near-synonym for patience/longsuffering, especially toward persons rather than circumstances.
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G5281.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -150,7 +164,12 @@ The Hebrew OT concept of "waiting for God" (qavah/yachal) is distributed across 
 
 - [WG-patience.md](WG-patience.md) — word group: patience, endurance, perseverance
 - [G4102-pistis.md](G4102-pistis.md) — faith (strongest collocate)
+- [G2041-ergon.md](G2041-ergon.md) — work/deed; appears in the collocation "work of faith... patience of hope"
+- [G2347-thlipsis.md](G2347-thlipsis.md) — tribulation; a repeated context in which endurance is produced and displayed
+- [G1466-egkrateia.md](G1466-egkrateia.md) — temperance/self-control; paired with patience in 2 Pet 1:6 and linked by related study references
+- [G3524-nephalios.md](G3524-nephalios.md) — sober/temperate; a related stability term surfaced through existing word-study references
+- [G161-aichmalosia.md](G161-aichmalosia.md) — captivity; a persecution-context study that cross-references endurance
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, gather_word_group_data.py*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, search_strongs.py, search_relationships.py, gather_word_group_data.py*
+*Last updated: 2026-04-28*

@@ -22,6 +22,14 @@ Probably from πήγνυμι (through the idea of gushing plumply); a fount (lit
 - **Domain 23.181:** Physiological Processes — a flow (of blood)
 - **Other words in "Bodies of Water" domain:** θάλασσα (G2281, sea), λίμνη (G3041, lake), ποταμός (G4215, river), φρέαρ (G5421, pit/well), χείμαρρος (G5493, brook)
 
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 001 | Geographical Objects and Features | `search_relationships.py` places *pēgē* in the natural-landscape field as a spring or fountain source. |
+| 007 | Constructions | Captures the well/cistern side of the word's usage, especially in John 4. |
+| 023 | Physiological Processes and States | Covers the bodily-flow sense in Mark 5:29 ("fountain of blood"). |
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -118,6 +126,16 @@ Singular dominates in narrative/metaphorical uses; plural appears exclusively in
 | ποταμός (potamos) | G4215 | 10 | river | Flowing waterway; πηγή is the origin point where water emerges |
 | φρέαρ (phrear) | G5421 | 7 | pit, well | Constructed/dug cistern; πηγή emphasizes the natural spring source |
 
+### Synonyms
+
+`search_relationships.py` returned a broad water-source field rather than tight lexical equivalents. The closest usable overlaps are:
+- **G5421 φρέαρ (phrear)** — well/cistern; the nearest structural parallel, though more often a dug well than a spring
+- **G5204 ὕδωρ (hydōr)** — water; not identical to *pēgē*, but the content/source term most closely paired with it
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G4077.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -141,8 +159,11 @@ The two strongest LXX bridges are H4599 מַעְיָן (a flowing spring, 19 co-
 
 ## See Also
 
+- [H4325-mayim.md](H4325-mayim.md) — water; major OT source field behind spring/fountain imagery
+- [TR-mayim-hudor.md](TR-mayim-hudor.md) — cross-testament trace for the broader water vocabulary
+- [H5640-catham.md](H5640-catham.md) — stop up/close; relevant to spring/well obstruction imagery
 - [G2222-zoe.md](G2222-zoe.md) — ζωή (life) — co-occurs in "fountain of the water of life"
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py*
-*Last updated: 2026-04-13*
+*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

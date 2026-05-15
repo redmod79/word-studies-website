@@ -22,6 +22,9 @@ From G4203; harlotry (including adultery and incest); figuratively, idolatry:—
 - **Broader Domain:** 088 — Moral and Ethical Qualities and Related Behavior
 - **Other words in subdomain:** ἀρσενοκοίτης (G733), ἀσέλγεια (G766), ἐκπορνεύω (G1608), κοίτη (G2845), μαλακός (G3120), μοιχαλίς (G3428), μοιχεία (G3430), μοιχεύω (G3431)
 
+**UBS Semantic Domains:**
+- **[088]** Moral and Ethical Qualities and Related Behavior
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -119,6 +122,16 @@ A single occurrence where porneia refers to birth outside proper marriage — us
 - **G4205 πόρνος (pornos)** — masculine noun: fornicator, whoremonger (10 vv); in vice lists and the excluded
 - **G1608 ἐκπορνεύω (ekporneuō)** — compound verb: give oneself over entirely to fornication (1 v; Jude 7)
 
+### Synonyms
+
+Excluding the cognate **G1608 ἐκπορνεύω (ekporneuō)** already listed above, `search_relationships.py` surfaced these adjacent terms:
+- **G946 βδέλυγμα (bdélygma)** — abomination; a frequent paired concept where πορνεία is treated as defiling and detestable before God
+- **G763 ἀσέβεια (asébeia)** — ungodliness; a broader moral category under which πορνεία can be classed
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G4202.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -153,8 +166,16 @@ Strongest Hebrew bridge is the zanah word family (H2181 verb + H8457/2183/2184 n
 
 ## See Also
 
+- [G4203-porneuo.md](G4203-porneuo.md) — cognate verb: to commit fornication
+- [G4204-porne.md](G4204-porne.md) — cognate feminine noun: harlot
+- [G4205-pornos.md](G4205-pornos.md) — cognate masculine noun: fornicator
+- [TR-zanah-porne.md](TR-zanah-porne.md) — cross-testament trace: zanah / harlotry imagery into the NT
+- [G167-akatharsia.md](G167-akatharsia.md) — uncleanness; broader impurity category often paired with πορνεία
+- [G946-bdelygma.md](G946-bdelygma.md) — abomination; defiling and detestable practices
+- [G3631-oinos.md](G3631-oinos.md) — wine; Revelation's "wine of her fornication" imagery
+- [G1484-ethnos.md](G1484-ethnos.md) — nations; repeated partner in Babylon's corrupting fornication
 - [WG-fornication.md](WG-fornication.md) — word group: πορνεία, πορνεύω, πόρνη, πόρνος, μοιχεία, ἀκαθαρσία, ἀσέλγεια
 
 ---
-*Generated from: gather_word_data.py, gather_word_group_data.py, search_strongs.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, gather_word_group_data.py, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

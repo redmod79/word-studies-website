@@ -8,12 +8,15 @@ The judgment concept in the Greek NT centers on the κρίν- word family — a 
 | Strong's | Word | Transliteration | POS | Occurrences | Role in Concept | Library Entry |
 |----------|------|-----------------|-----|-------------|-----------------|---------------|
 | G2920 | κρίσις | krísis | fem. noun | 47 | The process/act of judging | [G2920-krisis](G2920-krisis.md) |
-| G2919 | κρίνω | krinō | verb | 114 | The action (to judge, decide) | TODO(need G2919 study) |
+| G2919 | κρίνω | krinō | verb | 114 | The action (to judge, decide) | [G2919-krino.md](G2919-krino.md) |
 | G2917 | κρίμα | krima | neut. noun | 28 | The result (verdict, sentence) | [G2917-krima.md](G2917-krima.md) |
 | G2923 | κριτής | kritēs | masc. noun | 17 | The agent (the judge) | TODO(need G2923 study) |
 | G2922 | κριτήριον | kritērion | neut. noun | 3 | The place (court, tribunal) | TODO(need G2922 study) |
 | G2632 | κατακρίνω | katakrinō | verb | 18 | Intensified action (to condemn) | TODO(need G2632 study) |
-| G2631 | κατάκριμα | katakrima | neut. noun | 3 | Intensified result (condemnation) | TODO(need G2631 study) |
+| G2631 | κατάκριμα | katakrima | neut. noun | 3 | Intensified result (condemnation) | [G2631-katakrima.md](G2631-katakrima.md) |
+| G350 | ἀνακρίνω | anakrinō | verb | 16 | Investigative scrutiny (to examine, interrogate, sift) | [G350-anakrino.md](G350-anakrino.md) |
+| G351 | ἀνάκρισις | anakrisis | fem. noun | 1 | The investigation (judicial hearing) | TODO(need G351 study) |
+| G1252 | διακρίνω | diakrinō | verb | 19 | Thorough distinction (to evaluate, distinguish) | TODO(need G1252 study) |
 
 ## Relationships
 
@@ -25,6 +28,9 @@ All members derive from the root κρίνω (krinō, "to separate, distinguish, 
 - κριτήριον (-tērion suffix) → the instrument/place
 - κατα-κρίνω (kata- prefix) → intensified ("judge against" → condemn)
 - κατά-κριμα → intensified result
+- ἀνα-κρίνω (ana- prefix) → "judge upward/thoroughly" → investigate, scrutinize, sift evidence
+- ἀνά-κρισις → the investigation itself
+- δια-κρίνω (dia- prefix) → "judge through" → distinguish, evaluate, make a distinction
 
 ### Co-occurrence (appear in same verses)
 
@@ -55,6 +61,9 @@ Despite being cognates, these words rarely appear in the same verse — they occ
 - **Place:** κριτήριον (G2922) — the court or tribunal
 - **Intensified Action:** κατακρίνω (G2632) — to condemn ("judge against")
 - **Intensified Result:** κατάκριμα (G2631) — condemnation (the sentence of condemnation)
+- **Investigative Scrutiny:** ἀνακρίνω (G350) — to investigate, sift, examine ("judge upward/thoroughly")
+- **Investigation:** ἀνάκρισις (G351) — the judicial hearing or inquiry itself
+- **Thorough Distinction:** διακρίνω (G1252) — to evaluate, distinguish, separate thoroughly
 
 ## Key Passages Where Multiple Group Words Appear Together
 

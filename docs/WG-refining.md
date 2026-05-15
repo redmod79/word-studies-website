@@ -8,7 +8,7 @@ The fire-refining and proving cluster in Hebrew Scripture describes the process 
 | Strong's | Word | Transliteration | POS | Occurrences | Role in Concept | Library Entry |
 |----------|------|-----------------|-----|-------------|-----------------|---------------|
 | H6884 | צָרַף | tsaraph | verb | 29 | The primary action — smelt, refine, try with fire | [H6884](H6884-tsaraph.md) |
-| H974 | בָּחַן | bachan | verb | 28 | The proving action — test, examine, prove | TODO(need H974 study) |
+| H974 | בָּחַן | bachan | verb | 28 | The proving action — test, examine, prove | [H974-bachan.md](H974-bachan.md) |
 | H1305 | בָּרַר | barar | verb | 16 | The clarifying action — purify, choose, make bright | [H1305](H1305-barar.md) |
 | H4715 | מִצְרֵף | mitzreph | noun | 2 | The instrument — fining pot, crucible | TODO(need H4715 study) |
 

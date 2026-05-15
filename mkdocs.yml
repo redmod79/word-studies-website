@@ -69,284 +69,856 @@ nav:
 
   - "Word Studies":
     - "Hebrew":
+        - "H6 — אָבַד (ʼâbad)": H6-abad.md
+        - "H68 — אֶבֶן (ʼeben)": H68-eben.md
+        - "H120 — אָדַם (adam)": H120-adam.md
+        - "H136 — אֲדֹנָי (Adonai)": H136-adonai.md
+        - "H183 — אָוָה (ʼâvâh)": H183-avah.md
         - "H226 — אוֹת (ʼowth)": H226-owth.md
+        - "H259 — אֶחָד (ʼechâd)": H259-echad.md
+        - "H314 — אַחֲרוֹן (ʼachărôwn)": H314-acharown.md
+        - "H319 — אַחֲרִית (ʼachărîyth)": H319-achariyth.md
+        - "H376 — אִישׁ (ish)": H376-iysh.md
+        - "H398 — אָכַל (ʼâkal)": H398-akal.md
+        - "H410 — אֵל (ʼêl)": H410-el.md
+        - "H422 — אָלָה (ʼalah)": H422-alah.md
+        - "H423 — אָלָה (ʼalah)": H423-alah.md
+        - "H430 — אֱלֹהִים (ʼĕlôhîym)": H430-elohiym.md
+        - "H433 — אֱלוֹהַּ (ʼĕlôwahh / eloah)": H433-eloah.md
+        - "H457 — אֱלִיל (ʼĕlîyl)": H457-eliyl.md
+        - "H530 — אֱמוּנָה (emunah)": H530-emuwnah.md
+        - "H539 — אָמַן (ʼaman)": H539-aman.md
+        - "H571 — אֶמֶת (ʾĕmĕt)": H571-emeth.md
+        - "H606 — אֱנָשׁ (ʼĕnâsh / enash)": H606-enash.md
+        - "H639 — אַף (ʼaph)": H639-aph.md
+        - "H656 — אָפֵס (ʼaphes)": H656-aphec.md
+        - "H665 — אֵפֶר (ʼêpher)": H665-epher.md
+        - "H776 — אֶרֶץ (ʾerets)": H776-erets.md
+        - "H779 — אָרַר (ʼârar)": H779-arar.md
+        - "H784 — אֵשׁ (ʼêsh)": H784-esh.md
+        - "H811 — אֶשְׁכּוֹל (eshkowl)": H811-eshkowl.md
+        - "H816 — אָשַׁם (asham)": H816-asham.md
+        - "H817 — אָשָׁם (ʼasham)": H817-asham.md
+        - "H818 — אָשֵׁם (ashem)": H818-ashem.md
+        - "H819 — אַשְׁמָה (ʼashmah)": H819-ashmah.md
+        - "H835 — אֶשֶׁר (esher)": H835-esher.md
+        - "H894 — בָּבֶל (Bâbel)": H894-babel.md
+        - "H898 — בָּגַד (bagad)": H898-bagad.md
+        - "H899 — בֶּגֶד (beged)": H899-beged.md
+        - "H905 — בַּד (bad)": H905-bad.md
+        - "H906 — בַּד (bad)": H906-bad.md
+        - "H922 — בֹּהוּ (bohu)": H922-bohuw.md
+        - "H935 — בּוֹא (bôʾ)": H935-bo.md
+        - "H947 — בּוּס (bûwç)": H947-buwc.md
+        - "H974 — בָּחַן (bachan)": H974-bachan.md
+        - "H982 — בָּטַח (batach)": H982-batach.md
         - "H995 — בִּין (biyn)": H995-biyn.md
         - "H998 — בִּינָה (biynah)": H998-biynah.md
+        - "H1101 — בָּלַל (balal)": H1101-balal.md
+        - "H1115 — בִּלְתִּי (biltîy)": H1115-biltiy.md
         - "H1121 — בֵּן (ben)": H1121-ben.md
+        - "H1154 — בֶּסֶר (beser)": H1154-becer.md
+        - "H1242 — בֹּקֶר (bôqer)": H1242-boqer.md
+        - "H1247 — בַּר (bar)": H1247-bar.md
+        - "H1254 - בָּרָא (bara)": H1254-bara.md
         - "H1285 — בְּרִית (beriyth)": H1285-beriyth.md
+        - "H1288 — בָּרַךְ (barak)": H1288-barak.md
+        - "H1293 — בְּרָכָה (berakah)": H1293-brakah.md
         - "H1305 — בָּרַר (bârar)": H1305-barar.md
         - "H1319 — בָּשַׂר (basar)": H1319-basar.md
         - "H1320 — בָּשָׂר (bâsâr)": H1320-basar.md
         - "H1330 — בְּתוּלָה (bᵉthûwlâh)": H1330-bthuwlah.md
         - "H1331 — בְּתוּלִים (bᵉthûwlîym)": H1331-bthuwliym.md
+        - "H1351: גָּאַל (gaal) — defile, pollute, stain": H1351-gaal.md
+        - "H1361 - גָּבַהּ (gabahh)": H1361-gabahh.md
+        - "H1391-Gabriel — REDIRECT": H1391-Gabriel.md
+        - "H1391 — גִּבְעוֹן (Gibʻôwn)": H1391-gibown.md
         - "H1396 — גָּבַר (gâbar)": H1396-gabar.md
+        - "H1403 — גַּבְרִיאֵל (Gabrîʾēl)": H1403-gabriyel.md
+        - "H1419 — גָּדוֹל (gāḏôl / gâdôwl)": H1419-gadol.md
         - "H1431 — גָּדַל (gâdal)": H1431-gadal.md
+        - "H1471 — גּוֹי (gôwy)": H1471-gowy.md
+        - "H1486 — גּוֹרָל (gowral)": H1486-gowral.md
+        - "H1504 — גָּזַר (gazar)": H1504-gazar.md
+        - "H1509 — גְּזֵרָה (gezerah)": H1509-gzerah.md
+        - "H1612 — גֶּפֶן (gephen)": H1612-gephen.md
+        - "H1616 — גֵּר (ger)": H1616-ger.md
+        - "H1644 — גָּרַשׁ (gârash)": H1644-garash.md
+        - "H1687 — דְּבִיר (dᵉbîyr)": H1687-debir.md
         - "H1698 — דֶּבֶר (deber)": H1698-deber.md
+        - "H1740 — דּוּחַ (duwach)": H1740-duwach.md
+        - "H1758 — דּוּשׁ (dûwsh)": H1758-duwsh.md
         - "H1777 — דִּין (dîyn)": H1777-diyn.md
+        - "H1792 — דָּכָא (daka)": H1792-daka.md
         - "H1818 — דָּם (dâm)": H1818-dam.md
         - "H1847 — דַּעַת (da'ath)": H1847-daath.md
         - "H1860 — דְּרָאוֹן (dᵉrâʼôwn)": H1860-draown.md
+        - "H1880 — דֶּשֶׁן (deshen)": H1880-deshen.md
+        - "H1881 — דָּת (dâth)": H1881-dath.md
         - "H1961 — הָיָה (hayah)": H1961-hayah.md
+        - "H1964 — הֵיכָל (heykal)": H1964-heykal.md
+        - "H1965 — הֵיכַל (heikal)": H1965-heikal.md
+        - "H2022 — הַר (har)": H2022-har.md
+        - "H2026 — הָרַג (hârag)": H2026-harag.md
         - "H2076 — זָבַח (zâbach)": H2076-zabach.md
+        - "H2094 — זָהַר (zahar)": H2094-zahar.md
         - "H2142 — זָכַר (zâkar)": H2142-zakar.md
+        - "H2181 — זָנָה (zânâh)": H2181-zanah.md
         - "H2195 — זַעַם (zaʻam)": H2195-zaam.md
+        - "H2232 — זָרַע (zâraʻ)": H2232-zara.md
+        - "H2233 — זֶרַע (zeraʻ)": H2233-zera.md
+        - "H2236 — זָרַק (zaraq)": H2236-zaraq.md
+        - "H2250 — חַבּוּרָה (chabbuwrah)": H2250-chabbuwrah.md
+        - "H2254 — חָבַל (chabal)": H2254-chabal.md
         - "H2282 — חַג (chag)": H2282-chag.md
+        - "H2287 — חָגַג (chagag)": H2287-chagag.md
+        - "H2318 — חָדַשׁ (châdash)": H2318-chadash.md
+        - "H2320 — חֹדֶשׁ (chodesh)": H2320-chodesh.md
+        - "H2342 — חוּל (chuwl)": H2342-chuwl.md
+        - "H2351 — חוּץ (chuwts)": H2351-chuwts.md
+        - "H2353 — חוּר (chuwr)": H2353-chuwr.md
+        - "H2368 — חוֹתָם (chowtham)": H2368-chowtham.md
+        - "H2372 — חָזָה (chazah)": H2372-chazah.md
+        - "H2374 — חֹזֶה (chozeh)": H2374-chozeh.md
+        - "A2376 — חֵזֵו (chêzêv)": H2376-chezev.md
         - "H2377 — חָזוֹן (chazon)": H2377-chazon.md
+        - "H2380 — חָזוּת (chazuwth)": H2380-chazuwth.md
+        - "H2384 — חִזָּיוֹן (chizzayon)": H2384-chizzayon.md
+        - "H2388 — חָזַק (chazaq)": H2388-chazaq.md
+        - "H2398 — חָטָא (châṭâʼ)": H2398-chata.md
+        - "H2401 — חֲטָאָה (chăṭâʼâh)": H2401-chataah.md
         - "H2403 — חַטָּאָה (chaṭṭâʼâh)": H2403-chattaah.md
+        - "H2421 — חָיָה (châyâh)": H2421-chayah.md
+        - "H2442 — חָכָה (chakah)": H2442-chakah.md
+        - "H2451 - חׇכְמָה (chokmah)": H2451-chokmah.md
+        - "H2455 — חֹל (chol)": H2455-chol.md
+        - "H2470 — חָלָה (chalah)": H2470-chalah.md
+        - "H2472 — חֲלוֹם (chălôwm)": H2472-chalowm.md
+        - "H2485 — חָלִיל (chaliyl)": H2485-chaliyl.md
+        - "H2490 — חָלַל (chalal)": H2490-chalal.md
+        - "H2492 — חָלַם (châlam)": H2492-chalam.md
+        - "H2506 — חֵלֶק (cheleq)": H2506-cheleq.md
+        - "H2530 — חָמַד (chamad)": H2530-chamad.md
+        - "H2534 — חֵמָה (chemah)": H2534-chemah.md
+        - "H2549 — חֲמִישִׁי (chamiyshiy)": H2549-chamiyshiy.md
+        - "H2550 — חָמַל (châmal)": H2550-chamal.md
+        - "H2553 — חַמָּן (chammân)": H2553-chamman.md
+        - "H2555 — חָמָס (chamas)": H2555-chamac.md
+        - "H2561 — חֶמֶר (chemer)": H2561-chemer.md
+        - "H2603 — חָנַן (chânan)": H2603-chanan.md
+        - "H2610 — חָנֵף (chaneph)": H2610-chaneph.md
+        - "H2617 — חֶסֶד (checed)": H2617-checed.md
+        - "H2656 — חֵפֶץ (chêphets)": H2656-cheephets.md
         - "H2706 — חֹק (chôq)": H2706-choq.md
         - "H2708 — חֻקָּה (chuqqâh)": H2708-chuqqah.md
         - "H2710 — חָקַק (châqaq)": H2710-chaqaq.md
         - "H2719 — חֶרֶב (chereb)": H2719-chereb.md
+        - "H2742 — חֲרוּץ (charuwts)": H2742-charuwts.md
         - "H2763 — חָרַם (châram)": H2763-charam.md
         - "H2764 — חֵרֶם (chêrem)": H2764-cherem.md
         - "H2782 — חָרַץ (chârats)": H2782-charats.md
+        - "H2803 — חָשַׁב (châshab)": H2803-chashab.md
+        - "H2822 — חֹשֶׁךְ (choshek)": H2822-choshek.md
         - "H2852 — חָתַךְ (châthak)": H2852-chathak.md
         - "H2856 — חָתַם (châtham)": H2856-chatham.md
+        - "H2860 — חָתָן (châthân)": H2860-chathan.md
+        - "H2889 — טָהוֹר (tahowr)": H2889-tahowr.md
         - "H2891 — טָהֵר (ṭâhêr)": H2891-taher.md
+        - "H2892 — טֹהַר (tohar)": H2892-tohar.md
+        - "H2893 — טׇהֳרָה (ṭohŏrâh)": H2893-tohorah.md
+        - "H2930 — טָמֵא (ṭâmêʼ)": H2930-tame.md
         - "H2931 — טָמֵא (ṭâmêʼ)": H2931-tame.md
+        - "H2932 — טֻמְאָה (tumʼah)": H2932-tumah.md
+        - "H2945 — טַף (ṭaph)": H2945-taph.md
+        - "H2966 — טְרֵפָה (terephah)": H2966-terephah.md
+        - "H3027 — יָד (yad)": H3027-yad.md
+        - "H3034 — יָדָה (yadah)": H3034-yadah.md
         - "H3045 — יָדַע (yâdaʻ)": H3045-yada.md
+        - "H3050 — יָהּ (Yah)": H3050-yah.md
+        - "H3068 — יְהֹוָה (YHWH / Yᵉhôvâh)": H3068-yhwh.md
         - "H3117 — יוֹם (yôwm)": H3117-yowm.md
         - "H3173 — יָחִיד (yâchîyd)": H3173-yachiyd.md
+        - "H3196 — יַיִן (yayin)": H3196-yayin.md
+        - "H3225 — יָמִין (yamiyn)": H3225-yamiyn.md
+        - "H3247 — יְסוֹד (yesod)": H3247-ycowd.md
+        - "H3308 — יֳפִי (yŏphîy)": H3308-yophiy.md
+        - "H3314 — יִפְעָה (yiphʻâh)": H3314-yiphah.md
         - "H3318 — יָצָא (yâtsâʼ)": H3318-yatsa.md
         - "H3372 — יָרֵא (yare)": H3372-yare.md
+        - "H3374 — יִרְאָה (yirah)": H3374-yirah.md
+        - "H3384 — יָרָה (yarah)": H3384-yarah.md
+        - "H3423 — יָרַשׁ (yârash)": H3423-yarash.md
+        - "H3427 — יָשַׁב (yashab)": H3427-yashab.md
+        - "H3477 — יָשָׁר (yashar)": H3477-yashar.md
         - "H3499 — יֶתֶר (yether)": H3499-yether.md
+        - "H3513 — כָּבַד (kabad)": H3513-kabad.md
         - "H3519 — כָּבוֹד (kâbôwd)": H3519-kabowd.md
+        - "H3526 — כָּבַס (kabas)": H3526-kabac.md
+        - "H3548 — כֹּהֵן (kohen)": H3548-kohen.md
+        - "H3556 — כּוֹכָב (kôwkâb)": H3556-kokab.md
+        - "H3559 — כּוּן (kûn)": H3559-kun.md
+        - "H3563 — כּוֹס (kôwç)": H3563-kowc.md
+        - "H3594 — כִּיּוּן (Kîyûwn / Chiun)": H3594-kiyuwn.md
+        - "H3607 — כָּלָא (kala)": H3607-kala.md
+        - "H3615 — כָּלָה (kâlâh)": H3615-kalah.md
+        - "H3618 — כַּלָּה (kallâh)": H3618-kallah.md
+        - "H3634 — כָּלַל (kâlal)": H3634-kalal.md
+        - "H3649 — כָּמָר (kâmâr)": H3649-kamar.md
         - "H3722 — כָּפַר (kaphar)": H3722-kaphar.md
+        - "H3724 — כֹּפֶר (kopher)": H3724-kopher.md
         - "H3725 — כִּפֻּר (kippur)": H3725-kippur.md
         - "H3727 — כַּפֹּרֶת (kapporeth)": H3727-kapporeth.md
+        - "H3742 — כְּרוּב (kerub)": H3742-kruwb.md
+        - "H3769 — כָּרַר (karar)": H3769-karar.md
         - "H3772 — karath": H3772-karath.md
+        - "H3789 — כָּתַב (kathab)": H3789-kathab.md
         - "H3820 — לֵב (lêb)": H3820-leb.md
         - "H3835 — לָבַן (lâban)": H3835-laban.md
+        - "H3847 — לָבַשׁ (labash)": H3847-labash.md
+        - "H3915 — לַיִל (layil)": H3915-layil.md
+        - "H3948 — לֶקַח (leqach)": H3948-leqach.md
         - "H3966 — מְאֹד (meod)": H3966-mod.md
+        - "H4001 — מְבוּסָה (mᵉbûwçâh)": H4001-mbuwcah.md
         - "H4046 — מַגֵּפָה (maggephah)": H4046-maggephah.md
+        - "H4057 — מִדְבָּר (midbar)": H4057-midbar.md
+        - "H4135 — מוּל (muwl)": H4135-muwl.md
         - "H4150 — מוֹעֵד (mo'ed)": H4150-moed.md
+        - "H4161 — מוֹצָא (môwtsâʼ)": H4161-mowtsa.md
+        - "H4191 — מוּת (muwth)": H4191-muwth.md
+        - "H4194 — מָוֶת (maveth)": H4194-maveth.md
+        - "H4196 — מִזְבֵּחַ (mizbeach)": H4196-mizbeach.md
+        - "H4229 — מָחָה (machah)": H4229-machah.md
+        - "H4234 — מָחוֹל (machowl)": H4234-machowl.md
+        - "H4236 — מַחֲזֶה (machazeh)": H4236-machazeh.md
+        - "H4246 — מְחֹלָה (mecholah)": H4246-mcholah.md
+        - "H4254 — מַחֲלָצָה (machalatsah)": H4254-machalatsah.md
+        - "H4264 — מַחֲנֶה (machaneh)": H4264-machaneh.md
+        - "H4325 — מַיִם (mayim)": H4325-mayim.md
+        - "H4349 — מָכוֹן (mâkôwn)": H4349-makon.md
+        - "H4390 — מָלֵא (male')": H4390-male.md
+        - "H4394 — מִלֻּא (millu)": H4394-millu.md
         - "H4397 — מֲלְאָךְ (malak)": H4397-malak.md
+        - "H4428 — מֶלֶךְ (melek)": H4428-melek.md
+        - "H4432 — מֹלֶךְ (Môlek)": H4432-molek.md
         - "H4438 — מַלְכוּת (malkuwth)": H4438-malkuwth.md
+        - "H4469 — מַמְסָךְ (mamçâk)": H4469-mamcak.md
+        - "H4487 — מָנָה (manah)": H4487-manah.md
+        - "H4503 — מִנְחָה (minchah)": H4503-minchah.md
+        - "H4539 — מָסָךְ (macak)": H4539-macak.md
+        - "H4541 — מַסֵּכָה (maççêkâh)": H4541-maccekah.md
         - "H4581 — מָעוֹז (mâʻôwz)": H4581-maowz.md
+        - "H4583 — מָעוֹן (maʻown)": H4583-maown.md
+        - "H4603 — מָעַל (maʻal)": H4603-maal.md
+        - "H4604 — מַעַל (maʻal)": H4604-maal.md
+        - "H4656 — מִפְלֶצֶת (miphletseth)": H4656-miphletseth.md
         - "H4687 — מִצְוָה (mitsvâh)": H4687-mitsvah.md
+        - "H4701 — מִצְנֶפֶת (mitsnepheth)": H4701-mitsnepheth.md
         - "H4704 — מִצְּעִירָה (mitstsᵉʻîyrâh)": H4704-mitstsiyrah.md
         - "H4720 — מִקְדָּשׁ (miqdash)": H4720-miqdash.md
+        - "H4725 — מָקוֹם (mâqôwm)": H4725-maqom.md
         - "H4758 — מַרְאֶה (mar'eh)": H4758-mareh.md
+        - "H4759 — מַרְאָה (marʼâh)": H4759-marah.md
+        - "H4775 — מָרַד (mârad)": H4775-marad.md
+        - "H4784 — מָרָה (mârâh)": H4784-marah.md
+        - "H4805 — מְרִי (mᵉrîy)": H4805-mriy.md
+        - "H4820 — מִרְמָה (mirmah)": H4820-mirmah.md
+        - "H4823 — מִרְמָס (mirmâs)": H4823-mirmac.md
+        - "H4878 — מְשׁוּבָה (mᵉshûwbâh)": H4878-mshuwbah.md
         - "H4886 — מָשַׁח (mâshach)": H4886-mashach.md
         - "H4899 — מָשִׁיחַ (mâshîyach)": H4899-mashiyach.md
+        - "H4906 — מַשְׂכִּית (maskiyth)": H4906-maskiyth.md
+        - "H4908 — מִשְׁכָּן (mishkan)": H4908-mishkan.md
+        - "H4911 — מָשַׁל (mashal)": H4911-mashal.md
+        - "H4912 — מָשָׁל (mashal)": H4912-mashal.md
         - "H4941 — מִשְׁפָּט (mishpâṭ)": H4941-mishpat.md
+        - "H4960 — מִשְׁתֶּה (mishteh)": H4960-mishteh.md
         - "H5007 — נְאָצָה (ne'atsah)": H5007-natsah.md
         - "H5016 — נְבוּאָה (nᵉbûwʼâh)": H5016-nbuwah.md
+        - "H5038 — נְבֵלָה (nebelah)": H5038-nebelah.md
         - "H5057 — נָגִיד (nâgîyd)": H5057-nagiyd.md
+        - "H5060 — נָגַע (nâgaʻ)": H5060-naga.md
+        - "H5079 — נִדָּה (niddah)": H5079-niddah.md
         - "H5087 — נָדַר (nâdar)": H5087-nadar.md
         - "H5088 — נֶדֶר (neder)": H5088-neder.md
+        - "H5117 — נוּחַ (nuwach)": H5117-nuwach.md
         - "H5137 — נָזָה (nâzâh)": H5137-nazah.md
+        - "H5139 — נָזִיר (nâzîyr)": H5139-naziyr.md
         - "H5144 — נָזַר (nâzar)": H5144-nazar.md
+        - "H5145 — נֶזֶר (nezer)": H5145-nezer.md
+        - "H5162 — נָחַם (nâcham)": H5162-nacham.md
+        - "H5221 — נָכָה (nâkâh)": H5221-nakah.md
+        - "H5236 — נֵכָר (nekar)": H5236-nekar.md
+        - "H5237 — נׇכְרִי (nokriy)": H5237-nokriy.md
+        - "H5258 — נָסַךְ (nāsak)": H5258-nasak.md
+        - "H5262 — נֶסֶךְ (neçek)": H5262-necek.md
+        - "H5268 — נִסְרֹךְ (Niçrôk / Nisroch)": H5268-nicrok.md
         - "H5303 — נְפִיל (nᵉphîyl)": H5303-nphiyl.md
+        - "H5307 — נָפַל (nâphal)": H5307-naphal.md
         - "H5315 — נֶפֶשׁ (nephesh)": H5315-nephesh.md
+        - "H5342 — נֵצֶר (netser)": H5342-netser.md
+        - "H5352 — נָקָה (naqah)": H5352-naqah.md
         - "H5375 — נָשָׂא (nāśāʾ)": H5375-nasa.md
         - "H5397 — נְשָׁמָה (nᵉshâmâh)": H5397-nshamah.md
         - "H5414 — נָתַן (nathan)": H5414-nathan.md
+        - "H5493 — סוּר (sur)": H5493-cuwr.md
         - "H5521 — סֻכָּה (sukkah)": H5521-cukkah.md
+        - "H5526 — סָכַךְ (sakak)": H5526-cakak.md
+        - "H5545 — סָלַח (salach)": H5545-calach.md
+        - "H5564 — סָמַךְ (samak)": H5564-camak.md
+        - "H5612 — סֵפֶר (cepher)": H5612-cepher.md
+        - "H5627 — סָרָה (çârâh)": H5627-carah.md
         - "H5640 — סָתַם (çâtham)": H5640-catham.md
+        - "H5647 — עָבַד (ʻâbad)": H5647-abad.md
+        - "H5674 — עָבַר (ʻâbar)": H5674-abar.md
+        - "H5712 — עֵדָה (edah)": H5712-edah.md
         - "H5715 — עֵדוּת (ʻêdûwth)": H5715-eduwth.md
+        - "H5731 — עֵדֶן (Eden)": H5731-eden.md
+        - "H5748 — עוּגָב (ʻuwgab)": H5748-uwgab.md
+        - "H5766 - עֶוֶל (evel)": H5766-evel.md
+        - "H5768 — עוֹלֵל (ʻôwlêl)": H5768-owlel.md
         - "H5769 — עוֹלָם (ʻôwlâm)": H5769-owlam.md
         - "H5771 — עָוֺן (ʻâvôn)": H5771-avon.md
         - "H5794 — עַז (ʻaz)": H5794-az.md
         - "H5799 — עֲזָאזֵל (azazel)": H5799-azazel.md
+        - "H5800 — עָזַב (azab)": H5800-azab.md
+        - "H5810 — עָזַז (ʻazaz)": H5810-azaz.md
+        - "H5921 — עַל (ʿal)": H5921-al.md
         - "H5927 — עָלָה (ʻâlâh)": H5927-alah.md
         - "H5930 — עֹלָה (ʻôlâh)": H5930-olah.md
+        - "H5971 — עַם (am)": H5971-am.md
+        - "H5975 — עָמַד (ʻâmad)": H5975-amad.md
+        - "H6025 — עֵנָב (enab)": H6025-enab.md
+        - "H6031 — עָנָה (anah)": H6031-anah.md
         - "H6051 — עָנָן (ʻânân)": H6051-anan.md
+        - "H6071 — עָסִיס (asis)": H6071-aciyc.md
+        - "H6086 — עֵץ (ets)": H6086-ets.md
+        - "H6091 — עָצָב (ʻâtsâb)": H6091-atsab.md
+        - "H6148 — עָרַב (arab)": H6148-arab.md
         - "H6153 — עֶרֶב (ʻereb)": H6153-ereb.md
         - "H6187 — עֵרֶךְ (ʻerek)": H6187-erek.md
+        - "H6213 — עָשָׂה (ʻâsâh)": H6213-asah.md
         - "H6256 — עֵת (ʻêth)": H6256-eth.md
+        - "H6261 — עִתִּי (itti)": H6261-ittiy.md
+        - "H6292 — פִּגּוּל (piggûl)": H6292-piggul.md
+        - "H6293 — פָּגַע (paga)": H6293-paga.md
+        - "H6399 — פְּלַח (pelach)": H6399-pelach.md
         - "H6440 — פָּנִים (pânîym)": H6440-paniym.md
+        - "H6452 — פָּסַח (pasach)": H6452-pacach.md
         - "H6456 — פְּסִיל (pesiyl)": H6456-pciyl.md
         - "H6459 — פֶּסֶל (pecel)": H6459-pecel.md
+        - "H6532 — פֹּרֶכֶת (poreketh)": H6532-poreketh.md
+        - "H6586 — פָּשַׁע (pâshaʻ)": H6586-pasha.md
         - "H6588 — פֶּשַׁע (peshaʻ)": H6588-pesha.md
+        - "H6635 — צָבָא (tsâbâʼ)": H6635-tsaba.md
+        - "H6643 — צְבִי (ṣəḇî / tsebi)": H6643-tsebi.md
         - "H6662 — צַדִּיק (tsaddiyq)": H6662-tsaddiyq.md
         - "H6663 — צָדַק (tsadaq)": H6663-tsadaq.md
         - "H6664 — צֶדֶק (tsedeq)": H6664-tsedeq.md
         - "H6666 — צְדָקָה (tsedaqah)": H6666-tsedaqah.md
+        - "H6674 — צוֹא (tsow)": H6674-tsow.md
+        - "H6711 — צָחַק (tsachaq)": H6711-tsachaq.md
+        - "H6736 - צִיר (tsîyr / tsiyr)": H6736-tsiyr.md
+        - "H6743 — צָלַח (tsâlach)": H6743-tsalach.md
+        - "H6754 — צֶלֶם (tselem)": H6754-tselem.md
+        - "H6780 — צֶמַח (tsemach)": H6780-tsemach.md
+        - "H6842 — צָפִיר (ṣāp̄îr)": H6842-tsaphir.md
         - "H6884 — צָרַף (tsaraph)": H6884-tsaraph.md
+        - "H6918 — קָדוֹשׁ (qadowsh)": H6918-qadowsh.md
         - "H6942 — קָדַשׁ (qâdash)": H6942-qadash.md
         - "H6944 — קֹדֶשׁ (qodesh)": H6944-qodesh.md
+        - "H6951 — קָהָל (qahal)": H6951-qahal.md
+        - "H6963 — קוֹל (qowl)": H6963-qowl.md
+        - "H6999 — קָטַר (qatar)": H6999-qatar.md
         - "H7004 — קְטֹרֶת (qeṭoreth)": H7004-qtoreth.md
+        - "H7045 — קְלָלָה (qelalah)": H7045-qlalah.md
         - "H7093 — קֵץ (qets)": H7093-qets.md
+        - "H7126 — קָרַב (qarab)": H7126-qarab.md
         - "H7161 — קֶרֶן (qeren)": H7161-qeren.md
+        - "H7200 — רָאָה (râʼâh)": H7200-raah.md
+        - "H7203 — רֹאֶה (ro'eh)": H7203-roeh.md
+        - "H7227 — רַב (rab)": H7227-rab.md
+        - "H7290 — רָדַם (rādam)": H7290-radam.md
         - "H7307 — רוּחַ (ruach)": H7307-ruach.md
         - "H7311 — רוּם (rûwm)": H7311-ruwm.md
+        - "H7364 — רָחַץ (rachats)": H7364-rachats.md
+        - "H7378 — רִיב (riyb)": H7378-riyb.md
+        - "H7379 — רִיב (riyb)": H7379-riyb.md
+        - "H7404 — רְכֻלָּה (rekullah)": H7404-rkullah.md
+        - "H7429 — רָמַס (râmas)": H7429-ramas.md
         - "H7458 — רָעָב (raab)": H7458-raab.md
+        - "H7495 — רָפָא (rapha)": H7495-rapha.md
+        - "H7511 — רָפַס (râphaç)": H7511-raphac.md
+        - "H7521 — רָצָה (râtsâh)": H7521-ratsah.md
         - "H7522 — רָצוֹן (râtsôwn)": H7522-ratsown.md
+        - "H7523 — רָצַח (râtsach)": H7523-ratsach.md
+        - "H7540 — רָקַד (raqad)": H7540-raqad.md
+        - "H7561 — רָשַׁע (râshaʻ)": H7561-rasha.md
+        - "H7563 — רָשָׁע (rasha)": H7563-rasha.md
         - "H7585 — שְׁאוֹל (shᵉʼôwl)": H7585-showl.md
+        - "H7592 — שָׁאַל (shâʼal)": H7592-shaal.md
         - "H7620 — שָׁבוּעַ (shâbûwaʻ)": H7620-shabuwa.md
+        - "H7646 — שָׂבַע (saba)": H7646-saba.md
+        - "H7650 — שָׁבַע (shaba)": H7650-shaba.md
         - "H7673 — שָׁבַת (shâbath)": H7673-shabath.md
         - "H7676 — שַׁבָּת (shabbâth)": H7676-shabbath.md
         - "H7677 — שַׁבָּתוֹן (shabbâthôwn)": H7677-shabbathown.md
+        - "H7706 — שַׁדַּי (Shadday / Shaddai)": H7706-shaddai.md
+        - "H7725 — שׁוּב (shûwb)": H7725-shuwb.md
         - "H7751 — שׁוּט (shuwt)": H7751-shuwt.md
         - "H7782 — שׁוֹפָר (shôwphâr)": H7782-showphar.md
         - "H7812 — שָׁחָה (shachah)": H7812-shachah.md
+        - "H7819 — שָׁחַט (shachat)": H7819-shachat.md
+        - "H7837 — שַׁחַר (shachar)": H7837-shachar.md
         - "H7843 — שָׁחַת (shâchath)": H7843-shachath.md
         - "H7854 — שָׂטָן (sâṭân)": H7854-satan.md
+        - "H7896 — שִׁית (shiyth)": H7896-shiyth.md
+        - "H7910 — שִׁכּוֹר (shikkôwr)": H7910-shikkor.md
         - "H7919 — שָׂכַל (śākal)": H7919-sakal.md
         - "H7931 — שָׁכַן (shākan)": H7931-shakan.md
+        - "H7937 — שָׁכַר (shâkar)": H7937-shakar.md
+        - "H7941 — שֵׁכָר (shêkâr)": H7941-shekar.md
+        - "H7965 — שָׁלוֹם (shalom)": H7965-shalowm.md
         - "H7969 — שָׁלוֹשׁ (shalowsh)": H7969-shalowsh.md
+        - "H7971 — שָׁלַח (shalach)": H7971-shalach.md
         - "H7992 — שְׁלִישִׁי (shliyshiy)": H7992-shliyshiy.md
+        - "H7993 — שָׁלַךְ (shâlak)": H7993-shalak.md
+        - "H7999 — שָׁלַם (shâlam)": H7999-shalam.md
+        - "H8002 — שֶׁלֶם (shelem)": H8002-shelem.md
+        - "H8034 — שֵׁם (shêm)": H8034-shem.md
+        - "H8045 — שָׁמַד (shâmad)": H8045-shamad.md
+        - "H8055 — שָׂמַח (sâmach)": H8055-samach.md
+        - "H8064 — שָׁמַיִם (shâmayim)": H8064-shamayim.md
+        - "H8065 — שָׁמַיִן (shamayin)": H8065-shamayin.md
         - "H8074 — שָׁמֵם (shâmêm)": H8074-shamem.md
+        - "H8085 — שָׁמַע (shâmaʻ)": H8085-shama.md
+        - "H8132 — שָׁנָא (shânâʼ)": H8132-shana.md
+        - "H8138 — שָׁנָה (shânâh)": H8138-shanah.md
+        - "H8141 — שָׁנֶה / שָׁנָה (shâneh / shânâh)": H8141-shaneh.md
+        - "H8163 — שָׂעִיר (saiyr)": H8163-saiyr.md
         - "H8199 — שָׁפַט (shâphaṭ)": H8199-shaphat.md
+        - "H8210 — שָׁפַךְ (shâphak)": H8210-shaphak.md
+        - "H8211 — שֶׁפֶךְ (shephek)": H8211-shephek.md
         - "H8251 — שִׁקּוּץ (shiqquwts)": H8251-shiqquwts.md
+        - "H8262 — שָׁקַץ (shaqats)": H8262-shaqats.md
+        - "H8263 — שֶׁקֶץ (sheqets)": H8263-sheqets.md
         - "H8269 — שַׂר (sar)": H8269-sar.md
+        - "H8313 — שָׂרַף (saraph)": H8313-saraph.md
+        - "H8335 — שָׁרֵת (shârêth)": H8335-shareth.md
+        - "H8354 — שָׁתָה (shâthâh)": H8354-shathah.md
+        - "H8378 — תַּאֲוָה (taʼăvâh)": H8378-taavah.md
+        - "H8403 — תַּבְנִית (tabniyth)": H8403-tabniyth.md
+        - "H8414 — תֹּהוּ (tohu)": H8414-tohuw.md
+        - "H8415 — תְּהוֹם (tehom / thowm)": H8415-thowm.md
+        - "H8441 — תּוֹעֵבַה (tôwʻêbah)": H8441-towebah.md
         - "H8451 — תּוֹרָה (tôwrâh)": H8451-towrah.md
+        - "H8453 — תּוֹשָׁב (towshab)": H8453-towshab.md
+        - "H8457 — תַּזְנוּת (taznûwth)": H8457-taznuwth.md
+        - "H8462 — תְּחִלָּה (tᵉchillâh)": H8462-tchillah.md
+        - "H8492 — תִּירוֹשׁ (tîyrôwsh)": H8492-tiyrowsh.md
+        - "H8518 — תָּלָה (talah)": H8518-talah.md
+        - "H8544 — תְּמוּנָה (tᵉmûwnâh)": H8544-tmuwnah.md
         - "H8548 — תָּמִיד (tamid)": H8548-tamid.md
+        - "H8549 - תָּמִים (tamiym)": H8549-tamiym.md
+        - "H8552 — תָּמַם (tamam)": H8552-tamam.md
         - "H8567 — תָּנָה (tânâh)": H8567-tanah.md
+        - "H8581 — תַּעָב (taʻab)": H8581-taab.md
+        - "H8596 — תֹּף (toph)": H8596-toph.md
+        - "H8639 — תַּרְדֵּמָה (tardēmāh)": H8639-tardemah.md
         - "H8643 — תְּרוּעָה (teruah)": H8643-truwah.md
+        - "H8655 — תְּרָפִים (tᵉrâphîym)": H8655-traphiym.md
 
     - "Aramaic":
         - "A1080 — בְּלָא (bᵉlâʼ)": A1080-bla.md
         - "A1780 — דִּין (dîyn)": A1780-diyn.md
+        - "H1799 — דִּכְרוֹן (dikrôwn)": A1799-dikrown.md
         - "A1855 — דְּקַק (dᵉqaq) [Aramaic]": A1855-dqaq.md
         - "A1882 — דָּת (dâth) [Aramaic]": A1882-dath.md
+        - "A2166 — זְמָן (zᵉmân)": A2166-zman.md
+        - "A2370 — חֲזָא (chaza)": A2370-chaza.md
+        - "A2493 — חֵלֶם (chêlem)": A2493-chelem.md
+        - "H2857 — חֲתַם (chătham, Aramaic)": A2857-chatham.md
+        - "A3028 — יַד (yad) [Aramaic]": A3028-yad.md
+        - "A3488 — יְתִב (yethib)": A3488-ythib.md
+        - "A3831 — לְבוּשׁ (lebush)": A3831-lbuwsh.md
         - "A4437 — מַלְכוּ (malkûw)": A4437-malkuw.md
         - "A5452 — סְבַר (çᵉbar)": A5452-cbar.md
         - "H5457 — סְגִד (segid)": A5457-cgid.md
+        - "H5609 — סְפַר (sephar)": A5609-cphar.md
         - "A5732 — עִדָּן (ʻiddân)": A5732-iddan.md
         - "A5957 — עָלַם (ʻâlam) [Aramaic]": A5957-alam.md
+        - "A6050 — עֲנַן (ʻănan)": A6050-anan.md
         - "A6132 — עֲקַר (ʻăqar)": A6132-aqar.md
         - "A6523 — פַּרְזֶל (parzel)": A6523-parzel.md
+        - "A6755 — צֶלֶם (tselem)": A6755-tselem.md
         - "A7162 — קֶרֶן (qeren) — Aramaic": A7162-qeren.md
+        - "A7260 — רַבְרַב (rabrab) — Aramaic": A7260-rabrab.md
+        - "H7328 — רָז (râz)": A7328-raz.md
+        - "A7412 — רְמָה (rᵉmâh)": A7412-rmah.md
         - "A8133 — שְׁנָא (shᵉnâʼ)": A8133-shna.md
 
     - "Greek":
+        - "G12 - ἄβυσσος (abyssos)": G12-abyssos.md
         - "G25 — ἀγαπάω (agapao)": G25-agapao.md
         - "G26 — ἀγάπη (agapē)": G26-agape.md
+        - "G37 — ἁγιάζω (hagiazo)": G37-hagiazo.md
+        - "G38 — ἁγιασμός (hagiasmos)": G38-hagiasmos.md
+        - "G39 — ἅγιον (hagion)": G39-hagion.md
         - "G40 — ἅγιος (hágios)": G40-hagios.md
+        - "G41 — ἁγιότης (hagiotes)": G41-hagiotes.md
+        - "G42 — ἁγιωσύνη (hagiōsynē)": G42-hagiosyne.md
+        - "G45 — ἄγκυρα (ankyra)": G45-ankyra.md
+        - "G48 — ἁγνίζω (hagnizō)": G48-hagnizo.md
+        - "G91 — ἀδικέω (adikéō)": G91-adikeo.md
+        - "G93 — ἀδικία (adikía)": G93-adikia.md
+        - "G110 — ἀθανασία (athanasia)": G110-athanasia.md
+        - "G115 — ἀθέτησις (athetēsis)": G115-athetesis.md
+        - "G129 — αἷμα (haima)": G129-haima.md
+        - "G130 — αἱματεκχυσία (haimatekchysia)": G130-haimatekchysia.md
+        - "G142 — αἴρω (aírō)": G142-airo.md
         - "G161 — αἰχμαλωσία (aichmalōsia)": G161-aichmalosia.md
         - "G166 — αἰώνιος (aionios)": G166-aionios.md
+        - "G167 — ἀκαθαρσία (akatharsía)": G167-akatharsia.md
+        - "G169 — ἀκάθαρτος (akathartos)": G169-akathartos.md
+        - "G194 — ἄκρατος (ákratos)": G194-akratos.md
         - "G225 — ἀλήθεια (alētheia)": G225-aletheia.md
         - "G228 — ἀληθινός (alēthinos)": G228-alethinos.md
+        - "G238 — ἀλληγορέω (allēgoréō)": G238-allegoreo.md
+        - "G254 - ἅλυσις (halysis)": G254-halysis.md
+        - "G265 — ἁμάρτημα (hamartema)": G265-hamartema.md
+        - "G266 — ἁμαρτία (hamartia)": G266-hamartia.md
+        - "G276 — ἀμετάθετος (ametáthetos)": G276-ametathetos.md
         - "G286 — ἀμνός (amnos)": G286-amnos.md
+        - "G337 — ἀναιρέω (anaireō)": G337-anaireo.md
+        - "G343 — ἀνακαλύπτω (anakalyptō)": G343-anakalypto.md
+        - "G350 — ἀνακρίνω (anakrinō)": G350-anakrino.md
+        - "G364 — ἀνάμνησις (anamnesis)": G364-anamnesis.md
+        - "G372 — ἀνάπαυσις (anapausis)": G372-anapausis.md
+        - "G399 — ἀναφέρω (anaphérō)": G399-anaphero.md
+        - "G444 — ἄνθρωπος (anthrōpos)": G444-anthropos.md
         - "G455 — ἀνοίγω (anoigo)": G455-anoigo.md
+        - "G458 — ἀνομία (anomía)": G458-anomia.md
+        - "G459 — ἄνομος (ánomos)": G459-anomos.md
+        - "G463 — ἀνοχή (anochē)": G463-anoche.md
+        - "G480 — ἀντίκειμαι (antikeimai)": G480-antikeimai.md
+        - "G487 — ἀντίλυτρον (antilytron)": G487-antilytron.md
+        - "G499 — ἀντίτυπος (antítypos)": G499-antitypon.md
         - "G500 — ἀντίχριστος (antichristos)": G500-antichristos.md
+        - "G530 — ἅπαξ (hapax)": G530-hapax.md
+        - "G531 — ἀπαράβατος (aparábatos)": G531-aparabatos.md
+        - "G543 — ἀπείθεια (apeitheia)": G543-apeitheia.md
+        - "G544 — ἀπειθέω (apeitheo)": G544-apeitheo.md
+        - "G570 — ἀπιστία (apistia)": G570-apistia.md
+        - "G584 — ἀποδείκνυμι (apodeíknymi)": G584-apodeiknymi.md
         - "G601 — ἀποκαλύπτω (apokalyptō)": G601-apokalypto.md
         - "G602 — ἀποκάλυψις (apokalypsis)": G602-apokalypsis.md
+        - "G615 — ἀποκτείνω (apokteinō)": G615-apokteino.md
+        - "G622 — ἀπόλλυμι (apóllymi)": G622-apollymi.md
+        - "G628 — ἀπολούω (apolouō)": G628-apolouo.md
+        - "G629 — ἀπολύτρωσις (apolytrosis)": G629-apolytrosis.md
+        - "G646 — ἀποστασία (apostasía)": G646-apostasia.md
+        - "G661 — ἀποτίνω (apotínō)": G661-apotino.md
+        - "G684 — ἀπώλεια (apōleia)": G684-apoleia.md
         - "G721 — ἀρνίον (arnion)": G721-arnion.md
+        - "G746 — ἀρχή (archḗ)": G746-arche.md
+        - "G749 — ἀρχιερεύς (archiereus)": G749-archiereus.md
+        - "G758 — ἄρχων (árchōn)": G758-archon.md
+        - "G818 — ἀτιμάζω (atimázō)": G818-atimazo.md
+        - "G859 — ἄφεσις (aphesis)": G859-aphesis.md
+        - "G861 — ἀφθαρσία (aphtharsia)": G861-aphtharsia.md
+        - "G862 — ἄφθαρτος (aphthartos)": G862-aphthartos.md
+        - "G863 — ἀφίημι (aphiēmi)": G863-aphiemi.md
+        - "G868 — ἀφίστημι (aphístēmi)": G868-aphistemi.md
+        - "G897 — Βαβυλών (Babylṓn)": G897-babylon.md
+        - "G906 - βάλλω (ballo)": G906-ballo.md
+        - "G946 — βδέλυγμα (bdelygma)": G946-bdelygma.md
+        - "G947 — βδελυκτός (bdelyktos)": G947-bdelyktos.md
+        - "G948 — βδελύσσομαι (bdelyssomai)": G948-bdelysso.md
+        - "G952 — βέβηλος (bebelos)": G952-bebelos.md
         - "G974 — βιβλαρίδιον (bibliaridion)": G974-bibliaridion.md
         - "G975 — βιβλίον (biblion)": G975-biblion.md
         - "G987 — βλασφημέω (blasphēméō)": G987-blasphemeo.md
         - "G988 — βλασφημία (blasphemia)": G988-blasphemia.md
         - "G989 — βλάσφημος (blasphemos)": G989-blasphemos.md
+        - "G994 — βοάω (boaō)": G994-boao.md
         - "G1027 — βροντή (brontḗ)": G1027-bronte.md
         - "G1060 — γαμέω (gaméō)": G1060-gameo.md
+        - "G1062 — γάμος (gámos)": G1062-gamos.md
         - "G1067 — γέεννα (geenna)": G1067-geenna.md
+        - "G1081 — γέννημα (génnēma)": G1081-gennema.md
         - "G1096 — γίνομαι (ginomai)": G1096-ginomai.md
+        - "G1098 — γλεῦκος (gleukos)": G1098-gleukos.md
+        - "G1099 — γλυκύς (glykys)": G1099-glykys.md
         - "G1125 — γράφω (gráphō)": G1125-grapho.md
+        - "G1162 — δέησις (deēsis)": G1162-deesis.md
         - "G1163 — δεῖ (deî)": G1163-dei.md
+        - "G1173 — δεῖπνον (deîpnon)": G1173-deipnon.md
+        - "G1188 — δεξιός (dexios)": G1188-dexios.md
+        - "G1210 - δέω (deo)": G1210-deo.md
         - "G1228 — διάβολος (diábolos)": G1228-diabolos.md
         - "G1238 — διάδημα (diádēma)": G1238-diadema.md
         - "G1242 — διαθήκη (diathēkē)": G1242-diatheke.md
+        - "G1293 - διαστολή (diastolē)": G1293-diastole.md
+        - "G1319 — διδασκαλία (didaskalia)": G1319-didaskalia.md
         - "G1325 — δίδωμι (didomi)": G1325-didomi.md
+        - "G1329 — διερμηνεύω (diermēneúō)": G1329-diermeneuo.md
+        - "G1341 — δικαιοκρισία (dikaiokrisia)": G1341-dikaiokrisia.md
         - "G1342 — δίκαιος (díkaios)": G1342-dikaios.md
         - "G1343 — δικαιοσύνη (dikaiosynē)": G1343-dikaiosyne.md
         - "G1344 — δικαιόω (dikaióō)": G1344-dikaioo.md
         - "G1345 — δικαίωμα (dikaiōma)": G1345-dikaioma.md
+        - "G1346 — δικαίως (dikaiōs)": G1346-dikaios.md
+        - "G1347 — δικαίωσις (dikaiōsis)": G1347-dikaiosis.md
+        - "G1349 — δίκη (dikē)": G1349-dike.md
         - "G1378 — δόγμα (dogma)": G1378-dogma.md
         - "G1379 — δογματίζω (dogmatizō)": G1379-dogmatizo.md
         - "G1391 — δόξα (dóxa)": G1391-doxa.md
+        - "G1392 — δοξάζω (doxázō)": G1392-doxazo.md
         - "G1404 — δράκων (drákōn)": G1404-drakon.md
         - "G1411 — δύναμις (dynamis)": G1411-dynamis.md
+        - "G1432 — δωρεάν (dorean)": G1432-dorean.md
         - "G1449 — ἐγγράφω (engráphō)": G1449-engrapho.md
         - "G1457 — ἐγκαινίζω (enkainízō)": G1457-enkainizo.md
+        - "G1459 — ἐγκαταλείπω (enkataleipō)": G1459-enkataleipo.md
+        - "G1466 — ἐγκράτεια (enkráteia / egkrateia)": G1466-egkrateia.md
+        - "G1473 — ἐγώ (egō)": G1473-ego.md
         - "G1484 — ἔθνος (éthnos)": G1484-ethnos.md
         - "G1486 — ἔθω (éthō)": G1486-etho.md
         - "G1497 — εἴδωλον (eidōlon)": G1497-eidolon.md
         - "G1504 — εἰκών (eikōn)": G1504-eikon.md
         - "G1510 — εἰμί (eimí)": G1510-eimi.md
+        - "G1515 — εἰρήνη (eirēnē)": G1515-eirene.md
+        - "G1556 — ἐκδικέω (ekdikéō)": G1556-ekdikeo.md
+        - "G1557 — ἐκδίκησις (ekdikēsis)": G1557-ekdikesis.md
+        - "G1571 — ἐκκαθαίρω (ekkathairo)": G1571-ekkathairo.md
         - "G1577 — ἐκκλησία (ekklēsía)": G1577-ekklesia.md
+        - "G1615 — ἐκτελέω (ekteléō)": G1615-ekteleo.md
+        - "G1632 — ἐκχέω (ekchéō)": G1632-ekcheo.md
+        - "G1677 — ἐλλογέω (ellogeō)": G1677-ellogeo.md
+        - "G1680 — ἐλπίς (elpis)": G1680-elpis.md
+        - "G1718 — ἐμφανίζω (emphanizo)": G1718-emphanizo.md
+        - "G1732 — ἔνδειξις (endeixis)": G1732-endeixis.md
+        - "G1753 — ἐνέργεια (enérgeia)": G1753-energeia.md
+        - "G1754 — ἐνεργέω (energeō)": G1754-energeo.md
         - "G1772 — ἔννομος (énnomos)": G1772-ennomos.md
+        - "G1778 — ἔνταλμα (entalma)": G1778-entalma.md
+        - "G1783 — ἔντευξις (enteuxis)": G1783-enteuxis.md
         - "G1785 — ἐντολή (entolē)": G1785-entole.md
+        - "G1793 — ἐντυγχάνω (entynchánō)": G1793-entynchano.md
+        - "G1805 — ἐξαγοράζω (exagorazō)": G1805-exagorazo.md
+        - "G1813 — ἐξαλείφω (exaleipho)": G1813-exaleipho.md
+        - "G1842 — ἐξολοθρεύω (exolothreúō)": G1842-exolethreuo.md
+        - "G1843 — ἐξομολογέω (exomologeo)": G1843-exomologeo.md
         - "G1849 — ἐξουσία (exousía)": G1849-exousia.md
+        - "G1859 — ἑορτή (heorte)": G1859-heorte.md
+        - "G1860 — ἐπαγγελία (epangelía)": G1860-epangelia.md
+        - "G1944 — ἐπικατάρατος (epikataratos)": G1944-epikataratos.md
+        - "G1955 — ἐπίλυσις (epilysis)": G1955-epilysis.md
+        - "G1984 — ἐπισκοπή (episkope)": G1984-episkope.md
+        - "G2003 — ἐπιταγή (epitagē)": G2003-epitage.md
+        - "G2005 — ἐπιτελέω (epiteléō)": G2005-epiteleo.md
+        - "G2012 — ἐπίτροπος (epitropos)": G2012-epitropos.md
         - "G2015 — ἐπιφάνεια (epipháneia)": G2015-epiphaneia.md
+        - "G2032 — ἐπουράνιος (epouránios)": G2032-epouranios.md
         - "G2041 — ἔργον (érgon)": G2041-ergon.md
         - "G2050 — ἐρήμωσις (erēmōsis)": G2050-eremosis.md
+        - "G2059 — ἑρμηνεύω (hermeneuo)": G2059-hermeneuo.md
         - "G2064 — ἔρχομαι (érchomai)": G2064-erchomai.md
         - "G2078 — ἔσχατος (éschatos)": G2078-eschatos.md
+        - "G2082 — ἐσώτερος (esoteros)": G2082-esoteros.md
         - "G2097 — εὐαγγελίζω (euangelizo)": G2097-euangelizo.md
         - "G2098 — εὐαγγέλιον (euangelion)": G2098-euangelion.md
+        - "G2127 — εὐλογέω (eulogéō)": G2127-eulogeo.md
+        - "G2129 — εὐλογία (eulogia)": G2129-eulogia.md
+        - "G2167 — εὐφροσύνη (euphrosýnē)": G2167-euphrosyne.md
+        - "G2171 — εὐχή (euchē)": G2171-euche.md
+        - "G2178 — ἐφάπαξ (ephapax)": G2178-ephapax.md
         - "G2217 — ζόφος (zóphos)": G2217-zophos.md
+        - "G2219 — ζύμη (zymē)": G2219-zyme.md
         - "G2222 — ζωή (zōḗ)": G2222-zoe.md
         - "G2226 — ζῶον (zōon)": G2226-zoon.md
+        - "G2250 — ἡμέρα (hēméra)": G2250-hemera.md
         - "G2258 — ἦν (ēn)": G2258-en.md
         - "G2288 — θάνατος (thánatos)": G2288-thanatos.md
+        - "G2296 — θαυμάζω (thaumázō)": G2296-thaumazo.md
         - "G2316 — θεός (theós)": G2316-theos.md
         - "G2323 — θεραπεύω (therapeuo)": G2323-therapeuo.md
         - "G2342 — θηρίον (thērion)": G2342-therion.md
         - "G2347 — θλῖψις (thlipsis)": G2347-thlipsis.md
+        - "G2349 — θνητός (thnetos)": G2349-thnetos.md
         - "G2362 — θρόνος (thrónos)": G2362-thronos.md
         - "G2368 — θυμίαμα (thymíama)": G2368-thymiama.md
         - "G2372 — θυμός (thumos)": G2372-thumos.md
         - "G2378 — θυσία (thysía)": G2378-thysia.md
         - "G2379 — θυσιαστήριον (thysiastērion)": G2379-thysiastērion.md
+        - "G2390 — ἰάομαι (iaomai)": G2390-iaomai.md
+        - "G2405 - ἱερατεία (hierateía)": G2405-hierateia.md
+        - "G2406 — ἱεράτευμα (hierateuma)": G2406-hierateuma.md
+        - "G2407 — ἱερατεύω (hierateuō)": G2407-hierateuo.md
         - "G2409 — ἱερεύς (hiereús)": G2409-hiereus.md
         - "G2411 — ἱερόν (hierón)": G2411-hieron.md
         - "G2422 — Ἰεφθάε (Iephtháe)": G2422-iephthae.md
+        - "G2424 — Ἰησοῦς (Iēsoûs)": G2424-Iesous.md
+        - "G2433 — ἱλάσκομαι (hilaskomai)": G2433-hilaskomai.md
+        - "G2434 — ἱλασμός (hilasmos)": G2434-hilasmos.md
         - "G2435 — ἱλαστήριον (hilastērion)": G2435-hilasterion.md
         - "G2462 — ἵππος (hippos)": G2462-hippos.md
         - "G2476 — ἵστημι (hístēmi)": G2476-histemi.md
+        - "G2507 — καθαιρέω (kathairéō)": G2507-kathaireo.md
         - "G2511 — καθαρίζω (katharizō)": G2511-katharizo.md
+        - "G2512 — καθαρισμός (katharismos)": G2512-katharismos.md
+        - "G2513 — καθαρός (katharos)": G2513-katharos.md
+        - "G2514 — καθαρότης (katharotēs)": G2514-katharotes.md
+        - "G2521 — κάθημαι (káthēmai)": G2521-kathemai.md
+        - "G2523 — καθίζω (kathízō)": G2523-kathizo.md
+        - "G2525 — καθίστημι (kathistemi)": G2525-kathistemi.md
         - "G2537 — καινός (kainós)": G2537-kainos.md
         - "G2540 — καιρός (kairós)": G2540-kairos.md
         - "G2563 — κάλαμος (kalamos)": G2563-kalamos.md
+        - "G2570 — καλός (kalós)": G2570-kalos.md
         - "G2586 — καπνός (kapnós)": G2586-kapnos.md
+        - "G2598 — καταβάλλω (katabállō)": G2598-kataballo.md
+        - "G2631 — κατάκριμα (katakrima)": G2631-katakrima.md
         - "G2643 — καταλλαγή (katallagḗ)": G2643-katallage.md
+        - "G2644 — καταλλάσσω (katallassō)": G2644-katallasso.md
         - "G2647 — καταλύω (katalyō)": G2647-katalyo.md
+        - "G2662 — καταπατέω (katapatéō)": G2662-katapateo.md
         - "G2663 — κατάπαυσις (katapausis)": G2663-katapausis.md
+        - "G2665 — καταπέτασμα (katapetasma)": G2665-katapetasma.md
+        - "G2671 — κατάρα (katara)": G2671-katara.md
         - "G2673 — καταργέω (katargéō)": G2673-katargeo.md
         - "G2696 — κατασφραγίζω (katasphragizō)": G2696-katasphragizo.md
+        - "G2722 — κατέχω (katéchō)": G2722-katecho.md
         - "G2768 — κέρας (kéras)": G2768-keras.md
+        - "G2776 — κεφαλή (kephalē)": G2776-kephale.md
         - "G2782 — κήρυγμα (kērygma)": G2782-kerygma.md
         - "G2787 — κιβωτός (kibōtós)": G2787-kibotos.md
+        - "G2807 - κλείς (kleis)": G2807-kleis.md
+        - "G2808 - κλείω (kleio)": G2808-kleio.md
+        - "G2816 — κληρονομέω (klēronoméō)": G2816-kleronomeo.md
+        - "G2817 — κληρονομία (klēronomia)": G2817-kleronomia.md
+        - "G2818 — κληρονόμος (klēronomos)": G2818-kleronomos.md
         - "G2839 — κοινός (koinós)": G2839-koinos.md
+        - "G2840 — κοινόω (koinóō)": G2840-koinoo.md
         - "G2851 — κόλασις (kólasis)": G2851-kolasis.md
+        - "G2888 — κοσμοκράτωρ (kosmokrátōr)": G2888-kosmokrator.md
+        - "G2896 — κράζω (krazō)": G2896-krazo.md
+        - "G2902 - κρατέω (krateo)": G2902-krateo.md
+        - "G2910 — κρεμάννυμι (kremannymi)": G2910-kremannymi.md
         - "G2917 — κρίμα (krima)": G2917-krima.md
+        - "G2919 — κρίνω (krinō)": G2919-krino.md
         - "G2920 — κρίσις (krísis)": G2920-krisis.md
+        - "G2936 — κτίζω (ktizo)": G2936-ktizo.md
+        - "G2937 — κτίσις (ktisis)": G2937-ktisis.md
+        - "G2962 — κύριος (kýrios)": G2962-kyrios.md
         - "G2980 — λαλέω (laleo)": G2980-laleo.md
         - "G2983 — λαμβάνω (lambano)": G2983-lambano.md
         - "G2985 — λαμπάς (lampás)": G2985-lampas.md
+        - "G3009 — λειτουργία (leitourgia)": G3009-leitourgia.md
+        - "G3011 — λειτουργός (leitourgos)": G3011-leitourgos.md
         - "G3022 — λευκός (leukós)": G3022-leukos.md
         - "G3031 — λιβανωτός (libanōtós)": G3031-libanotos.md
         - "G3039 — λικμάω (likmáō)": G3039-likmao.md
+        - "G3049 — λογίζομαι (logizomai)": G3049-logizomai.md
+        - "G3068 — λούω (louo)": G3068-louo.md
+        - "G3083 — λύτρον (lytron)": G3083-lytron.md
+        - "G3084 — λυτρόω (lytróō)": G3084-lytroo.md
         - "G3087 — λυχνία (lychnia)": G3087-lychnia.md
         - "G3088 — λύχνος (lýchnos)": G3088-lychnos.md
+        - "G3089 - λύω (lyo)": G3089-lyo.md
+        - "G3105 — μαίνομαι (maínomai)": G3105-mainomai.md
+        - "G3107 — μακάριος (makários)": G3107-makarios.md
+        - "G3123 — μᾶλλον (mallon)": G3123-mallon.md
         - "G3140 — μαρτυρέω (martyreo)": G3140-martyreo.md
         - "G3141 — μαρτυρία (martyría)": G3141-martyria.md
         - "G3142 — μαρτύριον (martyrion)": G3142-martyrion.md
         - "G3144 — μάρτυς (mártys)": G3144-martys.md
+        - "G3162 — μάχαιρα (máchaira)": G3162-machaira.md
         - "G3173 — μέγας (megas)": G3173-megas.md
+        - "G3178 — μέθη (méthē)": G3178-methe.md
+        - "G3182 — μεθύσκω (methýskō)": G3182-methysko.md
+        - "G3184 — μεθύω (methýō)": G3184-methyo.md
+        - "G3195 — μέλλω (mello)": G3195-mello.md
         - "G3306 — μένω (meno)": G3306-meno.md
         - "G3316 — μεσίτης (mesítēs)": G3316-mesites.md
         - "G3321 — μεσουράνημα (mesouranema)": G3321-mesouranema.md
+        - "G3338 — μεταμέλλομαι (metamellomai)": G3338-metamellomai.md
         - "G3340 — μετανοέω (metanoeō)": G3340-metanoeo.md
+        - "G3341 — μετάνοια (metanoia)": G3341-metanoia.md
         - "G3354 — μετρέω (metreō)": G3354-metreo.md
         - "G3359 — μέτωπον (metopon)": G3359-metopon.md
         - "G3376 — μήν (mēn)": G3376-men.md
+        - "G3392 — μιαίνω (miaínō)": G3392-miaino.md
+        - "G3393 — μίασμα (míasma)": G3393-miasma.md
+        - "G3435 — μολύνω (molynō)": G3435-molyno.md
+        - "G3436 — μολυσμός (molysmos)": G3436-molysmos.md
         - "G3466 — μυστήριον (mystērion)": G3466-mysterion.md
+        - "G3468 — μώλωψ (mōlōps)": G3468-molops.md
+        - "G3479 — Ναζαρηνός (Nazarēnos)": G3479-nazarenos.md
+        - "G3480 — Ναζωραῖος (Nazōraios)": G3480-nazoraios.md
         - "G3485 — ναός (naos)": G3485-naos.md
+        - "G3524 — νηφάλεος / νηφάλιος (nēphalios)": G3524-nephalios.md
+        - "G3525 — νήφω (nḗphō)": G3525-nepho.md
         - "G3528 — νικάω (nikáō)": G3528-nikao.md
         - "G3529 — νίκη (nikē)": G3529-nike.md
         - "G3551 — νόμος (nomos)": G3551-nomos.md
+        - "G3561 — νουμηνία / νεομηνία (noumēnia)": G3561-noumenia.md
+        - "G3565 — νύμφη (nýmphē)": G3565-nymphe.md
+        - "G3566 — νυμφίος (nymphíos)": G3566-nymphios.md
+        - "G3586 — ξύλον (xylon)": G3586-xylon.md
         - "G3613 — οἰκητήριον (oikētḗrion)": G3613-oiketerion.md
+        - "G3623 — οἰκονόμος (oikonomos)": G3623-oikonomos.md
         - "G3631 — οἶνος (oinos)": G3631-oinos.md
         - "G3639 — ὄλεθρος (olethros)": G3639-olethros.md
+        - "G3660 — ὀμνύω (omnyo)": G3660-omnyo.md
+        - "G3667 — ὁμοίωμα (homoíōma)": G3667-homoioma.md
+        - "G3670 — ὁμολογέω (homologeō)": G3670-homologeo.md
+        - "G3686 — ὄνομα (ónoma)": G3686-onoma.md
+        - "G3690 — ὄξος (oxos)": G3690-oxos.md
+        - "G3705 — ὅραμα (hórama)": G3705-horama.md
         - "G3709 — ὀργή (orgē)": G3709-orge.md
+        - "G3718 — ὀρθοτομέω (orthotoméō)": G3718-orthotomeo.md
+        - "G3738 — ὀρχέομαι (orcheomai)": G3738-orcheomai.md
+        - "G3742 — ὁσιότης (hosiotes)": G3742-hosiotes.md
+        - "G3781 — ὀφειλέτης (opheilétēs)": G3781-opheiletes.md
+        - "G3782 — ὀφειλή (opheilḗ)": G3782-opheile.md
+        - "G3783 — ὀφείλημα (opheilēma)": G3783-opheilema.md
+        - "G3784 — ὀφείλω (opheílō)": G3784-opheilo.md
+        - "G3789 - ὄφις (ophis)": G3789-ophis.md
+        - "G3793 — ὄχλος (ochlos)": G3793-ochlos.md
+        - "G3807 — παιδαγωγός (paidagōgos)": G3807-paidagogos.md
+        - "G3811 — παιδεύω (paideuo)": G3811-paideuo.md
+        - "G3824 — παλιγγενεσία (paliggenesia)": G3824-paliggenesia.md
         - "G3841 — παντοκράτωρ (pantokrator)": G3841-pantokrator.md
+        - "G3850 — παραβολή (parabolḗ)": G3850-parabole.md
         - "G3875 — παράκλητος (paraklētos)": G3875-parakletos.md
+        - "G3900 — παράπτωμα (paraptoma)": G3900-paraptoma.md
         - "G3904 — παρασκευή (paraskeuḗ)": G3904-paraskeue.md
+        - "G3925 — παρεμβολή (parembolē)": G3925-parembole.md
+        - "G3929 — πάρεσις (paresis)": G3929-paresis.md
         - "G3952 — παρουσία (parousía)": G3952-parousia.md
+        - "G3954 — παῤῥησία (parrhesia)": G3954-parrhesia.md
         - "G3961 — πατέω (patéō)": G3961-pateo.md
+        - "G3962 — πατήρ (patḗr)": G3962-pater.md
+        - "G3982 — πείθω (peitho)": G3982-peitho.md
+        - "G4051 — περίσσευμα (perisseuma)": G4051-perisseuma.md
+        - "G4052 — περισσεύω (perisseuo)": G4052-perisseuo.md
+        - "G4053 — περισσός (perissos)": G4053-perissos.md
         - "G4061 — περιτομή (peritomḗ)": G4061-peritome.md
         - "G4077 — πηγή (pēgē)": G4077-pege.md
+        - "G4089 — πικρός (pikros)": G4089-pikros.md
         - "G4098 — πίπτω (pipto)": G4098-pipto.md
         - "G4100 — πιστεύω (pisteúō)": G4100-pisteuo.md
         - "G4102 — πίστις (pistis)": G4102-pistis.md
         - "G4103 — πιστός (pistós)": G4103-pistos.md
+        - "G4105 — πλανάω (planaō)": G4105-planao.md
+        - "G4106 — πλάνη (planē)": G4106-plane.md
+        - "G4121 — πλεονάζω (pleonazo)": G4121-pleonazo.md
         - "G4127 — πληγή (plēgḗ)": G4127-plege.md
+        - "G4128 — πλῆθος (plēthos)": G4128-plethos.md
+        - "G4136 — πληροφορία (plerophoria)": G4136-plerophoria.md
         - "G4137 — πληρόω (plēróō)": G4137-pleroo.md
         - "G4151 — πνεῦμα (pneuma)": G4151-pneuma.md
+        - "G4157 — πνοή (pnoē)": G4157-pnoe.md
         - "G4160 — ποιέω (poiéō)": G4160-poieo.md
         - "G4165 — ποιμαίνω (poimaino)": G4165-poimaino.md
         - "G4166 — ποιμήν (poimēn)": G4166-poimen.md
@@ -355,56 +927,108 @@ nav:
         - "G4203 — πορνεύω (porneuō)": G4203-porneuo.md
         - "G4204 — πόρνη (pórnē)": G4204-porne.md
         - "G4205 — πόρνος (pornos)": G4205-pornos.md
+        - "G4221 — ποτήριον (potḗrion)": G4221-poterion.md
         - "G4245 — πρεσβύτερος (presbyteros)": G4245-presbyteros.md
+        - "G4266 — προγίνομαι (proginomai)": G4266-proginomai.md
+        - "G4274 — πρόδρομος (prodromos)": G4274-prodromos.md
         - "G4283 — προευαγγελίζομαι (proeuangelizomai)": G4283-proeuangelizomai.md
+        - "G4314 — πρός (prós)": G4314-pros.md
+        - "G4317 — προσάγω (prosagō)": G4317-prosago.md
+        - "G4318 — προσαγωγή (prosagōgē)": G4318-prosagoge.md
+        - "G4338 — προσηλόω (proseloo)": G4338-proseloo.md
+        - "G4348 — πρόσκομμα (próskomma)": G4348-proskomma.md
         - "G4352 — προσκυνέω (proskynéō)": G4352-proskyneo.md
+        - "G4374 — προσφέρω (prosphérō)": G4374-prosphero.md
+        - "G4376 — προσφορά (prosphorá)": G4376-prosphora.md
+        - "G4388 — προτίθεμαι (protithēmi)": G4388-protithemai.md
         - "G4394 — προφητεία (prophēteía)": G4394-propheteia.md
+        - "G4396 — προφήτης (prophētēs)": G4396-prophetes.md
+        - "G4413 — πρῶτος (prōtos)": G4413-protos.md
+        - "G4439 — πύλη (pyle)": G4439-pyle.md
         - "G4442 — πῦρ (pŷr)": G4442-pyr.md
+        - "G4473 — ῥαντισμός (rhantismos)": G4473-rhantismos.md
         - "G4501 — ῥομφαία (rhomphaia)": G4501-rhomphaia.md
         - "G4520 — σαββατισμός (sabbatismos)": G4520-sabbatismos.md
         - "G4521 — σάββατον (sábbaton)": G4521-sabbaton.md
         - "G4536 — σάλπιγξ (sálpinx)": G4536-salpinx.md
         - "G4537 — σαλπίζω (salpízō)": G4537-salpizo.md
         - "G4561 — σάρξ (sárx)": G4561-sarx.md
+        - "G4567 - Σατανᾶς (Satanas)": G4567-satanas.md
         - "G4574 — σέβασμα (sebasma)": G4574-sebasma.md
         - "G4578 — σεισμός (seismós)": G4578-seismos.md
         - "G4591 — σημαίνω (sēmaínō)": G4591-semaino.md
+        - "G4592 — σημεῖον (sēmeion)": G4592-semeion.md
         - "G4602 — σιγή (sigē)": G4602-sige.md
+        - "G4608 — σίκερα (síkera)": G4608-sikera.md
+        - "G4624 — σκανδαλίζω (skandalízō)": G4624-skandalizo.md
+        - "G4625 — σκάνδαλον (skándalon)": G4625-skandalon.md
         - "G4633 — σκηνή (skēnē)": G4633-skene.md
         - "G4637 — σκηνόω (skēnoō)": G4637-skenoo.md
+        - "G4638 — σκήνωμα (skēnōma)": G4638-skenoma.md
         - "G4639 — σκιά (skiá)": G4639-skia.md
         - "G4653 — σκοτία (skotia)": G4653-skotia.md
         - "G4655 — σκότος (skotos)": G4655-skotos.md
         - "G4678 — σοφία (sophia)": G4678-sophia.md
         - "G4690 — σπέρμα (spérma)": G4690-sperma.md
+        - "G4716 — σταυρός (stauros)": G4716-stauros.md
+        - "G4717 — σταυρόω (stauroō)": G4717-stauroo.md
+        - "G4718 — σταφυλή (staphylē)": G4718-staphyle.md
         - "G4735 — στέφανος (stephanos)": G4735-stephanos.md
+        - "G4747 — στοιχεῖον (stoicheion)": G4747-stoicheion.md
         - "G4750 — στόμα (stoma)": G4750-stoma.md
+        - "G4788 — συγκλείω (synkleio)": G4788-synkleio.md
+        - "G4793 — συγκρίνω (synkrínō)": G4793-synkrino.md
+        - "G4930 — συντέλεια (syntéleia)": G4930-synteleia.md
+        - "G4931 — συντελέω (synteléō)": G4931-synteleo.md
         - "G4969 — σφάζω (sphazō)": G4969-sphazo.md
         - "G4972 — σφραγίζω (sphragizō)": G4972-sphragizo.md
         - "G4973 — σφραγίς (sphragis)": G4973-sphragis.md
         - "G4983 — σῶμα (sōma)": G4983-soma.md
+        - "G4997 — σωφροσύνη (sōphrosýnē)": G4997-sophrosyne.md
         - "G5020 — ταρταρόω (tartaroo)": G5020-tartaroo.md
         - "G5034 — τάχος (táchos)": G5034-tachos.md
         - "G5035 — ταχύ (tachý)": G5035-tachy.md
         - "G5043 — τέκνον (téknon)": G5043-teknon.md
+        - "G5046 — τέλειος (téleios)": G5046-teleios.md
+        - "G5048 — τελειόω (teleióō)": G5048-teleioo.md
         - "G5055 — τελέω (teleō)": G5055-teleo.md
         - "G5056 — τέλος (télos)": G5056-telos.md
+        - "G5059 — τέρας (téras)": G5059-teras.md
+        - "G5062 — τεσσαράκοντα (tessarakonta)": G5062-tessarakonta.md
         - "G5083 — τηρέω (tēréō)": G5083-tereo.md
         - "G5154 — τρίτος (trítos)": G5154-tritos.md
         - "G5179 — τύπος (typos)": G5179-typos.md
+        - "G5206 — υἱοθεσία (huiothesia)": G5206-huiothesia.md
         - "G5207 — υἱός (huios)": G5207-huios.md
         - "G5218 — ὑπακοή (hupakŏē)": G5218-hupakoe.md
+        - "G5219 — ὑπακούω (hupakouō)": G5219-hupakouo.md
+        - "G5229 — ὑπεραίρω (hyperairō)": G5229-hyperairo.md
+        - "G5235 — ὑπερβάλλω (huperballo)": G5235-huperballo.md
+        - "G5236 — ὑπερβολή (huperbole)": G5236-huperbole.md
+        - "G5241 — ὑπερεντυγχάνω (huperentugchano)": G5241-huperentugchano.md
+        - "G5248 — ὑπερπερισσεύω (huperperisseuo)": G5248-huperperisseno.md
+        - "G5250 — ὑπερπλεονάζω (huperpleonazo)": G5250-huperpleonazo.md
         - "G5281 — ὑπομονή (hupomone)": G5281-hupomone.md
+        - "G5287 — ὑπόστασις (hupostasis)": G5287-hupostasis.md
+        - "G5302 — ὑστερέω (hustereo / hystereo)": G5302-hustereo.md
+        - "G5312 — ὑψόω (hupsoo)": G5312-hupsoo.md
+        - "G5319 — φανερόω (phaneróō)": G5319-phaneroo.md
         - "G5331 — φαρμακεία (pharmakeia)": G5331-pharmakeia.md
         - "G5357 — φιάλη (phiálē)": G5357-phiale.md
         - "G5399 — φοβέω (phobeo)": G5399-phobeo.md
+        - "G5401 — φόβος (phobos)": G5401-phobos.md
+        - "G5432 — φρουρέω (phrouréō)": G5432-phroureo.md
         - "G5457 — φῶς (phōs)": G5457-phos.md
         - "G5464 — χάλαζα (chálaza)": G5464-chalaza.md
+        - "G5479 — χαρά (chará)": G5479-chara.md
         - "G5480 — χάραγμα (cháragma)": G5480-charagma.md
+        - "G5483 — χαρίζομαι (charizomai)": G5483-charizomai.md
         - "G5485 — χάρις (cháris)": G5485-charis.md
         - "G5495 — χείρ (cheír)": G5495-cheir.md
         - "G5498 — χειρόγραφον (cheirographon)": G5498-cheirographon.md
+        - "G5525 — χορός (choros)": G5525-choros.md
         - "G5547 — Χριστός (Christos)": G5547-christos.md
+        - "G5548 — χρίω (chrio)": G5548-chrio.md
         - "G5550 — χρόνος (chrónos)": G5550-chronos.md
         - "G5578 — ψευδοπροφήτης (pseudoprophḗtēs)": G5578-pseudoprophetes.md
         - "G5585 — ψηφίζω (psēphízō)": G5585-psephizo.md
@@ -413,101 +1037,219 @@ nav:
 
     - "Cross-Testament Traces":
         - "TR — זָקֵן (zaqen) → πρεσβύτερος (presbyteros)": TR-zaqen-presbyteros.md
+        - "TR-kalah-synteleo — H3615 (כָּלָה) → G4931 (συντελέω)": TR-kalah-synteleo.md
+        - "TR: adam -> anthropos (Human / Mankind)": TR-adam-anthropos.md
         - "TR: ahab → agapao (Love)": TR-ahab-agapao.md
+        - "TR: am → laos (People / Covenant People)": TR-am-laos.md
+        - "TR: anah → tapeinoo (Afflict/Humble)": TR-anah-tapeinoo.md
+        - "TR: azab → enkataleipo (Forsake/Abandon)": TR-azab-enkataleipo.md
+        - "TR: bachan → dokimazo (Test/Examine/Approve)": TR-bachan-dokimazo.md
+        - "TR: bad → monos (Alone / Only)": TR-bad-monos.md
+        - "TR: barak → eulogeo (Blessing)": TR-barak-eulogeo.md
         - "TR: basar → euangelizo (Bear Tidings / Evangelize)": TR-basar-euangelizo.md
+        - "TR: batach → peitho (Trust/Persuasion)": TR-batach-peitho.md
+        - "TR: beged → himation (Garment/Clothing)": TR-beged-himation.md
         - "TR: ben → huios (Son / Sonship)": TR-ben-huios.md
+        - "TR: berakah → eulogia (Blessing)": TR-brakah-eulogia.md
         - "TR: beriyth → diatheke (Covenant)": TR-beriyth-diatheke.md
         - "TR: biyn -> syniemi (Mental Discernment)": TR-biyn-syniemi.md
         - "TR: bâsâr → sárx (Flesh)": TR-basar-sarx.md
+        - "TR: bôʾ → ἔρχομαι (Coming / Arrival)": TR-bo-erchomai.md
+        - "TR: cepher → biblion (Book/Scroll)": TR-cepher-biblion.md
         - "TR: chag → heortḗ (Pilgrimage Festival)": TR-chag-heorte.md
+        - "TR: chalal → bebeloo (Profanation / Desecration)": TR-chalal-bebeloo.md
+        - "TR: chalam → enypniazomai (Dreaming)": TR-chalam-enypniazomai.md
+        - "TR: chalowm → enypnion (Dream / Revelatory Sleep-Vision)": TR-chalowm-enypnion.md
+        - "TR: chamal → pheidomai (Sparing / Withholding Destruction)": TR-chamal-pheidomai.md
+        - "TR: chamiyshiy → pemptos (Fifth)": TR-chamiyshiy-pemptos.md
+        - "TR: chashab → logizomai (Reckoning/Imputation)": TR-chashab-logizomai.md
         - "TR: chay → zōḗ (Life — Living/Alive)": TR-chay-zoe.md
+        - "TR: chazaq → krateo (Seize/Hold/Strengthen)": TR-chazaq-krateo.md
         - "TR: chazon → horasis (Prophetic Vision)": TR-chazon-horasis.md
         - "TR: chaṭṭâʼâh → hamartia (Sin / Sin Offering)": TR-chattaah-hamartia.md
+        - "TR: checed → eleos (Covenant Loyalty / Mercy)": TR-checed-eleos.md
+        - "TR: cheleq → meris (Portion/Share)": TR-cheleq-meris.md
+        - "TR: chemah → thymos (Burning Fury / Passionate Wrath)": TR-chemah-thymos.md
         - "TR: chereb → rhomphaia (Sword)": TR-chereb-rhomphaia.md
+        - "TR: chinnam → dorea (Freely / Without Cause)": TR-chinnam-dorea.md
+        - "TR: chodesh → mēn (Month / New Moon)": TR-chodesh-men.md
         - "TR: chokmah → sophia (Wisdom)": TR-chokmah-sophia.md
         - "TR: choshek → skotos (Darkness)": TR-choshek-skotos.md
+        - "TR: chuwts -> exo (Outside/Without)": TR-chuwts-exo.md
         - "TR: châdâsh → kainos (New / Newness)": TR-chadash-kainos.md
+        - "TR: chânan → eleéō (Showing Mercy / Being Gracious)": TR-chanan-eleeo.md
+        - "TR: châthân → nymphíos (Bridegroom)": TR-chathan-nymphios.md
+        - "TR: châṭâʼ → hamartanō (To Sin / Miss the Mark)": TR-chata-hamartano.md
+        - "TR: chôl → βέβηλος (Common / Profane — The Holy/Common Axis)": TR-chol-bebelos.md
         - "TR: chôq → dikaíōma (Statute / Righteous Ordinance)": TR-choq-dikaioma.md
         - "TR: da'ath → gnosis (Knowledge)": TR-daath-gnosis.md
         - "TR: dabar → laleo (Speaking/Utterance)": TR-dabar-laleo.md
         - "TR: dâm → haîma (Blood)": TR-dam-haima.md
+        - "TR: edah -> synagoge (Congregation/Synagogue)": TR-edah-synagoge.md
         - "TR: emeth → aletheia (Truth/Faithfulness)": TR-emeth-aletheia.md
+        - "TR: emunah → pistis (Faithfulness/Faith)": TR-emuwnah-pistis.md
+        - "TR: esher → makarios (Blessedness)": TR-esher-makarios.md
+        - "TR: ets → xylon (Tree/Wood)": TR-ets-xylon.md
+        - "TR: evel -> adikia (Iniquity / Unrighteousness)": TR-evel-adikia.md
+        - "TR: gabahh -> hupsoo (High / Exalt)": TR-gabahh-hupsoo.md
         - "TR: gadal to megaluno (Greatness / Magnification)": TR-gadal-megaluno.md
         - "TR: gadal → megalynō (Magnify / Greatness)": TR-gadal-megalyno.md
         - "TR: gadol → megas (Great / Large)": TR-gadowl-megas.md
         - "TR: galah → apokalyptō (Uncover / Reveal)": TR-galah-apokalypto.md
+        - "TR: ger → proselytos (Stranger/Sojourner → Proselyte)": TR-ger-proselytos.md
+        - "TR: gowral → kleros (Lot / Allotted Portion)": TR-gowral-kleros.md
         - "TR: gowy → ethnos (Nation / Gentiles)": TR-gowy-ethnos.md
+        - "TR: gârash → ekballō (Driving Out / Casting Out)": TR-garash-ekballo.md
         - "TR: H3499 יֶתֶר (yether) → G3062 λοιποί (loipoi)": TR-yether-loipoi.md
+        - "TR: har -> oros (Mountain / Mount)": TR-har-oros.md
+        - "TR: harag → apokteinō (To Kill / Slay)": TR-harag-apokteino.md
         - "TR: hayah -> ginomai (Being/Becoming)": TR-hayah-ginomai.md
         - "TR: heykal → naos (Temple/Sanctuary)": TR-heykal-naos.md
+        - "TR: kabad → doxazō (Honor/Glorify — Verb)": TR-kabad-doxazo.md
+        - "TR: kabas → plyno (Wash Garments)": TR-kabac-plyno.md
+        - "TR: kallâh → nýmphē (Bride / Daughter-in-Law)": TR-kallah-nymphe.md
         - "TR: kapporeth → hilastērion (Mercy Seat / Propitiation)": TR-kapporeth-hilasterion.md
         - "TR: kisse → thrónos (Throne / Royal Seat)": TR-kisse-thronos.md
         - "TR: kârath → diatithemi (Covenant-Cutting / Covenant-Making)": TR-karath-diatithemi.md
         - "TR: kâthab → gráphō (Write / What Is Written)": TR-kathab-grapho.md
         - "TR: kôhên → hiereús (Priest / Priestly Office)": TR-kohen-hiereus.md
+        - "TR: kôwkâb → astēr (Star — Literal, Angelic, Royal, Apocalyptic)": TR-kokab-aster.md
+        - "TR: kôwç → potḗrion (The Cup — Blessing and Wrath)": TR-kowc-poterion.md
+        - "TR: labash → endyo (Clothe/Put On)": TR-labash-endyo.md
         - "TR: laqach → lambano (Take/Receive)": TR-laqach-lambano.md
+        - "TR: layil → nyx (Night)": TR-layil-nyx.md
         - "TR: lêb → kardia (Heart / Inner Person)": TR-leb-kardia.md
         - "TR: lābān → leukós (White)": TR-laban-leukos.md
+        - "TR: machah → exaleipho (Blot Out / Wipe Away)": TR-machah-exaleipho.md
+        - "TR: machaneh → parembole (Camp/Encampment)": TR-machaneh-parembole.md
         - "TR: malak → ággelos (Messenger / Angel)": TR-malak-aggelos.md
         - "TR: malkuwth → basileía (Kingdom / Dominion)": TR-malkuwth-basileia.md
         - "TR: mar'eh → opsis (Appearance / How a Thing Looks)": TR-mareh-opsis.md
         - "TR: mashach → chrio (Anointing / Consecration)": TR-mashach-chrio.md
+        - "TR: mashal → parabole (Parable / Proverb / Figurative Speech)": TR-mashal-parabole.md
         - "TR: maveth → thanatos (Death)": TR-maveth-thanatos.md
+        - "TR: mayim → hudor (Water)": TR-mayim-hudor.md
+        - "TR: melek -> basileus (King / Royal Ruler)": TR-melek-basileus.md
         - "TR: meod → σφόδρα — Vehemence as Intensifier": TR-mod-sphodra.md
         - "TR: milchamah → polemos (War / Battle)": TR-milchamah-polemos.md
+        - "TR: minchah → thysia (Grain Offering / Sacrifice)": TR-minchah-thysia.md
+        - "TR: mirmah → dolos (Deceit/Guile)": TR-mirmah-dolos.md
+        - "TR: mishkan → skene (Tabernacle/Dwelling)": TR-mishkan-skene.md
         - "TR: mishpat → krima/krisis (Judgment / Justice)": TR-mishpat-krima.md
         - "TR: mitsvah → entolē (Commandment)": TR-mitsvah-entole.md
+        - "TR: mizbeach → thysiastērion (Altar)": TR-mizbeach-thysiasterion.md
         - "TR: mizrâq → phiálē (Sanctuary Bowl / Judgment Vial)": TR-mizraq-phiale.md
         - "TR: mo'ed → heortē (Appointed Feast)": TR-moed-heorte.md
+        - "TR: muwl -> peritemno (Circumcise)": TR-muwl-peritemno.md
+        - "TR: muwth → apothnesko (To Die)": TR-muwth-apothnesko.md
         - "TR: mâlêʼ → plēróō (Filling / Fulfillment)": TR-male-pleroo.md
         - "TR: mâshîyach → Christós (Anointed One / Messiah / Christ)": TR-mashiyach-christos.md
         - "TR: mᵉnôwrâh → lychnia (Lampstand)": TR-mnowrah-lychnia.md
+        - "TR: nacham → metamellomai (Relent / Regret / \"Repent\")": TR-nacham-metamellomai.md
         - "TR: nadar → euchomai (Vowing / Praying-Wishing)": TR-nadar-euchomai.md
+        - "TR: nakah → patassō (Striking, Smiting, Plague-Blow)": TR-nakah-patasso.md
         - "TR: naphal → pipto (Fall)": TR-naphal-pipto.md
         - "TR: neder → euche (The Vow)": TR-neder-euche.md
         - "TR: nephesh → psychē (Soul / Life)": TR-nephesh-psyche.md
+        - "TR: nokriy → allotrios (Foreign/Strange/Another's)": TR-nokriy-allotrios.md
+        - "TR: nuwach → anapauo (Rest / Settle / Repose)": TR-nuwach-anapauo.md
         - "TR: nâgîyd → ἡγούμενος (Designated Leader / Ruler)": TR-nagiyd-hegeomai.md
+        - "TR: nābîyʼ → prophētēs (Prophet)": TR-nabiy-prophetes.md
         - "TR: nāśāʾ → aírō (Lift / Bear / Take Away)": TR-nasa-airo.md
         - "TR: nᵉshâmâh → pnoḗ (Breath of Life)": TR-nshamah-pnoe.md
         - "TR: pathach → anoigo (Opening)": TR-pathach-anoigo.md
+        - "TR: poreketh → katapetasma (Veil/Curtain)": TR-poreketh-katapetasma.md
+        - "TR: pâdâh → lytróō (Ransom/Redeem)": TR-padah-lytroo.md
         - "TR: pânîym → prósōpon (Face / Presence)": TR-paniym-prosopon.md
         - "TR: qadash → hagiazō (Sanctify / Make Holy)": TR-qadash-hagiazo.md
         - "TR: qahal → ekklesia (Assembly / Congregation)": TR-qahal-ekklesia.md
+        - "TR: qatar → thymiáō (Burn Incense / Cause to Smoke)": TR-qatar-thymiao.md
+        - "TR: qelalah → katara (Curse)": TR-qlalah-katara.md
         - "TR: qeren → kéras (Horn / Power)": TR-qeren-keras.md
         - "TR: qodesh → hagios (Holiness / Holy)": TR-qodesh-hagios.md
+        - "TR: qowl → phone (Voice/Sound)": TR-qowl-phone.md
+        - "TR: qārab → prosphérō (Bring Near / Offer)": TR-qarab-prosphero.md
         - "TR: qᵉṭôreth → thymíama (Incense)": TR-qtoreth-thymiama.md
         - "TR: ra'ah → poimaino (Shepherd/Tend/Rule)": TR-raah-poimaino.md
         - "TR: raab → limos (Famine / Hunger)": TR-raab-limos.md
+        - "TR: rab -> polys (Many/Great/Much)": TR-rab-polys.md
+        - "TR: rachats → louo (Wash/Bathe)": TR-rachats-louo.md
+        - "TR: rapha → iaomai (Healing/Curing)": TR-rapha-iaomai.md
+        - "TR: rasha → asebes (Wicked/Ungodly)": TR-rasha-asebes.md
+        - "TR: ratsach → phoneúō (Murder / Unlawful Killing)": TR-ratsach-phoneuo.md
+        - "TR: riyb → krisis (Legal Contention/Judgment)": TR-riyb-krisis.md
+        - "TR: rob → plēthos (Abundance/Multitude)": TR-rob-plethos.md
         - "TR: ruach → pneuma (Spirit / Wind / Breath)": TR-ruach-pneuma.md
+        - "TR: râmas / mirmâs → katapatéō (Trodden Under Foot)": TR-ramas-katapateo.md
+        - "TR: râtsâh → eudokeō (Acceptance/Divine Pleasure)": TR-ratsah-eudokeo.md
         - "TR: râtsôwn → δεκτός (Favour / Acceptability)": TR-ratsown-dektos.md
+        - "TR: râz → mystērion (Mystery / Divinely Concealed Counsel)": TR-raz-mysterion.md
         - "TR: rûwm → hupsŏō (Exaltation)": TR-ruwm-hupsoo.md
+        - "TR: saba → empiplemi (Satisfaction/Filling)": TR-saba-empiplemi.md
+        - "TR: samak → epitithemi (Laying On / Imposing)": TR-camak-epitithemi.md
         - "TR: sar → árchōn (Ruler / Prince)": TR-sar-archon.md
+        - "TR: saraph → katakaio (Burning / Total Consumption)": TR-saraph-katakaio.md
+        - "TR: sha'ar → pyle (Gate)": TR-shaar-pyle.md
+        - "TR: shaba → omnyo (Swear / Take an Oath)": TR-shaba-omnyo.md
         - "TR: shabbath → sabbaton (Sabbath)": TR-shabbath-sabbaton.md
         - "TR: shachah → proskynéō (Bow Down / Worship)": TR-shachah-proskyneo.md
         - "TR: shachat → sphazō (Sacrificial Slaughter)": TR-shachat-sphazo.md
+        - "TR: shalach → apostello (Send / Commission)": TR-shalach-apostello.md
+        - "TR: shalom → eirene (Peace/Wholeness)": TR-shalowm-eirene.md
+        - "TR: shaneh → etos (Year / Annual Time-Reckoning)": TR-shaneh-etos.md
+        - "TR: shaphak → ekcheō (Pour Out / Shed)": TR-shaphak-ekcheo.md
         - "TR: shaphat → krinō (Judging / Judgment)": TR-shaphat-krino.md
+        - "TR: shelem → soterion (Peace Offering → Salvation)": TR-shelem-soterion.md
+        - "TR: shem → onoma (The Name)": TR-shem-onoma.md
         - "TR: shiqquwts → bdelygma (Abomination/Desolation)": TR-shiqquwts-bdelygma.md
+        - "TR: shiyth → tithemi (Set/Place)": TR-shiyth-tithemi.md
         - "TR: showl → haides (Sheol / Hades — Realm of the Dead)": TR-showl-haides.md
         - "TR: shâchath → diaphtheirō (Corruption / Destruction)": TR-shachath-diaphtheiro.md
+        - "TR: shâmad → apóllymi (Total Destruction / Perishing)": TR-shamad-apollymi.md
+        - "TR: shâmayim → ouranos (Heaven / Sky / Divine Dwelling)": TR-shamayim-ouranos.md
+        - "TR: shâmaʻ → akouō (Hearing/Obedience)": TR-shama-akouo.md
+        - "TR: shâthâh → pínō (Drink / Imbibing)": TR-shathah-pino.md
         - "TR: shôwphâr → sálpinx (Trumpet / Signal Horn)": TR-showphar-salpinx.md
+        - "TR: shûwb → epistréphō (Return / Turning / Conversion)": TR-shuwb-epistrepho.md
         - "TR: shākan → κατασκηνόω (Divine Dwelling / Encamping Presence)": TR-shakan-kataskenoo.md
         - "TR: shᵉlîyshîy → trítos (Third / Ordinal Three)": TR-shliyshiy-tritos.md
+        - "TR: simchâh → euphrosýnē (Covenant Gladness / Festival Joy)": TR-simchah-euphrosyne.md
         - "TR: sukkah → skēnē (Booth / Tabernacle)": TR-cukkah-skene.md
+        - "TR: sur → ekklino (Turn Aside / Deviate)": TR-cuwr-ekklino.md
+        - "TR: tamam → ekleipo (Complete/Consumed → Fail/Cease)": TR-tamam-ekleipo.md
+        - "TR: tamiym -> amomos (Unblemished / Blameless)": TR-tamiym-amomos.md
+        - "TR: tehom → abyssos (Deep / Abyss)": TR-thowm-abyssos.md
+        - "TR: tiqvah → elpis (Hope/Expectation)": TR-tiqvah-elpis.md
+        - "TR: towebah → bdelygma (Abomination)": TR-towebah-bdelygma.md
         - "TR: tsadaq → dikaioo (Righteousness/Justification)": TR-tsadaq-dikaioo.md
         - "TR: tsaddiyq → dikaios (The Righteous One)": TR-tsaddiyq-dikaios.md
         - "TR: tsedeq → dikaiosyne (Righteousness)": TR-tsedeq-dikaiosyne.md
+        - "TR: tsâbâʼ → pantokrátōr (LORD of Hosts / Almighty)": TR-tsaba-pantokrator.md
+        - "TR: tsâlach → euodoō (Prosper / Advance Successfully)": TR-tsalach-euodoo.md
         - "TR: tsêl / tsalmâveth → skiá (Shadow)": TR-tsel-skia.md
+        - "TR: tumʼah → akatharsía (Uncleanness/Impurity)": TR-tumah-akatharsia.md
         - "TR: tôwrâh → nomos (Torah/Law)": TR-towrah-nomos.md
         - "TR: yad → cheír (Hand / Agency)": TR-yad-cheir.md
         - "TR: yada → ginōskō (Knowing)": TR-yada-ginosko.md
+        - "TR: yadah → exomologeo (Confess / Give Thanks / Praise)": TR-yadah-exomologeo.md
+        - "TR: yamiyn → dexios (Right Hand)": TR-yamiyn-dexios.md
         - "TR: yare → phobeo (Fear/Reverence)": TR-yare-phobeo.md
+        - "TR: yasar → paideuo (Discipline/Chastening)": TR-yacar-paideuo.md
+        - "TR: yashab → katoikeo (Dwell / Inhabit)": TR-yashab-katoikeo.md
+        - "TR: yashar → euthys (Upright/Straight)": TR-yashar-euthys.md
         - "TR: yayin → oinos (Wine)": TR-yayin-oinos.md
+        - "TR: Yehoshua → Iēsous (The Name \"YHWH Saves\")": TR-yhowshuwa-iesous.md
+        - "TR: yârash → klēronoméō (Possess / Inherit)": TR-yarash-kleronomeo.md
         - "TR: yôwm → hēméra (Day)": TR-yowm-hemera.md
         - "TR: zakar → mnáomai (Remember / Covenant Remembrance)": TR-zakar-mnaomai.md
+        - "TR: zaʻaq → krazō (Cry Out / Shriek)": TR-zaaq-krazo.md
         - "TR: zeraʻ → spérma (Seed / Offspring / Covenant Promise)": TR-zera-sperma.md
         - "TR: zânâh → pórnē (Harlotry/Prostitution)": TR-zanah-porne.md
         - "TR: śākal → syníēmi (Prudent Understanding)": TR-sakal-syniemi.md
+        - "TR: ʻasah → poieō (Do / Make / Perform)": TR-asah-poieo.md
         - "TR: ʻereb → hespéra (Evening / Dusk)": TR-ereb-hespera.md
+        - "TR: ʻâbad → douleúō (Serve/Be Enslaved)": TR-abad-douleuo.md
+        - "TR: ʻâbar → diabaino (Cross Over / Pass Through)": TR-abar-diabaino.md
         - "TR: ʻânân → νεφέλη (Cloud / Divine Presence)": TR-anan-nephele.md
         - "TR: ʻâshân → kapnós (Smoke)": TR-ashan-kapnos.md
         - "TR: ʻâvôn → ἀδικία (Iniquity / Unrighteousness)": TR-avon-adikia.md
@@ -517,13 +1259,23 @@ nav:
         - "TR: ʻôlâh → holokaútōma (Whole Burnt Offering)": TR-olah-holokautoma.md
         - "TR: ʻôwlâm → αἰών (Eternity / Endless Duration)": TR-owlam-aion.md
         - "TR: ʼachărôwn → éschatos (Last / Final)": TR-acharown-eschatos.md
+        - "TR: ʼalah → ara (Oath-Curse / Imprecation)": TR-alah-ara.md
+        - "TR: ʼaph → orgē (Anger/Wrath)": TR-aph-orge.md
+        - "TR: ʼeben → lithos (Stone)": TR-eben-lithos.md
         - "TR: ʼowth → semeion (Sign/Token)": TR-owth-semeion.md
+        - "TR: ʼâbad → apóllymi (Perish / Destroy)": TR-abad-apollymi.md
+        - "TR: ʼâkal → esthíō (Eating — Covenant Meal, Devouring, Ingestion)": TR-akal-esthio.md
+        - "TR: ʼârar → epikataratos (Curse)": TR-arar-epikataratos.md
+        - "TR: ʼêpher → spodos (Ashes)": TR-epher-spodos.md
+        - "TR: ʼêsh → pyr (Fire)": TR-esh-pyr.md
         - "TR: ʼôwr → phōs (Light)": TR-owr-phos.md
         - "TR: ʼāman → pistós (Faithfulness / Trustworthiness)": TR-aman-pistos.md
         - "TR: ʼārôn → kibōtós (The Ark)": TR-arown-kibotos.md
+        - "TR: ʿal → epí (Upon / Over / Against)": TR-al-epi.md
         - "TR: כָּבוֹד (kabod) → δόξα (doxa)": TR-kabod-doxa.md
         - "TR: ḥēn → cháris (Grace / Favor)": TR-hen-charis.md
         - "TR: ṭâhêr → katharizō (Cleansing/Purification)": TR-taher-katharizo.md
+        - "TR: ṭâmêʼ → μιαίνω (Defilement / Ritual Uncleanness)": TR-tame-miaino.md
         - "TR: ṭâmêʼ → ἀκάθαρτος (Ritual Uncleanness)": TR-tame-akathartos.md
 
     - "Word Groups":
@@ -531,7 +1283,10 @@ nav:
         - "WG — Faith / Belief": WG-faith.md
         - "WG: Abide / Dwell / Remain": WG-abide.md
         - "WG: Abomination": WG-abomination.md
+        - "WG: Abundance / Surplus": WG-abundance.md
+        - "WG: Acceptance / Divine Pleasure": WG-acceptance.md
         - "WG: Advocacy and Comfort": WG-advocacy-comfort.md
+        - "WG: Afflict / Humble": WG-afflict.md
         - "WG: Altar and Sacrifice": WG-altar.md
         - "WG: Angel / Messenger": WG-angel.md
         - "WG: Anointed One (Priest / King / Messiah)": WG-anointed.md
@@ -542,33 +1297,70 @@ nav:
         - "WG: Atonement": WG-atonement.md
         - "WG: Beast": WG-beast.md
         - "WG: Becoming / Coming-into-Being": WG-becoming.md
+        - "WG: Bitter": WG-bitter.md
         - "WG: Blasphemy": WG-blasphemy.md
+        - "WG: Blessedness": WG-blessed.md
+        - "WG: Blessing": WG-blessing.md
+        - "WG: Blood": WG-blood.md
+        - "WG: Boldness / Confidence": WG-boldness.md
+        - "WG: Bridegroom / Wedding": WG-bridegroom.md
+        - "WG: Burning (Hebrew Fire Vocabulary)": WG-burning.md
+        - "WG: Camp / Encampment": WG-camp.md
+        - "WG: Carry / Bear / Remove": WG-carry-remove.md
         - "WG: Church / Assembly": WG-church.md
         - "WG: Circumcision": WG-circumcision.md
         - "WG: Cleansing / Purity": WG-cleansing.md
+        - "WG: Clothed": WG-clothed.md
         - "WG: Cloud": WG-cloud.md
         - "WG: Come / Arrival Vocabulary": WG-came.md
         - "WG: Commandment": WG-commandment.md
         - "WG: Commandment-Keeping": WG-commandment-keeping.md
+        - "WG: Completion / Consumption": WG-completion.md
+        - "WG: Confess / Profess / Deny": WG-confess.md
+        - "WG: Congregation / Assembly": WG-congregation.md
         - "WG: Continual Worship": WG-continual-worship.md
         - "WG: Covenant": WG-covenant.md
+        - "WG: Covenant Feast — Eating, Drinking, and Sacrificial Meal Before YHWH": WG-covenant-feast.md
+        - "WG: Covenant Loyalty": WG-covenant-loyalty.md
+        - "WG: Created / Made / Formed": WG-created.md
+        - "WG: Cross / Crucifixion": WG-cross.md
+        - "WG: Crown / Consecration": WG-crown.md
+        - "WG: Crucifixion": WG-crucified.md
+        - "WG: Crying / Shouting": WG-crying.md
+        - "WG: Curse": WG-curse.md
         - "WG: Darkness": WG-darkness.md
         - "WG: Day and Night (Hebrew/Greek Time Units)": WG-day.md
         - "WG: Death, Life, Sin, Hades, Resurrection": WG-death.md
+        - "WG: Debt / Obligation": WG-debt.md
+        - "WG: Deceit / Falsehood": WG-deceit.md
+        - "WG: Defile (NT Defilement Vocabulary)": WG-defile.md
         - "WG: Desolate / Desolation": WG-desolate.md
+        - "WG: Destroy / Demolish (Greek)": WG-destroy-demolish.md
+        - "WG: Destroy / Exterminate (Hebrew)": WG-destroy.md
+        - "WG: Discipline / Training": WG-discipline.md
+        - "WG: Doctrine / Teaching": WG-doctrine.md
         - "WG: Doing / Making / Working": WG-doing.md
         - "WG: Dragon / Serpent / Adversary": WG-dragon.md
+        - "WG: Dream / Nocturnal Revelation": WG-dream.md
+        - "WG: Dream / Vision / Prophetic Revelation": WG-dream-vision-revelation.md
         - "WG: Earthquake / Eschatological Signs": WG-earthquake.md
         - "WG: End / Termination": WG-end.md
+        - "WG: Exceeding / Surpassing": WG-exceeding.md
         - "WG: Fall (pipto word family)": WG-fall.md
         - "WG: False Prophets": WG-falseprophets.md
         - "WG: Family / Kinship": WG-family.md
         - "WG: Famine — Judgment Triad": WG-famine.md
         - "WG: Fear / Reverence": WG-fear.md
+        - "WG: Figurative Speech (Parable / Proverb / Riddle / Taunt)": WG-figurative-speech.md
         - "WG: Flesh": WG-flesh.md
         - "WG: Forever / Eternal Duration": WG-forever.md
+        - "WG: Forgiveness": WG-forgiveness.md
+        - "WG: Formless / Void": WG-formless-void.md
         - "WG: Fornication / Sexual Immorality": WG-fornication.md
+        - "WG: Forsake / Leave Behind": WG-forsake.md
         - "WG: Fulfillment / Fullness": WG-fulfillment.md
+        - "WG: Garment": WG-garment.md
+        - "WG: Gate — Entries and Openings": WG-gate.md
         - "WG: Gentiles / Nations / Peoples": WG-gentiles.md
         - "WG: Giving": WG-giving.md
         - "WG: Glory and Honor": WG-glory.md
@@ -577,17 +1369,29 @@ nav:
         - "WG: Grace": WG-grace.md
         - "WG: Graven Image — OT Idol Vocabulary": WG-gravenimage.md
         - "WG: Greatness / Magnify": WG-greatness.md
+        - "WG: Guilt Offering": WG-guilt-offering.md
+        - "WG: Habitation / Dwelling Place": WG-habitation.md
         - "WG: Hands (χείρ Word Family)": WG-hands.md
         - "WG: Healing": WG-healing.md
+        - "WG: Heard — The Hearing-Obedience Concept Cluster": WG-heard.md
         - "WG: Heart (Hebrew Inner-Person Cluster)": WG-heart.md
         - "WG: Hebrew Leadership / Ruler": WG-ruler.md
         - "WG: Hebrew Righteousness (צדק word family)": WG-hebrew-righteousness.md
         - "WG: Hebrew Wrath / Indignation": WG-hebrew-wrath.md
+        - "WG: Heir / Inheritance": WG-heir.md
         - "WG: High, Lofty, Exalted": WG-high.md
         - "WG: Holiness": WG-holiness.md
+        - "WG: Hope": WG-hope.md
+        - "WG: Host / Army / Battle (Hebrew \"of hosts\" cluster)": WG-ofhosts.md
         - "WG: Image / Likeness — NT Representation Language": WG-image.md
+        - "WG: Imputation": WG-imputation.md
         - "WG: Incense / Fumigation": WG-incense.md
+        - "WG: Incorruptible / Corruption": WG-incorruptible.md
+        - "WG: Instruction": WG-instruction.md
+        - "WG: Intercession": WG-intercession.md
+        - "WG: Interpret / Translate": WG-interpret.md
         - "WG: Iron — Aramaic Metals of Nebuchadnezzar's Image": WG-iron.md
+        - "WG: Joy / Gladness / Rejoicing": WG-joy.md
         - "WG: Judgment": WG-judgment.md
         - "WG: Kingdom / Reign / Dominion": WG-kingdom.md
         - "WG: Knowledge / Wisdom / Understanding": WG-knowledge.md
@@ -595,79 +1399,307 @@ nav:
         - "WG: Lampstand / Light Holders": WG-candlesticks.md
         - "WG: Last / First (Ordinal Sequence and Rank)": WG-last.md
         - "WG: Law": WG-law.md
+        - "WG: Laying On of Hands (Sacrificial Identification and Transfer)": WG-laying-on-of-hands.md
         - "WG: Life": WG-life.md
         - "WG: Light and Darkness": WG-light.md
+        - "WG: Linen": WG-linen.md
         - "WG: Love": WG-love.md
         - "WG: Mark of the Beast": WG-mark.md
         - "WG: Marry": WG-marry.md
+        - "WG: Multitude": WG-multitude.md
         - "WG: Must / Necessity-Obligation": WG-must.md
         - "WG: Mystery / Divine Secret": WG-mystery.md
         - "WG: New (Newness Concept)": WG-new.md
+        - "WG: Night and Darkness (Hebrew Time/Light Vocabulary)": WG-night.md
         - "WG: Nullify / Abolish / Destroy": WG-abolish.md
+        - "WG: Oath / Swearing": WG-oath.md
         - "WG: Obedience": WG-obedience.md
+        - "WG: Offer Up / Sacrificial Bearing": WG-offerup.md
         - "WG: Opening / Access": WG-opened.md
+        - "WG: Oversight / Visitation": WG-oversight.md
         - "WG: Patience, Endurance, Perseverance": WG-patience.md
+        - "WG: Peace / Shalom": WG-peace.md
+        - "WG: People / Crowd / Multitude": WG-people.md
+        - "WG: Perfection / Completion (τελ- Family)": WG-perfection.md
+        - "WG: Perish / Save (Eschatological Antithesis)": WG-perish-save.md
+        - "WG: Persuaded (Trust / Obedience from Conviction)": WG-persuaded.md
         - "WG: Plagues, Stripes, Wounds": WG-plagues.md
+        - "WG: Portion / Allotment": WG-portion.md
+        - "WG: Possess / Inherit / Dispossess": WG-possess-inherit.md
         - "WG: Power / Authority": WG-power.md
+        - "WG: Praise and Thanksgiving": WG-praise-thanksgiving.md
+        - "WG: Prayer": WG-prayer.md
         - "WG: Priests / Priestly Office (Greek NT)": WG-priests.md
+        - "WG: Profanation / Holy-Common Boundary": WG-profanation.md
+        - "WG: Promise": WG-promise.md
         - "WG: Prophecy": WG-prophecy.md
         - "WG: Prophetic Vision": WG-vision.md
+        - "WG: Reconciliation": WG-reconciliation.md
+        - "WG: Redemption": WG-redemption.md
         - "WG: Refining / Testing": WG-refining.md
         - "WG: Remnant / Remainder": WG-remnant.md
         - "WG: Repentance": WG-repent.md
         - "WG: Rest / Cessation": WG-rest.md
         - "WG: Revelation and Disclosure (Greek)": WG-revelation.md
+        - "WG: Right Hand / Session / Authority": WG-righthand.md
         - "WG: Righteousness (δικ- word family)": WG-righteousness.md
         - "WG: Sabbath — Day, Law, and Controversy": WG-sabbath.md
+        - "WG: Sacrifice (OT Offering System)": WG-sacrifice.md
         - "WG: Satan / Adversary / Accuser": WG-satan.md
+        - "WG: Satisfaction / Fullness": WG-satisfaction.md
         - "WG: Sealing": WG-sealing.md
+        - "WG: Service and Worship": WG-service-worship.md
         - "WG: Shadow / Type / Image — NT Typological Language": WG-shadow.md
         - "WG: Shepherd": WG-shepherd.md
         - "WG: Shortly / Quickly (ταχύς Family)": WG-shortly.md
         - "WG: Sign / Token / Wonder": WG-sign.md
+        - "WG: Sin (Hebrew Sin-Terminology Cluster)": WG-sin.md
+        - "WG: Slayer / Homicide / Blood-Guilt": WG-slayer.md
         - "WG: Smoke (Fire, Smoke, Brimstone, Burning)": WG-smoke.md
         - "WG: Sorcery / Magic": WG-sorcery.md
         - "WG: Soul / Life": WG-soul.md
+        - "WG: Sparing, Withholding, Compassion": WG-spare.md
         - "WG: Speech and Speaking": WG-speech.md
         - "WG: Spirit": WG-spirit.md
         - "WG: Standing — ἵστη- Root Cluster": WG-stood.md
+        - "WG: Stewardship": WG-steward.md
+        - "WG: Stranger / Sojourner / Alien": WG-stranger.md
         - "WG: Strength / Fortress (Hebrew)": WG-strength.md
+        - "WG: Strength and Courage": WG-strength-courage.md
+        - "WG: Strife (Hebrew Legal Contention)": WG-strife.md
+        - "WG: Stumbling-Block / Scandal / Offence": WG-stumbling-block.md
+        - "WG: Superabundance (περισσός Word Family)": WG-superabundance.md
         - "WG: Sword": WG-sword.md
         - "WG: Tabernacle / Tent Dwelling": WG-tabernacle.md
         - "WG: Take / Receive": WG-take-receive.md
         - "WG: Temple/Sanctuary": WG-temple.md
         - "WG: Testimony / Witness": WG-testimony.md
+        - "WG: Testing / Examining": WG-testing.md
         - "WG: That Were Slain — Slaughter / Lamb / Sacrifice": WG-thatwereslain.md
         - "WG: Third / Ordinal Numbers": WG-third.md
         - "WG: Throne / Sovereign Seat": WG-throne.md
+        - "WG: Timbrel — Musical Instruments and Dance in Worship": WG-timbrel.md
         - "WG: Time (Greek NT Vocabulary)": WG-time.md
         - "WG: Transgressions — The OT Sin Triad": WG-transgressions.md
+        - "WG: Tree / Wood": WG-tree.md
         - "WG: Trumpet": WG-trumpet.md
+        - "WG: Trust": WG-trust.md
         - "WG: Truth / True": WG-truth.md
+        - "WG: Typology (Figure, Type, Shadow, Antitype)": WG-typology.md
+        - "WG: Unclean / Defile / Purify": WG-unclean.md
+        - "WG: Unfaithfulness — Covenant Treachery Vocabulary": WG-unfaithfulness.md
+        - "WG: Upright": WG-upright.md
+        - "WG: Violence / Wrong": WG-violence.md
+        - "WG: Voice / Sound / Hearing": WG-voice.md
         - "WG: Vow (Promise, Bond, and Payment to God)": WG-vow.md
         - "WG: War / Armed Conflict": WG-war.md
         - "WG: Weeks — Sacred Time and the Seven-Structure": WG-weeks.md
         - "WG: White (NT Color Vocabulary)": WG-white.md
+        - "WG: Wicked / Wickedness": WG-wicked.md
         - "WG: Wine / Fermented Drink": WG-wine.md
         - "WG: Wise (Wisdom and Insight Cluster)": WG-wise.md
+        - "WG: Without / Outside / Street — Spatial Boundary Terms": WG-without.md
+        - "WG: Wood / Tree / Construction Materials": WG-wood.md
         - "WG: Worship / Prostration": WG-worship.md
         - "WG: Wrath / Anger": WG-wrath.md
         - "WG: Writing / Scripture": WG-writing.md
+        - "WG: YHWH–Elohim Pairing and Alternation": WG-yhwh-elohim-pairing.md
 
   - "Grammar Reference":
     - "Hebrew Grammar":
+        - "`nagid` vs. `melek` in Adjacent Prophetic Address Headings (Hebrew)": grammar-hebrew-nagid-melek-adjacent-address-headings.md
+        - "Apocalyptic Time-Unit Grammar in Hebrew/Aramaic Prophecy": grammar-hebrew-apocalyptic-time-unit-grammar.md
+        - "Asyndetic Noun Pair (Hebrew)": grammar-hebrew-asyndetic-noun-pair.md
+        - "Ben-Adam Vocative Construct Chain (בֶּן־אָדָם)": grammar-hebrew-ben-adam-vocative-construct.md
+        - "Bet-Prefix + *Kol* + *ʾăšer* + Verb — Permissive Enumeration Construction (Hebrew)": grammar-hebrew-bekol-permissive-enumeration.md
+        - "Compound Object/Subject with Conjunction Waw (Hebrew)": grammar-hebrew-syntax-compound-object-waw.md
         - "Conditional Vow Syntax (Hebrew)": grammar-hebrew-syntax-conditional-vow.md
+        - "Construct Chain as Destination Complement (Hebrew)": grammar-hebrew-construct-chain-destination-syntax.md
+        - "Constructio ad Sensum (Hebrew)": grammar-hebrew-constructio-ad-sensum.md
+        - "Corporate Solidarity / Corporate Headship in Judgment (Hebrew)": grammar-hebrew-corporate-solidarity.md
+        - "Day-Year Formula / Distributive Lamed of Ratio (Hebrew)": grammar-hebrew-day-year-formula.md
+        - "Directional / Locative Heh (-âh) (Hebrew)": grammar-hebrew-directional-locative-heh.md
+        - "Distributive Lamed Ratio Formula (Hebrew)": grammar-hebrew-distributive-lamed-ratio.md
+        - "Explicit X=Y Symbol Decoding (Predicate-Nominal / Copular Clause)": grammar-hebrew-symbol-decoding-predicate-nominal.md
+        - "First-Person-Plural Cohortative / 1cp Imperfect in Divine Speech (Hebrew)": grammar-hebrew-cohortative-1cp-divine-speech.md
+        - "Hebrew Construct State (סְמִיכוּת *smîḵûṯ*)": grammar-hebrew-construct-state.md
+        - "Hebrew Imperative Mood — Divine Command (2mp Direct Address & לֹא + Impf Prohibition)": grammar-hebrew-imperative-mood.md
+        - "Hiphil Imperfect / Hiphil Causative Stem (Hebrew)": grammar-hebrew-hiphil-imperfect.md
+        - "Hiphil Stem (Hebrew)": grammar-hebrew-stem-hiphil.md
+        - "Hithpael Stem (Hebrew)": grammar-hebrew-stem-hithpael.md
+        - "Hophal Stem (Hebrew)": grammar-hebrew-stem-hophal.md
+        - "Infinitive Absolute + Cognate Finite Verb (Hebrew)": grammar-hebrew-infinitive-absolute-intensification.md
+        - "Infinitive Construct of נתן (*tēt* / *lātēt*) — Predicative-Complement / \"Double-Accusative\" Construction (Hebrew)": grammar-hebrew-infinitive-construct-natan-predicative.md
+        - "Mashal Speech-Act Formula (נָשָׂא מָשָׁל / מָשַׁל מָשָׁל)": grammar-hebrew-mashal-speech-act.md
+        - "Niphal Imperfect + לֹא: The Formula of Divine Denial of \"Repenting\" (Hebrew)": grammar-hebrew-niphal-imperfect-divine-denial.md
         - "Niphal Stem (Hebrew)": grammar-hebrew-stem-niphal.md
+        - "Piel Stem (Hebrew)": grammar-hebrew-stem-piel.md
+        - "Plural Noun + Singular Verb Agreement (Hebrew)": grammar-hebrew-plural-noun-singular-verb-agreement.md
+        - "Pluralis Majestatis / Plural of Majesty (Hebrew)": grammar-hebrew-pluralis-majestatis.md
+        - "Pronominal Suffix on the Absolute Noun of a Construct Chain (Hebrew)": grammar-hebrew-construct-chain-suffix.md
+        - "Prophetic Double Address and Corporate Personification (Hebrew)": grammar-hebrew-prophetic-double-address-corporate-personification.md
+        - "Prostration-and-Restoration Narrative Formula (Hebrew)": grammar-hebrew-prostration-narrative-formula.md
+        - "Qal Imperfect (Hebrew)": grammar-hebrew-qal-imperfect.md
+        - "Qal Perfect 3fs of עָשָׂה (asah) (Hebrew)": grammar-hebrew-asah-qal-perfect-3fs.md
+        - "Qinah / Lamentation Genre in Foreign-King and City Oracles (Hebrew)": grammar-hebrew-qinah-lamentation-foreign-oracles.md
+        - "Seal-Command Syntax in Daniel — סְתֹם / חֲתֹם (Qal Impv 2ms) and Paired Lexeme Syntax": grammar-hebrew-seal-command-syntax-daniel.md
+        - "Vision-Introduction Formulas (Hebrew / Aramaic)": grammar-hebrew-vision-introduction-formulas.md
         - "Waw Conjunction: Conjunctive vs. Disjunctive (Hebrew)": grammar-hebrew-syntax-waw-conjunction.md
         - "Weqatal (Perfect Consecutive) in Apodosis of Vow/Oath (Hebrew)": grammar-hebrew-weqatal-apodosis-vow.md
+        - "Weqatal (Perfect Consecutive) in Legal/Imperatival Function (Hebrew)": grammar-hebrew-weqatal-legal-imperatival.md
         - "WX-QATAL: Circumstantial / Disjunctive Clause (Hebrew)": grammar-hebrew-syntax-wx-qatal-circumstantial.md
+        - "ʿaḏ-māṯay (עַד־מָתַי) \"How Long?\" — Interrogative Lament Construction (Hebrew)": grammar-hebrew-ad-matay-interrogative.md
+        - "אֶהְיֶה *ehyeh* — 1cs Qal Imperfect of היה (H1961)": grammar-hebrew-ehyeh-1cs-imperfect.md
 
     - "Greek Grammar":
+        - "\"Son of X\" Semitic Idiom (ὁ υἱὸς τοῦ/τῆς X) — Qualitative / Destiny Genitive": grammar-greek-son-of-X-semitic-idiom.md
+        - "A Fortiori Argument — πόσῳ μᾶλλον / πολλῷ μᾶλλον (Greek)": grammar-greek-a-fortiori-poso-mallon.md
+        - "Absolute ἐγώ εἰμι (Greek) — Predicate-less \"I AM\"": grammar-greek-absolute-ego-eimi.md
+        - "Aorist Active Indicative Narrative Chain (Greek)": grammar-greek-aorist-active-indicative-narrative-chain.md
         - "Aorist Imperative (Greek)": grammar-greek-mood-aorist-imperative.md
+        - "Aorist Infinitive with Accusative of Duration (Greek)": grammar-greek-aorist-infinitive-accusative-of-duration.md
+        - "Aorist Passive Indicative (Greek)": grammar-greek-aorist-passive-indicative.md
+        - "Apocalyptic Narrative Prolepsis / Visionary Recursion (Greek)": grammar-greek-apocalyptic-narrative-prolepsis.md
+        - "Articular Infinitive of Purpose/Result (Greek)": grammar-greek-greek-articular-infinitive-purpose.md
+        - "Comparative Adjective with Definite Article (Greek)": grammar-greek-comparative-adjective-with-article.md
+        - "Constructio ad Sensum / Synesis (Greek)": grammar-greek-constructio-ad-sensum.md
+        - "Dia with Genitive vs Accusative (Greek)": grammar-greek-greek-dia-genitive-vs-accusative.md
+        - "Divine Passive / Passivum Divinum / Theological Passive (Greek)": grammar-greek-divine-passive.md
+        - "Greek Genitive: Quality / Attributive / Apposition": grammar-greek-genitive-of-quality-apposition.md
+        - "Greek Grammatical Concord Shift — Neuter to Masculine": grammar-greek-concord-shift-neuter-to-masculine.md
+        - "Greek Perfect Passive Participle (V-RPP)": grammar-greek-participle-perfect-passive-state.md
         - "LXX Rendering of Hebrew Waw in Vow Apodoses (Greek)": grammar-greek-lxx-disjunctive-waw-vows.md
+        - "Paired Middle-Voice Participles for Self-Focused Action (Greek)": grammar-greek-paired-middle-participles.md
+        - "Perfect Tense (Greek)": grammar-greek-tense-perfect.md
+        - "Perfect Tense — Indicative Mood (Greek)": grammar-greek-tense-perfect-indicative.md
+        - "Present Active Indicative (Greek)": grammar-greek-tense-present-active-indicative.md
         - "Present Participle λέγων as Discourse Connector (Greek)": grammar-greek-participle-legon-discourse.md
+        - "Reflexive-Object + ὅτι-Clause Display Construction (Greek)": grammar-greek-reflexive-hoti-display.md
+        - "Self-Interpretation / Literal-Correction Pattern (Greek NT Didactic Discourse)": grammar-greek-self-interpretation-literal-correction.md
+        - "Textual Variant at 2 Thessalonians 2:3 — ἁμαρτίας vs. ἀνομίας (Greek)": grammar-greek-textual-variant-2thess-2-3.md
+        - "Vision-Introduction Formulas (Greek)": grammar-greek-vision-introduction-formulas.md
+        - "ἄνθρωπος (G444) + Article: Individual vs. Class/Type Referent (Greek)": grammar-greek-anthropos-individual-vs-type.md
+        - "ἐν πνεύματι — Visionary-State Marker / Visionary Transposition (Greek)": grammar-greek-en-pneumati-visionary-transposition.md
+        - "ἐνέργεια + Subjective Genitive (Greek)": grammar-greek-energeia-subjective-genitive.md
+        - "ἵνα μή + Aorist Subjunctive Purpose Clause (Greek)": grammar-greek-purpose-clause-hina-me-aorist-subjunctive.md
 
     - "Passage Analyses":
+        - "Grammar Analysis: 1 Corinthians 10:14-22": grammar-passage-1cor-10-14-22.md
+        - "Grammar Analysis: 1 Corinthians 11:23-30": grammar-passage-1cor-11-23-30.md
+        - "Grammar Analysis: 1 John 2:18–23 (with 4:1–3; 2 Jn 1:7)": grammar-passage-1jn-2-18-23-antichrist.md
+        - "Grammar Analysis: 1 Samuel 15:1–33 (the Amalekite *ḥērem* command and Saul's partial obedience)": grammar-passage-1sa-15-1-33.md
+        - "Grammar Analysis: 1 Timothy 5:23": grammar-passage-1tim-5-23.md
+        - "Grammar Analysis: 2 Thessalonians 2:1-12 (The Apostasy / Man of Lawlessness Pericope)": grammar-passage-2thess-2-1-12.md
+        - "Grammar Analysis: Acts 2:13-18": grammar-passage-acts-2-13-18.md
+        - "Grammar Analysis: Colossians 1:15–20": grammar-passage-col-1-15-20.md
+        - "Grammar Analysis: Daniel 10:1": grammar-passage-dan-10-1.md
+        - "Grammar Analysis: Daniel 11:36-37": grammar-passage-dan-11-36-37.md
+        - "Grammar Analysis: Daniel 12:4 — The Seal-Book Command": grammar-passage-dan-12-4-sealing.md
+        - "Grammar Analysis: Daniel 12:7, 12:11-12": grammar-passage-dan-12-7-11-12.md
+        - "Grammar Analysis: Daniel 12:9 — The Second Sealing Declaration": grammar-passage-dan-12-9-sealing.md
+        - "Grammar Analysis: Daniel 4:16, 23, 25, 32 — \"Seven ʿiddānîn\" over Nebuchadnezzar": grammar-passage-dan-4-iddanin-seven.md
+        - "Grammar Analysis: Daniel 7:1": grammar-passage-dan-7-1.md
+        - "Grammar Analysis: Daniel 7:13 (Aramaic) — כְּבַר אֱנָשׁ \"like a son of man\"": grammar-passage-dan-7-13.md
+        - "Grammar Analysis: Daniel 7:25–26 (Aramaic)": grammar-passage-dan-7-25-26.md
+        - "Grammar Analysis: Daniel 7:9-10 (Aramaic) -- The Judgment Scene": grammar-passage-dan-7-9-10.md
+        - "Grammar Analysis: Daniel 8:10–12": grammar-passage-dan-8-10-12.md
+        - "Grammar Analysis: Daniel 8:11": grammar-passage-dan-8-11.md
+        - "Grammar Analysis: Daniel 8:11-12 — Voice Alternation and Agency Encoding": grammar-passage-dan-8-11-12-voice-alternation.md
+        - "Grammar Analysis: Daniel 8:13–14 (Holy-Ones' Dialogue)": grammar-passage-dan-8-13-14-dialogue.md
         - "Grammar Analysis: Daniel 8:14": grammar-passage-dan-8-14.md
+        - "Grammar Analysis: Daniel 8:15–16 (Gabriel Commissioned)": grammar-passage-dan-8-15-16.md
+        - "Grammar Analysis: Daniel 8:17-19": grammar-passage-dan-8-17-19.md
+        - "Grammar Analysis: Daniel 8:23–25": grammar-passage-dan-8-23-25.md
+        - "Grammar Analysis: Daniel 8:26": grammar-passage-dan-8-26.md
+        - "Grammar Analysis: Daniel 8:8-9": grammar-passage-dan-8-8-9.md
+        - "Grammar Analysis: Daniel 9:2 — Daniel Reading Jeremiah's Seventy Years": grammar-passage-dan-9-2-jeremiah-reading.md
+        - "Grammar Analysis: Daniel 9:22-23": grammar-passage-dan-9-22-23.md
+        - "Grammar Analysis: Daniel 9:24–27": grammar-passage-dan-9-24-27.md
+        - "Grammar Analysis: Deuteronomy 14:22–27 — The Tithe Law and the Weqatal Chain": grammar-passage-deut-14-22-27.md
+        - "Grammar Analysis: Deuteronomy 20:10–18 (Two-Tier War Law)": grammar-passage-deut-20-10-18.md
+        - "Grammar Analysis: Deuteronomy 6:4 — The Shema": grammar-passage-deut-6-4.md
+        - "Grammar Analysis: Deuteronomy 7:1–6 — The Seven-Nations Ḥerem Command": grammar-passage-deut-7-1-6.md
+        - "Grammar Analysis: Elijah's 3.5-Year Drought (1 Kgs 17:1; 18:1; Luke 4:25; James 5:17)": grammar-passage-elijah-drought-chronology.md
+        - "Grammar Analysis: Ephesians 5:22–32": grammar-passage-eph-5-22-32.md
+        - "Grammar Analysis: Exodus 3:13-15": grammar-passage-exodus-3-13-15.md
+        - "Grammar Analysis: Exodus 6:2–3": grammar-passage-exodus-6-2-3.md
+        - "Grammar Analysis: Ezekiel 23:31-34": grammar-passage-ezk-23-31-34.md
+        - "Grammar Analysis: Ezekiel 28 Construct-Chain Cluster": grammar-passage-ezk-28-construct-chain-cluster.md
+        - "Grammar Analysis: Ezekiel 28:1-19 - Prince/King Structure": grammar-passage-ezk-28-1-19-prince-king-structure.md
+        - "Grammar Analysis: Ezekiel 28:13-15 - Niphal Creation/Found Sequence": grammar-passage-ezk-28-13-15-niphal-creation-found-sequence.md
+        - "Grammar Analysis: Ezekiel 28:16-18 - Divine Judgment Verb Chain": grammar-passage-ezk-28-16-18-divine-judgment-verb-chain.md
+        - "Grammar Analysis: Ezekiel 28:2, Isaiah 14:13-14, Revelation 18:7 - Self-Deification Speech Formulas": grammar-passage-ezk-28-isa-14-rev-18-self-deification-speech-formulas.md
+        - "Grammar Analysis: Ezekiel 28:20-26 - Sidon and Israel Closing Frame": grammar-passage-ezk-28-20-26-sidon-israel-restoration-frame.md
+        - "Grammar Analysis: Ezekiel 29:11-13 — Egypt's Forty-Year Desolation": grammar-passage-ezk-29-11-13-forty-years.md
+        - "Grammar Analysis: Ezekiel 4:4–6 (Second Day-for-Year Formula — *yôm laššānāh*)": grammar-passage-ezk-4-4-6.md
+        - "Grammar Analysis: Genesis 11:7": grammar-passage-gen-11-7.md
+        - "Grammar Analysis: Genesis 15:13–16": grammar-passage-gen-15-13-16.md
+        - "Grammar Analysis: Genesis 1:26–27": grammar-passage-gen-1-26.md
+        - "Grammar Analysis: Genesis 1:5 — The Creation Day Formula": grammar-passage-gen-1-5-creation-day-formula.md
+        - "Grammar Analysis: Genesis 2:1–2": grammar-passage-gen-2-1-2.md
+        - "Grammar Analysis: Genesis 3:22": grammar-passage-gen-3-22.md
+        - "Grammar Analysis: Genesis 9:18-27 — Noah's Vineyard, Drunkenness, and the Curse on Canaan": grammar-passage-gen-9-18-27.md
+        - "Grammar Analysis: Habakkuk 2:15-17": grammar-passage-hab-2-15-17.md
+        - "Grammar Analysis: Hebrews 10:1-25": grammar-passage-heb-10-1-25.md
+        - "Grammar Analysis: Hebrews 1:8-10": grammar-passage-heb-1-8-10.md
+        - "Grammar Analysis: Hebrews 6:13-18 (The Abrahamic Oath and the Two Immutable Things)": grammar-passage-heb-6-13-18.md
+        - "Grammar Analysis: Hebrews 6:19-20 (Anchor Within the Veil and the Forerunner High Priest)": grammar-passage-heb-6-19-20.md
+        - "Grammar Analysis: Hebrews 8:1-2 (Kephalaion Declaration — Seated High Priest, Minister of the Heavenly Sanctuary)": grammar-passage-heb-8-1-2.md
+        - "Grammar Analysis: Hebrews 9:11-22 (The Blood of Christ and Covenantal Blood-Purification)": grammar-passage-heb-9-11-22.md
+        - "Grammar Analysis: Hebrews 9:23-28 (Heavenly Purification, Once-for-All Offering, Judgment, and Second Appearing)": grammar-passage-heb-9-23-28.md
+        - "Grammar Analysis: Isaiah 14:12–15 and Ezekiel 28:2–9 — Self-Deification Template": grammar-passage-isa-14-ezek-28-self-deification.md
+        - "Grammar Analysis: Isaiah 25:6–9": grammar-passage-isa-25-6-9.md
+        - "Grammar Analysis: Isaiah 51:17-22": grammar-passage-isa-51-17-22.md
+        - "Grammar Analysis: Isaiah 6:8": grammar-passage-isa-6-8.md
+        - "Grammar Analysis: Jeremiah 18:7–10 (Conditional Prophecy Formula)": grammar-passage-jer-18-7-10.md
+        - "Grammar Analysis: Jeremiah 25:11-12 + 29:10 — The Seventy-Year Babylonian Captivity": grammar-passage-jer-25-11-12-seventy-years.md
+        - "Grammar Analysis: Jeremiah 25:15-29": grammar-passage-jer-25-15-29.md
+        - "Grammar Analysis: John 10:30–38": grammar-passage-joh-10-30-38.md
+        - "Grammar Analysis: John 20:28 — Thomas's Confession": grammar-passage-joh-20-28.md
+        - "Grammar Analysis: John 2:1-11 (The Wedding at Cana)": grammar-passage-jhn-2-1-11.md
+        - "Grammar Analysis: John 2:13–22 (The Temple Cleansing)": grammar-passage-jhn-2-13-22.md
+        - "Grammar Analysis: John 3:28-30": grammar-passage-jhn-3-28-30.md
+        - "Grammar Analysis: John 5:17–18 (Co-Action with the Father; *ison theō*)": grammar-passage-joh-5-17-18.md
+        - "Grammar Analysis: John 8:58": grammar-passage-joh-8-58.md
+        - "Grammar Analysis: Jonah 3:4 — The Forty-Day Nineveh Prophecy": grammar-passage-jon-3-4-forty-days.md
+        - "Grammar Analysis: Joshua 11:16–23 (Conquest Fulfillment Summary)": grammar-passage-josh-11-16-23.md
         - "Grammar Analysis: Judges 11:30–31 (Jephthah's Vow)": grammar-passage-jdg-11-30-31.md
         - "Grammar Analysis: Judges 11:37-40": grammar-passage-jdg-11-37-40.md
+        - "Grammar Analysis: Leviticus 10:16-20": grammar-passage-lev-10-16-20.md
+        - "Grammar Analysis: Leviticus 16:14-16": grammar-passage-lev-16-14-16.md
+        - "Grammar Analysis: Leviticus 16:20-22": grammar-passage-lev-16-20-22.md
+        - "Grammar Analysis: Leviticus 16:21 Coordinated Sin Terms": grammar-passage-lev-16-21-sin-terms.md
+        - "Grammar Analysis: Leviticus 16:30": grammar-passage-lev-16-30.md
+        - "Grammar Analysis: Leviticus 18:24–30 (The \"Land Vomited Them Out\" Paradigm)": grammar-passage-lev-18-24-30.md
+        - "Grammar Analysis: Leviticus 4:5-7": grammar-passage-lev-4-5-7.md
+        - "Grammar Analysis: Mark 14:61–64": grammar-passage-mar-14-61-64.md
+        - "Grammar Analysis: Matthew 12:40 — \"Three Days and Three Nights\" / Jonah Typology": grammar-passage-mat-12-40-three-days-three-nights.md
+        - "Grammar Analysis: Matthew 24:15 ‖ Mark 13:14 — The Abomination of Desolation": grammar-passage-mat-24-15-mk-13-14-abomination.md
+        - "Grammar Analysis: Matthew 26:29 ‖ Mark 14:25 ‖ Luke 22:18 — \"Fruit of the Vine\" (τὸ γένημα τῆς ἀμπέλου)": grammar-passage-mat-26-29-mrk-14-25-luk-22-18-fruit-of-the-vine.md
+        - "Grammar Analysis: Matthew 26:36-46 — Gethsemane, The Cup Accepted": grammar-passage-mat-26-36-46.md
+        - "Grammar Analysis: Matthew 28:18–20 (Great Commission)": grammar-passage-mat-28-18-20.md
+        - "Grammar Analysis: Numbers 14:34": grammar-passage-num-14-34.md
+        - "Grammar Analysis: Numbers 28:1-10 (Daily & Sabbath Tamid — with the שֵׁכָר Libation Clause)": grammar-passage-num-28-1-10.md
+        - "Grammar Analysis: Philippians 2:6–11 (the Christ-hymn)": grammar-passage-phil-2-6-11.md
+        - "Grammar Analysis: Psalm 116:12-13": grammar-passage-psa-116-12-13.md
+        - "Grammar Analysis: Psalm 75:8 (MT 75:9)": grammar-passage-psa-75-8.md
+        - "Grammar Analysis: Psalm 82:1–6": grammar-passage-psa-82-1-6.md
+        - "Grammar Analysis: Revelation 10:1-11 (The Mighty Angel, the Open Little Book, and the Renewed Prophetic Commission)": grammar-passage-rev-10-1-11.md
+        - "Grammar Analysis: Revelation 11:15-19": grammar-passage-rev-11-15-19.md
+        - "Grammar Analysis: Revelation 13:1-10 (The Sea-Beast Pericope)": grammar-passage-rev-13-1-10.md
+        - "Grammar Analysis: Revelation 13:11-18 (The Earth-Beast Pericope)": grammar-passage-rev-13-11-18.md
+        - "Grammar Analysis: Revelation 13:3": grammar-passage-rev-13-3.md
+        - "Grammar Analysis: Revelation 13:5": grammar-passage-rev-13-5.md
+        - "Grammar Analysis: Revelation 14:6-12": grammar-passage-rev-14-6-12.md
+        - "Grammar Analysis: Revelation 14:8-11": grammar-passage-rev-14-8-11.md
+        - "Grammar Analysis: Revelation 15:5-8": grammar-passage-rev-15-5-8.md
+        - "Grammar Analysis: Revelation 16:5-7": grammar-passage-rev-16-5-7.md
+        - "Grammar Analysis: Revelation 17:1-6": grammar-passage-rev-17-1-6.md
+        - "Grammar Analysis: Revelation 18:1-8": grammar-passage-rev-18-1-8.md
+        - "Grammar Analysis: Revelation 19:6–9": grammar-passage-rev-19-6-9.md
+        - "Grammar Analysis: Revelation 20:1-3": grammar-passage-rev-20-1-3.md
+        - "Grammar Analysis: Revelation 21:1-22:5": grammar-passage-rev-21-1-22-5.md
+        - "Grammar Analysis: Revelation 8:1-5 (Seventh Seal Silence, Incense-Prayers, Altar Fire Cast to Earth)": grammar-passage-rev-8-1-5.md
+        - "Grammar Analysis: Revelation's Prophetic Time-Markers (Rev 11:2, 11:3, 12:6, 12:14, 13:5)": grammar-passage-rev-11-12-time-markers.md
+        - "Grammar Analysis: Romans 3:21-26": grammar-passage-rom-3-21-26.md
+        - "Grammar Analysis: Zechariah 3:4-5": grammar-passage-zec-3-4-5.md

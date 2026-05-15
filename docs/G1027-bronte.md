@@ -21,6 +21,10 @@ Akin to βρέμω brémō (to roar); **thunder** — thunder(-ing).
 - **Parent Domain:** 014 — Physical Events and States
 - **Other words in subdomain:** ἀστραπή (G796) — lightning
 
+## UBS Semantic Domains
+
+- **[014] Physical Events and States** — `search_relationships.py` keeps **βροντή** in the natural-phenomena field alongside thunder, lightning, wind, and similar physical events.
+
 ## Domain Neighbors (014004 — Thunder and Lightning)
 
 | Strong's | Lemma | Total vv | Primary KJV Translation(s) |
@@ -97,6 +101,12 @@ The only non-apocalyptic occurrence — a personal title Jesus gives to two disc
 ### Word Family / Cognates
 - **βρέμω (brémō)** — root verb: to roar, thunder (not in NT; classical Greek)
 
+### Synonyms
+*No direct synonyms were returned by `search_relationships.py` for G1027.*
+
+### Antonyms
+*No antonyms were returned by `search_relationships.py` for G1027.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -115,8 +125,10 @@ The only non-apocalyptic occurrence — a personal title Jesus gives to two disc
 
 ## See Also
 
+- [G4578-seismos.md](G4578-seismos.md) — earthquake; paired with thunder in Revelation's throne-room judgment formulas
+- [G5464-chalaza.md](G5464-chalaza.md) — hail; appears with thunder in Rev 11:19
 - [WG-earthquake.md](WG-earthquake.md) — theophanic tetrad word group (σεισμός + ἀστραπή + βροντή + φωνή)
 
 ---
-*Generated from: gather_word_data.py, kjv.txt*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, kjv.txt, search_relationships.py*
+*Last updated: 2026-04-27*

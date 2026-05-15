@@ -24,6 +24,9 @@ Compound of G473 (ἀντί, "opposite/instead of") and G5547 (Χριστός, "
 - **Gloss:** antichrist
 - **Other words in subdomain:** Χριστός (G5547, Christ/Messiah), Μεσσίας (G3323, Messiah), ψευδόχριστος (G5580, false Christ), ψευδοπροφήτης (G5578, false prophet), ψευδαπόστολος (G5570, false apostle), προφήτης (G4396, prophet), ἀπόστολος (G652, apostle), ἱερεύς (G2409, priest), ἀρχιερεύς (G749, chief priest), ἐπίσκοπος (G1985, overseer)
 
+**UBS Semantic Domains:**
+- **[053]** Religious Activities
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -86,6 +89,12 @@ Three singular, one plural, one genitive. The singular denotes a specific expect
 - **G473 ἀντί (anti)** — preposition: opposite, instead of, in exchange for
 - **G5547 Χριστός (Christos)** — the anointed one, Messiah — [G5547-christos.md](G5547-christos.md)
 
+### Synonyms
+No close lexical synonyms were identified by `search_relationships.py`; the false-Christ / false-prophet domain neighbors below remain the nearest parallels.
+
+### Antonyms
+No direct antonyms were identified by `search_relationships.py`.
+
 ### Domain Neighbors (Louw-Nida 53.009)
 
 | Word | Strong's | Occurrences | Primary Translation(s) | Key Difference |
@@ -116,5 +125,5 @@ No Hebrew source — ἀντίχριστος is a NT coinage with no LXX precede
 - [WG-falseprophets.md](WG-falseprophets.md) — word group covering false prophets/Christs/deception
 
 ---
-*Generated from: search_strongs.py, greek_parser.py, louw_nida.db, kjv.txt*
-*Last updated: 2026-04-13*
+*Generated from: search_strongs.py, greek_parser.py, search_relationships.py, louw_nida.db, kjv.txt*
+*Last updated: 2026-04-27*

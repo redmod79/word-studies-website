@@ -120,6 +120,16 @@ Nearly exclusive to Revelation (96%). The single Gospel occurrence (Jhn 21:15) u
 ### Word Family / Cognates
 - **G704 ἀρήν (arēn)** — root word; "a lamb (as a male)"; NT hapax in Lk 10:3 ("lambs among wolves")
 
+### Synonyms
+No close lexical synonyms were identified by `search_relationships.py`; the nearest overlaps are the lamb/sheep terms already documented in the Domain Neighbors and Easily Confused sections.
+
+### Antonyms
+No direct antonyms were identified by `search_relationships.py`.
+
+### UBS Semantic Domains
+- **[004] Animals** — includes ἀγέλη (G34), ἀετός (G105), αἴγειος (G122), ἀκρίς (G200), ἀλέκτωρ (G220), ἀλώπηξ (G258)
+- **[011] Groups and Classes of Persons and Members of Such Groups and Classes** — includes ἅγιος (G40), ἀδελφή (G79), ἀδελφός (G80), ἀδελφότης (G81), ἄδικος (G94), αἵρεσις (G139)
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -138,10 +148,15 @@ No Hebrew source via LXX mapping found in the database. The LXX uses ἀρνίο
 - [WG-throne.md](WG-throne.md) — word group: the Lamb co-enthroned with God
 - [WG-thatwereslain.md](WG-thatwereslain.md) — word group: the slain Lamb imagery
 - [WG-lamb.md](WG-lamb.md) — word group: NT lamb vocabulary
+- [G286-amnos.md](G286-amnos.md) — sacrificial "Lamb" counterpart in the NT lamb vocabulary field
 - [G2362-thronos.md](G2362-thronos.md) — throne (top collocation partner)
 - [G1391-doxa.md](G1391-doxa.md) — glory (doxological context)
 - [G2226-zoon.md](G2226-zoon.md) — living creatures (throne-room companions)
+- [G3565-nymphe.md](G3565-nymphe.md) — bride imagery cross-reference from the Lamb's marriage scenes
+- [G3841-pantokrator.md](G3841-pantokrator.md) — Revelation throne-room cross-reference surfaced by related word studies
+- [G4969-sphazo.md](G4969-sphazo.md) — slain/slaughtered vocabulary tied to the Lamb imagery
+- [G5357-phiale.md](G5357-phiale.md) — bowl/vial imagery cross-reference from Revelation scenes mentioning the Lamb
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-13*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

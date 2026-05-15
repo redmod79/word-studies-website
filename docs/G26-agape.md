@@ -15,11 +15,16 @@
 
 Love, i.e. affection or benevolence; specially (plural) a love-feast. From ἀγαπάω (G25).
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
+**Louw-Nida:**
 - **Domain:** 025 — Attitudes and Emotions
 - **Note:** The Louw-Nida DB catalogues the verb ἀγαπάω (G25) rather than the noun separately; agapē belongs to the same semantic space: "to love, to regard with affection, loving concern."
 - **Related words in domain:** φιλέω (G5368), φιλαδελφία (G5360), σπλαγχνίζομαι (G4697), εὔσπλαγχνος (G2155), φιλόστοργος (G5387), ἄστοργος (G794)
+
+**UBS Semantic Domains:**
+- **[025]** Attitudes and Emotions
+- **[023]** Physiological Processes and States
 
 ## Translation Distribution (KJV)
 
@@ -134,6 +139,17 @@ Overwhelmingly a Pauline and Johannine term. The highest density is in the Johan
 - **G25 ἀγαπάω (agapaō)** — verb: to love (142 occurrences). The verbal root from which agapē derives.
 - **G27 ἀγαπητός (agapētos)** — adjective: beloved, dear (62 occurrences). "Dearly beloved" in Paul's address to churches.
 
+### Synonyms
+- **G5373 φιλία (philia)** — friendship, affection (noun form of phileō)
+- **G1939 ἐπιθυμία (epithymia)** — desire, longing, craving (broader; includes negative senses)
+- **ἔρως (erōs)** — romantic/passionate love (classical Greek; not used in NT)
+- **στοργή (storgē)** — natural family affection (classical Greek; only the negation ἄστοργος appears in NT)
+
+### Antonyms
+- **G3404 μισέω (miseō)** — to hate (via LXX bridge: H157 ahab ↔ H8130 sane → G25 agapao ↔ G3404 miseō)
+- **G2189 ἔχθρα (echthra)** — enmity, hostility (Gal 5:20 lists echthra among works of the flesh, contrasting agapē as fruit of the Spirit in 5:22)
+- **G794 ἄστοργος (astorgos)** — without natural affection (alpha-privative of storgē; listed in Rom 1:31 and 2 Tim 3:3 as moral deficiency)
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -171,5 +187,5 @@ The primary Hebrew equivalent is H160 אַהֲבָה (ʼahăbâh, "love"), a fem
 - [WG-commandment.md](WG-commandment.md) — word group (love as fulfillment of commandments)
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_strongs.py*
-*Last updated: 2026-04-13*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

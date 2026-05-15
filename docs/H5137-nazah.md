@@ -111,6 +111,14 @@ The only use outside the legal-historical literature; employs the Hiphil of H513
 ### Word Family / Cognates
 H5137 is a primitive root with no sibling verbs in the same root family in BH. The noun נֵזֶר (nezer, H5145 — "crown, dedication") is consonantally similar but from a different root.
 
+### Synonyms
+
+No synonyms were returned by `search_relationships.py` for H5137.
+
+### Antonyms
+
+No antonyms were returned by `search_relationships.py` for H5137.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -118,6 +126,11 @@ H5137 is a primitive root with no sibling verbs in the same root family in BH. T
 | זָרַק (zaraq) | H2236 | both "sprinkle" in KJV | zaraq = toss/dash/throw (forceful), blood dashed against the base or sides of the altar; nazah = delicate, fine sprinkling with a finger or hyssop. Zaraq is stronger in action; nazah is more controlled and targeted. |
 
 *The KJV conflates both with "sprinkle." The distinction is visible in Lev 1:5 (zaraq — throw blood against the altar) vs. Lev 4:6 (nazah — dip finger and sprinkle seven times before the LORD). The NT uses ῥαντίζω (G4473) to echo nazah's fine sprinkling in Heb 9:19, 21; 10:22.*
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002003002021] Scatter** — `search_relationships.py` places *nazah* in the scattering/sprinkling field, with neighbors such as **בדר (A921)**, **בזר (H967)**, **זרה (H2219)**, **זרק (H2236)**, **מוג (H4127)**, and **מלח (A4415)**.
 
 ## LXX Mapping
 
@@ -136,11 +149,14 @@ The gather_word_data.py LXX mapping outputs PMI-weighted co-occurrence with Gree
 
 - [WG-atonement.md](WG-atonement.md) — H5137 is the mechanism of atonement blood-sprinkling on the mercy seat (Lev 16)
 - [WG-cleansing.md](WG-cleansing.md) — H5137 is a purification mechanism for leprosy and uncleanness rites
+- [H1818-dam.md](H1818-dam.md) — the blood most often sprinkled in priestly uses of H5137
 - [H2891-taher.md](H2891-taher.md) — the cleansing result effected by sprinkling
 - [H3722-kaphar.md](H3722-kaphar.md) — the atonement covered or achieved through sprinkling
 - [H3727-kapporeth.md](H3727-kapporeth.md) — the mercy seat, the target of Day of Atonement sprinkling
 - [H2403-chattaah.md](H2403-chattaah.md) — the sin offering whose blood is sprinkled
+- [TR-dam-haima.md](TR-dam-haima.md) — cross-testament trace for blood vocabulary
+- [G129-haima.md](G129-haima.md) — the primary Greek blood term paired with sprinkling language
 
 ---
-*Generated from: gather_word_data.py, hebrew_parser.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, hebrew_parser.py, search_relationships.py*
+*Last updated: 2026-04-27*

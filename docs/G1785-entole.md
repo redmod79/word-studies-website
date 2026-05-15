@@ -20,6 +20,10 @@ From G1781 (entellomai); an injunction, i.e. an authoritative prescription — c
 - **Domain:** 033032 — Command, Order (subdomain of 033 Communication)
 - **Other words in domain:** ἀπαγγέλλω (G518), διαστέλλω (G1291), διαταγή (G1296), διάταγμα (G1297), διατάσσω (G1299), δόγμα (G1378), ἔνταλμα (G1778), ἐντέλλομαι (G1781), ἐπιταγή (G2003), ἐπιτάσσω (G2004), κέλευσμα (G2752), κελεύω (G2753), παραγγελία (G3852)
 
+### UBS Semantic Domains
+
+- **033 — Communication**
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -132,6 +136,20 @@ Also outside top 20 but theologically significant: **πρῶτος** (G4413, 5x)
 - **G1781 ἐντέλλομαι (entellomai)** — root verb: to command, enjoin (17× in NT)
 - **G1778 ἔνταλμα (entalma)** — commandment/precept (3×; always pejorative — human traditions: Matt 15:9, Mark 7:7, Col 2:22)
 
+### Synonyms
+`search_relationships.py` surfaced a broad command/decree cluster rather than strict one-for-one equivalents.
+
+- **G3551 νόμος (nomos)** — law; the broader legal framework in which an ἐντολή functions as a specific commandment.
+- **G1345 δικαίωμα (dikaiōma)** — ordinance / righteous requirement; the nearest statutory overlap.
+- **G3051 λόγιον (logion)** — oracle / divine utterance; overlaps where a commandment is received as God's spoken directive.
+- **G3142 μαρτύριον (martyrion)** — testimony; adjacent covenant-witness vocabulary.
+- **G3545 νομίμως (nomimōs)** — lawfully; legal cognate within the same command/law field.
+
+Broader tool-linked neighbors: **G5438 φυλακή**, **G2917 κρίμα**, **G2665 καταπέτασμα**, **G1699 ἐμός**, **G5147 τρίβος**.
+
+### Antonyms
+- `search_relationships.py` surfaced no dedicated antonym pair for G1785.
+
 ### Easily Confused Words
 
 Data-verified: other Strong's numbers sharing the same KJV translation in ≥2 distinct verses.
@@ -187,9 +205,15 @@ Primary source is mitsvāh (מִצְוָה, H4687) by a wide margin. The LXX use
 
 - [TR-mitsvah-entole.md](TR-mitsvah-entole.md) — cross-testament trace: mitsvah → entolē
 - [H4687-mitsvah.md](H4687-mitsvah.md) — Hebrew source word study
+- [G3551-nomos.md](G3551-nomos.md) — broader legal framework within which individual commandments are set
+- [G5083-tereo.md](G5083-tereo.md) — dominant response verb: keep / guard the commandments
+- [G2537-kainos.md](G2537-kainos.md) — the Johannine "new commandment" collocation
+- [G1345-dikaioma.md](G1345-dikaioma.md) — ordinance / righteous requirement
+- [G1378-dogma.md](G1378-dogma.md) — decree / ordinance
+- [G1379-dogmatizo.md](G1379-dogmatizo.md) — verb "to impose decrees"
 - [WG-commandment.md](WG-commandment.md) — word group: entolē and related commandment vocabulary
 - [WG-law.md](WG-law.md) — word group: nomos, entolē, and law-related terms
 
 ---
-*Generated from: gather_word_data.py (strongs_translations.db, louw_nida.db)*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py (strongs_translations.db, louw_nida.db); search_relationships.py G1785*
+*Last updated: 2026-04-27*

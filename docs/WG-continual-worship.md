@@ -9,8 +9,8 @@ The "continual" (*tamid*) worship concept in Hebrew Scripture describes the unin
 |----------|------|-----------------|-----|-------------|-----------------|---------------|
 | H8548 | תָּמִיד | tamid | noun (adv.) | 104 | The qualifier (continual/regular) | [H8548](H8548-tamid.md) |
 | H5930 | עֹלָה | olah | noun | 286 | The primary offering (burnt offering) | TODO(need H5930 study) |
-| H4503 | מִנְחָה | minchah | noun | 211 | The grain accompaniment (meal offering) | TODO(need H4503 study) |
-| H5262 | נֶסֶךְ | nesek | noun | 64 | The liquid accompaniment (drink offering) | TODO(need H5262 study) |
+| H4503 | מִנְחָה | minchah | noun | 211 | The grain accompaniment (meal offering) | [H4503-minchah.md](H4503-minchah.md) |
+| H5262 | נֶסֶךְ | nesek | noun | 64 | The liquid accompaniment (drink offering) | [H5262](H5262-necek.md) |
 | H2403 | חַטָּאָה | chattaah | noun | 296 | The purification offering (sin offering) | [H2403-chattaah](H2403-chattaah.md) |
 | H3899 | לֶחֶם | lechem | noun | 297 | The sacred bread (showbread when with tamid) | TODO(need H3899 study) |
 

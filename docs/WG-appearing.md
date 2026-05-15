@@ -11,6 +11,7 @@ The NT uses a cluster of words to express the appearing, manifestation, and visi
 | G2014 | ἐπιφαίνω | epiphaínō | verb | 4 | The root verb: to shine upon, to appear (God's grace appearing, divine light dawning) | TODO(need G2014 study) |
 | G3952 | παρουσία | parousía | noun | 24 | The royal coming/presence — the technical term for Christ's official Second Advent | [G3952-parousia.md](G3952-parousia.md) |
 | G5319 | φανερόω | phaneróō | verb | 43 | To make visible/manifest — used of the incarnation and of final disclosure | TODO(need G5319 study) |
+| G1718 | ἐμφανίζω | emphanízō | verb | 10 | To appear in person or disclose by words — Christ's priestly appearing before God (Heb 9:24) and personal self-manifestation (John 14:21-22) | [G1718-emphanizo.md](G1718-emphanizo.md) |
 
 ## Relationships
 

@@ -139,6 +139,21 @@ Daniel's end-time usage elevates śākal to describe an eschatological category 
 ### Word Family (Cognates)
 - **H7922 שֶׂכֶל (sekel)** — intelligence, insight, good sense (noun form); 16x, e.g. "a man of good understanding" (Pro 13:15), "understanding in all visions" (Dan 1:17)
 
+### Synonyms
+- **H6743 צלח (tsâlach)** — surfaced by `search_relationships.py` in the success/prosperity field that overlaps śākal's "prosper" sense.
+- **H995 בִּין (biyn)** — close understanding/discernment neighbor in the wisdom cluster.
+- **H1844 דֵּעָה** — knowledge-field noun returned by `search_relationships.py`.
+- **H1847 דַּעַת** — knowledge/discernment noun clustered with śākal's understanding sense.
+- **H3045 ידע** — cognition-field neighbor in the broader understanding cluster.
+- **H3256 יסר** — instruction/discipline term aligned with śākal's teaching nuance.
+- **H3384 ירה** — instruction-oriented neighbor in the same wisdom field.
+- **H3948 לֶקַח (leqach)** — learning/instruction noun linked to wise teaching.
+- **H2142 זכר** — remembrance/cognition neighbor returned by the relationship tool.
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for H7919.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -147,6 +162,13 @@ Daniel's end-time usage elevates śākal to describe an eschatological category 
 | חָכַם (châkam) | H2449 | "wise, be wise" | root verb of the entire ḥokmāh cluster; where châkam describes the general state of wisdom, śākal focuses on the prudent perception that leads to discernment and success |
 | בִּין (bîyn) | H995 | "understand" | bîyn = to separate mentally, distinguish between things; śākal = to act with circumspection resulting in understanding/success; appear together 8x (Deu 32:29, Dan 9:25) |
 | צָלַח (tsâlach) | H6743 | "prosper" | tsâlach = to push forward, rush (often sudden forward movement to success); śākal = to prosper through intelligent, prudent behavior; the former is dynamic, the latter cognitive |
+
+## UBS Semantic Domains
+
+- **[002003003020] Succeed** — `search_relationships.py` groups *śākal* with success-language neighbors such as H3201, H3498, H3559, and H3787.
+- **[002001002029] Wise** — places the verb alongside H995 and H1847 in the prudence/intelligence field.
+- **[002004002013] Think** — broader cognition/perception bucket in the relationship data.
+- **[002001001057] Stance** — behavior-oriented bucket reflecting outward wise conduct in practice.
 
 ## LXX Mapping
 
@@ -163,9 +185,15 @@ The LXX consistently uses the σύν- (syn-) family — "putting things together
 
 ## See Also
 
+- [H995-biyn.md](H995-biyn.md) — companion discernment verb frequently paired with śākal
+- [H998-biynah.md](H998-biynah.md) — related wisdom noun "understanding"
+- [H6743-tsalach.md](H6743-tsalach.md) — neighboring "prosper" verb in the same success field
+- [H3948-leqach.md](H3948-leqach.md) — instruction/learning noun within the wisdom cluster
+- [TR-biyn-syniemi.md](TR-biyn-syniemi.md) — cross-testament trace for Hebrew discernment language
 - [TR-sakal-syniemi.md](TR-sakal-syniemi.md) — cross-testament trace: śākal → συνίημι → NT usage
+- [G4997-sophrosyne.md](G4997-sophrosyne.md) — Greek prudence / sound-mindedness study
 - [WG-wise.md](WG-wise.md) — word group: wisdom-insight cluster (H7919, H7922, H995, H2450, H2449, H6743)
 
 ---
-*Generated from: gather_word_data.py, hebrew_parser.py, gather_trace_data.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, hebrew_parser.py, gather_trace_data.py, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -17,11 +17,16 @@ From G5219; attentive hearkening, i.e. (by implication) compliance or submission
 
 The word pictures one who listens *as a subordinate* — not passive hearing, but the responsive, submissive hearkening of a servant who acts on what is heard.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Domain:** 036 — Guide, Discipline, Follow
-- **Subdomain:** 036.003 — Obey, Disobey
-- **Other words in subdomain:** ἀκούω (G0191), ἀνυπότακτος (G0506), ἀπείθεια (G0543), ἀπειθέω (G0544), ἀπειθής (G0545), δικαιόω (G1344), εἰσακούω (G1522)
+**Louw-Nida:**
+- **036** — Guide, Discipline, Follow
+- **036.003** — Obey, Disobey
+
+Other words in 036.003: ἀκούω (G0191), ἀνυπότακτος (G0506), ἀπείθεια (G0543), ἀπειθέω (G0544), ἀπειθής (G0545), δικαιόω (G1344), εἰσακούω (G1522)
+
+**UBS Semantic Domains:**
+- **[036]** Guide, Discipline, Follow
 
 ## Translation Distribution (KJV)
 
@@ -97,6 +102,14 @@ Concentrated in Paul's letters (Romans, 2 Corinthians, Philemon = 10 of 14 verse
 | παρακοή | G3876 | noun | 3 | disobedience (para- = beside/amiss; antonym) |
 | ἀκούω | G0191 | verb | 157 | to hear (root component) |
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G5218.*
+
+### Antonyms
+- **G3876 παρακοή (parakoē)** — direct opposite in Rom 5:19: Adam's disobedience contrasted with Christ's obedience.
+- **G266 ἁμαρτία (hamartia)** — sin as the rival master in Rom 6:16, opposed to obedience unto righteousness.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -126,7 +139,8 @@ No direct LXX bridge found via `--hebrew-source`. G5218 is a distinctly NT term 
 - [WG-obedience.md](WG-obedience.md) — obedience concept cluster (ὑπακοή, ὑπακούω, ὑπήκοος, παρακοή, ἀπείθεια, ἀπειθέω)
 - [WG-commandment-keeping.md](WG-commandment-keeping.md) — related concept: keeping commandments
 - [WG-faith.md](WG-faith.md) — closely paired: "obedience of faith" (Rom 1:5; 16:26)
+- [G266-hamartia.md](G266-hamartia.md) — sin contrasted with obedience in Rom 6:16 and related Pauline argument
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-28*

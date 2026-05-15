@@ -121,6 +121,20 @@ Collocation: natan + qol ("voice"). This is the standard Hebrew idiom for vocali
 
 The covenant stipulation formula: YHWH `natan`-s his statutes to Israel. The interiorizing new-covenant promise also uses natan (heart, law written within).
 
+## Syntactic Note — Weqatal as Imperatival Continuation
+
+Hebrew routinely uses the `weqatal` (waw-consecutive + perfect) form of natan as a directive continuing a preceding imperative or legal prescription. The 2ms form `וְנָתַתָּה` ("and thou shalt give") carries imperatival force — it does not narrate a past event but mandates a future act, in the "thou shalt" register of Pentateuchal law.
+
+Representative instances:
+
+- **Deut 14:26** — "וְנָתַתָּה הַכֶּסֶף" ("and thou shalt give [or bestow] the money") — the weqatal form serves as a **main directive** in the festival-tithe instruction, continuing the imperatival chain of the passage (`tabi'`, `bachartem`, etc.). It is a candidate for the controlling imperative in the clause.
+- **Num 3:9** — "וְנָתַתָּה אֶת־הַלְוִיִּם" ("and thou shalt give the Levites unto Aaron")
+- **Num 27:7** — "נָתֹן תִּתֵּן לָהֶם" (infinitive absolute + yiqtol) — emphatic directive "thou shalt surely give"
+- **Exod 30:16** — "וְלָקַחְתָּ... וְנָתַתָּ אֹתוֹ" ("and thou shalt take... and thou shalt give it")
+- **Deut 15:10** — "נָתוֹן תִּתֵּן לוֹ" — emphatic directive in the release-year almsgiving law
+
+This syntactic pattern — weqatal of natan functioning as the main or continuing imperative in legal and cultic prescriptions — is one of the verb's standard roles and accounts for a substantial share of its occurrences in Exodus-Deuteronomy. Morphologically it is a perfect; functionally it is a command.
+
 ## Common Collocations
 
 Top content-word co-occurrences (excluding particles):
@@ -153,6 +167,14 @@ Top content-word co-occurrences (excluding particles):
 | שָׁלַח shalach | H7971 | "send" — transfer at a distance; natan is direct handover |
 | שָׁלַם shalam (piel) | H7999 | "repay, recompense" — natan is occasionally translated "recompense" in this narrower sense |
 
+### Synonyms
+
+*`search_relationships.py` returned no curated synonym rows for H5414.*
+
+### Antonyms
+
+*`search_relationships.py` returned no curated antonym rows for H5414.*
+
 ### Easily Confused Words (KJV-translation overlap)
 
 | Translation | Competing Strong's | Key Difference |
@@ -164,6 +186,10 @@ Top content-word co-occurrences (excluding particles):
 | "make (into)" | H6213 ʻasah, H7760 sum | natan = install/appoint by giving; ʻasah = fashion/produce; sum = set up |
 
 **Lexical contrast with sacrificial presentation:** When a person or animal is `natan`-ed to YHWH, the verb marks transfer of custody — typically for ongoing service (Levites, Samuel). When a sacrifice is made, Hebrew reaches for `heʻalah` (H5927 hiphil, "cause to ascend, offer up as burnt offering") or `hiqrib` (H7126 hiphil, "bring near, present"). Jdg 11:31 (Jephthah's vow) uses `wehayah laYHWH` ("shall be to YHWH") + `wehaʻalitihu ʻolah` ("and I will offer it up a burnt offering") — it does NOT use natan. The switch from the Hannah/Levite natan-dedication pattern to the ʻolah-sacrificial pattern is the pivotal lexical datum whenever Jephthah's vow is analyzed.
+
+## UBS Semantic Domains
+
+*`search_relationships.py` returned no curated UBS semantic-domain rows for H5414. The study's semantic range is already covered in the Semantic Categories, Related Words, and LXX Mapping sections above.*
 
 ## LXX Mapping (Hebrew → Greek)
 
@@ -185,5 +211,5 @@ The LXX bridge to G1325 dídōmi is so strong (1,330 co-occurrences, PMI 3.51) t
 - [WG-vow.md](WG-vow.md) — word group: vows, oaths, irrevocable commitments
 
 ---
-*Generated from: gather_word_data.py H5414, hebrew_parser.py --lemma נתן*
-*Last updated: 2026-04-17*
+*Generated from: gather_word_data.py H5414, hebrew_parser.py --lemma נתן, search_relationships.py*
+*Last updated: 2026-04-27 (relationship review; no curated synonym/antonym/domain rows returned)*

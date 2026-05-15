@@ -16,11 +16,15 @@
 
 From καταπαύω; *reposing down* (a settling into place); by Hebraism, an **abode** — the place or state of resting. KJV: rest.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
+**Louw-Nida:**
 - **Domain:** 023 — Physiological Processes and States
 - **Subdomain:** 023.006 — Tire, Rest
 - **Other words in subdomain:** ἀνάπαυσις (G372), ἀναπαύω (G373), ἐκλύω (G1590), ἡσυχάζω (G2270), καταπαύω (G2664), κοπιάω (G2872), συναναπαύομαι (G4875)
+
+**UBS Semantic Domains:**
+- **[023]** Physiological Processes and States
 
 ## Translation Distribution (KJV)
 
@@ -80,6 +84,14 @@ The "rest" is grounded in God's own cessation at the end of creation week, which
 ### Word Family / Cognates
 - **G2664 καταπαύω (katapauo)** — cognate verb: to cause to cease, to give rest; used 3v in Hebrews/Acts
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G2663.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G2663.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -112,8 +124,10 @@ The "rest" is grounded in God's own cessation at the end of creation week, which
 
 - [G4520-sabbatismos.md](G4520-sabbatismos.md) — σαββατισμός, the "sabbath-rest" in Heb 4:9; deliberately set apart from katapausis in same chapter
 - [WG-rest.md](WG-rest.md) — word group: rest/cessation cluster (G2663, G2664, G372, G373, G4520, H4496)
+- [G2041-ergon.md](G2041-ergon.md) — ἔργον, works language paired with entering rest and ceasing from works in Heb 4
+- [TR-ramas-katapateo.md](TR-ramas-katapateo.md) — cross-testament trace that flags κατάπαυσις as a visual-similarity contrast to καταπατέω
 - [WG-sabbath.md](WG-sabbath.md) — sabbath word group; overlaps at the Heb 4 eschatological-rest theme
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -112,6 +112,17 @@ A primitive root; to be (causatively, make) right (in a moral or forensic sense)
 - **H6664 צֶדֶק (tsedeq)** — masculine noun: righteousness, justice (119x)
 - **H6666 צְדָקָה (tsedaqah)** — feminine noun: righteousness (157x)
 
+### Synonyms
+- **H2135 זָכָה (zakah)** — "be clean, be clear, count pure"; overlaps with the vindication / innocence side of *tsadaq*.
+- **H2891 טָהֵר (taher)** — "be pure, cleanse"; neighboring purity term when the verb moves toward acquittal or cleansing.
+- **H8552 תָּמַם (tamam)** — "be complete, be upright"; overlaps with blameless completeness.
+- **H571 אֶמֶת (emeth)** — "truth, faithfulness"; surfaced by `search_relationships.py` as a moral-rightness neighbor.
+- **H2889 טָהוֹר (tahor)** — "pure, clean"; adjective partner to the purity field surrounding *tsadaq*.
+
+### Antonyms
+- **H2398 חָטָא (chata')** — "sin, miss the mark"; direct contrast to being or being declared in the right.
+- **H7561 רָשַׁע (rasha')** — "be wrong, do wickedly, condemn"; direct forensic and moral opposite to *tsadaq*.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -123,6 +134,13 @@ A primitive root; to be (causatively, make) right (in a moral or forensic sense)
 *KJV overlap: H6662 tsaddiyq (42x "just"), H6664 tsedeq (21x "just"), H6666 tsedaqah (15x "just") — all cognates, distinguished by part of speech rather than meaning.*
 
 *LXX overlap via G1344: H8199 shaphat (9x → dikaioo), H2135 zakah (3x → dikaioo) — Hebrew distinguishes "judge," "be pure," and "be righteous" but Greek collapses them under δικαιόω.*
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002003003015] Innocent** — reflects the acquittal / vindication side of the verb.
+- **[002001001029] Good** — marks the broader moral evaluation attached to righteous standing.
+- **[002001003014] Right** — centers the root idea of being right / in the right.
 
 ## LXX Mapping
 
@@ -136,9 +154,16 @@ A primitive root; to be (causatively, make) right (in a moral or forensic sense)
 ## See Also
 
 - [TR-tsadaq-dikaioo.md](TR-tsadaq-dikaioo.md) — cross-testament trace: tsadaq → dikaioo
+- [TR-tsedeq-dikaiosyne.md](TR-tsedeq-dikaiosyne.md) — cognate noun trace referenced by the relationship data
+- [H6664-tsedeq.md](H6664-tsedeq.md) — cognate righteousness noun
+- [H2891-taher.md](H2891-taher.md) — purity verb often returned alongside tsadaq in the relationship data
+- [H4941-mishpat.md](H4941-mishpat.md) — tsadaq's primary forensic partner
 - [WG-hebrew-righteousness.md](WG-hebrew-righteousness.md) — Hebrew righteousness word group
+- [G1342-dikaios.md](G1342-dikaios.md) — Greek adjective counterpart in the δικ- family
+- [G1343-dikaiosyne.md](G1343-dikaiosyne.md) — Greek righteousness noun in the same semantic field
+- [G1344-dikaioo.md](G1344-dikaioo.md) — primary Greek verbal bridge
 - [WG-righteousness.md](WG-righteousness.md) — Greek δικ- word family (NT side)
 
 ---
-*Generated from: search_strongs.py, hebrew_parser.py, lxx-map*
-*Last updated: 2026-03-31*
+*Generated from: search_strongs.py, hebrew_parser.py, lxx-map, search_relationships.py*
+*Last updated: 2026-04-27*

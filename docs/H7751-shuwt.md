@@ -110,6 +110,14 @@ Key pattern: shuwt + erets/kol = comprehensive ranging over the whole earth. shu
 - **H4880 מִשּׁוֹט (mishshowt)** — noun: oar (Eze 27:6, 29). From the "push forth [through water]" sense.
 - **H7885 שַׁיִט (shayit)** — noun: oar (Isa 33:21). Related nautical form.
 
+### Synonyms
+
+*No clear synonym entries were retained from `search_relationships.py` for H7751. The tool surfaced **H2781 חֶרְפָּה**, but that noun does not align with the study's dominant movement / traversal sense.*
+
+### Antonyms
+
+*No antonym entries were returned by `search_relationships.py` for H7751.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -118,6 +126,12 @@ Key pattern: shuwt + erets/kol = comprehensive ranging over the whole earth. shu
 | עָבַר (abar) | H5674 | "go through" (5x for abar) | abar = cross over, pass through a boundary; shuwt = range through comprehensively. abar emphasizes transit; shuwt emphasizes coverage. |
 | שָׁקַק (shaqaq) | H8264 | "run to and fro" (1x) | shaqaq = course like a beast of prey, seek greedily; shuwt = range to and fro searching. shaqaq emphasizes animal-like rushing; shuwt emphasizes purposeful traversal. |
 | הָלַךְ (halak) | H1980 | "go" (general) | halak = walk, go (general movement, 1,554x); shuwt = specifically range to and fro. In Job 1:7 they appear as a pair: shuwt (range) + halak (walk up and down). |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002002001012] Move** — the core relationship domain returned by `search_relationships.py`, matching shuwt's dominant sense of ranging, traversing, and moving through a space.
+- **[002001002005] Despise** — a secondary association surfaced by the tool through neighboring contempt vocabulary (**H936/H937/H938 בוז**, **H947 בוס**, **H959 בזה**), but not central to the movement profile summarized above.
 
 ## LXX Mapping
 
@@ -134,5 +148,5 @@ No cross-testament trace is warranted (co-occurrence count < 20 for all Greek eq
 *(No existing TR-, WG-, or EN- files reference H7751.)*
 
 ---
-*Generated from: gather_word_data.py, hebrew_parser.py, search_strongs.py*
-*Last updated: 2026-04-11*
+*Generated from: gather_word_data.py, hebrew_parser.py, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

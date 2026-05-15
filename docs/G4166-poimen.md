@@ -23,6 +23,11 @@ Of uncertain affinity; a shepherd (literally or figuratively).
 **Domain 44 neighbors:** ἀρχιποίμην (G750, chief shepherd), βόσκω (G1006, feed/tend), ποιμαίνω (G4165, shepherd/rule)
 **Domain 53.009 neighbors:** ἀπόστολος (G652, apostle), ἐπίσκοπος (G1985, bishop/overseer), διάκονος (G1249, minister/deacon), πρεσβύτερος (G4245, elder)
 
+### UBS Semantic Domains
+
+- **[044]** Animal Husbandry, Fishing
+- **[053]** Religious Activities
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -108,6 +113,14 @@ Concentrated in the Gospels (14 of 18 tokens, 82%). John 10 alone accounts for 5
 - **G4168 ποίμνιον (poimnion)** — little flock, flock (5x NT)
 - **G750 ἀρχιποίμην (archipoimen)** — chief shepherd (1x: 1 Pet 5:4)
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G4166.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G4166.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -142,7 +155,8 @@ The primary Hebrew source is H7462 רָעָה (ra'ah), which is the root verb me
 - [G4165-poimaino.md](G4165-poimaino.md) — cognate verb: to shepherd, tend, rule
 - [TR-raah-poimaino.md](TR-raah-poimaino.md) — cross-testament trace: H7462 ra'ah → G4165 poimaino
 - [WG-shepherd.md](WG-shepherd.md) — word group: shepherd concept cluster
+- [G2570-kalos.md](G2570-kalos.md) — adjective in the "good shepherd" saying
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, louw_nida.db, kjv.txt*
-*Last updated: 2026-04-13*
+*Generated from: gather_word_data.py, search_strongs.py, louw_nida.db, kjv.txt, search_relationships.py*
+*Last updated: 2026-04-27*

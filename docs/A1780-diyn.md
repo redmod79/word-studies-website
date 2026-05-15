@@ -70,6 +70,14 @@ The court "sitting" (H3488 יְתִב, yethib) and the "books" being opened are 
 - **H1779 דִּין (dîyn)** — Hebrew cognate; identical root, same semantic range; 20 occurrences in Hebrew poetry and wisdom literature (Psalms, Proverbs, Job, Deuteronomy, Isaiah, Jeremiah)
 - **H1777 דִּין (dîyn)** — Hebrew verb "to judge, plead, govern" — the verbal root underlying both H1779 and H1780
 
+### Synonyms
+
+No synonym entries were returned by `search_relationships.py` for this Aramaic noun.
+
+### Antonyms
+
+No antonym entries were returned by `search_relationships.py` for this Aramaic noun.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -77,6 +85,10 @@ The court "sitting" (H3488 יְתִב, yethib) and the "books" being opened are 
 | דִּין (dîyn) | H1779 | judgment | Direct Hebrew cognate of H1780; same root, same range — differentiated only by language (Hebrew vs. Aramaic) and literary context (Hebrew poetry/wisdom vs. Aramaic narrative) |
 | מִשְׁפָּט (mishpat) | H4941 | judgment, justice | The broader, more common Hebrew term — encompasses the full judicial process (hearing, ordinance, right, custom); H1780 focuses narrowly on the verdict or juridical act |
 | שְׁפוֹט (shephot) | H8196 | judgment | A rarer Hebrew noun from שָׁפַט (shaphat) for "judicial sentence"; closer to H1780 in specificity but appears only twice in OT |
+
+## Semantic Domains
+
+No semantic-domain data was returned by `search_relationships.py` for this Aramaic noun.
 
 ## LXX Mapping
 
@@ -92,5 +104,5 @@ For the Greek equivalents applied to this concept, see [WG-judgment.md](WG-judgm
 - [WG-judgment.md](WG-judgment.md) — Greek NT judgment word group (κρίν- family)
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, KJV verse texts*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, search_strongs.py, KJV verse texts, search_relationships.py*
+*Last updated: 2026-04-27*

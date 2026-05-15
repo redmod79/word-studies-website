@@ -26,6 +26,20 @@ A prolonged form of a primary verb, which is used only as an alternate in certai
 
 Primary domain: **57.009 — Receive**.
 
+### UBS Semantic Domains
+
+- **[018] Attachment** — grasping or taking hold. Other words: ἄγρα (G61), ἀνίημι (G447), ἅπτω (G680), ἁρπάζω (G726), ἀσφαλίζω (G805), δεσμεύω (G1195)
+- **[057] Possess, Transfer, Exchange** — receiving, acquiring, or taking possession. Other words: ἀβαρής (G4), ἀγαθός (G18), ἀγαθωσύνη (G19), ἀγορά (G58), ἀγοράζω (G59), ἀδάπανος (G77)
+- **[030] Think** — cognitive reception or taking something to mind. Other words: ἀγνοέω (G50), ἀδήλως (G84), αἱρετίζω (G140), αἱρέω (G138), αἴρω (G142), ἄλογος (G249)
+- **[031] Hold a View, Believe, Trust** — receiving testimony or accepting something as true. Other words: ἀθετέω (G114), ἄκακος (G172), ἀκλινής (G186), ἀκοή (G189), ἀκούω (G191), ἀμετακίνητος (G277)
+- **[088] Moral and Ethical Qualities and Related Behavior** — reception framed in ethical response. Other words: ἀγαθοεργέω (G14), ἀγαθοποιέω (G15), ἀγαθοποιΐα (G16), ἀγαθοποιός (G17), ἀγαθός (G18), ἀγαθωσύνη (G19)
+- **[090] Case** — receiving or taking in legal/judicial settings. Other words: αἴρω (G142), ἀναδέχομαι (G324), ἀντί (G473), ἀπέναντι (G561), ἀπέχω (G568), ἀπό (G575)
+- **[049] Activities Involving Clothing and Adorning** — taking garments or clothing items. Other words: ἀμφιέζω (G294), ἀμφιέννυμι (G294), ἀπεκδύομαι (G554), ἀπέκδυσις (G555), ἀποβάλλω (G577), γυμνιτεύω (G1130)
+- **[037] Control, Rule** — taking or receiving authority. Other words: ἀγγαρεύω (G29), ἀγοράζω (G59), αἰχμαλωτίζω (G163), ἀκατάστατος (G182), ἅλυσις (G254), ἀναγκάζω (G315)
+- **[025] Attitudes and Emotions** — receiving or taking in affective contexts. Other words: ἀγαλλίασις (G20), ἀγαλλιάω (G21), ἀγαπάω (G25), ἀγάπη (G26), ἀγαπητός (G27), ἀγωνία (G74)
+- **[024] Sensory Events and States** — taking in sensory data. Other words: ἄδηλος (G82), αἴνιγμα (G135), αἴρω (G142), ἀκοή (G189), ἀκούω (G191), ἀκροατής (G202)
+- **[068] Aspect** — receiving framed by duration or aspect. Other words: ἀγωνίζομαι (G75), ἀδιάλειπτος (G88), ἀδιαλείπτως (G89), ἀκατάπαυστος (G180), ἀναζωπυρέω (G329), ἀνάπαυσις (G372)
+
 ## Tense/Voice/Mood Distribution (258 parsed forms)
 
 | Category | Count | % | Notes |
@@ -183,6 +197,12 @@ The **didomi + lambano** pair (26x) is the most theologically significant colloc
 - **G4355 προσλαμβάνω (proslambano)** — take to oneself, welcome (12x)
 - **G4815 συλλαμβάνω (syllambano)** — seize together, conceive (16x)
 
+### Synonyms
+- No direct synonym entries were returned by `search_relationships.py` for G2983.
+
+### Antonyms
+- **αἰτεῖν** — to ask or request rather than to take or receive directly
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -223,11 +243,18 @@ lambano is the **broadest** member of this domain — it covers the full range f
 
 ## See Also
 
+- [G1325-didomi.md](G1325-didomi.md) — give/receive counterpart
+- [G1785-entole.md](G1785-entole.md) — commandment study referencing receiving and keeping
+- [G2917-krima.md](G2917-krima.md) — judgment study referencing what is received
+- [G2985-lampas.md](G2985-lampas.md) — lamp study: taking lamps
+- [G4221-poterion.md](G4221-poterion.md) — cup study referencing taking/receiving the cup
+- [G5480-charagma.md](G5480-charagma.md) — mark study referencing receiving the mark
+- [G859-aphesis.md](G859-aphesis.md) — remission/release study cross-referencing reception language
 - [TR-laqach-lambano.md](TR-laqach-lambano.md) — cross-testament trace: H3947 laqach → G2983 lambano
 - [TR-nasa-airo.md](TR-nasa-airo.md) — cross-testament trace (nasa/airo), related via shared "take" semantic field
 - [WG-take-receive.md](WG-take-receive.md) — word group: take/receive concept cluster
 - [H5375-nasa.md](H5375-nasa.md) — Hebrew source word nasa (lift, bear, carry)
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py --hebrew-source, louw_nida.db*
-*Last updated: 2026-04-09*
+*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py --hebrew-source, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

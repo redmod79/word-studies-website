@@ -134,6 +134,12 @@ The strongest collocation is with YHWH (37% of all verses), reflecting that holi
 - **H4720 מִקְדָּשׁ (miqdash)** — noun: "sanctuary, sacred place" (74x)
 - **H6922 קַדִּישׁ (qaddiysh)** — Aramaic adjective: "holy" (Daniel) (13x)
 
+### Synonyms
+- **H1687 דְּבִיר (dᵉbîyr)** — inner shrine / oracle; `search_relationships.py` links *qodesh* with sanctuary-space vocabulary when holiness points to the temple's innermost sacred area.
+
+### Antonyms
+- **H2455 חֹל (chôl)** — common, profane, unholy; the standard priestly opposite in the holy/common distinction.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -141,6 +147,12 @@ The strongest collocation is with YHWH (37% of all verses), reflecting that holi
 | קָדוֹשׁ (qadowsh) | H6918 | "holy" (105x) | qadowsh is the adjective ("the Holy One"); qodesh is the noun ("holiness, holy thing/place") |
 | מִקְדָּשׁ (miqdash) | H4720 | "sanctuary" (64x) | miqdash specifically denotes the physical sanctuary building; qodesh is broader (quality, objects, space) |
 | חָסִיד (chasiyd) | H2623 | "holy" (5x) | chasiyd means "faithful, pious" (loyal love); qodesh means "set apart, sacred" |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002001001031] Holy** — the core domain: *qodesh* names holiness itself, holy things, holy places, and most-holy status.
+- **[001002009001] Buildings** — the tool also places *qodesh* in the building/structure field because many occurrences denote the sanctuary or a holy architectural zone.
 
 ## LXX Mapping
 
@@ -158,7 +170,15 @@ The overwhelming dominance of G40 hagios (346 of 452) makes this one of the tigh
 
 - [TR-qodesh-hagios.md](TR-qodesh-hagios.md) — cross-testament trace
 - [WG-holiness.md](WG-holiness.md) — word group
+- [H6942-qadash.md](H6942-qadash.md) — related root verb: sanctify, consecrate
+- [H4720-miqdash.md](H4720-miqdash.md) — sanctuary noun within the same holiness cluster
+- [H2455-chol.md](H2455-chol.md) — antonym study: common/profane
+- [G40-hagios.md](G40-hagios.md) — dominant Greek counterpart in the LXX and NT
+- [G3485-naos.md](G3485-naos.md) — Greek temple/sanctuary term frequently overlapping qodesh-space contexts
+- [H3722-kaphar.md](H3722-kaphar.md) — atonement language often tied to the holy place and most-holy zone
+- [H4150-moed.md](H4150-moed.md) — appointed-time study linked where holiness and sacred assembly intersect
+- [H8548-tamid.md](H8548-tamid.md) — continual-service study tied to sanctuary holiness
 
 ---
-*Generated from: search_strongs.py, kjv.txt, strongs_translations.db, lxx-map*
-*Last updated: 2026-03-31*
+*Generated from: search_strongs.py, kjv.txt, strongs_translations.db, lxx-map, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -117,6 +117,14 @@ The shofar marks the end-time ingathering of Israel by God.
 ### Word Family / Cognates
 No established cognate verb in biblical Hebrew; lexicon traces to an unused root meaning "to incise" (cutting the horn into shape). The word group is primarily lexical, not morphological.
 
+### Synonyms
+
+*No synonym entries were returned by `search_relationships.py` for H7782.*
+
+### Antonyms
+
+*No antonym entries were returned by `search_relationships.py` for H7782.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -124,6 +132,11 @@ No established cognate verb in biblical Hebrew; lexicon traces to an unused root
 | חֲצֹצְרָה (chătsôtsᵉrâh) | H2689 | "trumpet/trumpets" | Priestly silver trumpet, made by hammering metal; played exclusively by priests (Num 10:1-10). Shôwphâr is a ram's horn — natural, portable, used by leaders and watchmen. |
 | יוֹבֵל (yôwbêl) | H3104 | "trumpet" (jubilee context) | Specifically the jubilee-year blast; the word names both the blast and the year. Occurs in Lev 25 where it overlaps with shôwphâr (v.9 uses both). |
 | תָּקוֹעַ (tâqôwaʻ) | H8619 | "trumpet" | Rare (1x); a trumpet in the musical sense, from the root "to drive in / thrust" — probably a horn with a mouthpiece insert. |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[001002008001013] Musical Instruments** — `search_relationships.py` places *shôwphâr* in the instrument field alongside **H2689 חֲצֹצְרָה**, **H3104 יוֹבֵל**, **H2485 חָלִיל**, and **H3658 כִּנּוֹר**.
 
 ## LXX Mapping
 
@@ -141,7 +154,11 @@ The primary Greek bridge is σάλπιγξ/σαλπίζω — forming the word f
 - [TR-showphar-salpinx.md](TR-showphar-salpinx.md) — cross-testament trace: shôwphâr → σάλπιγξ
 - [WG-trumpet.md](WG-trumpet.md) — word group: Greek trumpet family (G4536, G4537, G4538)
 - [G4536-salpinx.md](G4536-salpinx.md) — Greek NT study: σάλπιγξ
+- [G4537-salpizo.md](G4537-salpizo.md) — related Greek verb: σαλπίζω, "sound a trumpet"
+- [H8643-truwah.md](H8643-truwah.md) — Hebrew alarm / shout vocabulary regularly paired with the shofar blast
+- [A7162-qeren.md](A7162-qeren.md) — Aramaic horn study in the same instrument field
+- [G4591-semaino.md](G4591-semaino.md) — signaling vocabulary linked by `search_relationships.py`
 
 ---
-*Generated from: gather_word_data.py, gather_trace_data.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, gather_trace_data.py, search_relationships.py*
+*Last updated: 2026-04-27*

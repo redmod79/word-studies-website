@@ -1,7 +1,7 @@
 # WG: Holiness
 
 ## Overview
-The holiness concept in Hebrew Scripture involves a tightly connected word family (all from root ק-ד-שׁ) plus key collocating terms that define the sphere where holiness operates — the sanctuary, the priesthood, and the holy mountain.
+The holiness concept spans both testaments. In Hebrew Scripture it involves a tightly connected word family (all from root ק-ד-שׁ) plus key collocating terms that define the sphere where holiness operates — the sanctuary, the priesthood, and the holy mountain. In the NT, the Greek ἁγ- word family continues the concept with emphasis on the believer's sanctification.
 
 ## Word Group Members
 
@@ -11,8 +11,13 @@ The holiness concept in Hebrew Scripture involves a tightly connected word famil
 | H6942 | קָדַשׁ | qadash | verb | 172 | The action (to make/be holy, consecrate) | TODO(need H6942 study) |
 | H6918 | קָדוֹשׁ | qadowsh | adj | 116 | The attribute (holy, sacred; the Holy One) | TODO(need H6918 study) |
 | H4720 | מִקְדָּשׁ | miqdash | noun | 74 | The place (sanctuary building) | TODO(need H4720 study) |
-| H3548 | כֹּהֵן | kohen | noun | 750 | The agent (priest — mediator of holiness) | TODO(need H3548 study) |
-| H2022 | הַר | har | noun | 546 | The location (mountain — "holy mountain") | TODO(need H2022 study) |
+| H3548 | כֹּהֵן | kohen | noun | 750 | The agent (priest — mediator of holiness) | [H3548-kohen.md](H3548-kohen.md) |
+| H2022 | הַר | har | noun | 485 | The location (mountain — "holy mountain") | [H2022-har.md](H2022-har.md) |
+| G40 | ἅγιος | hagios | adj | 229 | NT: the attribute (holy, sacred, saint) | [G40](G40-hagios.md) |
+| G37 | ἁγιάζω | hagiazo | verb | 29 | NT: the action (to make holy, sanctify) | TODO(need G37 study) |
+| G38 | ἁγιασμός | hagiasmos | noun | 10 | NT: the process/state (sanctification, holiness) | [G38](G38-hagiasmos.md) |
+| G42 | ἁγιωσύνη | hagiosyne | noun | 3 | NT: the quality (sacredness, holiness) | [G42](G42-hagiosyne.md) |
+| G41 | ἁγιότης | hagiotes | noun | 1 | NT: the state (sanctity — God's own holiness shared) | [G41-hagiotes.md](G41-hagiotes.md) |
 
 ## Relationships
 

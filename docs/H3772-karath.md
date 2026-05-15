@@ -133,6 +133,15 @@ Used to describe the end of provision, prophecy, or life — something is "cut o
 - **H3773 karuthoth** — hewn (of stone); from same root (1 Kings 6:36)
 - **H3774 Kerethiy** — Cherethites, David's bodyguard; possibly "executioners" (1 Sam 30:14)
 
+### Synonyms
+- **Cutting / severing neighbors:** **H1438 גדע**, **H1548 גלח**, **H5394 נשׁל**, **H5423 נתק**, **H8025 שׁלף**, **H8456 תזז**. `search_relationships.py` groups *karath* with other verbs of cutting, stripping, and severing.
+- **Covenant / binding neighbors:** **H548 אֲמָנָה**, **H1166 בעל**, **H3162 יַחְדָּו**, **H5674 עבר**, **H7121 קרא**, **H7130 קֶרֶב**. The same tool surfaces relationship/bonding language reflecting the covenant-making side of *karath*.
+- **Destruction / death neighbors:** **H6 אבד**, **H398 אכל**, **H1478 גוע**, **H1818 דָּם**, **H2026 הרג**, **H4194 מָוֶת**, **H6993 קֶטֶל**, **H7921 שׁכל**, **H369 אַיִן**. These neighbors reflect the judicial and destructive "cut off" side of the verb.
+
+### Antonyms
+
+No antonyms were returned by `search_relationships.py` for H3772.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -141,6 +150,16 @@ Used to describe the end of provision, prophecy, or life — something is "cut o
 | gadah | H1438 | "cut down/off" | gadah = fell trees specifically; karath is broader (covenant, judicial, physical) |
 | tsamath | H6789 | "cut off" (Niphal) | tsamath = extirpate utterly; karath Niphal = the act of severing from community |
 | damam | H1826 | "shall be cut off" | damam = be silenced/still; coincidental KJV overlap only |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002003001021] Non-Whole** — `search_relationships.py` places *karath* in a breaking/severing field, with neighbors such as **H234 אַזְכָּרָה**, **H680 אצל**, **H717 ארה**, **H914/H915 בדל / בָּדָל**, and **H958 בזא**.
+- **[002003002002] Associate** — the same tool also groups *karath* with joining/covenant vocabulary such as **H92 אֲגֻדָּה**, **H262/H264 אַחֲוָה**, **H548/H549 אֲמָנָה**, and **H622 אסף**.
+- **[002001001019] Dead** — a death/destruction field with neighbors such as **A7/H6 אבד**, **H8 אֹבֵד**, and **H12/H13 אַבְדָן / אָבְדָן**.
+- **[002003002009] Dissociate** — a separation/removal field including **H270 אחז**, **H488/H489 אַלְמָן / אַלְמֹון**, **H491 אַלְמָנוּת**, and **H905/H906 בַּד**.
+- **[002002002006] Non-Exist** — another elimination field, again linking *karath* with **A7/H6 אבד**, **H8 אֹבֵד**, and **H12/H13 אַבְדָן / אָבְדָן**.
+- **[002003003010] End** — the termination field, with neighbors such as **A7/H6 אבד**, **A236/H235 אזל**, **H319 אַחֲרִית**, and **H622 אסף**.
 
 ## LXX Mapping
 
@@ -163,5 +182,5 @@ Used to describe the end of provision, prophecy, or life — something is "cut o
 - [TR-beriyth-diatheke.md](TR-beriyth-diatheke.md) — cross-testament trace: beriyth to diatheke (the covenant noun karath acts upon)
 
 ---
-*Generated from: gather_word_data.py H3772, hebrew_parser.py --lemma krt*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py H3772, hebrew_parser.py --lemma krt, search_relationships.py*
+*Last updated: 2026-04-27*

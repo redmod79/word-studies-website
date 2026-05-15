@@ -92,6 +92,15 @@ The strongest collocational pattern is the phrase "seven times (ʻiddânîn) pas
 - **H5708 עֵד (ʻêd)** — menstruation (the root sense of a recurring, set period)
 - **H5710 עָדָה (ʻâdâh)** — to adorn, advance (related root)
 
+### Synonyms
+No synonyms returned by `search_relationships.py` for this Aramaic lemma.
+
+### Antonyms
+No antonyms returned by `search_relationships.py` for this Aramaic lemma.
+
+### Semantic Domains
+No semantic-domain data returned by `search_relationships.py` for this Aramaic lemma.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -118,5 +127,5 @@ The LXX primarily renders ʻiddân as καιρός (kairos), the Greek word for 
 - [WG-aramaic-time.md](WG-aramaic-time.md) — word group: Aramaic time vocabulary in Daniel
 
 ---
-*Generated from: search_strongs.py, KJV text*
-*Last updated: 2026-03-31*
+*Generated from: search_relationships.py, search_strongs.py, KJV text*
+*Last updated: 2026-04-27*

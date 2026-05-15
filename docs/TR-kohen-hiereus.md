@@ -33,7 +33,7 @@ KJV translation distribution for H3548:
 - "and the priests" — 20 vv (3%)
 - (remaining ~17% in various phrase forms)
 
-TODO(need H3548 study)
+[H3548-kohen.md](H3548-kohen.md)
 
 ## LXX Bridge
 

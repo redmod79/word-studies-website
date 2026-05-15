@@ -88,11 +88,25 @@ Daniel has by far the highest density (1.7 per 100 vs. 0.1–0.3 elsewhere), dri
 - **H7651 שֶׁבַע (sheba)** — seven; the root number; shabuwa is literally "the sevened [period]"
 - **H7650 שָׁבַע (shaba)** — to swear an oath; also denominative from H7651 (to "seven oneself" in oath-taking); shares root but diverged in meaning
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for H7620.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for H7620.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
 |------|----------|--------------------|----------------|
 | σάββατον (sábbaton) | G4521 | Both rendered "week" in some contexts | G4521 is the Sabbath day (7th day); used idiomatically in NT for "week" (e.g., "first day of the sabbaton" = Sunday). Shabuwa always denotes the full 7-day period, never the single day |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002002002010] Time** — the base temporal field: *shâbûwaʻ* names a counted week or heptad.
+- **[002002002011] Festivals** — the same word also belongs to the festival-calendar field, especially in Feast of Weeks usage.
 
 ## LXX Mapping
 
@@ -112,9 +126,12 @@ The LXX rendering of shabuwa is scattered across multiple Greek words because th
 
 - [WG-weeks.md](WG-weeks.md) — word group: shabuwa within the Hebrew sacred-time cluster (sheba/seven, shabbath/Sabbath, chag/feast)
 - [H2852-chathak.md](H2852-chathak.md) — H2852 (determined/cut off) appears with shabuwa in Dan 9:24: "seventy weeks are *determined*"
+- [H2782-charats.md](H2782-charats.md) — "decreed / determined," a related Daniel 9 timetable term surfaced by `search_relationships.py`
+- [H6213-asah.md](H6213-asah.md) — the recurring verb in Feast of Weeks observance formulas ("keep/do the feast")
+- [G4521-sabbaton.md](G4521-sabbaton.md) — Greek Sabbath/weekday term that can idiomatically mean "week" in NT usage
 - [WG-appointed-meeting.md](WG-appointed-meeting.md) — word group for H4150 (moed), which overlaps with Feast of Weeks as an appointed meeting
 - [TR-moed-heorte.md](TR-moed-heorte.md) — trace of moed → heortē (the same Greek festival word appearing in the LXX of "feast of weeks")
 
 ---
-*Generated from: gather_word_data.py, strongs_translations.db*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, strongs_translations.db, search_relationships.py*
+*Last updated: 2026-04-27*

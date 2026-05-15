@@ -119,6 +119,23 @@ The worshipper's personal desire and delight to do God's will — a willing, vol
 - **H7520 רָצַד (râtsad)** — adjacent root: to look askance (rare)
 - **H7523 רָצַח (râtsach)** — adjacent root: to murder (false cognate by spelling; unrelated semantically)
 
+### Synonyms
+
+- **H157 אָהַב (ʼâhab)** — love; tool-returned overlap in the field of delight and favorable disposition.
+- **H1293 בְּרָכָה (bᵉrâkâh)** — blessing; favor expressed as beneficent bestowal.
+- **H3444 יְשׁוּעָה (yᵉshûwʻâh)** — salvation / deliverance; a tool-returned positive correlate where favor brings help.
+- **H5359 נָקָם (nâqâm)** — vengeance; a secondary tool-returned association, likely via sovereign reversal rather than the core cultic sense.
+
+### Antonyms
+
+- **H637 אַף (ʼaph)** — anger; opposite disposition to favor.
+- **H3887 לוּץ (lûwts)** — scorn / mock; the opposite of delight or acceptance.
+- **H5099 נָהַם (nâham)** — growl / roar; a tool-returned contrast term associated with agitation rather than goodwill.
+- **H5678 עֶבְרָה (ʻebrâh)** — wrath / overflowing fury; direct contrast to gracious favor.
+- **H7110 קֶצֶף (qetseph)** — indignation; opposite of pleasing acceptance.
+- **תַּהְפֻּכֹות** — perversities / crookedness; the opposite of what is acceptable or well-pleasing.
+- **H8441 תּוֹעֵבָה (tôwʻêbâh)** — abomination; Proverbs repeatedly sets abomination over against delight.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -127,6 +144,14 @@ The worshipper's personal desire and delight to do God's will — a willing, vol
 | חֵן (ḥēn) | H2580 | both "favour" | ḥēn = unmerited grace shown to the weak (often in the phrase "find grace in your eyes"); râtsôwn = the pleased, willing acceptance of an offering or person |
 | רְעוּת (rᵉʻûwth) | H7470 | both "pleasure," "desire" | rᵉʻûwth is Aramaic; used in Ezra/Daniel for royal desire; râtsôwn is the Hebrew equivalent |
 | תַּאֲוָה (taʼăvâh) | H8378 | both "desire" | taʼăvâh = strong craving, longing (often with negative connotation); râtsôwn = pleased acceptance, good will |
+
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|-------------|-------|
+| 002001002028 | Willing | Captures willing acceptance and favorable disposition at the heart of râtsôwn. |
+| 002003002003 | Bless | Covers the beneficent, goodwill side of favor. |
+| 002004002001001 | Wish | Fits the volitional sense in royal and personal "will / pleasure" usages. |
 
 ## LXX Mapping
 
@@ -147,7 +172,10 @@ The worshipper's personal desire and delight to do God's will — a willing, vol
 - [TR-ratsown-dektos.md](TR-ratsown-dektos.md) — cross-testament trace: râtsôwn → δεκτός → NT "acceptable"
 - [TR-hen-charis.md](TR-hen-charis.md) — related trace: ḥēn → χάρις (overlapping in "favour" semantic range)
 - [G5485-charis.md](G5485-charis.md) — Greek "grace/favour" (shares LXX overlap with râtsôwn)
+- [H2603-chanan.md](H2603-chanan.md) — show favor / be gracious, overlapping favor vocabulary
+- [H5975-amad.md](H5975-amad.md) — "stand up" / accession language that overlaps râtsôwn's royal-will contexts in Daniel
+- [H8378-taavah.md](H8378-taavah.md) — desire / craving, the nearer "wish / desire" side of the semantic field
 
 ---
-*Generated from: gather_word_data.py, gather_trace_data.py, kjv.txt*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, gather_trace_data.py, search_relationships.py, kjv.txt*
+*Last updated: 2026-04-27*

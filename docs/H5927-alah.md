@@ -167,6 +167,14 @@ The KJV renders ʻâlâh with hundreds of phrasings because English cannot match
 - **H5945 עֶלְיוֹן (ʻelyôwn)** — Most High (divine title from same root)
 - **H4609 מַעֲלָה (maʻălâh)** — a step, stair, ascent, degree
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for H5927.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for H5927.*
+
 ### Easily Confused Words (via shared KJV translation)
 
 | Word | Strong's | Shared KJV | Key Difference |
@@ -180,6 +188,16 @@ The KJV renders ʻâlâh with hundreds of phrasings because English cannot match
 
 ### Easily Confused via LXX (Greek overlap)
 - Many Hebrew verbs of motion collapse into Greek ἀναβαίνω (G305) and ἀνάγω (G321), including ʻâlâh, rûwm, and çᵉliq.
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002002001012] Move** — the core field for literal ascent, upward travel, and motion from lower to higher.
+- **[002003002020] Sacrifice** — reflects the Hiphil cultic use "offer up" on the altar.
+- **[002001001057] Stance** — overlaps with taking position, standing up, or assuming an elevated place.
+- **[002002001017] Space** — captures directional movement upon, against, or into a location.
+- **[002002001008] Flow** — fits the "rising" imagery of mist, smoke, and growth.
+- **[002002002010] Time** — covers extended uses where something "comes up" in sequence, stage, or occasion.
 
 ## LXX Mapping
 
@@ -201,7 +219,14 @@ The KJV renders ʻâlâh with hundreds of phrasings because English cannot match
 - [TR-olah-holokautoma.md](TR-olah-holokautoma.md) — cross-testament trace of the cognate noun עֹלָה (H5930) → ὁλοκαύτωμα
 - [H5930-olah.md](H5930-olah.md) — canonical study of the cognate noun "burnt offering"
 - [WG-high.md](WG-high.md) — word group: high, lofty, exalted (includes H5945 ʻelyôwn, cognate)
+- [H935-bo.md](H935-bo.md) — motion-verb cross-reference returned by `search_relationships.py`
+- [H5414-nathan.md](H5414-nathan.md) — related causative-placement study cross-referenced by `search_relationships.py`
+- [H5258-nasak.md](H5258-nasak.md) — cultic-action cross-reference returned by `search_relationships.py`
+- [H2076-zabach.md](H2076-zabach.md) — sacrificial companion verb listed by `search_relationships.py`
+- [H8643-truwah.md](H8643-truwah.md) — festival/cultic cross-reference returned by `search_relationships.py`
+- [H5521-cukkah.md](H5521-cukkah.md) — pilgrimage/festival cross-reference returned by `search_relationships.py`
+- [G2586-kapnos.md](G2586-kapnos.md) — Greek smoke study cross-referenced with upward/offering imagery
 
 ---
-*Generated from: gather_word_data.py H5927, hebrew_parser.py --lemma עלה (stem tally)*
-*Last updated: 2026-04-16*
+*Generated from: gather_word_data.py H5927, hebrew_parser.py --lemma עלה (stem tally), search_relationships.py*
+*Last updated: 2026-04-27*

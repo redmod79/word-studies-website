@@ -157,6 +157,13 @@ The plural *yamim* = the total span of a person's life; "length of days" = long 
 - **H3119 יוֹמָם (yôwmâm)** — adverb derived from H3117: "by day, in the daytime" (50 verses); antonym of "by night"; commonly in "day and night" (yomam walaylah) merisms
 - **H3118 יוֹם (Aramaic yôwm)** — Aramaic cognate in Dan/Ezra Aramaic sections (15 verses); same meaning
 
+### Synonyms
+- **H8121 שֶׁמֶשׁ (shemesh)** — overlap in the daylight field; this is not a calendar-day equivalent, but the sun/daylight association surfaced by `search_relationships.py`.
+- **H216 אוֹר (or)** — overlaps where *yom* means the lighted portion of the day rather than the full day-night cycle.
+
+### Antonyms
+- **H3915 לַיְלָה (laylah)** — the standard opposite in day/night merisms and temporal contrasts.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -165,6 +172,15 @@ The plural *yamim* = the total span of a person's life; "length of days" = long 
 | יוֹם (Aramaic) | H3118 | "day", "days" | Aramaic form confined to Daniel and Ezra; functionally identical but distinct corpus |
 | עֵת (ʻêth) | H6256 | "time" (22v overlap) | eth = appointed moment/occasion, often implying the right or proper time; yom = the day as a unit of time |
 | עוֹלָם (ʻôwlâm) | H5769 | "for ever", "evermore" (16v overlap) | owlam = indefinitely long age or perpetuity; yom used in extended idioms like "all the days forever" where both appear, but owlam extends beyond countable days |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002002002010] Time** — the core temporal-unit domain for ordinary uses of *yom*.
+- **[002001003003] Complete** — reflects "full day / completed span" uses.
+- **[002001001038] Old** — captures idioms where "days" means age or advanced years.
+- **[003001017] Titles** — a secondary domain created by formulaic uses such as "in the days of..." with rulers and named periods.
+- **[001002008001014] Scrolls** — reflects archival/chronicle formulas behind KJV renderings like "book of the chronicles of the days."
 
 ## LXX Mapping
 
@@ -187,5 +203,5 @@ lexical bridge in the entire Bible by co-occurrence volume.*
 - [H6256-eth.md](H6256-eth.md) — easily confused: appointed time/occasion
 
 ---
-*Generated from: gather_word_data.py H3117*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py H3117, search_relationships.py*
+*Last updated: 2026-04-27*

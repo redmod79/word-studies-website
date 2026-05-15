@@ -8,7 +8,7 @@ The NT vocabulary of marriage and divorce clusters around a small set of words t
 | Strong's | Word | Transliteration | POS | Occurrences | Role in Concept | Library Entry |
 |----------|------|-----------------|-----|-------------|-----------------|---------------|
 | G1060 | γαμέω | gaméō | verb | 25 | The act of marrying | [G1060-gameo.md](G1060-gameo.md) |
-| G1062 | γάμος | gámos | noun | 13 | The institution / wedding event | TODO(need G1062 study) |
+| G1062 | γάμος | gámos | noun | 16 | The institution / wedding event | [G1062-gamos.md](G1062-gamos.md) |
 | G1135 | γυνή | gynē | noun | 200 | Wife — the relational partner | TODO(need G1135 study) |
 | G22 | ἄγαμος | ágamos | adj/noun | 4 | The unmarried state (negation of γάμος) | TODO(need G22 study) |
 | G630 | ἀπολύω | apolýō | verb | 28 | Divorce (put away / release) | TODO(need G630 study) |

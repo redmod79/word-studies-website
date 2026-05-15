@@ -119,12 +119,27 @@ Cloud as image of transience, obstruction, and blotting out.
 - **H6050 עֲנַן (ʻănan)** — Aramaic form of "cloud" (Dan 7:13)
 - **H6053 עֲנָנָה (ʻănânâh)** — feminine noun: cloudiness (hapax)
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for H6051.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for H6051.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
 |------|----------|--------------------|----------------|
 | עָב (ʻâb) | H5645 | both "cloud" | ʻâb = thick/dark/enveloping storm cloud, more common in poetic/wisdom; ʻânân = nimbus cloud, the primary narrative word for God's presence-cloud |
 | שַׁחַק (shachaq) | H7834 | both → νεφέλη in LXX | shachaq = thin clouds / powder / dust-like sky layer; ʻânân = substantial cloud; different texts, contexts |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[001002010004] Clouds** — the primary domain for *ʻânân*, grouping it with other cloud vocabulary such as **H5645/H5646** and **H6053**.
+- **[001002010012] Smoke** — a secondary overlap field for obscuring aerial phenomena; useful where cloud and smoke imagery merge in theophanic settings.
+- **[003001007] Names of People** — a noisy orthographic-overlap result surfaced by `search_relationships.py`, retained here as returned tool data rather than as a true semantic category for H6051.
 
 ## LXX Mapping
 
@@ -141,7 +156,8 @@ The secondary LXX renderings reveal how the translators parsed ʻânân's nuance
 ## See Also
 - [TR-anan-nephele.md](TR-anan-nephele.md) — cross-testament trace: ʻânân → νεφέλη
 - [WG-cloud.md](WG-cloud.md) — word group: Hebrew and Greek cloud vocabulary
+- [H1242-boqer.md](H1242-boqer.md) — morning, a related study that cross-references the cloud/fire guidance pattern
 
 ---
-*Generated from: gather_word_data.py, gather_trace_data.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, gather_trace_data.py, search_relationships.py*
+*Last updated: 2026-04-27*

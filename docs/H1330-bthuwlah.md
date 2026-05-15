@@ -118,6 +118,14 @@ Highest concentration in lament/exile literature (Lamentations, Jeremiah, Amos, 
 ### Word Family / Cognates
 - **H1331 בְּתוּלִים (bethulim)** — masculine plural, "tokens of virginity" / state of virginity (Deut 22:14-20; Lev 21:13)
 
+### Synonyms
+
+*No synonyms returned by `search_relationships.py` for H1330.*
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for H1330.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -129,6 +137,11 @@ Highest concentration in lament/exile literature (Lamentations, Jeremiah, Amos, 
 | παιδίσκη (paidiske) | G3814 | "maiden" | Greek for young female servant/slave-girl; overlaps in KJV "maiden." |
 
 Note on bethulah vs almah: Gen 24:16 uses both — Rebekah is called bethulah with the explicit gloss "neither had any man known her," indicating that bethulah alone was not always sufficient to specify sexual inexperience without clarification.
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[001002007] People** — `search_relationships.py` places *bᵉthûwlâh* in the people/personhood field, matching its use as the concrete noun for a young unmarried woman. Neighbor set includes **H120/H121 אָדָם**, **H157/H158 אהב**, **H193 אוּל**, and **H352 אַיִל**.
 
 ## LXX Mapping
 
@@ -150,5 +163,5 @@ Note on bethulah vs almah: Gen 24:16 uses both — Rebekah is called bethulah wi
 *No existing TR-/WG-/EN- files reference this word yet.*
 
 ---
-*Generated from: gather_word_data.py (search_strongs.py, hebrew_parser.py, lxx-map)*
-*Last updated: 2026-04-16*
+*Generated from: gather_word_data.py (search_strongs.py, hebrew_parser.py, lxx-map), search_relationships.py*
+*Last updated: 2026-04-27*

@@ -54,7 +54,7 @@ one-to-one, with Greek retaining the full Hebrew semantic range.
 - **Acts 2:19–20** — quoting Joel 2:30–31 — "blood, and fire, and vapour of smoke... the moon into blood" — eschatological blood sign carried directly
 - **Rev 12:11** — "they overcame him by the blood of the Lamb" — vicarious/redemptive blood
 
-[→ G129-haima.md — TODO(need G129 study)](TODO.md)
+[→ G129-haima.md](G129-haima.md)
 
 ## Direct OT→NT Quotations
 

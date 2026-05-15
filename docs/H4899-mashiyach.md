@@ -90,11 +90,26 @@ Anointed; usually a consecrated person (as a king, priest, or saint); specifical
 ### Word Family / Cognates
 - **H4886 מָשַׁח (mâshach)** — root verb; to rub with oil, to anoint, to consecrate (69 occurrences)
 
+### Synonyms
+
+*No synonyms returned by `search_relationships.py` for H4899.*
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for H4899.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
 |------|----------|--------------------|----------------|
 | מָשַׁח (mâshach) | H4886 | both translated "anointed" | mashach is the verbal act of anointing; mashiyach is the nominal office of the one anointed |
+
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 001002007005 | Leaders | Core royal/governing-office sense of *mashiyach* as the anointed ruler. |
+| 001002007008 | Priests | Levitical office sense in passages such as Lev 4 and 6, where *mashiyach* denotes the consecrated priest. |
 
 ## LXX Mapping
 
@@ -107,10 +122,12 @@ Anointed; usually a consecrated person (as a king, priest, or saint); specifical
 
 ## See Also
 
+- [H4886-mashach.md](H4886-mashach.md) — root verb: to anoint, consecrate, install
+- [G5547-christos.md](G5547-christos.md) — Greek title that most directly carries *mashiyach* into the NT
 - [TR-mashiyach-christos.md](TR-mashiyach-christos.md) — cross-testament trace: mâshîyach → Χριστός
 - [WG-anointed.md](WG-anointed.md) — word group: anointed/king/priest concept cluster
 - [H5057-nagiyd.md](H5057-nagiyd.md) — prince/leader (Dan 9:25 pairs mashiyach + nagiyd)
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, gather_trace_data.py*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, search_strongs.py, gather_trace_data.py, search_relationships.py*
+*Last updated: 2026-04-27*

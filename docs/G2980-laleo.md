@@ -15,11 +15,15 @@
 
 A prolonged form of an otherwise obsolete verb; to talk, i.e. utter words.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
+**Louw-Nida:**
 - **Domain:** 33.006 — Speak, Talk
 - **Parent Domain:** 33 — Communication
 - **Other words in subdomain:** ἀλάλητος (G215), ἄλαλος (G216), ἀναβοάω (G310), ἀνακράζω (G349), ἀναφωνέω (G400), ἀνεκλάλητος (G412), ἀποφθέγγομαι (G669), ἄρρητος (G731), ἄφωνος (G880), βατταλογέω (G945)
+
+**UBS Semantic Domains:**
+- **[033]** Communication
 
 ## Morphological Distribution
 
@@ -171,6 +175,13 @@ Things spoken or told by prophets; passive uses conveying messages.
 - **G2551 κακολογέω (kakologeo)** — to speak evil of (compound with kakos; not direct cognate)
 - **G1256 διαλέγομαι (dialegomai)** — to discuss, reason, argue (compound with dia)
 
+### Synonyms
+- **G3004 λέγω (legō)** — to say, declare; the closest overlapping speech verb returned by `search_relationships.py`
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G2980.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -213,7 +224,13 @@ Things spoken or told by prophets; passive uses conveying messages.
 
 - [TR-dabar-laleo.md](TR-dabar-laleo.md) — cross-testament trace: H1696 dabar → G2980 laleo
 - [WG-speech.md](WG-speech.md) — word group: speech and speaking vocabulary cluster
+- [G4750-stoma.md](G4750-stoma.md) — mouth as the instrument/source of speech
+- [G989-blasphemos.md](G989-blasphemos.md) — blasphemous speech vocabulary
+- [G2782-kerygma.md](G2782-kerygma.md) — proclamation/preaching as spoken message
+- [G1473-ego.md](G1473-ego.md) — first-person speech/discourse formulas
+- [G2296-thaumazo.md](G2296-thaumazo.md) — marveling at what is spoken
+- [G3850-parabole.md](G3850-parabole.md) — parables as a major speech form
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-10*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

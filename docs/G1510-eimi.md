@@ -32,15 +32,37 @@ The first person singular present indicative; a prolonged form of a primary and 
 
 **Note:** G1510 is the lexical entry for the entire εἰμί paradigm, but Strong's assigns separate numbers to several inflected forms: G2258 (ἦν, imperfect), G2076 (ἐστί, 3rd sg. present), G5607 (ὤν, participle), G1488 (εἶ, 2nd sg.), G1511 (εἶναι, infinitive). The 143 unique verses under G1510 specifically represent first-person singular forms (εἰμί itself) and some other forms not covered by those separate entries.
 
-## Louw-Nida Semantic Domains
+## Semantic Domains
+
+**Louw-Nida:**
 
 εἰμί spans an exceptionally wide range of domains, reflecting its role as the fundamental copulative verb:
 
-- **Primary:** 13 — Be, Become, Exist, Happen (subdomains: 13.1 State, 13.3 Exist, 13.4 Happen)
-- **Secondary:** 89.19 — Equivalence (predication: "X is Y")
-- **Other domains:** 23.7 Live/Die, 68.2 Continue, 85.1 Be in a Place, 87.3 High Status, 87.5 Slave/Free, 71.1 Possible/Impossible, 58.10 Archetype/Antitype, 34.1 Associate
+- **13** — Be, Become, Exist, Happen (subdomains: 13.1 State, 13.3 Exist, 13.4 Happen)
+- **89.19** — Equivalence (predication: "X is Y")
+- **23.7** — Live / Die
+- **68.2** — Continue
+- **85.1** — Be in a Place
+- **87.3** — High Status
+- **87.5** — Slave / Free
+- **71.1** — Possible / Impossible
+- **58.10** — Archetype / Antitype
+- **34.1** — Associate
 
 **Key domain neighbors (13.3 Exist):** γίνομαι (G1096, come to exist), μένω (G3306, remain), ὑπάρχω (G5224, exist), κεῖμαι (G2749, lie/be), καταργέω (G2673, cease to exist)
+
+**UBS Semantic Domains:**
+- **[013]** Be, Become, Exist, Happen
+- **[085]** Existence in Space
+- **[071]** Mode
+- **[058]** Nature, Class, Example
+- **[034]** Association
+- **[068]** Aspect
+- **[023]** Physiological Processes and States
+- **[087]** Status
+- **[089]** Relations
+
+*`search_relationships.py` does not map G1510 directly in `ubs_greek.db`; these UBS domains come from the same εἰμί lemma indexed there under G2258.*
 
 ## Translation Distribution (KJV)
 
@@ -165,6 +187,14 @@ John dominates at 5.9 per 100 verses (36% of all G1510 occurrences), driven by t
 - **G1511 εἶναι (einai)** — present infinitive "to be" (7 verses as "am")
 - **G2071 ἔσομαι (esomai)** — future "shall be"
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G1510. The same εἰμί lemma is indexed in `ubs_greek.db` under G2258, and that fallback still produced semantic-domain data only.*
+
+### Antonyms
+
+*No antonyms were returned by the lemma-level `search_relationships.py` lookup for εἰμί (via G2258).*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -192,5 +222,5 @@ John dominates at 5.9 per 100 verses (36% of all G1510 occurrences), driven by t
 - [WG-becoming.md](WG-becoming.md) — word group covering the "be/become" concept cluster
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-09*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

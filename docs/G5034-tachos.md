@@ -35,6 +35,10 @@ This frozen construction makes τάχος functionally equivalent to the adverbs
 - **Other words in domain:** αἰφνίδιος (G0160, sudden), ἄφνω (G0869, suddenly),
   ἄρτι (G0737, now), αἰώνιος (G0166, eternal)
 
+### UBS Semantic Domains (search_relationships.py)
+
+- **[067] Time** — the broader semantic field for temporal nearness, duration, and swiftness.
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -106,6 +110,14 @@ All from root G5036 ταχύς (tachýs, "swift"):
 | ταχινός | G5031 | adjective | 2 | swift, impending |
 | τάχιον | G5032 | adverb | 5 | more quickly, sooner |
 
+### Synonyms
+
+- **προσέχω (G4337)** — listed by `search_relationships.py` as a semantic neighbor alongside prompt attention / heedfulness.
+
+### Antonyms
+
+No antonym surfaced in `search_relationships.py`.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -131,9 +143,11 @@ a strong single lexical bridge. A cross-testament trace is not warranted (co-occ
 
 ## See Also
 
+- [G5035-tachy.md](G5035-tachy.md) — ταχύ, the adverbial family partner
+- [G1163-dei.md](G1163-dei.md) — δεῖ, frequently paired with ἐν τάχει in prophetic necessity formulas
 - [WG-shortly.md](WG-shortly.md) — word group: the ταχύς family (G5034, G5030, G5035, G5031, G5032)
 - [WG-time.md](WG-time.md) — broader Greek time vocabulary group
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-28*

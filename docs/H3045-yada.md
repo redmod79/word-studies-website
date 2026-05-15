@@ -176,6 +176,24 @@ Top 20 content-word co-occurrences (same-verse counts from 873 verses):
 - **H4093 מַדָּע (maddaʻ)** — knowledge, thought
 - **H3045 participle forms** used substantively: "one who knows" → acquaintance, familiar friend, prognosticator
 
+### Synonyms
+- **H995 בִּין (biyn)** — closest overlap in the knowledge/discernment field; *biyn* stresses analytical discernment, while *yada* is broader knowing.
+- **H1540 גָּלָה (galah)** — overlaps on the "make known / reveal" edge of the root.
+- **H2094 זָהַר (zahar)** — warning/instruction term that `search_relationships.py` groups with *yada*'s teaching/awareness field.
+- **H2142 זָכַר (zakar)** — reflective remembering tied to retained knowledge.
+- **A263 חֲוָה (chavah)** — Aramaic "declare / show," overlapping the causative "make known" side of ידע.
+- **H3289 יָעַץ (yaats)** — counsel/advice language adjacent to informed knowledge.
+- **H3384 יָרָה (yarah)** — instruct/teach, especially where Hiphil *yada* means "make known."
+- **H3925 לָמַד (lamad)** — learn/teach, a close neighbor in the instruction-to-knowledge domain.
+- **H157 אָהַב (ahav)** — relational familiarity and covenant affection overlap with person-centered knowing contexts.
+- **H7452 רֵעַ (rea)** — companion/friend term surfaced by `search_relationships.py` from the relational-familiarity field.
+- **H5647 עָבַד (avad)** — service language sometimes paired with covenantal knowing.
+- **קָרָא בְּשֵׁם** — explicit naming/recognition formula adjacent to identification and acknowledgment.
+- **H2450 חָכָם (chakam)** — wisdom/skill term overlapping the "know how" and "be skilful" usages.
+
+### Antonyms
+No antonym entries were returned by `search_relationships.py` for H3045.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV | Key Difference |
@@ -190,6 +208,21 @@ Top 20 content-word co-occurrences (same-verse counts from 873 verses):
 
 ### LXX Overlap (Hebrew words mapped to same Greek)
 Because G1097 γινώσκω also covers biyn, nakar, and shamaʻ in LXX, these Hebrew verbs blur together in Greek translation.
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002004002007] Know** — the core field for factual, relational, and covenantal knowing.
+- **[002001001001] Able** — covers the "know how / be skilful" edge of the verb.
+- **[002003002002] Associate** — reflects acquaintance, familiarity, and relational knowledge.
+- **[002003001004] Copulate** — marks the euphemistic sexual sense ("Adam knew Eve," etc.).
+- **[002003003011] Engage** — experiential involvement rather than detached awareness.
+- **[001002007003] Friends** — captures acquaintance / familiar-friend usage.
+- **[002003003019] Safe** — peripheral overlap where knowledge carries guarded familiarity or trusted care.
+- **[002003002009] Dissociate** — negative relationship-space where one is unknown or cut off.
+- **[002003002022] Serve** — covenantal "know the LORD" language adjacent to service and allegiance.
+- **[002004002013] Think** — perception, awareness, and mental consideration.
+- **[002001002029] Wise** — practical insight, expertise, and skilled knowledge.
 
 ## LXX Mapping
 
@@ -213,5 +246,5 @@ Ranked by PMI-weighted Hebrew→Greek alignment:
 - [WG-knowledge.md](WG-knowledge.md) — word group: knowledge/perception/wisdom cluster
 
 ---
-*Generated from: gather_word_data.py, hebrew_parser.py (ETCBC/BHSA stem tallies), search_strongs.py*
-*Last updated: 2026-04-16*
+*Generated from: gather_word_data.py, hebrew_parser.py (ETCBC/BHSA stem tallies), search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -22,6 +22,13 @@ Of Hebrew origin (H7676); the Sabbath (i.e. Shabbath), or day of weekly repose f
 - **Subdomain:** 067.009 — Definite Units of Time: Year, Month, Week, Day, Hour
 - **Note:** Also appears in domain 081.006 (Specific Measures of Length) in Acts 1:12 — "a sabbath day's journey"
 
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 067 | Time | `search_relationships.py` places *sabbaton* in the calendrical/time field that governs Sabbath-day and week language across the NT. |
+| 081 | Spatial Dimensions | The tool also reflects the Acts 1:12 extension "a sabbath day's journey," where the Sabbath serves as a standard measure. |
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -102,6 +109,14 @@ In the plural genitive (σαββάτων), used as a unit to mark the first day 
 - **G4520 σαββατισμός (sabbatismós)** — a sabbath-rest; occurs once (Heb 4:9): "There remaineth therefore a rest (sabbatismos) to the people of God"
 - **H7676 שַׁבָּת (shabbâth)** — the Hebrew Sabbath (direct source); root: H7673 שָׁבַת (shâbath, to rest/cease)
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G4521.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G4521.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -124,7 +139,15 @@ In the plural genitive (σαββάτων), used as a unit to mark the first day 
 - [TR-shabbath-sabbaton.md](TR-shabbath-sabbaton.md) — cross-testament trace: H7676 → G4521
 - [WG-sabbath.md](WG-sabbath.md) — word group: sabbath observance
 - [WG-weeks.md](WG-weeks.md) — related word group: Hebrew week/seven structure (includes H7676)
+- [G4520-sabbatismos.md](G4520-sabbatismos.md) — sabbath-rest noun built from the same family
+- [H7676-shabbath.md](H7676-shabbath.md) — the Hebrew source word borrowed into Greek as sabbaton
+- [H7677-shabbathown.md](H7677-shabbathown.md) — sabbath rest / solemn rest day in the Hebrew system
+- [H7673-shabath.md](H7673-shabath.md) — root verb: to cease, rest
+- [H7620-shabuwa.md](H7620-shabuwa.md) — week; overlapping seven-day time-unit vocabulary
+- [H3117-yowm.md](H3117-yowm.md) — day; calendrical frame for Sabbath references
+- [H6942-qadash.md](H6942-qadash.md) — sanctify; linked to the consecration of the Sabbath day
+- [G1486-etho.md](G1486-etho.md) — custom; cross-referenced where Sabbath observance appears as regular practice
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

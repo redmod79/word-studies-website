@@ -20,11 +20,17 @@ From Thayer: *Work, i.e.*
 
 *Derives from ἔργω érgō; the Septuagint renders פֹּעַל, עֲבֹדָה, מְלָאכָה, and especially מַעֲשֶׂה with this word.*
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Domain 42 — Perform, Do**
-  - **42.002 — Do, Perform:** ἀπόχρησις, δαπανάω, ἐνέργημα, καρπός (G2590), κατεργάζομαι (G2716)
-  - **42.004 — Work, Toil:** ἐργάζομαι (G2038), ἐργάτης (G2040), κοπιάω (G2872), ποιέω (G4160)
+**Louw-Nida:**
+- **42.002** — Do, Perform
+- **42.004** — Work, Toil
+
+Other words in 42.002: ἀπόχρησις, δαπανάω, ἐνέργημα, καρπός (G2590), κατεργάζομαι (G2716)
+Other words in 42.004: ἐργάζομαι (G2038), ἐργάτης (G2040), κοπιάω (G2872), ποιέω (G4160)
+
+**UBS Semantic Domains:**
+- **[042]** Perform, Do
 
 ## Translation Distribution (KJV)
 
@@ -134,6 +140,16 @@ From Thayer: *Work, i.e.*
 - **G1755 ἐνέργημα (enérgēma)** — activity, operation (compound noun)
 - **G4903 συνεργέω (synergéō)** — to work together, cooperate (compound with σύν-)
 
+### Synonyms
+- **G5147 τρίβος (tribos)** — path, track
+- **G4161 ποίημα (poiēma)** — thing made, workmanship
+- **G763 ἀσέβεια (asebeia)** — ungodliness
+- **G2999 λατρεία (latreia)** — service, worship
+- **G468 ἀνταπόδομα (antapodoma)** — recompense
+
+### Antonyms
+- No direct antonyms surfaced from `search_relationships.py` for this lemma.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -166,7 +182,16 @@ From Thayer: *Work, i.e.*
 ## See Also
 
 - [WG-doing.md](WG-doing.md) — word group: doing, performing, working
+- [G1344-dikaioo.md](G1344-dikaioo.md)
+- [G1497-eidolon.md](G1497-eidolon.md)
+- [G2570-kalos.md](G2570-kalos.md)
+- [G2647-katalyo.md](G2647-katalyo.md)
+- [G2663-katapausis.md](G2663-katapausis.md)
+- [G4348-proskomma.md](G4348-proskomma.md)
+- [G4655-skotos.md](G4655-skotos.md)
+- [G5281-hupomone.md](G5281-hupomone.md)
+- [G5457-phos.md](G5457-phos.md)
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, louw_nida.db, strongs_translations.db*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, search_strongs.py, louw_nida.db, strongs_translations.db, search_relationships.py*
+*Last updated: 2026-04-27*

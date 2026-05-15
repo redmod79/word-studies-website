@@ -15,12 +15,18 @@
 
 From G2919; a decision (subjectively or objectively, for or against); by extension, a tribunal; by implication, justice (especially divine law): — accusation, condemnation, damnation, judgment.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
+**Louw-Nida:**
 - **Domain 056.001** — Court of Justice: the formal institution or setting of legal adjudication
 - **Domain 056.005** — Judge, Condemn, Acquit: the judicial activity of rendering decisions
 - **Domain 030.007** — To Distinguish, To Evaluate, To Judge: the cognitive and evaluative dimension
 - **Domain 038.001** — Punish: the adverse outcome of judgment
+
+**UBS Semantic Domains:**
+- **[056]** Courts and Legal Procedures
+- **[030]** Think
+- **[038]** Punish, Reward
 
 *Neighboring words in 038.001 (Punish):*
 
@@ -120,6 +126,13 @@ Matt 12:18–20 quotes Isa 42:1–4 (LXX): the Servant will bring κρίσιν (
 - **G2632 κατακρίνω (katakrinō)** — to condemn, render adverse judgment (18 verses)
 - **G2631 κατάκριμα (katakrima)** — condemnation, the damning verdict (3 verses)
 
+### Synonyms
+- **G2917 κρίμα (krima)** — judgment as verdict/result; the closest paired noun returned by `search_relationships.py`
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G2920.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -142,8 +155,18 @@ H4941 mishpâṭ is the dominant source, accounting for the legal/covenantal ric
 
 ## See Also
 
+- [G2917-krima.md](G2917-krima.md) — paired κρίν- family noun: verdict/result alongside process/judgment
+- [G2851-kolasis.md](G2851-kolasis.md) — punishment as the penal outcome attached to judgment
+- [G1067-geenna.md](G1067-geenna.md) — final-judgment outcome vocabulary
+- [G1342-dikaios.md](G1342-dikaios.md) — righteous/just qualifier in judgment contexts
+- [H4941-mishpat.md](H4941-mishpat.md) — primary Hebrew source for κρίσις in the LXX
+- [H8199-shaphat.md](H8199-shaphat.md) — Hebrew root verb "to judge"
+- [H6664-tsedeq.md](H6664-tsedeq.md) — righteousness/justice background term
+- [A1780-diyn.md](A1780-diyn.md) — Aramaic judgment vocabulary
 - [WG-judgment.md](WG-judgment.md) — judgment word group (κρίν- family)
+- [TR-mishpat-krima.md](TR-mishpat-krima.md) — cross-testament trace for mishpat's verdict/judgment field
+- [TR-shaphat-krino.md](TR-shaphat-krino.md) — related trace from the Hebrew root "judge"
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -15,14 +15,19 @@
 
 From πείθω (G3982); persuasion, i.e. credence; moral conviction (of religious truth, or the truthfulness of God or a religious teacher), especially reliance upon Christ for salvation; abstractly, constancy in such profession; by extension, the system of religious (Gospel) truth itself.
 
-## Louw-Nida Semantic Domains
+## Semantic Domains
 
+**Louw-Nida:**
 - **31.006** — Believe To Be True: "what can be fully believed; believable evidence"
 - **31.009** — Trust, Rely: trusting reliance on a person or thing
 - **31.010** — Be a Believer, Christian Faith: the content and practice of Christian belief
 - **33.025** — Promise: that which is pledged or promised
 
 Other words in domain 31 (Believe/Trust): πιστεύω (G4100), πιστός (G4103), πληροφορία (G4136), πείθω (G3982), ἀπιστία (G570), ἄπιστος (G571), ὀλιγόπιστος (G3640)
+
+**UBS Semantic Domains:**
+- **[031]** Hold a View, Believe, Trust
+- **[033]** Communication
 
 ## Translation Distribution (KJV)
 
@@ -137,6 +142,22 @@ Extraordinary faith as a specific charism.
 - **G571 ἄπιστος (apistos)** — adjective: unbelieving, faithless (23x)
 - **G3640 ὀλιγόπιστος (oligopistos)** — adjective: of little faith (5x)
 
+### Synonyms
+- **G1342 δίκαιος (dikaios)** — righteous, just
+- **G1343 δικαιοσύνη (dikaiosynē)** — righteousness
+- **G4991 σωτηρία (sōtēria)** — salvation, deliverance
+- **G1656 ἔλεος (eleos)** — mercy, compassion
+- **G5046 τέλειος (teleios)** — perfect, complete
+- **G19 ἀγαθωσύνη (agathōsynē)** — goodness
+- **G3809 παιδεία (paideia)** — instruction, discipline
+
+### Antonyms
+- **G570 ἀπιστία (apistia)** — unbelief (morphological negation; direct antonym)
+- **G571 ἄπιστος (apistos)** — unbelieving, faithless (alpha-privative of pistos)
+- **G94 ἄδικος (adikos)** — unjust, unrighteous
+- **G5579 ψεῦδος (pseudos)** — lie, falsehood
+- **G150 αἰσχρός (aischros)** — shameful, base
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -144,7 +165,6 @@ Extraordinary faith as a specific charism.
 | πιστός (pistos) | G4103 | both "faith" in KJV | pistos is an adjective (faithful/trustworthy); pistis is the noun (faith/trust) |
 | πιστεύω (pisteuō) | G4100 | both "believe" in KJV | pisteuō is the verb (to believe); pistis is the state/act as noun |
 | ἐλπίς (elpis) | G1680 | both in "faith" contexts | elpis = hope (future expectation); pistis = faith (present trust) |
-| ἀπιστία (apistia) | G570 | antonym pair | apistia = unbelief; direct negation of pistis |
 
 ## Hebrew Source
 
@@ -161,5 +181,5 @@ Key distinction: H530 emunah in OT emphasizes God's faithfulness (objective reli
 - [WG-law](WG-law.md) — related word group (pistis as alternative to nomos)
 
 ---
-*Generated from: search_strongs.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-03-31*
+*Generated from: search_strongs.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

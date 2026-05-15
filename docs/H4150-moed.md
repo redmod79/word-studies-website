@@ -126,6 +126,14 @@ Mo'ed in contexts of judgment and loss, where appointed meetings have been cut o
 - **H4152 מוּעָדָה (mu'adah)** — feminine variant: appointed (1x)
 - **H5712 עֵדָה (edah)** — related root: congregation, assembly (149x)
 
+### Synonyms
+
+No synonyms were returned by `search_relationships.py` for H4150.
+
+### Antonyms
+
+No antonyms were returned by `search_relationships.py` for H4150.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -148,11 +156,21 @@ Mo'ed in contexts of judgment and loss, where appointed meetings have been cut o
 
 The LXX notably reinterprets the dominant "ohel mo'ed" phrase: where Hebrew says "tent of meeting/appointment," the LXX renders "tent of testimony" (σκηνή τοῦ μαρτυρίου), shifting from the concept of divine appointment to divine witness.
 
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002003002013] Gather** — places *mo'ed* in an assembly/ingathering field with neighbors such as **H103 אגר**, **H614 אָסִיף**, **H622 אסף**, **H625 אֹסֶף**, **H626 אֲסֵפָה**, and **H627 אֲסֻפָּה**.
+- **[001002007004] Groups** — aligns the term with corporate gathering vocabulary, including **H1 אָב**, **H102 אֲגַף**, **H168/H169 אֹהֶל**, **H336 אִי**, and **H337 אִי**.
+- **[002002001017] Space** — reflects *mo'ed* as an appointed place, alongside **A638 אַף**, **H637/H639 אַף**, **A870 אֲתַר**, **H935 בוא**, and **A997 בַּיִן**.
+- **[001002009009] Tents** — captures the tabernacle-side usage, with neighbors such as **H168/H169 אֹהֶל**, **H643 אַפֶּדֶן**, **H1755/H1756 דֹּור**, and **H2053 וָו**.
+- **[002002002010] Time** — reflects *mo'ed* as an appointed season, with neighbors such as **H268 אָחֹור**, **A521/H520/H522 אַמָּה**, **H570 אֶמֶשׁ**, and **H605 אנשׁ**.
+- **[002002002011] Festivals** — indexes the feast-calendar sense with neighbors such as **H1974 הִלּוּלִים**, **H2282 חַג**, **H2287 חגג**, **H2320/H2321 חֹדֶשׁ**, and **A3735 כרה**.
+
 ## See Also
 
 - [WG-appointed-meeting.md](WG-appointed-meeting.md) — word group: appointed meeting concept
 - [TR-moed-heorte.md](TR-moed-heorte.md) — cross-testament trace: mo'ed → ἑορτή
 
 ---
-*Generated from: search_strongs.py, hebrew_parser.py, lxx-map*
-*Last updated: 2026-03-31*
+*Generated from: search_strongs.py, hebrew_parser.py, lxx-map, search_relationships.py*
+*Last updated: 2026-04-27*

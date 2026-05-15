@@ -150,6 +150,14 @@ Highest density in narrative-heavy prophetic books (Zechariah, Ezekiel) and hist
 - **H1934 הָוָא (hava')** — Aramaic cognate "to be, become, come to pass" (69x in Daniel/Ezra)
 - **H3068 יְהֹוָה (Yehovah)** — The divine name YHWH, derived from the root h-w-h/h-y-h
 
+### Synonyms
+
+No synonym entries were returned by `search_relationships.py` for H1961.
+
+### Antonyms
+
+No antonym entries were returned by `search_relationships.py` for H1961.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -171,6 +179,10 @@ Highest density in narrative-heavy prophetic books (Zechariah, Ezekiel) and hist
 
 The split between ginomai and eimi in the LXX reflects hayah's dual semantic range: ginomai captures the dynamic sense (becoming, happening, coming to pass), while eimi captures the stative sense (being, existing). Hebrew does not lexically distinguish these; a single root covers both.
 
+## Semantic Domains
+
+No semantic-domain data was returned by `search_relationships.py` for H1961.
+
 ## See Also
 
 - [TR-hayah-ginomai.md](TR-hayah-ginomai.md) — cross-testament trace (dynamic sense: becoming/happening)
@@ -179,5 +191,5 @@ The split between ginomai and eimi in the LXX reflects hayah's dual semantic ran
 - [WG-becoming.md](WG-becoming.md) — word group
 
 ---
-*Generated from: gather_word_data.py, hebrew_parser.py, search_strongs.py --lxx-map*
-*Last updated: 2026-04-09*
+*Generated from: gather_word_data.py, hebrew_parser.py, search_strongs.py --lxx-map, search_relationships.py*
+*Last updated: 2026-04-27*

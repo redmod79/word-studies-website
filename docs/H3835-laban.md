@@ -86,11 +86,29 @@ Joel's use is literal: fire or locusts stripping bark from branches leaves them 
 - **H3843 לְבֵנָה (lebênâh)** — noun "brick" (10 vv): the concrete object from which the Qal brick-making sense derives; appears as a direct collocation with H3835 in Babel and Exodus contexts
 - **H3839 לִבְנֶה (libneh)** — noun "white poplar tree" (2 vv; Gen 30:37; Hos 4:13): another denominative from the same white-root
 
+### Synonyms
+- **[H1305 בָּרַר (bârar)](H1305-barar.md)** — purify, refine; overlaps with *lâban* in Daniel's purification sequence.
+- **[H2891 טָהֵר (ṭâhêr)](H2891-taher.md)** — be clean, cleanse; overlaps in cleansing and whitening contexts.
+- **[H6884 צָרַף (tsaraph)](H6884-tsaraph.md)** — refine, smelt, test; close parallel where whitening is part of a refining process.
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for H3835.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
 |------|----------|--------------------|----------------|
 | לָבָן (lâbân) | H3836 | both translated "white" | H3836 is the adjective (state of whiteness); H3835 is the verb (action of whitening or making bricks). H3836 dominates in Leviticus and Zechariah; H3835 appears in the prophetic/purification contexts |
+
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 002001001015 | Color | Covers the literal whitening sense of the verb. |
+| 002003003015 | Innocent | Fits moral purification texts where whiteness signifies cleanness. |
+| 002001003014 | Right | Tracks the ethical rectitude implied in "made white" purification contexts. |
+| 002002002005 | Exist | Reflects the stative side of the verb, "be white / become white." |
 
 ## LXX Mapping
 
@@ -105,5 +123,5 @@ Joel's use is literal: fire or locusts stripping bark from branches leaves them 
 - [WG-white.md](WG-white.md) — NT white vocabulary cluster; includes G3021 λευκαίνω, the LXX bridge word for this verb
 
 ---
-*Generated from: gather_word_data.py, hebrew_parser.py, search_strongs.py --lexicon*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, hebrew_parser.py, search_strongs.py --lexicon, search_relationships.py*
+*Last updated: 2026-04-27*

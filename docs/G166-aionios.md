@@ -15,13 +15,15 @@
 
 From G165 (aion); perpetual (also used of past time, or past and future as well).
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Domain:** 67 — Time
-- **Subdomain:** 67.005 — Duration of Time without Reference to Points or Units of Time: Time, Spend Time, Always, Eternal, Old, Immediately, Young
-- **Also in:** 67.006 — Duration of Time with Reference to Some Point of Time: Until, Delay, Still, From
-- **Glosses:** eternal, since all time, from all ages past
+**Louw-Nida:**
+- **67.005** — Duration of Time without Reference to Points or Units of Time: eternal, everlasting
+- **67.006** — Duration of Time with Reference to Some Point of Time: from long past / until
 - **Key domain neighbors:** G165 αἰών (age/era), G126 ἀΐδιος (eternal/everduring), G1336 διηνεκής (always/forever), G3842 πάντοτε (always/at all times), G5550 χρόνος (time/period), G2540 καιρός (time/occasion)
+
+**UBS Semantic Domains:**
+- **[067]** Time
 
 ## Translation Distribution (KJV)
 
@@ -124,6 +126,13 @@ Pointing backward to God's purpose before time, or forward without limit.
 ### Word Family / Cognates
 - **G165 αἰών (aion)** — noun: an age, era; "for ever" (eis ton aiona); root from which aionios derives. 128 occurrences.
 
+### Synonyms
+- **G126 ἀΐδιος (aidios)** — eternal, everlasting; the closest NT adjective of unending duration
+- **G165 αἰών (aion)** — age, eternity; the root noun underlying aionios and its temporal field
+
+### Antonyms
+No direct antonyms were identified by `search_relationships.py`.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -152,7 +161,9 @@ H5769 olam is the overwhelmingly dominant Hebrew source (100 co-occurrences, PMI
 - [WG-forever.md](WG-forever.md) — word group: forever/eternal concept cluster
 - [WG-life.md](WG-life.md) — word group: life concept cluster
 - [G2222-zoe.md](G2222-zoe.md) — zoe ("life"), the primary collocate in "eternal life"
+- [G2851-kolasis.md](G2851-kolasis.md) — punishment; key collocate in "everlasting punishment"
+- [G3639-olethros.md](G3639-olethros.md) — destruction; key collocate in "everlasting destruction"
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, louw_nida.db*
-*Last updated: 2026-04-13*
+*Generated from: gather_word_data.py, search_strongs.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -129,6 +129,15 @@ Poets and prophets use *ʻereb* for foreboding — "evening wolves" prowl at the
 - **H6150 עָרַב (ʻârab)** — root verb: to grow dusky, to become evening (3 occ.)
 - **H6154 עֵרֶב (ʻêreb)** — homophone only: *woof/weft* of a fabric (15 occ.) — unrelated meaning, shares only consonantal spelling
 
+### Synonyms
+- **H1242 בֹּקֶר (boqer)** — morning; the standard paired temporal counterpart in the formula "evening and morning."
+- **H3915 לַיְלָה (laylah)** — night; the broader darkness period that follows evening.
+- **H5399 נֶשֶׁף (nesheph)** — twilight; an overlapping boundary-time term for dusk or dawn.
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for H6153.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -136,6 +145,12 @@ Poets and prophets use *ʻereb* for foreboding — "evening wolves" prowl at the
 | ὄψιος (ópsios) | G3798 | "the even / evening / eventide" | NT Greek word for "late / toward evening" — semantic equivalent but different language and testament |
 | ὀψέ (opsé) | G3796 | "at even" | NT adverb: "late / at the close of day" — used once at Matt 28:1 |
 | לַיִל (layil) | H3915 | occasionally rendered "night" | layil = full night (darkness period); ʻereb = onset of dusk only |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002002002010] Time** — the primary field for *ʻereb* as a temporal boundary marking the close and opening of the daily cycle.
+- **[001002007001] Classes** — a broad classifier bucket returned by the tool; much less specific than the core time domain, but retained for completeness.
 
 ## LXX Mapping
 
@@ -151,7 +166,12 @@ Poets and prophets use *ʻereb* for foreboding — "evening wolves" prowl at the
 ## See Also
 
 - [TR-ereb-hespera.md](TR-ereb-hespera.md) — cross-testament trace: Hebrew ʻereb → LXX/NT ἑσπέρα
+- [H1242-boqer.md](H1242-boqer.md) — morning, the standard paired counterpart in "evening and morning"
+- [H2930-tame.md](H2930-tame.md) — unclean, in the recurring formula "unclean until the even"
+- [H5060-naga.md](H5060-naga.md) — touch, a common trigger of evening-bounded impurity
+- [G169-akathartos.md](G169-akathartos.md) — Greek "unclean," linked through the impurity field that often terminates at evening
+- [H1403-gabriyel.md](H1403-gabriyel.md) — Gabriel, another Daniel-linked study cross-referencing *ʻereb-boqer*
 
 ---
-*Generated from: gather_word_data.py, gather_trace_data.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, gather_trace_data.py, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -23,6 +23,10 @@ The form ταρταρώσας (aorist active participle, nominative singular mas
 - **Parent Domain:** 001 — Geographical Objects and Features
 - **Other words in domain:** ἄβυσσος (G12), ᾅδης (G86), βάθος (G899), γέεννα (G1067), ἐξώτερος (G1857), ζόφος (G2217), καταχθόνιος (G2709), λίμνη (G3041), σκότος (G4655)
 
+### UBS Semantic Domains (search_relationships.py)
+
+- **[001] Geographical Objects and Features** — the broader semantic bucket that includes abyss / underworld location language.
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -49,6 +53,10 @@ The sole usage describes God's judicial act of casting fallen angels into the de
 
 The aorist participle ταρταρώσας treats this as a completed historical act. The accompanying phrase "chains of darkness" (σειραῖς ζόφου) emphasizes confinement and sensory deprivation. The purpose clause "reserved unto judgment" indicates an intermediate state pending final sentence, not the final punishment itself.
 
+## Common Collocations
+
+No stable collocation profile can be established from a hapax legomenon. `gather_word_data.py` returned no repeatable content-word collocations because G5020 appears in only one verse (2 Pet 2:4).
+
 ## Domain Neighbors (Louw-Nida 001003)
 
 | Strong's | Lemma | Total vv | Primary KJV Translation |
@@ -68,6 +76,14 @@ The aorist participle ταρταρώσας treats this as a completed historical
 ### Word Family / Root
 - **Τάρταρος** — Greek cosmological term (not in NT/LXX) for the lowest abyss beneath Hades, borrowed from Greek mythology (Homer, Hesiod). Peter uses the derived verb to invoke this familiar underworld geography for Jewish-Greek audiences.
 
+### Synonyms
+
+No direct synonym surfaced in `search_relationships.py` for this NT hapax.
+
+### Antonyms
+
+No antonym surfaced in `search_relationships.py`.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -80,6 +96,12 @@ The aorist participle ταρταρώσας treats this as a completed historical
 
 No Hebrew source identified. G5020 has no LXX usage — this is a NT-only coinages with no Hebrew/Aramaic counterpart in biblical literature. The concept of a layered underworld with a deepest pit appears in intertestamental Jewish literature (1 Enoch 10:4–6 imprisons Azazel in a pit) but not in OT Hebrew vocabulary.
 
+## See Also
+
+- [G1067-geenna.md](G1067-geenna.md) — γέεννα, the final-judgment "hell" term most often contrasted with tartaroo
+- [G2217-zophos.md](G2217-zophos.md) — ζόφος, the "darkness/blackness" paired with the imprisonment scene
+- [G4655-skotos.md](G4655-skotos.md) — σκότος, the wider darkness vocabulary in the same domain
+
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-28*

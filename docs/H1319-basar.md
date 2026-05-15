@@ -114,6 +114,14 @@ The nations themselves join in the proclamation — the good news extends beyond
 - **H1309 בְּשׂוֹרָה (besorah)** — feminine noun: glad tidings, reward for good news (6 occurrences, all in 2 Samuel and 2 Kings 7:9). Formed from the same root.
 - **H1320 בָּשָׂר (basar)** — masculine noun: flesh, body, kin. Same consonantal root but semantically distinct (the connection is through the primitive sense of "freshness/vitality").
 
+### Synonyms
+- **H5046 נָגַד (nagad)** — declare, announce, make known; overlaps with *bâsar* in the act of publicly reporting news.
+- **H8085 שָׁמַע (shamaʻ)** — hear, report, proclaim; surfaced by `search_relationships.py` as a close communication-field neighbor.
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for H1319.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -121,6 +129,12 @@ The nations themselves join in the proclamation — the good news extends beyond
 | דָּבָר (dabar) | H1697 | "tidings" (2x) | General word/matter; basar specifically denotes news delivery by a herald |
 | שְׁמוּעָה (shemu'ah) | H8052 | "tidings" (2x) | A report/rumor that is heard; basar emphasizes the active proclamation, not passive reception |
 | H1309 בְּשׂוֹרָה (besorah) | H1309 | "tidings" (3x) | The noun form (the news itself or the reward for it); basar is the verb (the act of announcing) |
+
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 002004001009008 | Speak | `search_relationships.py` places *bâsar* within the proclamation/speaking field, fitting its heraldic "announce good news" profile. |
 
 ## LXX Mapping
 
@@ -139,5 +153,5 @@ The LXX consistently renders basar as euangelizo (G2097) — the verb that becom
 - [WG-gospel.md](WG-gospel.md) — word group: gospel proclamation concept cluster
 
 ---
-*Generated from: gather_word_data.py, hebrew_parser.py, search_strongs.py*
-*Last updated: 2026-04-13*
+*Generated from: gather_word_data.py, hebrew_parser.py, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

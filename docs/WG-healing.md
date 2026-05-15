@@ -8,7 +8,7 @@ The healing concept in the Greek NT involves 8 words spanning two word families 
 | Strong's | Word | Transliteration | POS | Occurrences | Role in Concept | Library Entry |
 |----------|------|-----------------|-----|-------------|-----------------|---------------|
 | G2323 | θεραπεύω | therapeuo | verb | 43 | The primary healing verb (heal, cure, attend to) | [G2323](G2323-therapeuo.md) |
-| G2390 | ἰάομαι | iaomai | verb | 28 | Near-synonym healing verb (cure, make whole) | TODO(need G2390 study) |
+| G2390 | ἰάομαι | iaomai | verb | 28 | Near-synonym healing verb (cure, make whole) | [G2390](G2390-iaomai.md) |
 | G2511 | καθαρίζω | katharizo | verb | 29 | Cleansing — often paired with healing (lepers) | [G2511](G2511-katharizo.md) |
 | G2395 | ἰατρός | iatros | noun | 7 | The healer (physician) | TODO(need G2395 study) |
 | G2322 | θεραπεία | therapeia | noun | 4 | Service / household; healing (the activity) | TODO(need G2322 study) |

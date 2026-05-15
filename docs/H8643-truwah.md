@@ -113,6 +113,14 @@ Distributed across 14 books. Concentrated in Pentateuch/historical narratives (N
 ### Word Family / Cognates
 - **H7321 רוּעַ (ruwa)** — root verb: to shout, raise a cry, give a blast (46 occurrences)
 
+### Synonyms
+
+*No synonyms returned by `search_relationships.py` for H8643.*
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for H8643.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -120,6 +128,12 @@ Distributed across 14 books. Concentrated in Pentateuch/historical narratives (N
 | רוּעַ (ruwa) | H7321 | "shout" | Verb form of the same root; ruwa is the action, teruah is the resulting sound/cry |
 | קוֹל (qol) | H6963 | "noise," "sound" | General word for voice/sound (506x); teruah is a specific type of loud cry or blast |
 | הֵידָד (heydad) | H1959 | "shouting" | Rare (7x); a harvest or vintage shout; teruah covers military, cultic, and joyful contexts |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002004001009007] Sounds** — places *tᵉrûwʻâh* in the broader field of striking or audible sounds, fitting its trumpet-blast and alarm uses.
+- **[002004001009005] Shout** — identifies the narrower human-cry/acclamation field, matching teruah's victory and worship-shout uses.
 
 ## LXX Mapping
 
@@ -136,9 +150,12 @@ The LXX splits teruah's two primary senses: σάλπιγξ for the trumpet-blast
 ## See Also
 
 - [H7782-showphar.md](H7782-showphar.md) — shofar, the instrument most associated with teruah
+- [G4536-salpinx.md](G4536-salpinx.md) — Greek trumpet/blast term most often aligned with teruah
+- [G4591-semaino.md](G4591-semaino.md) — signal/give a sign, reflecting teruah's alarm function in the LXX
+- [H5927-alah.md](H5927-alah.md) — ascent/processional vocabulary linked where teruah accompanies going up
 - [TR-showphar-salpinx.md](TR-showphar-salpinx.md) — cross-testament trace: shofar to salpinx
 - [WG-trumpet.md](WG-trumpet.md) — word group: Greek trumpet family (salpinx/salpizo/salpistes)
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, kjv.txt*
-*Last updated: 2026-04-15*
+*Generated from: gather_word_data.py, search_strongs.py, kjv.txt, search_relationships.py*
+*Last updated: 2026-04-27*

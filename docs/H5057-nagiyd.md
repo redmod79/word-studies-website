@@ -112,6 +112,14 @@ Two uses where nâgîyd conveys nobility of bearing or excellence of speech — 
 ### Word Family
 - **H5046 נָגַד (nâgad)** — root verb: to stand boldly in front, to be conspicuous; to declare, announce. The nâgîyd is literally "the one who stands out in front" — visible, conspicuous, publicly designated.
 
+### Synonyms
+- **H4428 מֶלֶךְ (melek)** — king; a close leadership-term parallel where *nâgîyd* overlaps royal office, though *melek* emphasizes the reigning monarch rather than the designated leader.
+- **H4339 מֵישָׁר (mêyshâr)** — uprightness, rightness, equity; a contextual neighbor for Prov 8:6, where plural *nᵉgîdîm* carries the abstract sense of noble or excellent things.
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for H5057.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -119,6 +127,13 @@ Two uses where nâgîyd conveys nobility of bearing or excellence of speech — 
 | שַׂר (sar) | H8269 | ruler, captain, prince | sar = head official at any rank in a human hierarchy; nâgîyd = one divinely designated/conspicuously placed. sar is ~420 verses; nâgîyd is 44. |
 | נָשִׂיא (nâsîyʼ) | H5387 | captain, prince | nâsîyʼ = exalted/lifted one; emphasizes status/elevation; used for tribal chieftains and elected leaders. nâgîyd emphasizes divine designation and forward-standing. |
 | מֶלֶךְ (melek) | H4428 | king | melek = reigning monarch; nâgîyd = designated/appointed leader, often *before* or *alongside* coronation (1Ch 29:22 — made Solomon king and nâgîyd simultaneously). |
+
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 001002007005 | Leaders | `search_relationships.py` clusters *nâgîyd* with leadership vocabulary, matching its dominant use for rulers, captains, and temple overseers. |
+| 002001003014 | Right | The tool also tags *nâgîyd* with the "Right" domain, fitting the abstract Proverbs 8:6 usage where plural *nᵉgîdîm* denotes noble or excellent things. |
 
 ## LXX Mapping
 
@@ -130,8 +145,11 @@ Two uses where nâgîyd conveys nobility of bearing or excellence of speech — 
 ## See Also
 
 - [TR-nagiyd-hegeomai.md](TR-nagiyd-hegeomai.md) — cross-testament trace: nâgîyd → ἡγούμενος in LXX → Matt 2:6 + Heb 13 in NT
+- [H8269-sar.md](H8269-sar.md) — prince/captain/ruler; the broader Hebrew leadership term most often contrasted with *nâgîyd*
+- [H4899-mashiyach.md](H4899-mashiyach.md) — anointed one; paired with *nâgîyd* in Dan 9:25 as "Messiah the Prince"
 - [WG-ruler.md](WG-ruler.md) — word group: Hebrew leadership terms (nâgîyd, sar, nâsîyʼ, mâshal, qâtsîyn)
+- [WG-anointed.md](WG-anointed.md) — word group linking priest, king, messiah, and prince/anointed leadership vocabulary
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, kjv.txt*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, search_strongs.py, kjv.txt, search_relationships.py*
+*Last updated: 2026-04-27*

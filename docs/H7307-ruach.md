@@ -141,6 +141,12 @@ Spatial orientation — sides of a structure, quarters of heaven.
 - **H7308 רוּחַ (ruach)** — Aramaic form; 11 occurrences in Daniel/Ezra
 - **H7309 רְוָחָה (revachah)** — relief, respite, breathing space
 
+### Synonyms
+- **H5397 נְשָׁמָה (neshamah)** — breath of life; the closest Hebrew neighbor when *ruach* denotes animating breath rather than wind, disposition, or divine Spirit.
+
+### Antonyms
+- **H1320 בָּשָׂר (basar)** — flesh; the anthropological counterterm in passages contrasting mortal/material humanity with spirit.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -149,6 +155,22 @@ Spatial orientation — sides of a structure, quarters of heaven.
 | נְשָׁמָה (neshamah) | H5397 | "spirit" (2×), "breath" (17×) | neshamah = breath of life from God (Gen 2:7); ruach = broader: wind, spirit, disposition |
 | נֶפֶשׁ (nephesh) | H5315 | rarely overlaps | nephesh = living being, soul, appetite; ruach = spirit, wind, breath |
 | רוּחַ (ruach) Aramaic | H7308 | "spirit," "wind" | Same word in Aramaic; confined to Daniel and Ezra |
+
+## UBS Semantic Domains
+
+`search_relationships.py` assigns *ruach* to an unusually broad spread of relationship domains, reflecting its range from literal wind/breath to divine Spirit, human disposition, and directional usage.
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 001001001 | Deities | Covers uses where *ruach* names God's Spirit or the spirit world. |
+| 001002007 | People | Captures human-spirit and inner-disposition usages. |
+| 001002010001 | Air | Fits literal wind, air, and breath contexts. |
+| 002002001002 | Blow | Overlaps the physical blowing/breathing sense. |
+| 002004001009008 | Speak | Fits inspiration, utterance, and inward-expression uses. |
+| 002003002005 | Chastise | Reflects disciplinary or judgment contexts carried by *ruach* imagery. |
+| 002002003002 | Non-Endure | Captures transient, short-lived, or failing-spirit usage. |
+| 002003003013 | Fail | Fits fainting, vexation, or collapse-of-spirit extensions. |
+| 003002005 | Spatial Referents | Covers quarter/side/wind-direction uses. |
 
 ## LXX Mapping
 
@@ -164,8 +186,12 @@ Spatial orientation — sides of a structure, quarters of heaven.
 
 - [TR-ruach-pneuma.md](TR-ruach-pneuma.md) — cross-testament trace
 - [G4151-pneuma.md](G4151-pneuma.md) — NT Greek equivalent
+- [H5397-nshamah.md](H5397-nshamah.md) — closest Hebrew breath/life counterpart
+- [H1320-basar.md](H1320-basar.md) — flesh, the most important anthropological contrast-term
+- [H3820-leb.md](H3820-leb.md) — heart/mind vocabulary often paired with *ruach* in inner-life contexts
+- [G5590-psyche.md](G5590-psyche.md) — Greek soul/life term overlapping parts of *ruach*'s human-life range
 - [WG-spirit.md](WG-spirit.md) — word group (NT-focused)
 
 ---
-*Generated from: search_strongs.py, kjv.txt, co-occurrence queries*
-*Last updated: 2026-03-31*
+*Generated from: search_strongs.py, kjv.txt, co-occurrence queries, search_relationships.py*
+*Last updated: 2026-04-27*

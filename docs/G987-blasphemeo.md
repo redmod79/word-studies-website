@@ -22,6 +22,10 @@ To vilify; specially, to speak impiously. KJV: (speak) blaspheme(-er, -mously, -
 - **Glosses:** to revile, to defame, to blaspheme
 - **Other words in subdomain:** βλασφημία (G988), βλάσφημος (G989), διάβολος (G1228), δυσφημέω (G987a), κακολογέω (G2551), καταλαλέω (G2635), λοιδορέω (G3058), ὀνειδίζω (G3679), ὑβρίζω (G5195)
 
+## UBS Semantic Domains
+
+- **[033] Communication** — `search_relationships.py` keeps **βλασφημέω** in the speech/defamation field, emphasizing verbal attack rather than a ritual or material category.
+
 ## Verb Form Distribution
 
 | Tense-Voice | Count | Forms |
@@ -131,6 +135,12 @@ Highest density in the General Epistles (2 Peter, 1 Peter, James, Jude) and Past
 - **G989 βλάσφημος (blasphēmos)** — adjective: blasphemous, slanderous, railing (5 occurrences)
 - **G987a δυσφημέω (dysphēmeō)** — to defame (1 Cor 4:13, "being defamed")
 
+### Synonyms
+*No direct synonyms were returned by `search_relationships.py` for G987.*
+
+### Antonyms
+*No antonyms were returned by `search_relationships.py` for G987.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -167,11 +177,12 @@ No dominant Hebrew equivalent. The LXX uses βλασφημέω to render several
 - [G1228-diabolos.md](G1228-diabolos.md) — the slanderer/accuser; same Louw-Nida subdomain
 - [G1391-doxa.md](G1391-doxa.md) — "dignities/glories" that are objects of blasphemy in 2 Pet/Jude
 - [G2342-therion.md](G2342-therion.md) — the beast of Revelation whose key activity is blasphemy
+- [G5464-chalaza.md](G5464-chalaza.md) — hail; Rev 16:21 pairs divine hail judgment with human blaspheming
 - [WG-beast.md](WG-beast.md) — word group for the apocalyptic beast
 - [WG-blasphemy.md](WG-blasphemy.md) — word group for blasphemy/reviling/slander concept cluster
 - [G988-blasphemia.md](G988-blasphemia.md) — cognate noun: blasphemy
 - [G989-blasphemos.md](G989-blasphemos.md) — cognate adjective: blasphemous
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-10*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

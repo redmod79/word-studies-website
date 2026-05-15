@@ -37,6 +37,10 @@ The consistent perfect passive signals: the inscription *has been made* by anoth
 - **Broader Domain:** 33 — Communication
 - **Other words in subdomain:** ἀναγινώσκω (G0314, read), γράφω (G1125, write), γραφή (G1124, scripture), βιβλίον (G0975, book), γράμμα (G1121, letter/writing), γραπτός (G1123, written)
 
+## UBS Semantic Domains
+
+- **[033] Communication** — `search_relationships.py` keeps **ἐγγράφω** in the written-language / communication field, fitting acts of inscription and written record.
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -88,6 +92,14 @@ The morphological tradition attributes ἐνγέγραπται in Luke 10:20 to 
 - **G1121 γράμμα (grámma)** — letter, writing, bill (6 verses)
 - **G1123 γραπτός (graptós)** — adjective: written (1 verse — Rom 2:15, "the work of the law written in their hearts")
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G1449.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G1449.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -103,8 +115,8 @@ No LXX precedent identified — ἐγγράφω does not appear as a standard LX
 ## See Also
 
 - [WG-writing.md](WG-writing.md) — word group: writing, scripture, inscription
-- [G1125-grapho.md](G1125-grapho.md) — root verb γράφω (if exists)
+- [G1125-grapho.md](G1125-grapho.md) — root verb γράφω
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, search_relationships.py*
+*Last updated: 2026-04-27*

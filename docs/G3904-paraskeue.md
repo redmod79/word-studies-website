@@ -21,6 +21,12 @@ From παρασκευάζω (G3903); readiness, preparation. In the NT used excl
 - **Subdomain:** 067.10 — Units of Time with Reference to Other Units or Points of Time
 - **Other words in subdomain:** αὔριον (G839, tomorrow), ἐπαύριον (G1887, next day), σήμερον (G4594, today), προσάββατον (G4315, day before the sabbath)
 
+## UBS Semantic Domains
+
+- **[067]** Time
+
+*The UBS coding keeps παρασκευή in a calendrical/time-reference domain rather than treating it as a general preparation word.*
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -72,6 +78,14 @@ John uses παρασκευή three times, each in the Passover context, stressin
 ### Word Family / Cognates
 - **G3903 παρασκευάζω (paraskeuázō)** — root verb: to furnish aside, to get ready (4x: Acts 10:10; 1 Cor 14:8; 2 Cor 9:2)
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G3904.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G3904.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -90,5 +104,5 @@ No LXX bridge. παρασκευή does not occur in the LXX as a rendering of a 
 - [TR-shabbath-sabbaton.md](TR-shabbath-sabbaton.md) — cross-testament trace: shabbath → sabbaton
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

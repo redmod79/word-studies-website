@@ -114,6 +114,14 @@ The literal "hanging free" sense: bowstrings, animal cords, restraining ropes.
 ### Word Family / Cognates
 - **H3498 יָתַר (yathar)** — root verb: to jut over, exceed; to remain, be left over; to cause to abound. Translated "the rest" 8x, "remain" many times.
 
+### Synonyms
+
+`search_relationships.py` surfaced only **H3503 Yithrow / Jethro** as a same-root neighbor, not a separate common-noun equivalent. No discrete synonym list was returned for H3499 beyond that root-related proper name.
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for H3499.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -122,6 +130,17 @@ The literal "hanging free" sense: bowstrings, animal cords, restraining ropes.
 | שְׁאָר (shear) | H7605 | "rest," "remnant," "other," "residue" | More focused on persons or groups surviving judgment; used in prophetic restoration contexts |
 | שְׁאֵרִית (shearith) | H7611 | "remnant," "residue," "rest" | Feminine noun; the theologically loaded "remnant of Israel" in the writing prophets (66 uses, predominantly Jeremiah/Ezekiel) |
 | מְנוּחָה (menuchah) | H4496 | "rest" | Menuchah = rest as repose/cessation; no lexical overlap with yether's surplus sense |
+
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 002002001015 | Remain | Primary remainder/residue field, matching the dominant "rest / remnant" usage. |
+| 001002008001004 | Cords | Captures the literal rope/string sense in Samson and Psalms passages. |
+| 002001002012 | Great | Covers the "excellency / exceeding" sense in Gen 49:3 and Dan 8:9. |
+| 002001003019 | Well | Secondary positive/excess field, fitting usages of superiority, plenty, or advantageous surplus. |
+
+`search_relationships.py` returned a broader semantic cloud because *yether* spans residue, superiority, and cord senses. The rows above are the clearest matches to the categories already established in this study.
 
 ## LXX Mapping
 
@@ -139,5 +158,5 @@ The literal "hanging free" sense: bowstrings, animal cords, restraining ropes.
 - [WG-remnant.md](WG-remnant.md) — word group: yether, yathar, sha'ar, she'ar, she'erith
 
 ---
-*Generated from: gather_word_data.py, kjv.txt, search_strongs.py --lexicon*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, kjv.txt, search_strongs.py --lexicon, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -10,8 +10,8 @@ The NT grace concept clusters around χάρις (cháris) and its cognates, all 
 |----------|------|-----------------|-----|-------------|-----------------|---------------|
 | G5485 | χάρις | cháris | feminine noun | 147 | The divine attribute: unmerited favor, saving grace, thanks | [G5485-charis.md](G5485-charis.md) |
 | G5486 | χάρισμα | chárisma | neuter noun | 17 | The gift: specific grace-endowment or spiritual gift | TODO(need G5486 study) |
-| G5483 | χαρίζομαι | charízomai | verb | 19 | The act: to give freely, forgive, grant as favor | TODO(need G5483 study) |
-| G5479 | χαρά | chará | feminine noun | 57 | The emotion: joy, gladness produced by grace | TODO(need G5479 study) |
+| G5483 | χαρίζομαι | charízomai | verb | 19 | The act: to give freely, forgive, grant as favor | [G5483](G5483-charizomai.md) |
+| G5479 | χαρά | chará | feminine noun | 57 | The emotion: joy, gladness produced by grace | [G5479](G5479-chara.md) |
 | G1515 | εἰρήνη | eirḗnē | feminine noun | 86 | The fruit: peace — paired with charis in the opening formula | TODO(need G1515 study) |
 | G4102 | πίστις | pístis | feminine noun | 228 | The instrument: faith — grace appropriated through faith | [G4102-pistis.md](G4102-pistis.md) |
 

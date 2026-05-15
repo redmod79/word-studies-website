@@ -22,11 +22,16 @@ From G2919 (κρίνω); a decision (the function or the effect, for or against)
 KJV renders: *judgment, damnation, condemnation, go to law, condemned.*
 LXX uses κρίμα very often for H4941 מִשְׁפָּט (mishpat).
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
+**Louw-Nida:**
 - **Domain:** 56 — Courts and Legal Procedures
 - **Subdomains:** 56.02 (Lawsuit, Case) · 56.05 (Judge, Condemn, Acquit) · 30.07 (To Evaluate, To Judge)
 - **Domain neighbors (56.02):** κριτήριον G2922 (tribunal/judgment seat, 3v), πρᾶγμα G4229 (matter/thing, 6v)
+
+**UBS Semantic Domains:**
+- **[056]** Courts and Legal Procedures
+- **[030]** Think
 
 ## Translation Distribution (KJV)
 
@@ -127,6 +132,18 @@ The idiomatic phrase "receive judgment/condemnation," used especially for those 
 - **G2631 κατάκριμα (katakrima)** — adverse sentence, condemnation (compound with κατά-)
 - **G2632 κατακρίνω (katakrinō)** — to condemn (compound verb)
 
+### Synonyms
+
+`search_relationships.py` surfaced a broader legal-judicial network rather than a tight bank of lexical synonyms. The closest overlaps were:
+- **G2920 κρίσις (krisis)** — judgment as the act/process; the nearest paired noun to κρίμα
+- **G1345 δικαίωμα (dikaiōma)** — ordinance, righteous requirement, judicial decision
+- **G3551 νόμος (nomos)** — law; the legal framework within which a κρίμα is rendered
+- **G1343 δικαιοσύνη (dikaiosynē)** — righteousness/justice; the standard by which verdicts are measured
+
+### Antonyms
+- **G94 ἄδικος (adikos)** — unjust, unrighteous; moral opposite within the justice/injustice field
+- **G459 ἄνομος (anomos)** — lawless; opposite to the ordered legal sphere presupposed by κρίμα
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -147,11 +164,18 @@ Primary OT equivalent is H4941 מִשְׁפָּט (mishpat) — verdict, judicia
 
 ## See Also
 
+- [G2920-krisis.md](G2920-krisis.md) — paired κρίν- family noun: process/action vs. verdict/result
+- [G1345-dikaioma.md](G1345-dikaioma.md) — ordinance / judicial decision overlap within the legal field
+- [G2064-erchomai.md](G2064-erchomai.md) — "judgment to come" and coming/judgment linkage
+- [H4941-mishpat.md](H4941-mishpat.md) — primary Hebrew source field behind κρίμα in the LXX
+- [H6664-tsedeq.md](H6664-tsedeq.md) — righteousness/justice background term
+- [H6666-tsedaqah.md](H6666-tsedaqah.md) — righteousness/justice background term
+- [A1780-diyn.md](A1780-diyn.md) — Aramaic judgment vocabulary
 - [TR-mishpat-krima.md](TR-mishpat-krima.md) — cross-testament trace: H4941 mishpat → G2917 krima
-- [TR-choq-dikaioma.md](TR-choq-dikaioma.md) — related trace (choq/dikaiōma, legal domain)
+- [TR-choq-dikaioma.md](TR-choq-dikaioma.md) — related legal-domain trace (choq/dikaiōma)
 - [TR-shaphat-krino.md](TR-shaphat-krino.md) — related trace: shaphat → krinō (the root verb)
 - [WG-judgment.md](WG-judgment.md) — word group: judgment concepts cluster
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

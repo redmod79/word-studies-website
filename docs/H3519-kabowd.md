@@ -131,6 +131,17 @@ Kabod as the goal of history — the future universal filling of creation with t
 - **H3515 כָּבֵד (kâbêd)** — adjective: heavy, burdensome
 - **H3516 כָּבֵד (kâbêd)** — noun: liver (the heavy organ)
 
+### Synonyms
+- **H1926 הָדָר** — surfaced by `search_relationships.py` as a nearby splendor / honor term in the same glory field.
+- **H1935 הוֹד** — neighboring word for majesty, radiance, and imposing glory.
+- **H5797 עֹז** — linked where glory appears as manifested strength or might.
+- **H6239 עֹשֶׁר** — overlaps with kabod's human-honor / wealth sense.
+- **H5315 נֶפֶשׁ** — secondary relationship result in the "self/person" domain, where kabod attaches to the person as weight or honor.
+
+### Antonyms
+
+No antonyms were returned by `search_relationships.py` for H3519.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -152,11 +163,20 @@ Kabod as the goal of history — the future universal filling of creation with t
 
 *The LXX's near-total equation of kabod with δόξα is the bridge through which the rich Hebrew theology of divine weightiness entered the Greek NT.*
 
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002001002012] Great** — `search_relationships.py` groups *kabod* with greatness / magnificence language, alongside **H117 אַדִּיר**, **H142 אדר**, **H145 אֶדֶר**, and **H155 אַדֶּרֶת**.
+- **[001] Objects** — reflects kabod's concrete "substance / wealth" uses, with neighbors such as **H202/H203/H204 אֹון** and **H214 אֹוצָר**.
+- **[002001003006] Extraordinary** — places *kabod* in an exceptional splendor field with terms such as **H142 אדר**, **H145 אֶדֶר**, **H226 אֹות**, and **H1369 גְּבוּרָה**.
+- **[003001016] Self** — captures the way kabod can attach to the person as honor or personal weight, with neighbors such as **H2436 חֵיק**, **H3173 יָחִיד**, **H3629 כִּלְיָה**, and **H6106/H6107 עֶצֶם**.
+- **[001001001] Deities** — aligns kabod's strongest usage with divine-being vocabulary, alongside **H47 אַבִּיר** and the **אֵל** family (**H410/H411/H415/H416**).
+
 ## See Also
 
 - [TR-kabod-doxa.md](TR-kabod-doxa.md) — cross-testament trace: כָּבוֹד → δόξα
 - [WG-glory.md](WG-glory.md) — word group: kabod and related honour/glory concepts
 
 ---
-*Generated from: gather_word_data.py, kjv.txt*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, kjv.txt, search_relationships.py*
+*Last updated: 2026-04-27*

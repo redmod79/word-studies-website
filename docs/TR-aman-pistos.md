@@ -27,7 +27,7 @@ H539, 102x in OT       28x as translation         62x in NT
 
 Hebrew ʼāman spans both *believing/trusting* (subjective) and *being established/reliable* (objective) — the same dual sense that πιστός carries in Greek.
 
-→ See [H539 word study](H539-aman.md) *(TODO — not yet in library)*
+→ See [H539 word study](H539-aman.md)
 
 ## LXX Bridge
 

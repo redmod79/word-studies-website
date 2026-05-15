@@ -50,7 +50,7 @@ When ʼowth appears in the formula "signs and wonders" (ʼothoth u-mophethim), t
 - **Rom 4:11** — "he received the sign (semeion) of circumcision" — direct covenant-sign continuity from Gen 17:11
 - **1Co 1:22** — "the Jews require a sign (semeion)" — sign-demand as cultural pattern
 
-TODO(need G4592 study)
+See [G4592-semeion.md](G4592-semeion.md) for full NT distribution and the authentic/deceptive dual valence.
 
 ## Direct OT-NT Continuity
 

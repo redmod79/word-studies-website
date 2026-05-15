@@ -138,6 +138,14 @@ Twice in Isaiah, שָׁמֵם describes God himself as "wondering" — struck by
 - **H8047 שַׁמָּה (shammah)** — noun: ruin, consternation, horror (the emotional response congealed into a noun)
 - **H8076 שָׁמֵם (shâmêm)** — adjective (same consonants, different vocalization): ruined, desolate
 
+### Synonyms
+
+No synonyms were returned by `search_relationships.py` for H8074.
+
+### Antonyms
+
+No antonyms were returned by `search_relationships.py` for H8074.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -158,11 +166,28 @@ Twice in Isaiah, שָׁמֵם describes God himself as "wondering" — struck by
 
 The LXX split between ἐρημόω (physical) and ἐξίστημι (psychological) mirrors the Hebrew root's dual meaning. The NT phrase "abomination of desolation" (βδέλυγμα τῆς ἐρημώσεως) draws directly from LXX ἐρήμωσις renderings of Daniel's שָׁמֵם formula.
 
+## Semantic Domains
+
+- **[002002001004] Non-Contain**
+  Other words: בַּר (A1247), בַּר (A1251), בַּר (H1248), בַּר (H1249), בַּר (H1250), זרה (H2219)
+- **[002003002009] Dissociate**
+  Other words: אחז (H270), אַלְמֹון (H489), אַלְמָן (H488), אַלְמָנוּת (H491), בַּד (H905), בַּד (H906)
+- **[002003003010] End**
+  Other words: אבד (A7), אבד (H6), אזל (A236), אזל (H235), אַחֲרִית (H319), אסף (H622)
+- **[002001002013] Grieve**
+  Other words: אבל (H56), אֵבֶל (H59), אֵבֶל (H60), אָבֵל (H57), אָגֵם (H99), אדב (H109)
+
 ## See Also
 
+- [H8251-shiqquwts.md](H8251-shiqquwts.md) — cross-referenced related study
+- [H8045-shamad.md](H8045-shamad.md) — cross-referenced related study
+- [H7673-shabath.md](H7673-shabath.md) — cross-referenced related study
+- [G2050-eremosis.md](G2050-eremosis.md) — Greek desolation noun cross-reference
+- [G2296-thaumazo.md](G2296-thaumazo.md) — cross-referenced related study
+- [G684-apoleia.md](G684-apoleia.md) — cross-referenced related study
 - [WG-desolate.md](WG-desolate.md) — word group: full שמם family + H2717 charab
 - [WG-abomination.md](WG-abomination.md) — word group including this word's Daniel usage
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

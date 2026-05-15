@@ -15,12 +15,17 @@
 
 From εἴκω (to be like, to resemble); a likeness, i.e. (literally) statue, profile, or (figuratively) representation, resemblance.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Primary Domain:** 006013 — Images and Idols
-  - Other words: εἴδωλον (G1497), χάραγμα (G5480), τύπος (G5179), χαρακτήρ (G5481)
-- **Secondary Domain:** 058009 — Pattern, Model, Example, and Corresponding Representation
-  - Other words: τύπος (G5179), ὑπόδειγμα (G5262), χαρακτήρ (G5481), ὑποτύπωσις (G5296)
+**Louw-Nida:**
+- **006013** — Images and Idols
+  - Related words: εἴδωλον (G1497), χάραγμα (G5480), τύπος (G5179), χαρακτήρ (G5481)
+- **058009** — Pattern, Model, Example, and Corresponding Representation
+  - Related words: τύπος (G5179), ὑπόδειγμα (G5262), χαρακτήρ (G5481), ὑποτύπωσις (G5296)
+
+**UBS Semantic Domains:**
+- **[006]** Artifacts
+- **[058]** Nature, Class, Example
 
 ## Translation Distribution (KJV)
 
@@ -105,6 +110,17 @@ Revelation uses εἰκών for a physical representation of the beast that rece
 - **εἴκω** (eikō) — root verb: to be like, to resemble (unattested in NT)
 - **εἰκῇ** (eikē) — in vain, randomly (same root idea of "without form/purpose")
 
+### Synonyms
+
+The closest overlaps returned by `search_relationships.py` are:
+- **G3667 ὁμοίωμα (homoiōma)** — likeness, outward resemblance
+- **G3669 ὁμοίωσις (homoiōsis)** — likeness, resemblance
+- **G1497 εἴδωλον (eidōlon)** — cult image; narrower and negatively marked compared with εἰκών
+
+### Antonyms
+
+- **G4639 σκιά (skia)** — shadow; the incomplete outline contrasted with the full representation in Heb 10:1
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -141,7 +157,15 @@ Revelation uses εἰκών for a physical representation of the beast that rece
 - [WG-beast.md](WG-beast.md) — beast terminology (major collocation context)
 - [WG-mark.md](WG-mark.md) — mark of the beast (co-occurs 6×)
 - [WG-worship.md](WG-worship.md) — worship vocabulary (proskyneō co-occurs 6×)
+- [WG-gravenimage.md](WG-gravenimage.md) — carved / idolatrous image vocabulary cluster
+- [G1497-eidolon.md](G1497-eidolon.md) — idol; the narrower pagan-image term most often contrasted with εἰκών
+- [G5480-charagma.md](G5480-charagma.md) — engraved mark, paired with the beast's image in Revelation
+- [G4639-skia.md](G4639-skia.md) — shadow; antonymic counterpart in Heb 10:1
+- [G4352-proskyneo.md](G4352-proskyneo.md) — worship; the dominant response verb linked to the image in Revelation
+- [G1391-doxa.md](G1391-doxa.md) — glory; paired with εἰκών in Paul's anthropology
+- [G5179-typos.md](G5179-typos.md) — pattern/type; adjacent representation vocabulary
+- [G2342-therion.md](G2342-therion.md) — beast; the most frequent direct collocation in Revelation
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, louw_nida.db*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, search_strongs.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

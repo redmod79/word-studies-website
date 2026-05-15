@@ -18,11 +18,17 @@
 
 **Thayer's:** Two main senses: (1) *Render idle/ineffective* — to deprive of force, influence, or power; make of none effect (Rom 3:3; 1 Cor 1:28; 2 Thess 2:8). (2) *Cause to cease, abolish, annul* — to put an end to, do away with (Rom 3:31; 1 Cor 13:8–11; Eph 2:15). Passive: "to cease, pass away, be done away" (2 Cor 3:7–14); also "to be severed/separated from" with ἀπό (Rom 7:2, 6; Gal 5:4). In LXX: translates Aramaic בַּטֵּל (cease, restrain) in Ezra 4–6 (4x). In secular Greek: rarely, "to leave the hand idle" (Euripides).
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
+**Louw-Nida:**
 - **Primary Domain:** 013003 — Exist (cease to exist, be abolished)
 - **Secondary Domains:** 037 (Control/Rule), 037010 (Release/Set Free), 076 (Power/Force)
 - **Domain 013003 neighbors:** ἀπόλλυμι (G622, perish/destroy), ἀφανίζω (G853, corrupt/perish), ἀφανισμός (G854, vanish away), ἀπολείπω (G620, remain/be left)
+
+**UBS Semantic Domains:**
+- **[013]** Be, Become, Exist, Happen
+- **[076]** Power, Force
+- **[037]** Control, Rule
 
 ## Translation Distribution (KJV)
 
@@ -109,6 +115,14 @@ Overwhelmingly Pauline. The three Corinthian clusters (2 Cor 3, 1 Cor 13, 1 Cor 
 - **G0691 ἀργέω (argéō)** — root verb: to be idle, to linger (2 Pet 2:3 only)
 - **G0692 ἀργός (argós)** — adjective: idle, barren, useless; κατά intensifies this to "render thoroughly useless"
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G2673.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G2673.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -130,10 +144,18 @@ G2673 translates Aramaic בַּטֵּל (H989, bettel) in the LXX — 3 occurren
 - [G3551-nomos.md](G3551-nomos.md) — νόμος (law); highest collocation (7x co-occurrence)
 - [G1785-entole.md](G1785-entole.md) — ἐντολή (commandment); abolished in Eph 2:15
 - [G1378-dogma.md](G1378-dogma.md) — δόγμα (ordinance/decree); references katargéō (Eph 2:15)
+- [G1242-diatheke.md](G1242-diatheke.md) — διαθήκη, covenant language that cannot be disannulled in Gal 3:17
+- [G5498-cheirographon.md](G5498-cheirographon.md) — χειρόγραφον, the handwriting of ordinances canceled in Christ
 - [G4102-pistis.md](G4102-pistis.md) — πίστις (faith); 3x co-occurrence — does faith nullify law?
 - [G1344-dikaioo.md](G1344-dikaioo.md) — δικαιόω (justify); closely related in Galatians 5:4 context
+- [G1391-doxa.md](G1391-doxa.md) — δόξα, the glory "being done away" in 2 Corinthians 3
+- [G2288-thanatos.md](G2288-thanatos.md) — θάνατος, death abolished in 1 Cor 15:26 and 2 Tim 1:10
+- [G2015-epiphaneia.md](G2015-epiphaneia.md) — ἐπιφάνεια, Christ's appearing abolishes the lawless one in 2 Thess 2:8
+- [G1096-ginomai.md](G1096-ginomai.md) — γίνομαι, change-of-state language cross-referenced with nullification
+- [G1510-eimi.md](G1510-eimi.md) — εἰμί, being/existence language contrasted with things brought to nothing
+- [G2647-katalyo.md](G2647-katalyo.md) — καταλύω, closely related "destroy/abolish" verb
 - [WG-abolish.md](WG-abolish.md) — word group: nullify/abolish/destroy concept cluster (katargéō, katalýō, akyróō, aphanízō, apóllymi)
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, search_strongs.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

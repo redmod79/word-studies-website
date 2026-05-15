@@ -34,11 +34,15 @@ A primary verb; to "grave", especially to write; figuratively, to describe:—de
 
 **Note:** The Perfect Passive (γέγραπται) accounts for ~52% of all uses — the dominant theological form. The Greek perfect indicates a past writing whose result permanently abides: "it was written and stands written."
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Domain:** 33.005 — Written Language
-- **Subdomain:** 33 — Communication
-- **Other words in domain:** ἀναγινώσκω (G314 — read), γραφή (G1124 — scripture), γράμμα (G1121 — letter), βιβλίον (G975 — book), ἐπιγράφω (G1924 — inscribe upon), ἐγγράφω (G1449 — write in)
+**Louw-Nida:**
+- **33.005** — Written Language
+
+Other words in domain 33: ἀναγινώσκω (G314), γραφή (G1124), γράμμα (G1121), βιβλίον (G975), ἐπιγράφω (G1924), ἐγγράφω (G1449)
+
+**UBS Semantic Domains:**
+- **[033]** Communication
 
 ## Translation Distribution (KJV)
 
@@ -169,6 +173,14 @@ Eschatological registration: γράφω as the divine act of recording or not re
 - **G1924 ἐπιγράφω (epigraphō)** — to write upon/inscribe; 5v (Mk 15:26; Acts 17:23; Heb 8:10; 10:16; Rev 21:12)
 - **G5498 χειρόγραφον (cheirographon)** — handwriting, bond/certificate; 1v (Col 2:14)
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G1125.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G1125.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -194,10 +206,17 @@ Eschatological registration: γράφω as the divine act of recording or not re
 
 ## See Also
 
+- [H8451-towrah.md](H8451-towrah.md) — towrah, Torah/law as written instruction
+- [H2856-chatham.md](H2856-chatham.md) — chatham, seal/sealing language often paired with written documents
+- [H3499-yether.md](H3499-yether.md) — related word-study cross-reference
+- [G5055-teleo.md](G5055-teleo.md) — teleō, fulfillment/completion of what is written
+- [G4394-propheteia.md](G4394-propheteia.md) — prophēteia, prophetic content committed to writing
+- [G1577-ekklesia.md](G1577-ekklesia.md) — ekklēsia, Revelation's repeated "write to the church" setting
+- [G2537-kainos.md](G2537-kainos.md) — kainos, "new name/new song" inscription contexts
 - [TR-kathab-grapho.md](TR-kathab-grapho.md) — cross-testament trace: H3789 kâthab → G1125 gráphō
 - [WG-writing.md](WG-writing.md) — word group: the writing/scripture concept cluster
 - [G5498-cheirographon.md](G5498-cheirographon.md) — the written "handwriting of ordinances" (Col 2:14)
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, gather_trace_data.py, gather_word_group_data.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, gather_trace_data.py, gather_word_group_data.py, search_relationships.py*
+*Last updated: 2026-04-27*

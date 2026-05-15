@@ -107,6 +107,14 @@ One occurrence applies the "wound/cut" sense to a physical defect disqualifying 
 ### Word Family / Cognates
 - **H2742 חָרוּץ (chârûts)** — passive participle of H2782 used as adjective/noun: *incised, diligent, gold (as mined), threshing-sledge, determination*. 18 occurrences, including Joel 3:14 "valley of decision" and Proverbs uses for "diligent" and "gold."
 
+### Synonyms
+
+No synonym entries were returned by `search_relationships.py` for H2782.
+
+### Antonyms
+
+No antonym entries were returned by `search_relationships.py` for H2782.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -115,6 +123,12 @@ One occurrence applies the "wound/cut" sense to a physical defect disqualifying 
 | כָּלָה (kâlâh) | H3615 | both translated "determined" | kâlâh = the *completion/consumption/end* itself; chârats = the act of being *decided/decreed*. They appear side-by-side in Isa 10:22–23 and Dan 9:27 — kâlâh is the event, chârats is its irrevocability. |
 | גָּזַר (gâzar) | H1504 | both translated "decreed" | gâzar = to cut off/divide/decree; shares the "cutting" semantic field with chârats but is more common in royal-decree contexts. |
 | חֹק (chôq) | H2706 | both translated "decreed" | chôq = a fixed statute or appointment (noun); chârats is the verbal act of decisive cutting/determining. |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002004001009008] Speak** — `search_relationships.py` links *chârats* to a speech / utterance field with neighbors such as **H262/H264 אַחֲוָה**, **H559/H560 אָמַר**, **H561 אֵמֶר**, and **H562 אֹמֶר**.
+- **[002004002007] Know** — the same tool also places *chârats* near discernment / knowledge vocabulary, including **H183/H184 אוה**, **H226 אֹות**, **H262/H264 אַחֲוָה**, and **H502 אלף**.
 
 ## LXX Mapping
 
@@ -127,10 +141,11 @@ One occurrence applies the "wound/cut" sense to a physical defect disqualifying 
 
 ## See Also
 
+- [H2742-charuwts.md](H2742-charuwts.md) — H2742 (charuwts): passive participle of H2782; adjective/noun: "diligent, gold, threshing instrument, decision, wall/moat"
 - [H2852-chathak.md](H2852-chathak.md) — H2852 (châthak): "seventy weeks are determined" (Dan 9:24); most commonly confused with H2782 in Daniel
 - [H7620-shabuwa.md](H7620-shabuwa.md) — H7620 (shâbûwaʻ/weeks): collocates with H2782 in Dan 9:26–27; the prophetic week-units within which H2782 decrees are executed
 - [WG-judgment.md](WG-judgment.md) — word group covering Hebrew judgment vocabulary
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, hebrew_parser.py*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, search_strongs.py, hebrew_parser.py, search_relationships.py*
+*Last updated: 2026-04-27*

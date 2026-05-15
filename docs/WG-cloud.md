@@ -10,6 +10,7 @@ Hebrew Scripture uses three distinct words for "cloud," with two dominant terms 
 |----------|------|-----------------|-----|-------------|-----------------|---------------|
 | H6051 | עָנָן | ʻânân | masc. noun | 80 | Nimbus / divine-presence cloud; primary narrative term | [H6051-anan.md](H6051-anan.md) |
 | H5645 | עָב | ʻâb | masc. noun | 32 | Thick / dark / storm cloud; often poetic | TODO(need H5645 study) |
+| A6050 | עֲנַן | ʻănan | masc. noun (Aramaic) | 1 | Aramaic cloud (hapax Dan 7:13); cognate of H6051 | [A6050-anan.md](A6050-anan.md) |
 | H6053 | עֲנָנָה | ʻănânâh | fem. noun | 1 | Cloudiness (hapax) | TODO(need H6053 study) |
 | G3507 | νεφέλη | nephélē | fem. noun | 22 | NT/LXX cloud; primary Greek equivalent | TODO(need G3507 study) |
 | G3509 | νέφος | néphos | neut. noun | 1 | Cloud mass (Heb 12:1 only) | TODO(need G3509 study) |

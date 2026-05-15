@@ -11,10 +11,10 @@ The appointed-meeting concept in Hebrew Scripture centers on mo'ed (H4150) — t
 | H168 | אֹהֶל | ohel | noun | 345 | The place — tent/tabernacle | — |
 | H6607 | פֶּתַח | pethach | noun | 164 | The access point — door/entrance | TODO(need H6607 study) |
 | H5656 | עֲבֹדָה | avodah | noun | 145 | The activity — service/ministry | TODO(need H5656 study) |
-| H3548 | כֹּהֵן | kohen | noun | 750 | The personnel — priest | TODO(need H3548 study) |
+| H3548 | כֹּהֵן | kohen | noun | 750 | The personnel — priest | [H3548-kohen.md](H3548-kohen.md) |
 | H6944 | קֹדֶשׁ | qodesh | noun | 468 | The character — holiness/sacred | [H6944](H6944-qodesh.md) |
-| H5712 | עֵדָה | edah | noun | 149 | The people assembled — congregation | TODO(need H5712 study) |
-| H6951 | קָהָל | qahal | noun | 123 | The people called — assembly | TODO(need H6951 study) |
+| H5712 | עֵדָה | edah | noun | 140 | The people assembled — congregation | [H5712](H5712-edah.md) |
+| H6951 | קָהָל | qahal | noun | 123 | The people called — assembly | [H6951](H6951-qahal.md) |
 | H2282 | חַג | chag | noun | 62 | The celebration — pilgrimage feast | [H2282](H2282-chag.md) |
 
 ## Relationships

@@ -15,10 +15,15 @@
 
 From G2380; sacrifice (the act or the victim, literally or figuratively).
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Domain:** 53.002 — Offering, Sacrifice (under 53: Religious Activities)
-- **Other words in subdomain:** ἀνάθημα (G334), ἀναφέρω (G399), ἀπαρχή (G536), θυμίαμα (G2368), θύω (G2380), ὁλοκαύτωμα (G3646), κορβᾶν (G2878), πρόθεσις (G4286)
+**Louw-Nida:**
+- **53.002** — Offering, Sacrifice (under 53: Religious Activities)
+
+Other words in subdomain: ἀνάθημα (G334), ἀναφέρω (G399), ἀπαρχή (G536), θυμίαμα (G2368), θύω (G2380), ὁλοκαύτωμα (G3646), κορβᾶν (G2878), πρόθεσις (G4286)
+
+**UBS Semantic Domains:**
+- **[053]** Religious Activities
 
 ## Translation Distribution (KJV)
 
@@ -102,6 +107,14 @@ Metaphorical extension to non-animal offerings — the believer's life, praise, 
 - **G2379 θυσιαστήριον (thysiastērion)** — the altar, place of sacrifice (from θυσία + suffix)
 - **G2368 θυμίαμα (thymiama)** — incense offering (cognate root: smell/smoke of sacrifice)
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G2378.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G2378.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -134,10 +147,16 @@ Metaphorical extension to non-animal offerings — the believer's life, praise, 
 
 ## See Also
 
-- [WG-altar.md](WG-altar.md) — word group: altar/sacrifice cluster (θυσιαστήριον, θυσία, θύω)
 - [G2379-thysiastērion.md](G2379-thysiastērion.md) — the altar (place of sacrifice)
 - [G2368-thymiama.md](G2368-thymiama.md) — incense offering
+- [H5930-olah.md](H5930-olah.md) — burnt offering; major Hebrew sacrificial source field
+- [H8548-tamid.md](H8548-tamid.md) — continual/regular service; daily sacrificial context
+- [H5262-necek.md](H5262-necek.md) — drink offering; companion offering term
+- [H5258-nasak.md](H5258-nasak.md) — pour out/libation; verb underlying drink-offering language
+- [H7522-ratsown.md](H7522-ratsown.md) — acceptance/favor; sacrificial acceptability language
+- [WG-altar.md](WG-altar.md) — word group: altar/sacrifice cluster (θυσιαστήριον, θυσία, θύω)
+- [WG-offerup.md](WG-offerup.md) — offering-language word group
 
 ---
-*Generated from: gather_word_data.py, louw_nida.db, kjv.txt*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, louw_nida.db, kjv.txt, search_relationships.py*
+*Last updated: 2026-04-27*

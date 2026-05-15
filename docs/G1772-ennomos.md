@@ -21,6 +21,10 @@ From G1722 (ἐν, "in") and G3551 (νόμος, "law"): in law — (subjectively
 - **Subdomain:** 033.33 — Law, Regulation, Ordinance
 - **Other words in subdomain:** δικαίωμα (G1345), δόγμα (G1378), κανών (G2583), νομικός (G3544), νομοθεσία (G3548), νομοθετέω (G3549), νομοθέτης (G3550), νόμος (G3551)
 
+### UBS Semantic Domains
+
+- **033 — Communication**
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -64,6 +68,12 @@ The adjective describes a person as standing within the sphere of a law's author
 - **G3544 νομικός (nomikós)** — "relating to the law, lawyer"; same root; 8 occurrences
 - **G3545 νομίμως (nomímōs)** — "lawfully" (adverb); same root; 2 occurrences
 
+### Synonyms
+- `search_relationships.py` surfaced no separate synonym list for G1772 beyond the law-family cognates and domain neighbors already listed.
+
+### Antonyms
+- **G459 ἄνομος (ánomos)** — "lawless / without law"; the direct adjectival opposite, explicitly paired with ἔννομος in 1 Cor 9:21.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -88,8 +98,12 @@ The adjective describes a person as standing within the sphere of a law's author
 ## See Also
 
 - [G3551-nomos.md](G3551-nomos.md) — canonical study of νόμος; G1772 listed as cognate
+- [G1378-dogma.md](G1378-dogma.md) — decree / ordinance within the same legal-regulation domain
+- [G1577-ekklesia.md](G1577-ekklesia.md) — Acts 19:39 lawful-assembly context
+- [G459-anomos.md](G459-anomos.md) — direct antonym paired in 1 Cor 9:21
+- [G458-anomia.md](G458-anomia.md) — lawlessness as the abstract opposite state
 - [WG-law.md](WG-law.md) — word group covering the law concept cluster
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py --hebrew-source, louw_nida.db*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py --hebrew-source, louw_nida.db; search_relationships.py G1772*
+*Last updated: 2026-04-27*

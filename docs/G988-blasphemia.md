@@ -23,6 +23,10 @@ From G989 (blasphemos); vilification (especially against God): blasphemy, evil s
 - **Gloss:** to revile, to defame, to blaspheme
 - **Other words in subdomain:** βλασφημέω (blasphemeo, G987), βλάσφημος (blasphemos, G989), λοιδορέω (loidoreo, G3058), λοιδορία (loidoria, G3059), καταλαλέω (katalaleo, G2635), καταλαλιά (katalalia, G2636), δυσφημία (dysphemia, G1426), κακολογέω (kakologeo, G2551), διάβολος (diabolos, G1228)
 
+## UBS Semantic Domains
+
+- **[033] Communication** — `search_relationships.py` likewise groups **βλασφημία** with speech-act vocabulary for slander, reviling, and insulting accusation.
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -109,6 +113,12 @@ When directed at supernatural beings or persons rather than directly at God, KJV
 - **G987 βλασφημέω (blasphemeo)** — verb: to blaspheme, revile, speak evil of (35 occurrences)
 - **G989 βλάσφημος (blasphemos)** — adjective: blasphemous, slanderous, railing (5 occurrences)
 
+### Synonyms
+*No direct synonyms were returned by `search_relationships.py` for G988.*
+
+### Antonyms
+*No antonyms were returned by `search_relationships.py` for G988.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -139,8 +149,13 @@ No Hebrew sources found via LXX mapping for G988. The concept of blasphemy in th
 
 ## See Also
 
-No existing TR-, WG-, or EN- files reference this word.
+- [G987-blasphemeo.md](G987-blasphemeo.md) — cognate verb: to blaspheme, revile, speak evil
+- [G989-blasphemos.md](G989-blasphemos.md) — cognate adjective: blasphemous, slanderous
+- [G1238-diadema.md](G1238-diadema.md) — Rev 13 imagery cluster where blasphemous names are borne in beast symbolism
+- [G863-aphiemi.md](G863-aphiemi.md) — "forgive"; Matt 12/Mark 3 pair blasphemy with the question of forgiveness
+- [H5007-natsah.md](H5007-natsah.md) — Hebrew "blasphemy/contempt" study cross-referencing this noun
+- [WG-blasphemy.md](WG-blasphemy.md) — word group for blasphemy/reviling/slander concept cluster
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db*
-*Last updated: 2026-04-10*
+*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

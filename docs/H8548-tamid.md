@@ -121,6 +121,14 @@ The collocation pattern reveals tamid as fundamentally a temple/worship term: 5 
 
 ## Related Words
 
+### Synonyms
+
+*No synonyms returned by `search_relationships.py` for H8548.*
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for H8548.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -135,6 +143,11 @@ The collocation pattern reveals tamid as fundamentally a temple/worship term: 5 
 ### Key Semantic Distinction
 Tamid emphasizes *regular, uninterrupted recurrence* — a pattern that continues without cessation. Unlike olam (which looks at duration from beginning to end) or netsach (which emphasizes permanence/victory), tamid focuses on the *ongoing, repetitive nature* of the action. This is why it becomes the technical term for the twice-daily sacrifice: it is not eternal (olam) but regular and uninterrupted (tamid).
 
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002002003001] Endure** — `search_relationships.py` places *tamid* in the endurance/continuance field, which fits its core sense of unbroken persistence rather than absolute eternity.
+
 ## LXX Mapping
 
 | Greek Equivalent | Context | Notes |
@@ -148,8 +161,13 @@ The LXX handles tamid as a phrase (dia pantos) rather than a single lexeme. In c
 
 ## See Also
 
+- [H5769-owlam.md](H5769-owlam.md) — related study on everlasting duration, often contrasted with tamid
+- [H6944-qodesh.md](H6944-qodesh.md) — sanctuary-holiness vocabulary frequently paired with continual service
+- [H5262-necek.md](H5262-necek.md) — drink offering regularly paired with the continual burnt offering
+- [H5930-olah.md](H5930-olah.md) — burnt offering, the chief cultic referent of tamid
+- [H1242-boqer.md](H1242-boqer.md) — morning, one half of the morning-evening tamid rhythm
 - [WG-continual-worship.md](WG-continual-worship.md) — word group: continual worship
 
 ---
-*Generated from: search_strongs.py, kjv.txt, strongs_translations.db*
-*Last updated: 2026-03-31*
+*Generated from: search_strongs.py, kjv.txt, strongs_translations.db, search_relationships.py*
+*Last updated: 2026-04-27*

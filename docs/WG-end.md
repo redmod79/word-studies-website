@@ -9,8 +9,8 @@ The concept of "end" in Hebrew Scripture involves several words distinguishing b
 |----------|------|-----------------|-----|-------------|-----------------|---------------|
 | H7093 | קֵץ | qets | noun | 71 | Temporal terminus — the appointed endpoint | [H7093](H7093-qets.md) |
 | H7097 | קָצֶה | qatseh | noun | 92 | Spatial extremity — edge, border, limit | TODO(need H7097 study) |
-| H3615 | כָּלָה | kalah | verb | 206 | The act of ending — to finish, consume, complete | TODO(need H3615 study) |
-| H319 | אַחֲרִית | acharith | noun | 61 | The aftermath — latter end, future, posterity | TODO(need H319 study) |
+| H3615 | כָּלָה | kalah | verb | 199 | The act of ending — to finish, consume, complete | [H3615](H3615-kalah.md) |
+| H319 | אַחֲרִית | acharith | noun | 61 | The aftermath — latter end, future, posterity | [H319](H319-achariyth.md) |
 | H6256 | עֵת | eth | noun | 296 | Temporal context — season, time (paired with qets) | [H6256-eth.md](H6256-eth.md) |
 | H4150 | מוֹעֵד | moed | noun | 223 | Appointed time/meeting — the set time linked to qets | [H4150](H4150-moed.md) |
 

@@ -25,6 +25,13 @@ From a primary τέλλω (*téllō*, to set out for a definite point or goal): 
 - **Tertiary Domain:** 78.004 — Completely, Enough (Completive Degree)
   — Captures adverbial *εἰς τέλος* = "completely, utterly"
 
+**UBS Semantic Domains:**
+- **[067]** Time
+- **[089]** Relations
+- **[078]** Degree
+- **[057]** Possess, Transfer, Exchange
+- **[061]** Sequence
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -122,6 +129,17 @@ When used in the phrase εἰς τέλος, τέλος functions adverbially: "u
 - **G4930 συντέλεια (syntéleia)** — "consummation" (σύν + τέλος) — collective completion of an age
 - **G5057 τελώνης (telōnēs)** — tax collector (draws on the tax/tribute sense)
 
+### Synonyms
+
+`search_relationships.py` surfaced conceptual neighbors rather than strict lexical equivalents:
+- **G3062 λοιπός (loipos)** — remaining, the rest
+- **G2746 καύχησις (kauchēsis)** — boasting, rejoicing
+- **G1391 δόξα (doxa)** — glory
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G5056.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -145,11 +163,19 @@ G5056 maps to Hebrew words primarily via the Psalm superscriptions — the LXX r
 
 ## See Also
 
+- [H7093-qets.md](H7093-qets.md) — Hebrew "end" vocabulary with strong eschatological overlap
 - [G5055-teleo.md](G5055-teleo.md) — cognate verb: to complete, finish, accomplish, fulfill
+- [G4137-pleroo.md](G4137-pleroo.md) — fill/fulfill; adjacent completion vocabulary
+- [G746-arche.md](G746-arche.md) — beginning; paired opposite in origin/end formulas
+- [G4171-polemos.md](G4171-polemos.md) — war; linked by "wars ... but the end is not yet"
+- [G2222-zoe.md](G2222-zoe.md) — life; outcome contrast with death and everlasting life
+- [G4931-synteleo.md](G4931-synteleo.md) — complete entirely; stronger compound of τελέω
+- [G2005-epiteleo.md](G2005-epiteleo.md) — bring to completion; process/completion overlap
+- [G5048-teleioo.md](G5048-teleioo.md) — perfect/bring to completion; moral-functional completion
 - [WG-end.md](WG-end.md) — Hebrew "end" concept cluster (qets, qatseh, kalah, acharith); references τέλος in LXX overlap section
 - [WG-fulfillment.md](WG-fulfillment.md) — Greek completion/fulfillment cluster (teleō G5055, teleióō G5048, plēróō G4137)
 - [WG-patience.md](WG-patience.md) — ὑπομένω (hupomeno) collocation: endurance to the telos
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py --hebrew-source*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py --hebrew-source, search_relationships.py*
+*Last updated: 2026-04-28*

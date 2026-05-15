@@ -15,11 +15,18 @@
 
 From τερός *teros* (a watch; perhaps akin to G2334); to guard (from loss or injury, properly by keeping the eye upon; and thus differing from G5442, which is properly to prevent escaping; and from G2892, which implies a fortress or full military lines of apparatus), i.e. to note (a prophecy; figuratively to fulfil a command); by implication to detain (in custody; figuratively to maintain); by extension to withhold (for personal ends; figuratively to keep unmarried).
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Domain:** 037009 — Control, Rule → Guard, Watch Over
-- **Also classified:** 036003 — Guide, Discipline → Obey, Disobey
-- **Other words in 037009:** τήρησις (G5084), φρουρέω (G5432), φυλακή (G5438), φύλαξ (G5441), φυλάσσω (G5442)
+**Louw-Nida:**
+- **037009** — Control, Rule → Guard, Watch Over
+- **036003** — Guide, Discipline → Obey, Disobey
+
+Other words in 037009: τήρησις (G5084), φρουρέω (G5432), φυλακή (G5438), φύλαξ (G5441), φυλάσσω (G5442)
+
+**UBS Semantic Domains:**
+- **[013]** Be, Become, Exist, Happen
+- **[037]** Control, Rule
+- **[036]** Guide, Discipline, Follow
 
 ## Translation Distribution (KJV)
 
@@ -123,6 +130,13 @@ Holding something intact over time — a state, a virtue, a relationship.
 - **G5084 τήρησις** (tērēsis) — keeping, custody; the cognate noun (Acts 4:3; 5:18; 1Co 7:19)
 - **G1301 διατηρέω** (diatēreō) — to watch thoroughly, preserve (*dia* + *tēreō*; Luk 2:51; Acts 15:29)
 
+### Synonyms
+- **G5442 φυλάσσω (phylassō)** — the closest keep/guard parallel; often overlaps with τηρέω but emphasizes preventing escape or breach.
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G5083.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -154,7 +168,10 @@ The LXX pattern of *nâtsar* and *shâmar* + *mitsvah* (commandment) passes into
 - [WG-commandment-keeping.md](WG-commandment-keeping.md) — word group: entolē, tēreō, agapaō, nomos
 - [WG-commandment.md](WG-commandment.md) — word group: commandment concept cluster
 - [G1785-entole.md](G1785-entole.md) — primary collocation: ἐντολή (the commandment itself)
+- [G2722-katecho.md](G2722-katecho.md) — comparative "hold fast / keep" verb with a forceful-retaining nuance
+- [G2920-krisis.md](G2920-krisis.md) — judgment language paired with the "reserved unto judgment" uses of τηρέω
+- [G3962-pater.md](G3962-pater.md) — Father language paired with "my Father's commandments" in Johannine obedience contexts
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-28*

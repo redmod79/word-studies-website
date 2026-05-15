@@ -118,6 +118,15 @@ The passive of the Piel: not the act of enacting, but the enacted thing — the 
 - **H2707 חָקָה (châqâh)** — verb: to engrave, to mark out (3x) — variant/related form
 - **H2708 חֻקָּה (chuqqâh)** — noun, fem: statute, ordinance (104x) — the feminine form of chôq
 
+### Synonyms
+- **חקה (H2707)** — returned by `search_relationships.py`.
+- **כתב (H3789)** — returned by `search_relationships.py`.
+- **מלךְ** — returned by `search_relationships.py` without a Strong's number in the output.
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for H2710.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -125,6 +134,15 @@ The passive of the Piel: not the act of enacting, but the enacted thing — the 
 | חֹק (chôq) | H2706 | both: "decree," "law" | chôq = the noun (the statute itself); châqaq = the verb (the act of enacting/engraving it) |
 | כָּתַב (kâthab) | H3789 | both: "write," "note," "inscribe" | kâthab = general writing act; châqaq = engrave/cut into a durable surface, implying permanence and legal authority |
 | חָרַץ (chârats) | H2782 | both imply "determined/decreed" | chârats = to cut sharply, decide (a verdict); châqaq = to engrave, prescribe (the content of a law) |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002001001067] Write** — Neighboring entries returned by `search_relationships.py`: חצב (H2672), חקה (H2707), יחשׂ (H3187), ילד (H3205), כתב (A3790), כתב (H3789).
+- **[002002002005] Exist** — Neighboring entries returned by `search_relationships.py`: אָב (H1), אִין (H371), אִיתַי (A383), אִשׁ (H786), בוא (H935), בנה (A1124).
+- **[002002003003] Happen** — Neighboring entries returned by `search_relationships.py`: אִיתַי (A383), אנה (H578), אנה (H579), אפף (H661), אִשׁ (H786), אתה (A858).
+- **[001002007005] Leaders** — Neighboring entries returned by `search_relationships.py`: אַבִּיר (H47), אָדֹון (H113), אַדִּיר (H117), אֲדַרְגָּזַר (A148), אֲחַשְׁדַּרְפַּן (A324), אֲחַשְׁדַּרְפַּן (H323).
+- **[001002008001017] Tools** — Neighboring entries returned by `search_relationships.py`: אֹבֶן (H70), אָזֵן (H240), אֲנָךְ (H594), אֶרֶג (H708), אֵת (H853), אֵת (H854).
 
 ## LXX Mapping
 
@@ -145,5 +163,5 @@ The passive of the Piel: not the act of enacting, but the enacted thing — the 
 - [WG-law.md](WG-law.md) — Law/commandment word group
 
 ---
-*Generated from: gather_word_data.py H2710, hebrew_parser.py (verse-by-verse parsing of all 19 occurrences)*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py H2710, hebrew_parser.py (verse-by-verse parsing of all 19 occurrences), search_relationships.py*
+*Last updated: 2026-04-27*

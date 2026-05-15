@@ -9,11 +9,11 @@ The repentance concept in Scripture involves a cluster of words that together ex
 | Strong's | Word | Transliteration | POS | Occurrences | Role in Concept | Library Entry |
 |----------|------|-----------------|-----|-------------|-----------------|---------------|
 | G3340 | μετανοέω | metanoeō | verb | 32 | The act — to repent, change mind/direction | [G3340](G3340-metanoeo.md) |
-| G3341 | μετάνοια | metanoia | noun | 24 | The state — repentance, change of mind | TODO(need G3341 study) |
+| G3341 | μετάνοια | metanoia | noun | 24 | The state — repentance, change of mind | [G3341](G3341-metanoia.md) |
 | G1994 | ἐπιστρέφω | epistréphō | verb | 38 | The movement — to turn, return, convert | TODO(need G1994 study) |
-| G3338 | μεταμέλλομαι | metamellomai | verb | 5 | The contrast — regret/remorse without reorientation | TODO(need G3338 study) |
-| H5162 | נָחַם | nâcham | verb | 100 | Hebrew source — sigh, be sorry, relent | TODO(need H5162 study) |
-| H7725 | שׁוּב | shûwb | verb | 952 | Hebrew conversion verb — turn back, return | TODO(need H7725 study) |
+| G3338 | μεταμέλλομαι | metamellomai | verb | 5 | The contrast — regret/remorse without reorientation | [G3338](G3338-metamellomai.md) |
+| H5162 | נָחַם | nâcham | verb | 100 | Hebrew source — sigh, be sorry, relent | [H5162-nacham.md](H5162-nacham.md) |
+| H7725 | שׁוּב | shûwb | verb | 952 | Hebrew conversion verb — turn back, return | [H7725-shuwb.md](H7725-shuwb.md) |
 
 ## Relationships
 

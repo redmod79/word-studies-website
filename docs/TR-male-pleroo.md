@@ -75,7 +75,7 @@ H4390 spans a wide range: physical filling (waters, vessels), the glory-cloud fi
 
 ---
 
-*TODO: H4390 — canonical word study pending (see [G4137-pleroo.md](G4137-pleroo.md) for reverse direction)*
+See [H4390-male.md](H4390-male.md) for the canonical word study, and [G4137-pleroo.md](G4137-pleroo.md) for the Greek counterpart.
 
 ---
 *Generated from: gather_word_data.py (H4390, G4137), kjv.txt*

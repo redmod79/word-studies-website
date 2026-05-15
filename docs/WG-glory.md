@@ -8,7 +8,7 @@ The Greek concept of glory in the NT involves a cluster of words describing radi
 | Strong's | Word | Transliteration | POS | Occurrences | Role in Concept | Library Entry |
 |----------|------|-----------------|-----|-------------|-----------------|---------------|
 | G1391 | δόξα | dóxa | noun (f) | 151 vv | The radiant glory itself — noun form | [G1391-doxa](G1391-doxa.md) |
-| G1392 | δοξάζω | doxázō | verb | 54 vv | The act of glorifying — verb form | TODO(need G1392 study) |
+| G1392 | δοξάζω | doxázō | verb | 54 vv | The act of glorifying — verb form | [G1392-doxazo](G1392-doxazo.md) |
 | G5092 | τιμή | timḗ | noun (f) | 42 vv | Assessed honor/value — relational dimension | TODO(need G5092 study) |
 | G1741 | ἔνδοξος | éndoxos | adjective | 4 vv | The adjectival "glorious" | TODO(need G1741 study) |
 | G1868 | ἔπαινος | épainos | noun (m) | 11 vv | Verbal commendation/praise | TODO(need G1868 study) |

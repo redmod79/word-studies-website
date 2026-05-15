@@ -16,12 +16,17 @@
 
 From the same root as G2324 (therapon); to wait upon menially, i.e. (figuratively) to adore (God), or (specially) to relieve (of disease). Original sense: to serve, attend to; extended to medical care and healing.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Domain 23.008:** Health, Vigor, Strength — to heal, cure
-- **Domain 35.002:** Serve — to serve, wait upon, attend to
-- **Other words in 23.008:** ἰάομαι (iaomai, G2390), ἴαμα (iama, G2386), ἴασις (iasis, G2392), ἰατρός (iatros, G2395), θεραπεία (therapeia, G2322), καθαρίζω (katharizo, G2511), διασῴζω (diasozo, G1295)
-- **Other words in 35.002:** διακονέω (diakoneo, G1247), δουλεύω (douleuo, G1398), θεράπων (therapon, G2324), λειτουργέω (leitourgeo, G3008)
+**Louw-Nida:**
+- **23.008** — Health, Vigor, Strength — to heal, cure
+- **35.002** — Serve — to serve, wait upon, attend to
+- Other words in 23.008: ἰάομαι (iaomai, G2390), ἴαμα (iama, G2386), ἴασις (iasis, G2392), ἰατρός (iatros, G2395), θεραπεία (therapeia, G2322), καθαρίζω (katharizo, G2511), διασῴζω (diasozo, G1295)
+- Other words in 35.002: διακονέω (diakoneo, G1247), δουλεύω (douleuo, G1398), θεράπων (therapon, G2324), λειτουργέω (leitourgeo, G3008)
+
+**UBS Semantic Domains:**
+- **[023]** Physiological Processes and States
+- **[035]** Help, Care For
 
 ## Translation Distribution (KJV)
 
@@ -122,6 +127,14 @@ The dominant form is aorist active indicative (37%), reflecting the Gospels' nar
 - **G2322 θεραπεία (therapeia)** — service, household (attendants); healing (4x NT: Mat 24:45, Luk 9:11, 12:42, Rev 22:2)
 - **G2324 θεράπων (therapon)** — an attendant, servant (1x NT: Heb 3:5 — Moses as God's servant)
 
+### Synonyms
+
+No direct synonyms were identified by `search_relationships.py` beyond the healing/service vocabulary already represented in the cognate and domain-neighbor lists below.
+
+### Antonyms
+
+No direct antonyms were identified by `search_relationships.py` for θεραπεύω.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -153,7 +166,11 @@ The LXX mapping for G2323 shows no dominant Hebrew source word. The co-occurrenc
 ## See Also
 
 - [WG-healing.md](WG-healing.md) — word group: healing concept cluster (therapeuo, iaomai, katharizo, etc.)
+- [G169-akathartos.md](G169-akathartos.md) — unclean-spirit contexts frequently paired with healing
+- [G2511-katharizo.md](G2511-katharizo.md) — cleanse / purify; adjacent healing vocabulary
+- [G4521-sabbaton.md](G4521-sabbaton.md) — Sabbath-healing controversy settings
+- [G4574-sebasma.md](G4574-sebasma.md) — service / worship vocabulary near θεραπεύω's older sense
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db*
-*Last updated: 2026-04-10*
+*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

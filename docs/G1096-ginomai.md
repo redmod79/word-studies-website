@@ -15,8 +15,9 @@
 
 A prolongation and middle voice form of a primary verb; to cause to be ("gen"-erate). By extension: to become, come into being, happen, come to pass, arise, be made, be done. One of the most versatile verbs in the NT, functioning as a copula of change or transition.
 
-## Louw-Nida Semantic Domains
+## Semantic Domains
 
+**Louw-Nida:**
 - **Primary Domain:** 13 — Be, Become, Exist, Happen
   - 13.001 — State
   - 13.002 — Change of State
@@ -30,6 +31,16 @@ A prolongation and middle voice form of a primary verb; to cause to be ("gen"-er
   - 57.001 — Have, Possess
   - 85.001 — Be in a Place
   - 91.001 — Markers of Transition
+
+**UBS Semantic Domains:**
+- **[013]** Be, Become, Exist, Happen
+- **[015]** Linear Movement
+- **[030]** Think
+- **[034]** Association
+- **[041]** Behavior and Related States
+- **[057]** Possess, Transfer, Exchange
+- **[085]** Existence in Space
+- **[091]** Discourse Markers
 
 ## Tense-Voice-Mood Distribution
 
@@ -168,6 +179,14 @@ The aorist middle optative used as the strongest possible negation in NT Greek.
 - **G3824 παλιγγενεσία (palingenesia)** — regeneration, renewal
 - **G1074 γενεά (genea)** — generation, age
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G1096.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G1096.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -189,8 +208,17 @@ The overwhelming LXX connection is with H1961 הָיָה (hayah), the primary He
 
 ## See Also
 
+- [H1961-hayah.md](H1961-hayah.md) — hayah, the primary Hebrew/LXX counterpart of ginomai
+- [G2064-erchomai.md](G2064-erchomai.md) — coming/arrival language often paired with event-transition formulas
+- [G1163-dei.md](G1163-dei.md) — dei, necessity language in "must come to pass" constructions
+- [G746-arche.md](G746-arche.md) — archē, origin/beginning language linked to coming-into-being
+- [G1632-ekcheo.md](G1632-ekcheo.md) — ekcheō, poured-out event language cross-referenced with ginomai
+- [G2673-katargeo.md](G2673-katargeo.md) — katargeō, change-of-state / nullification language
+- [G4537-salpizo.md](G4537-salpizo.md) — salpizō, apocalyptic trumpet events introduced with ginomai-style transitions
+- [G1027-bronte.md](G1027-bronte.md) — brontē, thunder in Revelation's "there was..." event formulas
+- [G5179-typos.md](G5179-typos.md) — typos, pattern/example language referenced alongside becoming
 - [WG-becoming.md](WG-becoming.md) — word group: becoming / coming-into-being
 
 ---
-*Generated from: search_strongs.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-03-31*
+*Generated from: search_strongs.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

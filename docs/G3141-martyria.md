@@ -15,11 +15,15 @@
 
 Evidence given (judicially or generally); testimony, witness, record. From μάρτυς (a witness). Used for both formal court testimony and the broader act of declaration about what one has seen or knows.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
+**Louw-Nida:**
 - **Domain:** 33.020 — Witness, Testify
 - **Broader domain:** 33 — Communication
 - **Other words in subdomain:** μαρτυρέω (G3140), μαρτύριον (G3142), μάρτυς (G3144), ψευδομαρτυρέω (G5576), ψευδομαρτυρία (G5577), ἐπιμαρτυρέω (G1957), καταμαρτυρέω (G2649), συμμαρτυρέω (G4828)
+
+**UBS Semantic Domains:**
+- **[033]** Communication
 
 ## Translation Distribution (KJV)
 
@@ -111,6 +115,14 @@ Reputation or report about a person's moral standing, attested by others.
 - **G5576 ψευδομαρτυρέω (pseudomartyréō)** — verb "to bear false witness"; 6 verses
 - **G5577 ψευδομαρτυρία (pseudomartyría)** — noun "false witness"; 2 verses
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G3141.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G3141.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -141,8 +153,14 @@ The LXX bridge is weak (co-occ=3), reflecting that μαρτυρία is a distinc
 
 ## See Also
 
-- [WG-testimony](WG-testimony.md) — testimony/witness word group (μαρτυρία, μαρτυρέω, μαρτύριον, μάρτυς)
+- [G3140-martyreo.md](G3140-martyreo.md) — cognate verb study
+- [G3142-martyrion.md](G3142-martyrion.md) — related testimony/evidence study
+- [G3144-martys.md](G3144-martys.md) — related witness-person study
+- [G3528-nikao.md](G3528-nikao.md) — related word study
+- [H5715-eduwth.md](H5715-eduwth.md) — Hebrew testimony counterpart
+- [TR-ed-martys.md](TR-ed-martys.md) — cross-testament trace
+- [WG-testimony.md](WG-testimony.md) — testimony/witness word group
 
 ---
-*Generated from: gather_word_data.py, gather_word_group_data.py, louw_nida.db*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, gather_word_group_data.py, search_relationships.py, louw_nida.db*
+*Last updated: 2026-04-27*

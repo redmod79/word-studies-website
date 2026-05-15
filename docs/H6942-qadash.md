@@ -142,12 +142,29 @@ An unusual extension: mustering warriors or formally proclaiming war as a consec
 - **H6918 קָדוֹשׁ (qadosh)** — adjective: holy, sacred, set apart
 - **H4720 מִקְדָּשׁ (miqdash)** — noun: sanctuary, consecrated place (from same root)
 
+### Synonyms
+- **H4172 מוֹרָא (môwrâʼ)** — dread, awe, terror; `search_relationships.py` links *qadash* with reverential-awe vocabulary that regularly attends holy encounter.
+- **H6206 עָרַץ (ʻârats)** — dread, be in awe, be terrified; a neighboring verb in the field of fearful response before what is set apart and overwhelming.
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for H6942.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
 |------|----------|--------------------|----------------|
 | קֹדֶשׁ (qodesh) | H6944 | "holy" / "dedicated" | qodesh = the state of holiness or the holy place; qadash = the act of setting apart |
 | חָנַךְ (chanak) | H2596 | "dedicated" | chanak = to initiate/dedicate a new thing (house, child); qadash = ritual-cultic setting apart for God |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002001001031] Holy** — the primary domain: *qadash* marks persons, times, places, and things as belonging to the holy sphere.
+- **[002001001012] Clean** — a closely related purification field, especially where sanctifying includes ritual cleansing and preparation.
+- **[002003003015] Innocent** — a result-oriented domain where sanctifying language moves toward cleared or blameless status.
+- **[002001003006] Extraordinary** — the tool also places *qadash* in an "extraordinary / set apart" field, fitting its separation from ordinary use.
+- **[002001002001] Afraid** — holiness regularly evokes reverential dread, so *qadash* is linked with awe/fear vocabulary as well as purity vocabulary.
 
 ## LXX Mapping
 
@@ -168,7 +185,12 @@ An unusual extension: mustering warriors or formally proclaiming war as a consec
 - [WG-holiness.md](WG-holiness.md) — word group: the holiness cluster (qodesh, qadosh, qadash, miqdash)
 - [H6944-qodesh.md](H6944-qodesh.md) — canonical study of the related noun
 - [H4720-miqdash.md](H4720-miqdash.md) — canonical study of the sanctuary noun
+- [G40-hagios.md](G40-hagios.md) — Greek holiness adjective closely aligned with the same LXX field
+- [H2891-taher.md](H2891-taher.md) — related cleansing verb frequently adjacent to sanctification language
+- [H7676-shabbath.md](H7676-shabbath.md) — Sabbath study, a major sacred-time object of *qadash*
+- [H4886-mashach.md](H4886-mashach.md) — anointing often accompanies consecration
+- [H5137-nazah.md](H5137-nazah.md) — sprinkling/purification verb linked with sanctifying rites
 
 ---
-*Generated from: gather_word_data.py H6942, hebrew_parser.py --lemma קדשׁ*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py H6942, hebrew_parser.py --lemma קדשׁ, search_relationships.py*
+*Last updated: 2026-04-27*

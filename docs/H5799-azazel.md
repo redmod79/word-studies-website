@@ -74,6 +74,18 @@ The man who releases the goat must undergo full purification before re-entering 
 - **H3725 כִּפֻּר (kippur)** — atonement; Yom Kippur (Day of Atonement) is the occasion for this entire ritual
 - **H3727 כַּפֹּרֶת (kapporeth)** — mercy seat; the other focal object of the Lev 16 Day of Atonement ceremony
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for H5799.*
+
+### Antonyms
+- **H3068 יְהוָה (YHWH)** — returned by `search_relationships.py` from the ritual opposition in Lev 16:8, where one lot is "for the LORD" and the other "for azazel"; this is a liturgical contrast, not a broad lexical antonym.
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[003001012] Names of Supernatural Beings** — the relationship tool groups *ʻăzâʼzêl* with proper-name readings alongside **H1403**, **H4317**, and **H7854**, reflecting later/name-based interpretation rather than the KJV's descriptive "scapegoat" rendering.
+
 ## LXX Mapping
 
 The LXX does not transliterate azazel. Instead it renders it **ἀποπομπαῖος** (*apopompaios*, "one sent away / the sent-away one"), a word used only in Lev 16. This Greek term does not appear elsewhere in the LXX or NT, providing no cross-testament trace.
@@ -86,8 +98,9 @@ The LXX does not transliterate azazel. Instead it renders it **ἀποπομπα
 - [H3725-kippur.md](H3725-kippur.md) — Yom Kippur / Day of Atonement
 - [H3727-kapporeth.md](H3727-kapporeth.md) — mercy seat; the other focal object of Lev 16
 - [H5375-nasa.md](H5375-nasa.md) — to bear/carry; Lev 16:22 describes the azazel-goat bearing iniquities
+- [H1403-gabriyel.md](H1403-gabriyel.md) — named supernatural-being study surfaced by `search_relationships.py`
 - [WG-atonement.md](WG-atonement.md) — word group covering the atonement complex
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py --lexicon, search_strongs.py --lxx-map*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, search_strongs.py --lexicon, search_strongs.py --lxx-map, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -22,6 +22,10 @@
 - **Glosses:** preaching, what is preached
 - **Other words in subdomain:** θεόπνευστος (G2315), κῆρυξ (G2783), κηρύσσω (G2784), λόγος (G3056), προκηρύσσω (G4296)
 
+## UBS Semantic Domains
+
+- **[033] Communication** — proclamation as a message communicated publicly by a herald.
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -99,6 +103,14 @@ In these uses kērygma shades toward the act of proclamation — the heralding i
 
 The kēryx- word family derives from the civic herald who publicly announced official decrees. The noun kērygma denotes the content of the announcement, kēryx the person announcing, and kēryssō the act of announcing.
 
+### Synonyms
+
+*No synonyms were returned by `search_relationships.py` for G2782.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G2782.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -125,9 +137,10 @@ No Hebrew sources found via LXX mapping. The kēryx- word family does not corres
 
 ## See Also
 
+- [G2097-euangelizo.md](G2097-euangelizo.md) — to preach good news; the verb regularly paired with proclamation language
 - [G2098-euangelion.md](G2098-euangelion.md) — the gospel as good news (content complement)
 - [WG-gospel.md](WG-gospel.md) — word group: gospel/proclamation cluster
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db*
-*Last updated: 2026-04-13*
+*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

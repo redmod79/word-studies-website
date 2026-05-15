@@ -21,6 +21,14 @@ From an obsolete φάω (pháō) — to shine or make manifest, especially by ra
 - **Other domains:** 28.004 (Able To Be Known), 2.003 (Fire), 6.014 (Lights and Light Holders), 11.002 (Socio-Religious)
 - **Other words in Light domain:** ἀνατέλλω (G393), ἀπαύγασμα (G541), ἀστραπή (G796), δόξα (G1391), λάμπω (G2989), φαίνω (G5316), φέγγος (G5338), φωστήρ (G5458), φωτεινός (G5460), φωτίζω (G5461)
 
+## UBS Semantic Domains
+
+- **[014] Physical Events and States** — primary UBS placement for light as an observable phenomenon.
+- **[002] Natural Substances** — captures light as a created luminous reality in the natural order.
+- **[006] Artifacts** — covers uses where light is discussed alongside lamps and light-holders.
+- **[011] Groups and Classes of Persons and Members of Such Groups and Classes** — fits "children of light" and identity-language uses.
+- **[028] Know** — reflects the revelatory sense where light makes truth visible or knowable.
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -128,6 +136,14 @@ Johannine concentration is overwhelming: John + 1 John account for 21 of 59 vers
 - **G5461 φωτίζω (phōtizō)** — to illuminate, to enlighten (11x) — verb
 - **G5462 φωτισμός (phōtismos)** — illumination, light (2x) — noun
 
+### Synonyms
+
+- **G5338 φέγγος (phengos)** — radiance / brightness; the closest lexical light-equivalent returned by `search_relationships.py`.
+
+### Antonyms
+
+*No direct antonyms were returned by `search_relationships.py` for G5457 beyond the darkness cluster already represented in collocations and See Also.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -163,10 +179,16 @@ H216 (ʼôwr) is the dominant Hebrew source, mapping to phōs in 90 of its LXX o
 - [TR-owr-phos.md](TR-owr-phos.md) — cross-testament trace: H216 אוֹר → G5457 φῶς
 - [WG-light.md](WG-light.md) — word group: Light and Darkness
 - [WG-candlesticks.md](WG-candlesticks.md) — word group: Lampstand / Light Holders
+- [G3087-lychnia.md](G3087-lychnia.md) — lampstand / candlestick; light-bearing structure paired with φῶς
 - [G3088-lychnos.md](G3088-lychnos.md) — lamp (the object that emits phōs)
 - [G2985-lampas.md](G2985-lampas.md) — torch/lamp
+- [G4442-pyr.md](G4442-pyr.md) — fire; secondary luminous rendering and physical-light overlap
+- [G4655-skotos.md](G4655-skotos.md) — darkness; primary antithetical counterpart
+- [G4653-skotia.md](G4653-skotia.md) — darkness/dimness; Johannine dark-light dualism
+- [G2041-ergon.md](G2041-ergon.md) — works/deeds; light exposes and manifests deeds
+- [H3556-kokab.md](H3556-kokab.md) — star; light-bearing heavenly body in related study usage
 - [G2217-zophos.md](G2217-zophos.md) — blackness/darkness (antonym)
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-13*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-28*

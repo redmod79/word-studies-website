@@ -117,6 +117,13 @@ The adjective applies beyond persons and objects to territory: land that is ritu
 - **H2931 טָמֵא (ṭâmêʼ)** — adjective: unclean, defiled (this word — the state)
 - **H2932 טֻמְאָה (ṭumʼâh)** — feminine noun: uncleanness, impurity (the condition or quality)
 
+### Synonyms
+
+*No synonyms returned by `search_relationships.py` for H2931.*
+
+### Antonyms
+- **H2889 טָהוֹר (ṭâhôwr)** — returned by `search_relationships.py` as the adjectival opposite of *ṭâmêʼ*.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -125,6 +132,12 @@ The adjective applies beyond persons and objects to territory: land that is ritu
 | טֻמְאָה (ṭumʼâh) | H2932 | "unclean" | The abstract noun (the quality/condition of uncleanness); H2931 describes the person/thing |
 | ἀκάθαρτος (akáthartos) | G169 | "unclean" | The NT Greek equivalent; same semantic range but extends especially to unclean/demonic spirits |
 | κοινός (koinós) | G2839 | "unclean" | NT term meaning "common/profane"; cultural or Gentile defilement (Acts 10–11) vs. Levitical categories |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002001001062] Unclean** — `search_relationships.py` places *ṭâmêʼ* in the core impurity field with neighbors such as **H1350/H1351 גאל**, **H2610 חנף**, **H2930 טמא**, **H2932 טֻמְאָה**, and **H2936 טנף**.
+- **[002001002007] Evil** — the same relationship data also captures the prophetic/moral extension of uncleanness, grouping this adjective with **H444 אלח**, **H605 אנשׁ**, **A873 בִּאישׁ**, **H1100 בְּלִיַּעַל**, and **H1350/H1351 גאל**.
 
 ## LXX Mapping
 
@@ -139,10 +152,13 @@ The adjective applies beyond persons and objects to territory: land that is ritu
 ## See Also
 
 - [H2931-tame.md](H2931-tame.md) — this file
-- [TR-tame-akathartos.md](TR-tame-akathartos.md) — cross-testament trace: ṭâmêʼ → ἀκάθαρτος
+- [TR-tame-akathartos.md](TR-tame-akathartos.md) — cross-testament trace: ṭâmêʼ → ἀκάθαρτος (adjective, 53x LXX)
+- [TR-tame-miaino.md](TR-tame-miaino.md) — cross-testament trace: ṭâmêʼ → μιαίνω (verb, 86x LXX — primary translation)
+- [G3392-miaino.md](G3392-miaino.md) — Greek verb "to defile/sully" (NT counterpart via LXX)
 - [TR-taher-katharizo.md](TR-taher-katharizo.md) — trace for the antonym pair
 - [WG-cleansing.md](WG-cleansing.md) — word group: cleansing/purity (full טהר/טמא family)
+- [WG-defile.md](WG-defile.md) — word group: NT defilement vocabulary
 
 ---
-*Generated from: gather_word_data.py H2931, search_strongs.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py H2931, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

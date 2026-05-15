@@ -140,6 +140,15 @@ Highest density in the prophets (Hosea, Malachi, Habakkuk, Jonah) where the crit
 - **H2077 זֶבַח (zebach)** — noun: sacrifice, slaughtered victim, esp. shared/peace sacrifice (162 OT occurrences)
 - **H4196 מִזְבֵּחַ (mizbeach)** — noun: altar (literally "place of slaughter") — derived from the same root, 401 OT occurrences
 
+### Synonyms
+- **עלה (H5927)** — returned by `search_relationships.py` as a close sacrificial neighbor where the offering act is in view.
+- **קטר (H6999)** — surfaced by `search_relationships.py` as a cultic near-neighbor, especially in the recurring pattern "sacrificed and burnt incense."
+- **שׁחט (H7819)** — returned as the closest slaughter-verb parallel to *zâbach* within the sacrificial field.
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for H2076.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -167,6 +176,12 @@ Highest density in the prophets (Hosea, Malachi, Habakkuk, Jonah) where the crit
 
 The LXX bridge is exceptionally strong: **θύω (G2380)** is the standard equivalent for zabach, and this pairing carries directly into NT citations and allusions (e.g., 1 Cor 10:20; Mark 14:12; Luke 22:7).
 
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002001001019] Dead** — `search_relationships.py` places *zâbach* partly in the death/slaughter field, reflecting the lethal act involved in sacrificial slaughter; neighboring entries returned by the tool include **A7 אבד**, **H6 אבד**, **H8 אֹבֵד**, **H12 אַבְדָן**, **H13 אָבְדָן**, and **A69 אֶבֶן**.
+- **[002003002020] Sacrifice** — the same relationship data places *zâbach* in the sacrifice field, alongside neighbors such as **H801 אִשֶּׁה**, **H818 אָשֵׁם**, **H817 אָשָׁם**, **H819 אַשְׁמָה**, **A1684 דבח**, and **A1685 דְּבַח**.
+
 ## See Also
 
 - [H2077-zebach.md](H2077-zebach.md) — cognate noun (TODO: word study pending)
@@ -177,5 +192,5 @@ The LXX bridge is exceptionally strong: **θύω (G2380)** is the standard equiv
 - [TR-zabach-thyo.md](TR-zabach-thyo.md) — cross-testament trace (auto-created with this study — TODO if not yet present)
 
 ---
-*Generated from: gather_word_data.py, hebrew_parser.py, search_strongs.py*
-*Last updated: 2026-04-16*
+*Generated from: gather_word_data.py, hebrew_parser.py, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

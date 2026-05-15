@@ -127,6 +127,13 @@ The dominant collocation כָּרַת בְּרִית ("cut a covenant") reflects
 - **H1262 בָּרָה (barah)** — to eat, to select (root sense: cutting/selecting)
 - **H1254 בָּרָא (bara)** — to create (related root: cutting/shaping)
 
+### Synonyms
+- **H423 אָלָה (ʼalah)** — oath / curse formula; closely overlaps covenant ratification because covenants are commonly sealed with sworn obligations and sanctions.
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for H1285.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -134,6 +141,12 @@ The dominant collocation כָּרַת בְּרִית ("cut a covenant") reflects
 | כָּרַת (karath) | H3772 | "covenant" (2x in KJV) | karath = the verb "to cut/make"; beriyth = the compact itself |
 | חָבַר (chabar) | H2266 | "league" (1x in KJV) | chabar = "to join/bind" physically; beriyth = the formal agreement |
 | G1242 διαθήκη (diatheke) | G1242 | "covenant" / "testament" | Greek equivalent can mean both "covenant" and "last will/testament" |
+
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 002004001009013 | Vow | `search_relationships.py` places *beriyth* in the oath/vow field because covenant obligations are regularly ratified by sworn words and sanctions. |
 
 ## LXX Mapping
 
@@ -153,5 +166,5 @@ G1242 διαθήκη is the near-exclusive Greek equivalent for בְּרִית, 
 - [WG-covenant.md](WG-covenant.md) — word group
 
 ---
-*Generated from: search_strongs.py, KJV text, co-occurrence queries*
-*Last updated: 2026-03-31*
+*Generated from: search_strongs.py, KJV text, co-occurrence queries, search_relationships.py*
+*Last updated: 2026-04-27*

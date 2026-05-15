@@ -86,6 +86,19 @@ Concentrated in the prophetic corpus (18/22 uses). Highest density in the minor 
 ### Word Family / Cognates
 - **H2194 זָעַם (zaʻam)** — root verb: to be indignant, to express displeasure, to curse (12x)
 
+### Synonyms
+- **H639 אַף (ʼaph)** — anger, wrath; the broadest Hebrew anger term and a frequent pairing with *zaʻam*
+- **H2534 חֵמָה (chêmâh)** — heat, fury, wrath
+- **H2740 חָרוֹן (chârôwn)** — burning anger, fierce wrath
+- **H5678 עֶבְרָה (ʻebrâh)** — outburst of passion, rage, wrath
+- **H6869 צָרָה (tsârâh)** — trouble, distress; judgment-distress vocabulary returned alongside the wrath cluster
+- **H7068 קִנְאָה (qinʼâh)** — jealousy, zeal
+- **H7110 קֶצֶף (qetseph)** — indignation, wrath
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for H2195.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -93,6 +106,12 @@ Concentrated in the prophetic corpus (18/22 uses). Highest density in the minor 
 | זַעַף (zaʻaph) | H2197 | both → "indignation, rage" | zaʻaph = raging anger, often human; zaʻam = intense divine displeasure (almost exclusively God's anger) |
 | קֶצֶף (qetseph) | H7110 | both → "indignation" | qetseph = sudden outburst/splinter (explosive onset); zaʻam = settled fury, especially God's righteous displeasure against sin |
 | חֵמָה (chemah) | H2534 | both → "indignation, fury" | chemah = burning heat, venom (117x, broadest of the group); zaʻam = more intense, specifically eschatological divine fury |
+
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 002001002002 | Angry | Core wrath field for divine indignation, matching the study's dominant prophetic-judgment usage |
 
 ## LXX Mapping
 
@@ -111,5 +130,5 @@ Note: G1632 (ekcheo, "pour out"), G4442 (pyr, "fire"), G4383 (prosōpon, "face")
 - [WG-hebrew-wrath.md](WG-hebrew-wrath.md) — Hebrew wrath cluster (zaʻam + aph + ebrah + charon + zaʻaph + qetseph + chemah)
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, strongs_translations.db*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, search_strongs.py, strongs_translations.db, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -21,6 +21,12 @@ Of uncertain affinity; **new (especially in freshness)**; while νέος (G3501)
 - **Subdomain:** 058.011 — New, Old [primarily non-temporal]
 - **Other words in subdomain:** ἀνακαινόω (G0341), ἀνακαίνωσις (G0342), ἀνανεόω (G0365), νέος (G3501), παλαιός (G3820), παλαιότης (G3821), πρόσφατος (G4372)
 
+## UBS Semantic Domains
+
+- **[067]** Time
+- **[058]** Nature, Class, Example
+- **[028]** Know
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -115,6 +121,12 @@ Outsiders respond to Jesus and Paul's message as something qualitatively new —
 ### Word Family / Cognates
 - **G2538 καινότης (kainótēs)** — noun: newness, renewal (2 verses: Rom 6:4, 7:6 — "newness of life," "newness of spirit")
 
+### Synonyms
+- **G3501 νέος (neos)** — new in time or age; the closest NT overlap, though more temporal than qualitative.
+
+### Antonyms
+- **G3820 παλαιός (palaios)** — old, worn, antiquated; the standard opposite in the wineskins/covenant contrast.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -148,7 +160,13 @@ The LXX virtually always renders H2319 châdâsh with G2537 καινός (38 co-
 - [G1242-diatheke.md](G1242-diatheke.md) — covenant/testament (top collocation)
 - [G1785-entole.md](G1785-entole.md) — commandment (top collocation)
 - [TR-beriyth-diatheke.md](TR-beriyth-diatheke.md) — covenant trace (beriyth ↔ diatheke)
+- [G1125-grapho.md](G1125-grapho.md) — write / writing
+- [G1457-enkainizo.md](G1457-enkainizo.md) — renew / dedicate
+- [G1632-ekcheo.md](G1632-ekcheo.md) — pour out (new-covenant blood contexts)
+- [G1081-gennema.md](G1081-gennema.md) — fruit / produce (new wine contexts)
+- [G3631-oinos.md](G3631-oinos.md) — wine
+- [G3742-hosiotes.md](G3742-hosiotes.md) — holiness / holy character
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, greek_parser.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, search_strongs.py, greek_parser.py, search_relationships.py*
+*Last updated: 2026-04-27*

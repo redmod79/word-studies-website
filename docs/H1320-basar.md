@@ -136,12 +136,34 @@ A distinctive prophetic metaphor: replacing the stony heart with a heart of bâs
 - **H1319 בָּשַׂר (bâsar)** — root verb: to announce, bring good news; bears fresh tidings
 - **H1321 בְּשַׁר (bᵉshar)** — Aramaic cognate (Dan 2:11; 4:12): same meaning, flesh/body
 
+### Synonyms
+- **H5785 עֹור (ʻôwr)** — skin/hide; overlaps with *bâsâr* when the body is viewed as physical tissue or covering.
+- **H6106 עֶצֶם (ʻetsem)** — bone; near-body term paired with *bâsâr* in kinship and anatomy formulas.
+- **H7607 שְׁאֵר (shᵉʼêr)** — flesh, close kin; overlaps with *bâsâr* in bodily and blood-relation contexts.
+- **H7605 שְׁאָר (shᵉʼâr)** — flesh / close relation; related bodily-kinship term surfaced by `search_relationships.py`.
+- **H251 אָח (ʼâch)** — brother; a kinship neighbor fitting the "bone and flesh" relational field.
+- **H120 אָדָם (ʼâdâm)** — man, humankind; overlaps where *bâsâr* refers to humanity collectively ("all flesh").
+- **H582 אֱנֹושׁ (ʼĕnôwsh)** — mortal man; overlaps with *bâsâr* in frailty and mortality contexts.
+
+### Antonyms
+- **H3519 כָּבֹוד (kâbôwd)** — glory / honor; contrasts with mere flesh in creaturely-versus-glory contexts.
+- **H3820 לֵב (lêb)** — heart; contrasts bodily flesh with the inner will / mind.
+- **H5315 נֶפֶשׁ (nephesh)** — soul / life; paired with flesh yet distinguished from it (for example, the "life of the flesh").
+- **H7307 רוּחַ (rûwach)** — spirit / breath; the classic counterpart to flesh in weakness-versus-spirit contrasts.
+- **לֵב אֶבֶן** — "heart of stone"; the negative counterpart to Ezekiel's "heart of flesh" metaphor.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
 |------|----------|--------------------|----------------|
 | שְׁאֵר (shᵉʼêr) | H7607 | flesh, kin | shᵉʼêr = flesh as swelling/abundance; emphasizes kinship ties by blood; less common (17v) |
 | טִבְחָה (ṭibchâh) | H2878 | flesh (slaughter) | ṭibchâh = specifically slaughtered/butchered meat; feminine of ṭebach; only 3v |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[001002007012] Relatives** — `search_relationships.py` groups *bâsâr* with kinship vocabulary, matching "bone and flesh" and shared-flesh family language. Neighbor set includes **H1 אָב** and **H251 אָח**.
+- **[002001002028] Willing** — `search_relationships.py` also places *bâsâr* in a broader body-response / volitional field, alongside terms such as **H14 אבה**, **H225 אות**, **H238/H239 אזן**, **H977 בחר**, and **H1878 דשׁן**.
 
 ## LXX Mapping
 
@@ -164,5 +186,5 @@ The LXX uses σάρξ (sárx) as the default equivalent, establishing the semant
 - [H7307-ruach.md](H7307-ruach.md) — contrasted: spirit vs. flesh
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, kjv.txt*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, search_strongs.py, kjv.txt, search_relationships.py*
+*Last updated: 2026-04-27*

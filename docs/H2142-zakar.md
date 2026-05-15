@@ -150,6 +150,19 @@ Hiphil participle מַזְכִּיר (mazkîr) = "one who causes to remember" = 
 - **H2145 זָכָר (zâkâr)** — male, man-child; possibly related denominative (183x)
 - **H2146 זִכְרוֹן (zikrôwn)** — memorial, remembrance, record (24x) — most direct noun cognate
 
+### Synonyms
+- **H995 בִּין (bîyn)** — understand, discern; neighboring cognitive verb in the memory/understanding field
+- **H1897 הָגָה (hâgâh)** — meditate, ponder, utter; overlaps where remembrance is reflective rehearsal
+- **H3045 יָדַע (yâdaʻ)** — know; overlaps when remembering functions as conscious acknowledgment
+- **עָלָה עַל־לֵב** — "come upon the heart / bring to mind" idiom returned by `search_relationships.py`
+- **שִׂיחַ** — meditation / musing vocabulary returned by `search_relationships.py`
+- **שָׂכַל** — consideration / wisdom vocabulary returned by `search_relationships.py`
+- **שׁוּב עַל־לֵב** — "bring back to heart" idiom returned by `search_relationships.py`
+- **שָׁמַע** — hearing / heeding vocabulary returned by `search_relationships.py`
+
+### Antonyms
+- **H7911 שָׁכַח (shâkach)** — forget; the direct opposite already visible in the study's negated *zakar* passages
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -157,6 +170,15 @@ Hiphil participle מַזְכִּיר (mazkîr) = "one who causes to remember" = 
 | זֵכֶר (zêker) | H2143 | "remembered" (1x overlap) | H2143 is a noun (memorial/name); H2142 is the verb |
 | שָׁכַח (shâkach) | H7911 | (antonym) | "forget" — functional opposite; often paired in antithesis |
 | פָּקַד (pâqad) | H6485 | "I remember" (1x overlap) | pâqad = visit/attend/appoint; zakar = mentally recall with action |
+
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 002004002007 | Know | Primary cognitive/memory field for remembering, recalling, and making mention |
+| 002003002020 | Sacrifice | Secondary cultic field, matching the lexicon's rare memorial/incense branch |
+| 001002007007 | Officials | Fits the Hiphil participial office-title *mazkîr* ("recorder") |
+| 002001001047 | Sex | Reflects the denominative lexicon branch "be male" alongside the remembrance sense |
 
 ## LXX Mapping
 
@@ -178,5 +200,5 @@ Hiphil participle מַזְכִּיר (mazkîr) = "one who causes to remember" = 
 - [WG-covenant.md](WG-covenant.md) — covenant word group
 
 ---
-*Generated from: gather_word_data.py, hebrew_parser.py (stem samples), gather_trace_data.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, hebrew_parser.py (stem samples), gather_trace_data.py, search_relationships.py*
+*Last updated: 2026-04-27*

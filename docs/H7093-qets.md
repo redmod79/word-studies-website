@@ -114,6 +114,14 @@ Rare usage retaining the root sense of an outer limit.
 - **H7097 קָצֶה (qatseh)** — end, edge, extremity (from H7112; spatial focus)
 - **H7098 קָצָה (qatsah)** — feminine form; coast, corner, termination
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for H7093.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for H7093.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -122,6 +130,11 @@ Rare usage retaining the root sense of an outer limit.
 | כָּלָה (kalah) | H3615 | "end" (54x) | Verb meaning to finish/consume/complete; qets is a noun — the fixed point itself |
 | אַחֲרִית (acharith) | H319 | "end" (33x) | The latter portion, aftermath, posterity; qets is the terminal point, acharith is what comes after |
 | אֶפֶס (ephes) | H657 | "end" (via LXX πέρας overlap) | Cessation/nothingness, often "ends of the earth"; qets is a temporal deadline |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002002003004] Non-Happen** — `search_relationships.py` groups *qets* with negated-limit expressions, a useful fit for "no end" constructions even though the study's broader semantic range also includes terminus and end-time usage.
 
 ## LXX Mapping
 
@@ -137,8 +150,16 @@ The split between πέρας (spatial/absolute end) and καιρός (appointed 
 
 ## See Also
 
+- [H6256-eth.md](H6256-eth.md) — time / appointed occasion; frequent pairing in the Danielic phrase "time of the end"
+- [H319-achariyth.md](H319-achariyth.md) — latter end, outcome, aftermath
+- [H314-acharown.md](H314-acharown.md) — last / latter
+- [H8141-shaneh.md](H8141-shaneh.md) — years; often paired with qets in "end of years" formulas
+- [G2540-kairos.md](G2540-kairos.md) — Greek appointed-time counterpart in end-time contexts
+- [G5550-chronos.md](G5550-chronos.md) — Greek duration/time counterpart
+- [G4930-synteleia.md](G4930-synteleia.md) — consummation / completion term
+- [TR-eth-kairos.md](TR-eth-kairos.md) — cross-testament trace: Hebrew time-language into Greek kairos usage
 - [WG-end](WG-end.md) — word group: end/termination concepts
 
 ---
-*Generated from: search_strongs.py, hebrew_parser.py, lxx-map*
-*Last updated: 2026-03-31*
+*Generated from: search_strongs.py, hebrew_parser.py, lxx-map, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -9,11 +9,11 @@ The fear/reverence concept spans both testaments through the yare-phobeo bridge,
 |----------|------|-----------------|-----|-------------|-----------------|---------------|
 | H3372 | יָרֵא | yare | verb | 317 | Core OT verb — to fear, revere; covers the full range | [H3372-yare.md](H3372-yare.md) |
 | H3373 | יָרֵא | yare | adj | 54 | "Fearing, reverent" — construct: "those who fear him" | TODO(need H3373 study) |
-| H3374 | יִרְאָה | yir'ah | noun | 42 | "Fear, reverence" — "the fear of the LORD" | TODO(need H3374 study) |
+| H3374 | יִרְאָה | yir'ah | noun | 42 | "Fear, reverence" — "the fear of the LORD" | [H3374-yirah.md](H3374-yirah.md) |
 | H6343 | פַּחַד | pachad | noun | 48 | "Dread, sudden alarm" — visceral terror | TODO(need H6343 study) |
 | H6342 | פָּחַד | pachad | verb | 25 | "Be startled, dread" — physical alarm | TODO(need H6342 study) |
 | G5399 | φοβέω | phobeo | verb | 90 | Core NT verb — to fear, to revere | [G5399-phobeo.md](G5399-phobeo.md) |
-| G5401 | φόβος | phobos | noun | 44 | The state — fear, reverence | TODO(need G5401 study) |
+| G5401 | φόβος | phobos | noun | 44 | The state — fear, reverence | [G5401-phobos.md](G5401-phobos.md) |
 | G5398 | φοβερός | phoberos | adj | 3 | The quality — fearful, terrible | TODO(need G5398 study) |
 | G4352 | προσκυνέω | proskyneo | verb | 54 | The behavioral response — worship, bow down | [G4352-proskyneo.md](G4352-proskyneo.md) |
 | G2125 | εὐλαβέομαι | eulabeomai | verb | 2 | Cautious, pious reverence — formal/ritual nuance | TODO(need G2125 study) |

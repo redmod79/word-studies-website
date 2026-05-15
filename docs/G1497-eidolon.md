@@ -17,12 +17,17 @@ From G1491 (εἶδος, eidos = form/appearance); an image (i.e. for worship); 
 
 The word derives from the Greek concept of *visible form* — an eidōlon is literally a "shaped thing," a representation given a concrete form, then applied specifically to images made for worship and, by extension, to the false deities they represent.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Primary Domain:** 006013 — Artifacts: Images and Idols
-- **Secondary Domain:** 012 — Supernatural Beings and Powers
+**Louw-Nida:**
+- **006013** — Artifacts: Images and Idols
+- **012** — Supernatural Beings and Powers
 
-Other words in domain 006013: εἰκών (G1504), κατείδωλος (G2712), μοσχοποιέω (G3447), ναός (G3485), τύπος (G5179), χάραγμα (G5480), Χερούβ (G5502)
+Other words in 006013: εἰκών (G1504), κατείδωλος (G2712), μοσχοποιέω (G3447), ναός (G3485), τύπος (G5179), χάραγμα (G5480), Χερούβ (G5502)
+
+**UBS Semantic Domains:**
+- **[006]** Artifacts
+- **[012]** Supernatural Beings and Powers
 
 ## Translation Distribution (KJV)
 
@@ -96,6 +101,17 @@ The sharpest NT usage sets eidōla in direct contrast to the θεὸς ζῶν (
 - **G1496 εἰδωλολάτρης (eidōlolatrēs)** — idolater (7 verses)
 - **G2712 κατείδωλος (kateidōlos)** — "full of idols" (Acts 17:16 of Athens; 1 verse)
 
+### Synonyms
+
+The clearest overlaps returned by `search_relationships.py` are:
+- **G1504 εἰκών (eikōn)** — image or representation; broader than εἴδωλον but overlaps in visible cultic imagery
+- **G3667 ὁμοίωμα (homoiōma)** — likeness, image-form
+- **G5499 χειροποίητος (cheiropoiētos)** — made by hands; a frequent descriptor for man-made cult objects
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G1497.*
+
 ### Easily Confused Words (KJV "idols" / "idol")
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -132,8 +148,14 @@ The LXX usage of εἴδωλον is notably broader than the NT usage — it ser
 ## See Also
 
 - [WG-abomination.md](WG-abomination.md) — word group including H1544 (gillûl), one of the primary Hebrew sources for eidōlon
+- [WG-gravenimage.md](WG-gravenimage.md) — carved / molten image vocabulary cluster
 - [G1504-eikon.md](G1504-eikon.md) — domain neighbor: broader image word; contrast with eidōlon
+- [G5480-charagma.md](G5480-charagma.md) — engraved mark/image field linked to image worship in Revelation
+- [G4574-sebasma.md](G4574-sebasma.md) — object of worship or veneration
+- [H6459-pecel.md](H6459-pecel.md) — carved image; one of the core Hebrew idol terms behind LXX εἴδωλον
+- [H6456-pciyl.md](H6456-pciyl.md) — Aramaic graven-image term
+- [H8251-shiqquwts.md](H8251-shiqquwts.md) — abomination/idol term cross-referenced with εἴδωλον
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, louw_nida.db*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, search_strongs.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

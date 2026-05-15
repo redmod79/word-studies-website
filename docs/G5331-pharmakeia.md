@@ -21,6 +21,12 @@ From φάρμακον (pharmakon, a drug / spell-giving potion); medication ("ph
 - **Parent Domain:** 53 — Religious Activities
 - **Other words in subdomain:** βασκαίνω (G940), μαγεία (G3095), μαγεύω (G3096), μάγος (G3097), περίεργος (G4021), φάρμακον (G5331a), φάρμακος (G5333)
 
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 053 | Religious Activities | `search_relationships.py` locates *pharmakeia* in the religious-activity field, reinforcing that the NT uses treat it as cultic/spiritual practice rather than neutral medicine. |
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -74,6 +80,14 @@ With only 3 verses, all collocations are 1x. The most theologically significant 
 
 All three cognates share the pharma- root and cluster exclusively in Galatians 5 and Revelation 9, 18, 21, 22.
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G5331.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G5331.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -119,7 +133,9 @@ No Hebrew sources found via LXX alignment data. However, the lexicon references 
 ## See Also
 
 - [WG-sorcery.md](WG-sorcery.md) — word group: sorcery/magic concept cluster
+- [G1484-ethnos.md](G1484-ethnos.md) — nations; Revelation 18:23 links Babylon's sorceries with the deception of all nations
+- [G3340-metanoeo.md](G3340-metanoeo.md) — repent; Revelation 9:21 frames pharmakeia as a sin the wicked refuse to repent of
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db*
-*Last updated: 2026-04-08*
+*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, search_relationships.py, louw_nida.db*
+*Last updated: 2026-04-28*

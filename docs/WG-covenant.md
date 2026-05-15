@@ -12,7 +12,7 @@ The covenant concept in Hebrew Scripture involves a cluster of words describing 
 | H5769 | עוֹלָם | olam | noun | 439 | The duration — "everlasting" covenant | TODO(need H5769 study) |
 | H8104 | שָׁמַר | shamar | verb | 468 | The obligation — "keeping" the covenant | TODO(need H8104 study) |
 | H727 | אָרוֹן | aron | noun | 202 | The container — "ark of the covenant" | — |
-| H5674 | עָבַר | avar | verb | 559 | Transgression — "breaking" the covenant | TODO(need H5674 study) |
+| H5674 | עָבַר | avar | verb | 559 | Transgression — "breaking" the covenant | [H5674](H5674-abar.md) |
 | G1242 | διαθήκη | diathēkē | noun | 30 (NT) | Greek NT equivalent — covenant/testament | [G1242](G1242-diatheke.md) |
 
 ## Relationships

@@ -26,6 +26,12 @@ From καταλλάσσω (G2644); exchange (figuratively, adjustment), i.e. res
 - **Subdomain:** 040.001 — Reconciliation
 - **Other words in subdomain:** ἀπαλλάσσω (G525), ἀποκαταλλάσσω (G604), ἄσπονδος (G786), διαλλάσσω (G1259), εἰρηνοποιέω (G1517), εἰρηνοποιός (G1518), καταλλάσσω (G2644), μεσίτης (G3316), συναλλάσσω (G4900a)
 
+## UBS Semantic Domains
+
+- **[040] Reconciliation, Forgiveness**
+
+*UBS keeps καταλλαγή within the reconciliation/forgiveness domain, aligning with Paul's consistent relational-restoration usage.*
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -91,6 +97,12 @@ Katallagē names both the task entrusted to Paul (and believers) and its content
 - **G0604 ἀποκαταλλάσσω** — compound: to reconcile fully/completely (3x: Eph 2:16; Col 1:20, 21)
 - **G0236 ἀλλάσσω** — base verb: to exchange, change (6x)
 
+### Synonyms
+No direct curated synonyms returned by `search_relationships.py`.
+
+### Antonyms
+No direct curated antonyms returned by `search_relationships.py`.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -118,10 +130,11 @@ No direct LXX source. katallagē is a purely NT theological term coined by Paul.
 
 ## See Also
 
-- [WG-atonement](WG-atonement.md) — Hebrew atonement word cluster (kaphar, kippur, kapporeth, chattaah)
-- [G2435-hilasterion](G2435-hilasterion.md) — propitiation / mercy seat
-- [G2644 καταλλάσσω](#) — TODO(need G2644 study)
+- [WG-atonement.md](WG-atonement.md) — Hebrew atonement word cluster (kaphar, kippur, kapporeth, chattaah)
+- [G2435-hilasterion.md](G2435-hilasterion.md) — propitiation / mercy seat
+- [G2222-zoe.md](G2222-zoe.md) — ζωή (zōḗ)
+- [G2644-katallasso.md](G2644-katallasso.md) — root verb: to reconcile
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -21,6 +21,13 @@ From the present participle of πάρειμι (pareimi); a being near, i.e. adve
 - **Domain 85.001** — Be in a Place (presence/being there)
 - Related domain neighbors: εἴσοδος (G1529, entrance), ἔλευσις (G1660, advent), παραγίνομαι (G3854, formal arrival), ἀπουσία (G666, absence)
 
+## UBS Semantic Domains
+
+- **[015]** Linear Movement
+- **[085]** Existence in Space
+
+*UBS preserves the noun's double force: arrival/movement into view and the state of being bodily present.*
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -96,7 +103,14 @@ One occurrence deliberately mirrors Christ's parousia with Satan's:
 
 ### Word Family / Cognates
 - **G3918 πάρειμι (pareimi)** — root verb: to be present, to be at hand; "the things that are present" (2 Pet 1:9)
-- **G666 ἀπουσία (apousia)** — exact antonym: absence (used only in Phil 2:12, immediately following parousía in 2:12 — "not as in my presence…but now in my absence")
+- **G666 ἀπουσία (apousia)** — absence; contrast noun paired directly with παρουσία in Phil 2:12
+
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G3952.*
+
+### Antonyms
+- **G666 ἀπουσία (apousia)** — explicit antonym returned by `search_relationships.py`; Phil 2:12 sets παρουσία / ἀπουσία in direct contrast ("presence ... absence").
 
 ### Easily Confused Words
 
@@ -114,8 +128,13 @@ One occurrence deliberately mirrors Christ's parousia with Satan's:
 The closest Hebrew concept is **בּוֹא (bôwʼ, H935)** — to come, to arrive — which the LXX translates with ἔρχομαι (G2064), not parousía. See [WG-came.md](WG-came.md) for the full "coming" word group that includes both H935 and its NT Greek equivalents.
 
 ## See Also
+- [G2064-erchomai.md](G2064-erchomai.md) — the basic verb "to come"; closest general-motion counterpart
+- [G2015-epiphaneia.md](G2015-epiphaneia.md) — appearing; luminous-visibility companion term to παρουσία
+- [G602-apokalypsis.md](G602-apokalypsis.md) — revelation / unveiling; adjacent advent-manifestation vocabulary
+- [G444-anthropos.md](G444-anthropos.md) — "Son of man" collocation background in Matthew's parousia sayings
 - [WG-came.md](WG-came.md) — word group: Come / Arrival Vocabulary (érchomai, hḗkō, parousía, epérchomai, paragínomai)
+- [WG-appearing.md](WG-appearing.md) — word group: appearing / manifestation vocabulary that overlaps with παρουσία
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, kjv.txt*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, kjv.txt, search_relationships.py*
+*Last updated: 2026-04-27*

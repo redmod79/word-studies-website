@@ -26,7 +26,7 @@ H2451, 141x          115x as translation    49x in NT
 - **Pro 1:7** — "The fear of the LORD is the beginning of knowledge" (wisdom's theological foundation)
 - **1 Ki 3:28** — "the wisdom of God was in him, to do judgment" (Solomon; judicial wisdom)
 
-Library entry: TODO(need H2451 study)
+Library entry: [H2451-chokmah.md](H2451-chokmah.md)
 
 ## LXX Bridge
 

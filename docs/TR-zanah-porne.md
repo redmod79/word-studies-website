@@ -24,7 +24,7 @@ H2181 is a verb root meaning to commit fornication or play the harlot. In the OT
 - **Exod 34:15** — "they go a whoring after their gods" (figurative; idolatry as harlotry)
 - **Judg 2:17** — "they went a whoring after other gods" (Israel's unfaithfulness cycle)
 
-Library: TODO(need H2181 study)
+Library: [H2181-zanah.md](H2181-zanah.md)
 
 ## LXX Bridge
 

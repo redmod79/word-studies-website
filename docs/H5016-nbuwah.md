@@ -63,6 +63,14 @@ With only 3 verses, no statistically significant collocations emerge. The most n
 - **H5031 נְבִיאָה (nᵉbîyʼâh)** — prophetess (6 occ)
 - **H5017 נְבוּאָה (nᵉbûwʼâh, Aramaic)** — prophesying (1 occ, Ezra 6:14) — Aramaic cognate with identical form
 
+### Synonyms
+
+*No direct synonyms returned by `search_relationships.py` for H5016.*
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for H5016.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -70,6 +78,12 @@ With only 3 verses, no statistically significant collocations emerge. The most n
 | מַשָּׂא (massâʼ) | H4853 | "prophecy" (2x in KJV) | massa primarily means "burden, load"; extended to "oracle/utterance" as a prophetic burden (Isa, Hab, Zech headings). nebuw'ah is specifically a prediction. |
 | נָבִיא (nâbîyʼ) | H5030 | "prophecy" (1x, Dan 9:24) | nabiy means "prophet" (the person); KJV renders it "prophecy" in Dan 9:24 ("seal up vision and prophecy"), but the Hebrew literally reads "vision and prophet." |
 | חָזוֹן (châzôwn) | H2377 | both denote prophetic revelation | chazon = vision (what is seen); nebuw'ah = prediction (what is spoken/written). Paired in 2 Chr 9:29 as distinct source types. |
+
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 002004001009008 | Speak | `search_relationships.py` places *nᵉbûwʼâh* in the speech/proclamation field, fitting its use for a prophetic utterance or prophetic record rather than a generic vision term. |
 
 ## LXX Mapping
 
@@ -85,5 +99,5 @@ This is a notable translation choice: the LXX does not use propheteia (G4394) fo
 - [H2377-chazon.md](H2377-chazon.md) — vision (chazon), paired with nebuw'ah in 2 Chr 9:29
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, hebrew_parser.py*
-*Last updated: 2026-04-11*
+*Generated from: gather_word_data.py, search_strongs.py, hebrew_parser.py, search_relationships.py*
+*Last updated: 2026-04-27*

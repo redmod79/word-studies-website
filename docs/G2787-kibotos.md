@@ -22,6 +22,10 @@ Of uncertain derivation; a box, i.e. the sacred ark and that of Noah.
 
 The dual domain assignment reflects the two distinct referents: κιβωτός denotes both the Ark of the Covenant (a container) and Noah's ark (a vessel). The Louw-Nida classification captures both without distinguishing them.
 
+## UBS Semantic Domains
+
+- **[006] Artifacts** — a crafted object used either as a sacred container (the covenant ark) or as a vessel (Noah's ark).
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -74,6 +78,14 @@ Hebrews uses the word twice — one for each referent (Noah's ark in 11:7; Ark o
 - **H727 אָרוֹן (ʼārôn)** — Ark of the Covenant; primary LXX source (160x, PMI 34.64); masculine noun from root meaning "to gather"
 - **H8392 תֵּבָה (têbâh)** — Noah's ark and Moses' wicker basket; secondary LXX source (23x, PMI 21.62)
 
+### Synonyms
+
+*No synonyms were returned by `search_relationships.py` for G2787.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G2787.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -103,11 +115,16 @@ The single Greek term κιβωτός bridges two distinct Hebrew words. H727 (ar
 
 ## See Also
 
+- [H1285-beriyth.md](H1285-beriyth.md) — covenant; "ark of the covenant" is the dominant sacred phrase
+- [G1242-diatheke.md](G1242-diatheke.md) — covenant/testament; Greek covenant phrase built around the ark
+- [H5715-eduwth.md](H5715-eduwth.md) — testimony; "ark of the testimony" compounds
+- [H1687-debir.md](H1687-debir.md) — inner sanctuary/oracle; ark-placement passages
+- [G1060-gameo.md](G1060-gameo.md) — marry; Noah's ark setting in Matt 24 and Luke 17
 - [TR-arown-kibotos.md](TR-arown-kibotos.md) — cross-testament trace: H727 ʼārôn → κιβωτός in LXX → NT usage
 - [TR-beriyth-diatheke.md](TR-beriyth-diatheke.md) — covenant (collocated: "ark of the covenant")
 - [TR-kapporeth-hilasterion.md](TR-kapporeth-hilasterion.md) — mercy seat / lid of the Ark
 - [WG-covenant.md](WG-covenant.md) — covenant word group
 
 ---
-*Generated from: gather_word_data.py, gather_trace_data.py, search_strongs.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, gather_trace_data.py, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

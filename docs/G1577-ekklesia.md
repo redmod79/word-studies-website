@@ -15,11 +15,16 @@
 
 From a compound of G1537 (ek, "out of") and a derivative of G2564 (kaleō, "to call"); a calling out, i.e. a popular meeting, especially a religious congregation (Jewish synagogue or Christian community of members on earth, saints in heaven, or both). KJV: assembly, church.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Domain 011002:** Groups and Classes of Persons — Socio-Religious
-- **Domain 011003:** Groups and Classes of Persons — Socio-Political
-- **Words in domain (011002):** ἅγιος (G40), ἀδελφός (G80), ἀδελφότης (G81), αἵρεσις (G139), ἀποσυνάγωγος (G656), ἀπόστολος (G652)
+**Louw-Nida:**
+- **011002** — Groups and Classes of Persons — Socio-Religious
+- **011003** — Groups and Classes of Persons — Socio-Political
+
+Words in 011002: ἅγιος (G40), ἀδελφός (G80), ἀδελφότης (G81), αἵρεσις (G139), ἀποσυνάγωγος (G656), ἀπόστολος (G652)
+
+**UBS Semantic Domains:**
+- **[011]** Groups and Classes of Persons and Members of Such Groups and Classes
 
 ## Translation Distribution (KJV)
 
@@ -126,6 +131,14 @@ In Acts 19, ekklesia refers to the pagan Ephesian civic assembly — demonstrati
 - **G2821 κλῆσις (klēsis)** — "calling, vocation" — cognate noun (11x)
 - **G2822 κλητός (klētos)** — "called, invited" — cognate adjective (10x)
 
+### Synonyms
+
+- **G4864 συναγωγή (synagōgē)** — assembly, gathering; the nearest formal overlap returned by `search_relationships.py`, though NT usage keeps synagogue and church distinct
+
+### Antonyms
+
+*`search_relationships.py` surfaced σύλλογος as a contrasting non-Strong's assembly term, but it did not return a Strong's-mapped NT antonym for G1577.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -159,7 +172,14 @@ The dominant Hebrew source is H6951 (qahal), the OT word for Israel's covenant a
 
 - [TR-qahal-ekklesia.md](TR-qahal-ekklesia.md) — cross-testament trace: Hebrew qahal → Greek ekklesia
 - [WG-church.md](WG-church.md) — word group: church/assembly cluster
+- [G3087-lychnia.md](G3087-lychnia.md) — lampstand imagery paired with the churches in Revelation
+- [G1125-grapho.md](G1125-grapho.md) — write; the repeated "write to the church" formula in Revelation
+- [G746-arche.md](G746-arche.md) — beginning / ruler; used in Christological contexts tied to the church
+- [G1772-ennomos.md](G1772-ennomos.md) — under law; linked through covenant-community framing
+- [G4245-presbyteros.md](G4245-presbyteros.md) — elders appointed in and over local churches
+- [G3528-nikao.md](G3528-nikao.md) — overcome; the exhortation formula addressed to the churches in Revelation
+- [H5975-amad.md](H5975-amad.md) — stand in the assembly / congregation
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, gather_trace_data.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, gather_trace_data.py, search_relationships.py*
+*Last updated: 2026-04-27*

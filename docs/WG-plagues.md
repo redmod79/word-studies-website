@@ -9,7 +9,7 @@ Three Greek words cover the semantic range of "blow, stripe, wound, plague" in t
 |----------|------|-----------------|-----|-------------|-----------------|---------------|
 | G4127 | πληγή | plēgḗ | fem. noun | 22 | The blow/stroke itself — broadest term; physical lash, wound, or divine judgment plague | [G4127-plege.md](G4127-plege.md) |
 | G3148 | μάστιξ | mástix | fem. noun | 6 | The scourge/whip — by extension the disease or plague inflicted by it | TODO(need G3148 study) |
-| G3468 | μώλωψ | mṓlōps | masc. noun | 1 | The weal/bruise left by a blow — 1 Pet 2:24, citing Isa 53:5 | TODO(need G3468 study) |
+| G3468 | μώλωψ | mṓlōps | masc. noun | 1 | The weal/bruise left by a blow — 1 Pet 2:24, citing Isa 53:5 | [G3468-molops.md](G3468-molops.md) |
 
 ## Relationships
 

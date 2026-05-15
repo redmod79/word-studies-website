@@ -16,9 +16,9 @@ a day. The NT Greek word ἡμέρα (G2250) is the direct LXX and NT equivalent
 | H3117 | יוֹם | yôwm | masc. noun | 1926 | Day as unit of time — all senses | [H3117-yowm.md](H3117-yowm.md) |
 | H3119 | יוֹמָם | yôwmâm | adverb | 50 | "By day / in the daytime" — always in contrast with night | TODO(need H3119 study) |
 | H3118 | יוֹם | yôwm (Aram.) | masc. noun | 15 | Aramaic cognate — Daniel and Ezra only | TODO(need H3118 study) |
-| H3915 | לַיְלָה | layil / laylah | masc. noun | 223 | Night — primary antonym of yôwm | TODO(need H3915 study) |
+| H3915 | לַיְלָה | layil / laylah | masc. noun | 223 | Night — primary antonym of yôwm | [H3915-layil.md](H3915-layil.md) |
 | H6256 | עֵת | ʻêth | fem. noun | 258 | Appointed time/moment within a day or era | [H6256-eth.md](H6256-eth.md) |
-| G2250 | ἡμέρα | hēméra | fem. noun | 365 | NT Greek equivalent — full range of yôwm | TODO(need G2250 study) |
+| G2250 | ἡμέρα | hēméra | fem. noun | 365 | NT Greek equivalent — full range of yôwm | [G2250-hemera.md](G2250-hemera.md) |
 
 ## Pairwise Co-occurrence (Shared Distinct Verses)
 
@@ -82,8 +82,6 @@ which day) with the what moment (ʻêth = the right time within it).
 |-------------|----------|-----------|
 | H3119 word study | H3119-yowmam.md | WG-day.md |
 | H3118 word study | A3118-yowm.md | WG-day.md |
-| H3915 word study | H3915-layil.md | WG-day.md |
-| G2250 word study | G2250-hemera.md | WG-day.md, WG-sabbath.md, WG-third.md |
 
 ---
 *Generated from: gather_word_group_data.py H3117 H3119 H3118 H3915 H6256 G2250*

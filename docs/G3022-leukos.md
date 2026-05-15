@@ -25,6 +25,11 @@ From λύκη lykē ("light"); white: — white.
 
 *Note: Dual placement reflects etymology — white conceived as the color of light.*
 
+### UBS Semantic Domains
+
+- **[079] Features of Objects** — color and visible features. Other words: ἄδολος (G97), ἀκαθαρσία (G167), ἀκατακάλυπτος (G177), ἄκρατος (G194), ἄκρον (G206), ἀμαράντινος (G262)
+- **[014] Physical Events and States** — whiteness/radiance in a broader light field. Other words: ἀλαλάζω (G214), ἅλλομαι (G242), ἀνάπτω (G381), ἀνατέλλω (G393), ἀνατολή (G395), ἄνεμος (G417)
+
 ## Domain Neighbors (014.006 — Light)
 
 | Strong's | Word | Transliteration | Occurrences | Primary KJV |
@@ -112,6 +117,12 @@ From λύκη lykē ("light"); white: — white.
 ### Word Family / Cognates
 - **G3021 λευκαίνω (leukaínō)** — to whiten, make white (verb): Mark 9:3 ("no fuller can white them"); Rev 7:14 ("made them white in the blood of the Lamb")
 
+### Synonyms
+- No direct synonym entries were returned by `search_relationships.py` for G3022.
+
+### Antonyms
+- **μέλας (G3189)** — black; explicit color opposite in the Abbott-Smith relationship data
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -133,9 +144,15 @@ From λύκη lykē ("light"); white: — white.
 
 ## See Also
 
+- [G1391-doxa.md](G1391-doxa.md) — glory/radiance study
+- [G2362-thronos.md](G2362-thronos.md) — throne study: white-throne imagery
+- [G2462-hippos.md](G2462-hippos.md) — horse study: white horse imagery
+- [G2776-kephale.md](G2776-kephale.md) — head study: white hair imagery
+- [G3528-nikao.md](G3528-nikao.md) — overcomer study linked to white garments
+- [G4735-stephanos.md](G4735-stephanos.md) — crown study referencing white/celestial imagery
 - [TR-laban-leukos.md](TR-laban-leukos.md) — cross-testament trace: H3836 → G3022
 - [WG-white.md](WG-white.md) — NT color vocabulary word group
 
 ---
-*Generated from: gather_word_data.py, gather_trace_data.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, gather_trace_data.py, search_relationships.py*
+*Last updated: 2026-04-27*

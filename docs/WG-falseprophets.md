@@ -9,7 +9,7 @@ The false prophets concept in the NT clusters around the compound ψευδοπρ
 |----------|------|-----------------|-----|-------------|-----------------|---------------|
 | G5578 | ψευδοπροφήτης | pseudoprophḗtēs | masculine noun | 11 | The counterfeit: false prophet | [G5578-pseudoprophetes.md](G5578-pseudoprophetes.md) |
 | G5580 | ψευδόχριστος | pseudóchristos | masculine noun | 2 | The parallel counterfeit: false Christ | TODO(need G5580 study) |
-| G4396 | προφήτης | prophētēs | masculine noun | 143 | The legitimate role being imitated | TODO(need G4396 study) |
+| G4396 | προφήτης | prophētēs | masculine noun | 143 | The legitimate role being imitated | [G4396-prophetes.md](G4396-prophetes.md) |
 | G4105 | πλανάω | planáō | verb | 37 | The mechanism: to deceive, lead astray | TODO(need G4105 study) |
 | G5571 | ψευδής | pseudēs | adjective | 3 | The root qualifier: false, spurious | TODO(need G5571 study) |
 

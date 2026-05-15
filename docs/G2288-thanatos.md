@@ -16,11 +16,15 @@
 
 From θνήσκω (thnēskō); (properly, an adjective used as a noun) death (literally or figuratively). Encompasses both physical death and its figurative/spiritual dimensions.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
+**Louw-Nida:**
 - **Primary Domain:** 023007 — Physiological Processes and States → Live, Die
 - **Secondary Domain:** 023009 — Sickness, Disease, Weakness
 - **Key co-domain words:** ζωή (G2222, life), ᾅδης (G0086, hades), ἀθανασία (G0110, immortality), ἀνάστασις (G0386, resurrection), ἀποθνῄσκω (G0599, to die)
+
+**UBS Semantic Domains:**
+- **[023]** Physiological Processes and States
 
 ## Translation Distribution (KJV)
 
@@ -129,6 +133,13 @@ NT quotations echoing the OT צַלְמָוֶת (tsalmaveth) — "shadow of deat
 - **G2286 θανάσιμος (thanasimos)** — deadly, fatal (1 verse: "deadly thing," Mark 16:18)
 - **G1935 ἐπιθανάτιος (epithanatios)** — condemned to death (1 Cor 4:9; domain 023007)
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G2288.*
+
+### Antonyms
+- **G2222 ζωή (zōē)** — life; explicit antonym returned by `search_relationships.py`.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -163,9 +174,17 @@ NT quotations echoing the OT צַלְמָוֶת (tsalmaveth) — "shadow of deat
 
 ## See Also
 
+- [G2222-zoe.md](G2222-zoe.md) — the primary antonym life
+- [H7585-showl.md](H7585-showl.md) — שְׁאוֹל / grave-realm vocabulary tied to death
+- [TR-showl-haides.md](TR-showl-haides.md) — Sheol / Hades trace for death-realm terminology
+- [G4639-skia.md](G4639-skia.md) — "shadow" language intersecting with death imagery
+- [G2673-katargeo.md](G2673-katargeo.md) — "destroy/abolish" vocabulary used in death's defeat
+- [G4127-plege.md](G4127-plege.md) — plague / stroke language clustered with death judgments
+- [G4591-semaino.md](G4591-semaino.md) — signifying language used in death-prophecy contexts
 - [TR-maveth-thanatos.md](TR-maveth-thanatos.md) — cross-testament trace: H4194 → G2288
 - [WG-death.md](WG-death.md) — word group: death, life, sin, hades, resurrection
+- [WG-life.md](WG-life.md) — companion word group on the life / death axis
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, louw_nida.db*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, search_strongs.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -22,7 +22,7 @@ H5307, 403x        239x as translation     85x in NT
 - **Deu 9:18** — "I fell down before the LORD, as at the first, forty days and forty nights" (prostration in worship)
 - **Isa 21:9** — "Babylon is fallen, is fallen" (judgment on city — echoed verbatim in Rev 14:8; 18:2)
 
-TODO(need H5307 study)
+See [H5307-naphal.md](H5307-naphal.md) for the full word study.
 
 ## LXX Bridge
 

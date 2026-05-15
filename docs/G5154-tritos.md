@@ -16,11 +16,16 @@
 
 Ordinal from G5140; **third**; neuter (as noun) **a third part**; (as adverb) **a third time** (thirdly).
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Domain 60.003** — *First, Second, Third, Etc.* [Ordinals]
-- **Domain 60.004** — *Half, Third, Fourth* [Fractional Part]
-- Other words in 60.004: δέκατος (G1182 — tenth), ἥμισυς (G2255 — half), τέταρτος (G5067 — fourth)
+**Louw-Nida:**
+- **60.003** — *First, Second, Third, Etc.* [Ordinals]
+- **60.004** — *Half, Third, Fourth* [Fractional Part]
+
+Other words in 60.004: δέκατος (G1182 — tenth), ἥμισυς (G2255 — half), τέταρτος (G5067 — fourth)
+
+**UBS Semantic Domains:**
+- **[060]** Number
 
 ## Translation Distribution (KJV)
 
@@ -111,6 +116,14 @@ An action done a third time, often marking a climactic or emphatic repetition.
 - **G5150 τρίμηνον (trimenon)** — noun: three months
 - **G5148 τριετία (trietia)** — noun: three years
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G5154.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G5154.*
+
 ### Easily Confused Words (Shared KJV Translation)
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -142,8 +155,14 @@ An action done a third time, often marking a climactic or emphatic repetition.
 ## See Also
 
 - [TR-shliyshiy-tritos.md](TR-shliyshiy-tritos.md) — cross-testament trace: H7992 shᵉlîyshîy → G5154 trítos
+- [H7992-shliyshiy.md](H7992-shliyshiy.md) — Hebrew ordinal counterpart and dominant OT source behind τρίτος
+- [H7969-shalowsh.md](H7969-shalowsh.md) — cardinal "three," the broader number-family source behind the ordinal
+- [G2250-hemera.md](G2250-hemera.md) — "the third day" collocation central to resurrection usage
+- [G615-apokteino.md](G615-apokteino.md) — passion-prediction pairing: killed and raised the third day
+- [G4537-salpizo.md](G4537-salpizo.md) — Revelation's third-trumpet sequence
+- [G225-aletheia.md](G225-aletheia.md) — references the "third day" resurrection formula in truth-language discussion
 - [WG-third.md](WG-third.md) — word group: ordinal number family + third-day resurrection cluster
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, louw_nida.db*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, search_strongs.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-28*

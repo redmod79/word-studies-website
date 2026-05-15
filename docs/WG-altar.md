@@ -12,7 +12,7 @@ The altar/sacrifice concept in the NT involves a cluster of words centered on θ
 | G2380 | θύω | thyō | verb | 14 | The action (to sacrifice/slay) | TODO(need G2380 study) |
 | G1041 | βωμός | bōmós | noun (m) | 1 | Pagan altar (contrast) | TODO(need G1041 study) |
 | G1435 | δῶρον | dōron | noun (n) | 19 | The gift brought to the altar | TODO(need G1435 study) |
-| G129 | αἷμα | haîma | noun (n) | 99 | The blood shed at the altar | TODO(need G129 study) |
+| G129 | αἷμα | haîma | noun (n) | 99 | The blood shed at the altar | [G129-haima.md](G129-haima.md) |
 
 ## Relationships
 

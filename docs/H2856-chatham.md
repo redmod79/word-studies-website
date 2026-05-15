@@ -103,6 +103,14 @@ The basic physical sense: stopping a flow or enclosing something completely.
 - **H2368 חוֹתָם (chowtham)** — noun: the seal or signet ring (the instrument used to seal); 3 OT occurrences
 - **H2857 חֲתַם (chatham, Aram.)** — Aramaic cognate: to seal; 1 occurrence (Dan 6:18 — the lion's den stone)
 
+### Synonyms
+- **H3647 כמס** — returned by `search_relationships.py` as a nearby term in the field of closing / sealing.
+- **H2950 טפל** — surfaced by `search_relationships.py` as another neighboring term in the same broad closure field.
+
+### Antonyms
+
+No antonyms were returned by `search_relationships.py` for H2856.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -110,6 +118,17 @@ The basic physical sense: stopping a flow or enclosing something completely.
 | חוֹתָם (chowtham) | H2368 | both → "seal" in KJV | H2856 is the verbal action; H2368 is the noun instrument (the signet ring itself) |
 | σφραγίζω (sphragizō) | G4972 | both → "seal/sealed" | NT Greek functional equivalent; extends OT sealing into Spirit-sealing (Eph 1:13; 4:30) |
 | σφραγίς (sphragis) | G4973 | both → "seal" | NT noun for the seal/signet; corresponds to H2368 more closely than H2856 |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002003001001] Attach** — `search_relationships.py` groups *châtham* with attachment language, alongside **H707 ארג**, **H1487 גּוּשׁ**, **A1693/H1692 דבק**, **H1694 דֶּבֶק**, and **H1695 דָּבֵק**.
+- **[002001001013] Close** — the clearest match for the root's basic sense, with neighbors such as **H1443 גדר**, **H1479 גוף**, **H2902 טחח**, **H5274 נעל**, and **A5463/H5462 סגר**.
+- **[002002001010] Hide** — the same relationship data links *châtham* to concealment vocabulary, including **H693 ארב**, **H2244 חבא**, **H2247 חבה**, **H2620 חסה**, and **H2622 חָסוּת**.
+- **[002001001061] Unable** — a secondary field associating closure with being shut off or hindered, with neighbors such as **H334 אִטֵּר**, **H481/H483 אלם**, **H1208 בָּצוּר**, **H1219 בצר**, and **H1565 גַּלְמוּד**.
+- **[002004002007] Know** — `search_relationships.py` also places *châtham* near markers / signs of recognition, including **H183/H184 אוה**, **H226 אֹות**, **H262/H264 אַחֲוָה**, and **H502 אלף**.
+- **[002001003018] True** — the tool links sealing with confirmation / attestation vocabulary, including **H539/H540 אמן**, **H974 בחן**, **H3027 יָד**, **A3330 יַצִּיב**, and **H3559 כון**.
+- **[002003003015] Innocent** — another secondary association groups *châtham* with purity / innocence language, including **H935 בוא**, **H1252/H1253 בֹּר**, **H1305 ברר**, and **H1460 גֵּו**.
 
 ## LXX Mapping
 
@@ -126,5 +145,5 @@ The basic physical sense: stopping a flow or enclosing something completely.
 - [WG-sealing.md](WG-sealing.md) — word group: sealing concept cluster (H2856, H2368, H2857, G4972, G4973, G2696)
 
 ---
-*Generated from: gather_word_data.py, hebrew_parser.py*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, hebrew_parser.py, search_relationships.py*
+*Last updated: 2026-04-27*

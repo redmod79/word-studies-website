@@ -21,6 +21,11 @@ A diminutive of βίβλος (G976); a roll or scroll: — bill, book, scroll, w
 - **Domain 33.005:** Written Language — scroll, roll, book
 - **Other words in domain 6.10:** βιβλαρίδιον (G974), βίβλος (G976), γράμμα (G1121), ἐπιστολή (G1992), κάλαμος (G2563), κατασφραγίζω (G2696), κεφαλίς (G2777), μέλας (G3189), μεμβράνα (G3200), σφραγίζω (G4972), σφραγίς (G4973)
 
+## UBS Semantic Domains
+
+- **[006] Artifacts** — `search_relationships.py` places **βιβλίον** among physical writing objects and documentary artifacts.
+- **[033] Communication** — the same tool also tags **βιβλίον** for its content-bearing role as written communication, prophecy, or legal record.
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -106,6 +111,12 @@ Overwhelmingly concentrated in Revelation (18 of 28 verses, 64%). Outside Revela
 - **G976 βίβλος (biblos)** — parent form; the inner bark of papyrus, hence a scroll or book. 12 verses. Used for "book of the generation" (Mat 1:1), "book of life" (Php 4:3, Rev 3:5), and OT references (Mk 12:26, Lk 3:4, 20:42, Acts 1:20, 7:42). Biblion is the diminutive but in NT usage carries no sense of "smaller" — the two are essentially synonymous.
 - **G974 βιβλαρίδιον (biblaridion)** — double diminutive; "little scroll." Used only in Rev 10:2, 9, 10 for the open scroll in the angel's hand.
 
+### Synonyms
+- **G4109 πλάξ (plax)** — tablet; `search_relationships.py` surfaced it as a nearby writing-surface term in the same documentary field rather than a full substitute for every **biblion** use.
+
+### Antonyms
+*No antonyms were returned by `search_relationships.py` for G975.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -140,13 +151,18 @@ The dominant LXX source is H5612 סֵפֶר (sepher) with 142 co-occurrences —
 
 ## See Also
 
+- [G974-bibliaridion.md](G974-bibliaridion.md) — the diminutive "little scroll" of Rev 10
 - [G1125-grapho.md](G1125-grapho.md) — "to write" — top collocation (13x)
+- [G4394-propheteia.md](G4394-propheteia.md) — "prophecy"; central to "the prophecy of this book" in Revelation
+- [G5498-cheirographon.md](G5498-cheirographon.md) — handwritten document / certificate, another document term in the same field
 - [G4972-sphragizo.md](G4972-sphragizo.md) — "to seal" — domain neighbor
 - [G4973-sphragis.md](G4973-sphragis.md) — "seal" — domain neighbor, key collocation
+- [H2856-chatham.md](H2856-chatham.md) — Hebrew "seal," reflected in sealed-scroll contexts
+- [H3499-yether.md](H3499-yether.md) — Hebrew study that cross-references documentary/written-surplus language with G975
 - [TR-kathab-grapho.md](TR-kathab-grapho.md) — cross-testament trace for writing
 - [WG-writing.md](WG-writing.md) — word group: writing cluster
 - [WG-sealing.md](WG-sealing.md) — word group: sealing cluster
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-15*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

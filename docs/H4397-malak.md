@@ -127,6 +127,14 @@ Humans who function as God's mouthpiece — priests, prophets, and heralds. The 
 - **H4398 מַלְאַךְ (malʼak)** — Aramaic cognate, exact equivalent; "angel" (Dan 3:28; 6:22) — 2x in OT
 - **H4400 מַלְאֲכוּת (malʼăkûwth)** — "message, mission, office of messenger" — 1x (Hag 1:13 "LORD'S message")
 
+### Synonyms
+
+No synonyms were returned by `search_relationships.py` for H4397.
+
+### Antonyms
+
+No antonyms were returned by `search_relationships.py` for H4397.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -144,6 +152,10 @@ Humans who function as God's mouthpiece — priests, prophets, and heralds. The 
 | ἄγγελος (G32) | 179x | 34.19 | Dominant equivalent — translates malak in ~91% of LXX renderings |
 | ἀποστέλλω (G649) | 57x | 15.45 | The verb "to send" — co-occurs in the same contexts, not a translation of malak itself |
 
+## Semantic Domains
+
+- **[001002007006] Messengers** — `search_relationships.py` places *malak* in the messenger/dispatch field alongside terms such as **A3744 כָּרוֹז**, **A4398 מַלְאַךְ**, **H6735 צִיר**, **H6736 צִיר**, and **H7323 רוץ**.
+
 ## See Also
 - [TR-malak-aggelos.md](TR-malak-aggelos.md) — cross-testament trace: malak → ággelos
 - [WG-angel.md](WG-angel.md) — word group: messenger/angel concept cluster
@@ -151,5 +163,5 @@ Humans who function as God's mouthpiece — priests, prophets, and heralds. The 
 - [G32-aggelos.md](G32-aggelos.md) — Greek NT word (TODO)
 
 ---
-*Generated from: gather_word_data.py, gather_trace_data.py, gather_word_group_data.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, gather_trace_data.py, gather_word_group_data.py, search_relationships.py*
+*Last updated: 2026-04-27*

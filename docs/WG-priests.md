@@ -9,10 +9,10 @@ The NT priestly concept clusters around six Greek words: the general term for pr
 | Strong's | Word                       | Transliteration | POS          | Occurrences | Role in Concept                        | Library Entry                    |
 |----------|----------------------------|-----------------|--------------|-------------|----------------------------------------|----------------------------------|
 | G2409    | ἱερεύς                     | hiereús         | noun (masc.) | 30          | The person: priest (generic)           | [G2409-hiereus.md](G2409-hiereus.md) |
-| G749     | ἀρχιερεύς                  | archiereus      | noun (masc.) | 102         | The office: high priest / chief priest | TODO(need G749 study)            |
+| G749     | ἀρχιερεύς                  | archiereus      | noun (masc.) | 122         | The office: high priest / chief priest | [G749-archiereus.md](G749-archiereus.md) |
 | G2407    | ἱερατεύω                   | hierateuō       | verb         | 1           | The action: to serve as priest         | TODO(need G2407 study)           |
 | G2406    | ἱεράτευμα                  | hierateuma      | noun (neut.) | 2           | The body: priestly fraternity          | TODO(need G2406 study)           |
-| G4374    | προσφέρω                   | prospherō       | verb         | 45          | The work: to offer (gifts/sacrifices)  | TODO(need G4374 study)           |
+| G4374    | προσφέρω                   | prospherō       | verb         | 45          | The work: to offer (gifts/sacrifices)  | [G4374-prosphero.md](G4374-prosphero.md) |
 | G5010    | τάξις                      | taxis           | noun (fem.)  | 9           | The arrangement: priestly order        | TODO(need G5010 study)           |
 
 ## Relationships

@@ -109,12 +109,26 @@ Jeremiah dominates with 30 of 88 verses (34%), followed by Genesis (19%) and Eze
 - **H7457 רָעֵב (raeb)** — adjective: hungry, hunger-bitten (20 verses)
 - **H7459 רְעָבוֹן (reabown)** — noun: famine (3 verses — rare synonym)
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for H7458.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for H7458.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
 |------|----------|--------------------|----------------|
 | רְעָבוֹן (reabown) | H7459 | "famine" | Rare synonym (3x only); same root, same meaning, much less common |
 | λιμός (limos) | G3042 | "famine, dearth, hunger" | Greek NT equivalent; covers both famine and personal hunger |
+
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 002004001001002 | Hunger | The relationship tool keeps *raab* squarely in the hunger/famine field, matching its highly stable KJV translation profile. |
 
 ## LXX Mapping
 
@@ -130,11 +144,15 @@ The LXX maps raab almost exclusively to limos (G3042), with 83 of 88 OT verses u
 ## See Also
 
 - [TR-raab-limos.md](TR-raab-limos.md) — cross-testament trace: Hebrew raab through LXX limos into NT
+- [H2719-chereb.md](H2719-chereb.md) — sword; the most common paired judgment term with famine
+- [H1698-deber.md](H1698-deber.md) — pestilence; completes the sword-famine-pestilence triad
+- [G3162-machaira.md](G3162-machaira.md) — Greek sword term appearing in the LXX judgment cluster
+- [G4501-rhomphaia.md](G4501-rhomphaia.md) — alternate Greek sword term in the same cluster
 - [WG-famine.md](WG-famine.md) — word group: famine/judgment concept cluster
 - [WG-death.md](WG-death.md) — word group: death
 - [WG-sword.md](WG-sword.md) — word group: sword
 - [WG-earthquake.md](WG-earthquake.md) — word group: earthquake (related eschatological judgment)
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py*
-*Last updated: 2026-04-15*
+*Generated from: gather_word_data.py, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

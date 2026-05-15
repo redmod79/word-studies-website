@@ -21,6 +21,11 @@ From G3144 (martys); to be a witness, i.e. testify (literally or figuratively): 
 - **Parent Domain:** 33 — Communication
 - **Other words in subdomain:** ἀμάρτυρος (G267), ἐπιμαρτυρέω (G1957), καταμαρτυρέω (G2649), μαρτυρία (G3141), μαρτύριον (G3142), μάρτυς (G3144), συμμαρτυρέω (G4828), συνεπιμαρτυρέω (G4901), ψευδομαρτυρέω (G5576)
 
+## UBS Semantic Domains
+
+- **Domain:** 033 — Communication
+- **Representative neighbors:** ἀγγελία (G31), ἀγγέλλω (G518), ἄγγελος (G32), ᾄδω (G103), αἴνεσις (G133), αἰνέω (G134)
+
 ## Verb Tense-Voice Distribution
 
 | Tense-Voice | Count | % | Notes |
@@ -152,6 +157,14 @@ Paul and other apostles personally attesting to what they know.
 - **G4901 συνεπιμαρτυρέω (synepimartureo)** — compound: to bear witness together with; 1 verse
 - **G5576 ψευδομαρτυρέω (pseudomartureo)** — compound: to bear false witness; 8 verses
 
+### Synonyms
+
+- No additional curated synonyms were surfaced by `search_relationships.py` beyond the witness / testimony family already listed above.
+
+### Antonyms
+
+- No curated antonyms were surfaced by `search_relationships.py` for this entry.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -188,6 +201,8 @@ The primary Hebrew equivalent is עֵד (H5707, "witness"), with a strong PMI sc
 
 ## See Also
 
+- [G225-aletheia.md](G225-aletheia.md) — truth, the frequent content and standard of testimony
+- [G584-apodeiknymi.md](G584-apodeiknymi.md) — demonstrate / prove publicly; adjacent public-evidence vocabulary
 - [G3141-martyria.md](G3141-martyria.md) — cognate noun: testimony/evidence
 - [G3142-martyrion.md](G3142-martyrion.md) — cognate noun: proof/testimony
 - [G3144-martys.md](G3144-martys.md) — cognate noun: the witness (person)
@@ -195,5 +210,5 @@ The primary Hebrew equivalent is עֵד (H5707, "witness"), with a strong PMI sc
 - [WG-testimony.md](WG-testimony.md) — word group: testimony concept cluster
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-13*
+*Generated from: gather_word_data.py, greek_parser.py, search_relationships.py, louw_nida.db*
+*Last updated: 2026-04-27*

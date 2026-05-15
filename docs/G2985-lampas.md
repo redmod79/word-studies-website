@@ -21,6 +21,10 @@ From G2989 (λάμπω); a "lamp" or flambeau: — lamp, light, torch.
 - **Broader category:** 006 — Artifacts
 - **Other words in subdomain:** λυχνία (G3087), λύχνος (G3088), φανός (G5322), φῶς (G5457)
 
+### UBS Semantic Domains
+
+- **[006] Artifacts** — material light-bearing objects. Other words: ἀγγεῖον (G30), ἄγγος (G30), ἄγκιστρον (G44), ἄγκυρα (G45), ἀλάβαστρος (G211), ἀλόη (G250)
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -83,6 +87,13 @@ Burning lamp as a symbol of divine presence or a celestial phenomenon in vision.
 - **G2987 λαμπρότης (lamprótēs)** — brightness, brilliance
 - **G2988 λαμπρῶς (lamprōs)** — splendidly, sumptuously
 
+### Synonyms
+- **Βαράκ (G913)** — brightness/lightning-adjacent term surfaced by the relationship data
+- **ἀστραπή (G796)** — lightning or flash, sharing the bright-flame semantic field
+
+### Antonyms
+- No direct antonym entries were returned by `search_relationships.py` for G2985.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -110,8 +121,12 @@ Burning lamp as a symbol of divine presence or a celestial phenomenon in vision.
 
 ## See Also
 
+- [G3087-lychnia.md](G3087-lychnia.md) — lampstand study
+- [G3088-lychnos.md](G3088-lychnos.md) — lamp/candle study
+- [G5457-phos.md](G5457-phos.md) — light study
+- [WG-light.md](WG-light.md) — word group: light vocabulary
 - [WG-candlesticks.md](WG-candlesticks.md) — word group: Lampstand / Light Holders (G3087, G3088, G5457, G2985)
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -15,11 +15,23 @@
 
 Force (literally or figuratively); especially miraculous power, usually by implication a miracle itself. From δύναμαι (to be able).
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Primary Domain:** 076 — Power, Force
-- **Also in:** 012 (Supernatural Beings and Powers), 074 (Able, Capable), 037 (Control, Rule), 033 (Communication/Meaning)
-- **Other words in Domain 076:** ἐξουσία (G1849), κράτος (G2904), ἰσχύς (G2479), δόξα (G1391), βραχίων (G1023)
+**Louw-Nida:**
+- **76** — Power, Force
+- **12** — Supernatural Beings and Powers
+- **74** — Able, Capable
+- **37** — Control, Rule
+- **33** — Communication / Meaning
+
+δύναμις spans inherent force, ability, miracle-working power, cosmic powers, and even communicative force in a few extended uses.
+
+**UBS Semantic Domains:**
+- **[074]** Able, Capable
+- **[076]** Power, Force
+- **[037]** Control, Rule
+- **[012]** Supernatural Beings and Powers
+- **[033]** Communication
 
 ## Translation Distribution (KJV)
 
@@ -123,6 +135,18 @@ Dynamis used of finite human resources — a person's strength, financial means,
 - **G1415 δυνατός (dynatos)** — able, powerful, possible (32 verses)
 - **G0102 ἀδύνατος (adynatos)** — impossible, unable, weak (10 verses) — negative form
 
+### Synonyms
+
+The clearest overlaps returned by `search_relationships.py` are:
+- **G2479 ἰσχύς (ischys)** — strength, might
+- **G1849 ἐξουσία (exousia)** — authority / power; overlaps in power catalogues though it stresses delegated right
+- **G2904 κράτος (kratos)** — might, dominion
+- **G1753 ἐνέργεια (energeia)** — operative working / power
+
+### Antonyms
+
+- **G769 ἀσθένεια (astheneia)** — weakness; the clearest lexical opposite returned by `search_relationships.py`
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -147,9 +171,18 @@ The LXX background explains why δύναμις carries military/host connotation
 
 ## See Also
 
+- [G1849-exousia](G1849-exousia.md) — authority; distinct from δύναμις but frequently paired
+- [G746-arche](G746-arche.md) — principality; appears beside δύναμις in power catalogues
+- [G2362-thronos](G2362-thronos.md) — throne; sovereignty field related to power
+- [G2598-kataballo](G2598-kataballo.md) — cast down / overthrow; power-conflict imagery
+- [G1391-doxa](G1391-doxa.md) — glory; frequent doxological pair with δύναμις
+- [G4678-sophia](G4678-sophia.md) — wisdom; paired with Christ as "the power of God"
+- [H4581-maowz](H4581-maowz.md) — refuge / strength; OT strength field
+- [H8269-sar](H8269-sar.md) — prince / ruler; authority field
 - [WG-power.md](WG-power.md) — word group: Power / Authority (exousía, dýnamis, krátos, ischýs, archḗ, árchōn)
+- [WG-strength](WG-strength.md) — word group for strength / might vocabulary
 - [WG-glory.md](WG-glory.md) — word group: Glory / Honor (dóxa, doxázō, timḗ) — frequent collocate
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, search_strongs.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

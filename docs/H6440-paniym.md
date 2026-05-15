@@ -134,6 +134,14 @@ The twelve loaves placed "before [the face of] God" on the temple table — *lec
 - **H6441 פְּנִימָה (pᵉnîymâh)** — adverb: inward, within (inside the face/front)
 - **H6443 פָּנִין (pânîyn)** — pearls (possibly "turned/rounded things")
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for H6440.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for H6440.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -142,6 +150,10 @@ The twelve loaves placed "before [the face of] God" on the temple table — *lec
 | אַף (ʼaph) | H639 | both "face / countenance / anger" | *aph* = nose/nostrils → by extension face, especially in anger; *pânîym* = the whole turning face |
 | עַיִן (ʻayin) | H5869 | occasionally both = "face / sight / presence" | *ʻayin* focuses on the eye/looking; *pânîym* on the whole face as orientation |
 | קֳדָם (qŏdâm) | H6925 | "before him/them" (Aramaic equivalent) | Aramaic counterpart of *liphnê*; appears especially in Daniel |
+
+## Semantic Domains
+
+*No semantic domains were returned by `search_relationships.py` for H6440.*
 
 ## LXX Mapping
 
@@ -159,5 +171,5 @@ The twelve loaves placed "before [the face of] God" on the temple table — *lec
 - [TR-paniym-prosopon.md](TR-paniym-prosopon.md) — cross-testament trace: pânîym → πρόσωπον (prósōpon)
 
 ---
-*Generated from: gather_word_data.py, gather_trace_data.py, KJV text*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, gather_trace_data.py, KJV text, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -21,6 +21,12 @@ Neuter compound of χείρ (G5495) and γράφω (G1125); something hand-writt
 - **Subdomain:** 33.005 — Written Language
 - **Other words in subdomain:** ἀναγινώσκω (G314, to read), ἀνάγνωσις (G320, public reading), ἀποστάσιον (G647, writing of divorcement), βιβλίον (G975, book), γράμμα (G1121, bill/letter), γραφή (G1124, scripture/writing)
 
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 033 | Communication | `search_relationships.py` places χειρόγραφον in the written-communication field; neighbors: ἀγγελία (G31), ἀγγέλλω (G518), ἄγγελος (G32), ᾄδω (G103), αἴνεσις (G133), αἰνέω (G134). |
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -53,7 +59,7 @@ No verse-level collocations available — hapax legomenon with only one occurren
 |------|----------|--------------------|
 | δόγμα (dogma) | G1378 | "the handwriting *of ordinances*" — the content of the document |
 | ἐξαλείφω (exaleiphō) | G1813 | "blotting out the handwriting" — the act of cancellation |
-| προσηλόω (prosēloō) | G4338 | "nailing it to his cross" — the means of cancellation |
+| προσηλόω (prosēloō) | [G4338](G4338-proseloo.md) | "nailing it to his cross" — the means of cancellation |
 
 ## Related Words
 
@@ -61,6 +67,14 @@ No verse-level collocations available — hapax legomenon with only one occurren
 - **χείρ (G5495)** — hand; primary component; 169 NT verses; the instrument of signing/writing
 - **γράφω (G1125)** — to write/engrave; primary component; 209 NT verses; the verb of inscription
 - **γραφή (G1124)** — scripture, writing; cognate noun; 48 NT verses
+
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G5498.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G5498.*
 
 ### Easily Confused Words
 
@@ -86,12 +100,18 @@ No Hebrew LXX source found for G5498. The term is a technical legal compound uni
 
 ## See Also
 
+- [G1125-grapho.md](G1125-grapho.md) — cognate writing verb named in the root line
+- [G5495-cheir.md](G5495-cheir.md) — cognate hand component of the compound
+- [G975-biblion.md](G975-biblion.md) — related document/writing study
 - [G1378-dogma](G1378-dogma.md) — δόγμα; "ordinances/decrees" — appears in the same verse (Col 2:14) as the genitive modifier of the cheirographon
 - [G1379-dogmatizo](G1379-dogmatizo.md) — δογματίζω; "subject to ordinances" — related verb; also in Col 2 (v. 20)
 - [G2673-katargeo](G2673-katargeo.md) — καταργέω; "abolish/render powerless" — related concept; Eph 2:15 uses katargéō for "abolishing...the law of commandments in ordinances"
+- [TR-yad-cheir.md](TR-yad-cheir.md) — related hand trace from the relationship graph
+- [WG-hands.md](WG-hands.md) — related hand word group from the relationship graph
 - [WG-abolish](WG-abolish.md) — word group for nullify/abolish vocabulary
 - [WG-law](WG-law.md) — broader law/commandment word group
+- [WG-writing.md](WG-writing.md) — related writing/document word group
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_strongs.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_relationships.py, search_strongs.py*
+*Last updated: 2026-04-28*

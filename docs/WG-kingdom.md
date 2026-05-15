@@ -7,7 +7,7 @@ The "kingdom" concept in Hebrew and Aramaic Scripture involves five core words s
 
 | Strong's | Word | Transliteration | POS | Occurrences | Role in Concept | Library Entry |
 |----------|------|-----------------|-----|-------------|-----------------|---------------|
-| H4428 | מֶלֶךְ | melek | masculine noun | 1919 | The king — the person who reigns | TODO(need H4428 study) |
+| H4428 | מֶלֶךְ | melek | masculine noun | 1919 | The king — the person who reigns | [H4428-melek.md](H4428-melek.md) |
 | H4427 | מָלַךְ | malak | verb | — | The act — to reign, to be king | TODO(need H4427 study) |
 | H4437 | מַלְכוּ | malkûw | feminine noun (Aram.) | 43 | Aramaic dominion — kingdom/realm (Daniel, Ezra) | [A4437-malkuw.md](A4437-malkuw.md) |
 | H4438 | מַלְכוּת | malkûwth | feminine noun | 82 | The domain — kingdom, royal rule | [H4438-malkuwth.md](H4438-malkuwth.md) |

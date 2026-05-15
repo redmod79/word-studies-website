@@ -11,7 +11,7 @@ Greek NT vocabulary for rendering something void, powerless, or non-existent. Th
 | G2647 | καταλύω | katalýō | verb | 16 | Dismantle / dissolve — physically tear down or legally dissolve | [G2647-katalyo.md](G2647-katalyo.md) |
 | G208 | ἀκυρόω | akyróō | verb | 3 | Legally invalidate — void a promise, covenant, or statute | TODO(need G208 study) |
 | G853 | ἀφανίζω | aphanízō | verb | 5 | Make to disappear — remove visible existence, disfigure | TODO(need G853 study) |
-| G622 | ἀπόλλυμι | apóllymi | verb | 86 | Destroy fully / perish — total ruin (active) or loss (middle) | TODO(need G622 study) |
+| G622 | ἀπόλλυμι | apóllymi | verb | 86 | Destroy fully / perish — total ruin (active) or loss (middle) | [G622-apollymi.md](G622-apollymi.md) |
 
 ## Relationships
 

@@ -23,6 +23,14 @@ Probably of foreign origin; a sabre, i.e. a long and broad cutlass (distinguishe
 - **Domain 025.023:** Attitudes and Emotions → Sorrow, Regret
 - **Other words in 006.007:** βέλος (G956), θυρεός (G2375), θώραξ (G2382), λόγχη (G3057), μάχαιρα (G3162), ὅπλον (G3696), πανοπλία (G3833), περικεφαλαία (G4030), τόξον (G5115)
 
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 006 | Artifacts | `search_relationships.py` keeps *rhomphaia* in the weapon/object field as a concrete sword. |
+| 055 | Military Activities | The term also belongs to the conflict/combat domain because Revelation repeatedly uses it as an instrument of war and judgment. |
+| 025 | Attitudes and Emotions | Luke 2:35 extends the sword image metaphorically into the domain of grief and soul-piercing sorrow. |
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -76,6 +84,14 @@ Used in apocalyptic scenes where rhomphaia is the instrument of death — either
 ### Word Family / Cognates
 No NT cognates. The rhomphaia is a loanword from a non-Greek language (likely Thracian), with no Greek morphological family.
 
+### Synonyms
+- **G2375 θυρεός (thyreós)** — shield; neighboring weapon term surfaced from the same military artifact field.
+- **G3696 ὅπλον (hóplon)** — weapon, implement of warfare; the broader armament category to which a sword belongs.
+- **G2382 θώραξ (thṓrax)** — breastplate; armor vocabulary paired with sword imagery in the combat domain.
+
+### Antonyms
+- **G5198 ὑγιαίνω (hugiainō)** — to be sound, healthy; the opposite state to the wounding and soul-piercing effect associated with sword imagery.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -110,7 +126,16 @@ No NT cognates. The rhomphaia is a loanword from a non-Greek language (likely Th
 ## See Also
 
 - [WG-sword.md](WG-sword.md) — word group: sword, sharp, two-edged
+- [G4171-polemos.md](G4171-polemos.md) — war; the broader conflict field in which the sword functions
+- [G615-apokteino.md](G615-apokteino.md) — kill, slay; frequent outcome language paired with the sword
+- [H2026-harag.md](H2026-harag.md) — Hebrew kill/slay vocabulary often aligned with sword judgment
+- [H5307-naphal.md](H5307-naphal.md) — fall; paired with sword-inflicted collapse in judgment scenes
+- [H7458-raab.md](H7458-raab.md) — famine; paired with sword in canonical judgment lists
+- [H5768-owlel.md](H5768-owlel.md) — child/infant; linked study reference surfaced in sword-judgment overlap
+- [TR-harag-apokteino.md](TR-harag-apokteino.md) — cross-testament trace of kill/slay vocabulary associated with the sword
+- [TR-naphal-pipto.md](TR-naphal-pipto.md) — cross-testament trace of falling language in judgment scenes
+- [WG-slayer.md](WG-slayer.md) — word group for slay/kill vocabulary that overlaps with sword usage
 
 ---
-*Generated from: gather_word_data.py, gather_word_group_data.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, gather_word_group_data.py, search_relationships.py*
+*Last updated: 2026-04-27*

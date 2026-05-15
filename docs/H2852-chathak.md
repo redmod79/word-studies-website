@@ -67,6 +67,14 @@ Since châthak is a hapax, all co-occurrences come from Daniel 9:24 only (1x eac
 ### Word Family / Cognates
 No cognates or derived nouns are attested in biblical Hebrew. The root חתך appears only here.
 
+### Synonyms
+
+No synonym entries were returned by `search_relationships.py` for H2852.
+
+### Antonyms
+
+No antonym entries were returned by `search_relationships.py` for H2852.
+
 ### Easily Confused Words
 
 Several Hebrew verbs share the semantic field of "cutting → decreeing/determining":
@@ -80,6 +88,11 @@ Several Hebrew verbs share the semantic field of "cutting → decreeing/determin
 
 **Note:** חָתַם (châtham, H2856) — "to seal" — is phonetically similar to châthak and appears in the same verse (Dan 9:24, "seal up the vision"). Despite the similar consonants (חתך vs. חתם), the roots are unrelated: châthak = cut off; châtham = close up, seal.
 
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002004002013] Think** — `search_relationships.py` places *châthak* in a deliberation / deciding field with neighbors such as **H6/A7 אבד**, **A230 אַזְדָּא**, **H238/H239 אזן**, and **H322 אֲחֹרַנִּית**.
+
 ## LXX Mapping
 
 No LXX alignment data available for this hapax. The Theodotion Greek translation of Daniel 9:24 uses **συνετμήθησαν** (synetmēthēsan) from **συντέμνω** (syntemnō, "to cut short"), preserving the cutting metaphor. The LXX/OG translation uses **ἐκρίθησαν** (ekrithēsan) from **κρίνω** (krinō, "to judge, decide").
@@ -89,5 +102,5 @@ No LXX alignment data available for this hapax. The Theodotion Greek translation
 - [H2782-charats.md](H2782-charats.md) — closely related decree verb; both appear in Daniel 9; H2852 in Dan 9:24, H2782 in Dan 9:26–27 and 11:36
 
 ---
-*Generated from: search_strongs.py, hebrew_parser.py, strongs_translations.db*
-*Last updated: 2026-03-31*
+*Generated from: search_strongs.py, hebrew_parser.py, strongs_translations.db, search_relationships.py*
+*Last updated: 2026-04-27*

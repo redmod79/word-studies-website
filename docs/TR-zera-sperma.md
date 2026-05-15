@@ -23,7 +23,7 @@ H2233, 205x in OT       LXX co-occ: 170x         41x in NT
 - **Gen 12:7** — "Unto thy seed will I give this land" (Abrahamic covenant; zeraʻ as covenant heir)
 - **Gen 22:18** — "In thy seed shall all the nations of the earth be blessed" (the specific promise Paul quotes in Gal 3:16)
 
-[See: TODO(need H2233 study)]
+[See: [H2233-zera.md](H2233-zera.md)]
 
 ## LXX Bridge
 

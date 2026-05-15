@@ -139,6 +139,14 @@ Rare usage where chereb refers to a knife, chisel, or other implement.
 - **H2720 חָרֵב (chareb)** — adjective: dry, desolate
 - **H2721 חֹרֶב (choreb)** — noun: drought, heat, desolation
 
+### Synonyms
+
+*No discrete synonym list was returned by `search_relationships.py` for H2719.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for H2719.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -147,6 +155,13 @@ Rare usage where chereb refers to a knife, chisel, or other implement.
 | מַאֲכֶלֶת (ma'akeleth) | H3979 | "knife" (1x) | ma'akeleth = eating knife, specifically the sacrificial knife (Gen 22:6) |
 | מַחֲלָף (machalap) | H4252 | "knives" (1x) | machalap = sacrificial knife used in temple service (Ezra 1:9) |
 | רֶצַח (retsach) | H7524 | "sword" (1x) | retsach = a crushing instrument, linked to murder (from ratsach) |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[001002008001017] Tools** — Neighboring entries returned by `search_relationships.py`: אֹבֶן (H70), אָזֵן (H240), אֲנָךְ (H594), אֶרֶג (H708), אֵת (H853), אֵת (H854).
+- **[001002008001020] Weapons** — Neighboring entries returned by `search_relationships.py`: אַשְׁפָּה (H827), בַּחוּן (H971), דֶּבֶק (H1694), זֵק (H2131), חֲנִית (H2595), חֵץ (H2671).
+- **[002003002006] Conflict** — Neighboring entries returned by `search_relationships.py`: איב (H340), איב (H341), אנה (H578), אנה (H579), בוא (H935), גוד (H1464).
 
 ## LXX Mapping
 
@@ -167,5 +182,5 @@ The LXX translators split chereb between two distinct Greek words: rhomphaia (th
 - [G4501-rhomphaia.md](G4501-rhomphaia.md) — Greek word study: rhomphaia
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, KJV text*
-*Last updated: 2026-04-15*
+*Generated from: gather_word_data.py, search_strongs.py, KJV text, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -8,16 +8,25 @@ The clean/unclean concept in Hebrew Scripture forms a fundamental binary system 
 | Strong's | Word | Transliteration | POS | Occurrences | Role in Concept | Library Entry |
 |----------|------|-----------------|-----|-------------|-----------------|---------------|
 | H2891 | טָהֵר | ṭâhêr | verb | 94 | The action — become/make clean | [H2891](H2891-taher.md) |
-| H2889 | טָהוֹר | ṭâhôwr | adj | 96 | The state — clean/pure | TODO(need H2889 study) |
-| H2893 | טׇהֳרָה | ṭohŏrâh | noun | 13 | The process — purification | TODO(need H2893 study) |
-| H2930 | טָמֵא | ṭâmêʼ | verb | 160 | The antonym action — become/make unclean | TODO(need H2930 study) |
+| H2889 | טָהוֹר | ṭâhôwr | adj | 96 | The state — clean/pure | [H2889](H2889-tahowr.md) |
+| H2892 | טֹהַר | ṭôhar | noun (m) | 2-4 | The quality — brightness, purity | [H2892](H2892-tohar.md) |
+| H2893 | טׇהֳרָה | ṭohŏrâh | noun (f) | 13 | The process — purification | [H2893](H2893-tohorah.md) |
+| H2930 | טָמֵא | ṭâmêʼ | verb | 160 | The antonym action — become/make unclean | [H2930](H2930-tame.md) |
 | H2931 | טָמֵא | ṭâmêʼ | adj | 88 | The antonym state — unclean | [H2931](H2931-tame.md) |
-| H2932 | טֻמְאָה | ṭumʼâh | noun | 37 | The antonym condition — uncleanness | TODO(need H2932 study) |
-| H3526 | כָּבַס | kâbaç | verb | 51 | The mechanism — wash (garments) | TODO(need H3526 study) |
-| H7364 | רָחַץ | râchats | verb | 72 | The mechanism — wash/bathe (body) | TODO(need H7364 study) |
+| H2932 | טֻמְאָה | ṭumʼâh | noun | 37 | The antonym condition — uncleanness | [H2932](H2932-tumah.md) |
+| H3526 | כָּבַס | kâbaç | verb | 51 | The mechanism — wash (garments) | [H3526](H3526-kabac.md) |
+| H7364 | רָחַץ | râchats | verb | 72 | The mechanism — wash/bathe (body) | [H7364](H7364-rachats.md) |
 | G2511 | καθαρίζω | katharizō | verb | 29 | NT equivalent of ṭâhêr — cleanse, make clean | [G2511](G2511-katharizo.md) |
-| G2513 | καθαρός | katharós | adj | 27 | NT equivalent of ṭâhôwr — clean, pure | TODO(need G2513 study) |
-| G2512 | καθαρισμός | katharismos | noun | 7 | NT equivalent of ṭohŏrâh — purification | TODO(need G2512 study) |
+| G2513 | καθαρός | katharós | adj | 27 | NT equivalent of ṭâhôwr — clean, pure | [G2513](G2513-katharos.md) |
+| G2512 | καθαρισμός | katharismos | noun | 7 | NT equivalent of ṭohŏrâh — purification | [G2512](G2512-katharismos.md) |
+| G2514 | καθαρότης | katharotēs | noun | 1 | Abstract quality of cleanness — ceremonial purity of the flesh (hapax, Heb 9:13) | [G2514](G2514-katharotes.md) |
+| G1571 | ἐκκαθαίρω | ekkathairo | verb | 2 | Intensified cleansing — ἐκ + καθαίρω "purge out thoroughly"; corporate leaven-removal (1Co 5:7) and individual self-purification (2Ti 2:21) | [G1571](G1571-ekkathairo.md) |
+| G1245 | διακαθαρίζω | diakatharizo | verb | 2 | Intensified cleansing — δια + καθαρίζω "cleanse through and through"; winnowing the threshing floor (Mt 3:12, Lk 3:17) | TODO(need G1245 study) |
+| H2455 | חֹל | chol | noun | 7 | OT "common/profane" — the non-sacred category, antonym of qodesh; priestly formula "between holy and profane" | [H2455](H2455-chol.md) |
+| G952 | βέβηλος | bébēlos | adj | 5 | LXX/NT "profane" — primary LXX translation of chol (PMI 11.40) | TODO(need G952 study) |
+| G2839 | κοινός | koinós | adj | 12 | NT "common/profane/unclean" — the state of being non-sacred | [G2839](G2839-koinos.md) |
+| G2840 | κοινόω | koinóō | verb | 12 | NT "defile/make common" — the action of rendering profane | [G2840](G2840-koinoo.md) |
+| G628 | ἀπολούω | apolouō | verb | 2 | NT "wash away" — complete moral purification (ἀπό + λούω); figurative whole-body washing removing sin | [G628](G628-apolouo.md) |
 
 ## Relationships
 
@@ -52,6 +61,7 @@ The clean/unclean concept in Hebrew Scripture forms a fundamental binary system 
 
 - **Positive state:** ṭâhôwr (טָהוֹר) — the condition of being clean/pure
 - **Positive transition:** ṭâhêr (טָהֵר) — becoming clean or being declared clean
+- **Positive quality:** ṭôhar (טֹהַר) — the abstract quality of brightness/purity
 - **Positive process:** ṭohŏrâh (טׇהֳרָה) — the purification procedure
 - **Negative state:** ṭâmêʼ adj (טָמֵא) — the condition of being unclean
 - **Negative transition:** ṭâmêʼ verb (טָמֵא) — becoming unclean or making unclean

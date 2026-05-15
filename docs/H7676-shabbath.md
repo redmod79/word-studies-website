@@ -121,12 +121,25 @@ Isaiah projects sabbath observance outward to foreigners and forward to the new 
 - **H7673 שָׁבַת (shavat)** — root verb: to cease, desist, rest; shabbâth is its intensive noun form
 - **H7677 שַׁבָּתוֹן (shabbathon)** — extended form: sabbatism, special solemn rest; used for the Day of Atonement and other high observances
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for H7676.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for H7676.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
 |------|----------|--------------------|----------------|
 | שַׁבָּתוֹן (shabbathon) | H7677 | "a sabbath" | Shabbathon = intensified or special-day sabbatism; shabbâth = the regular weekly or annual institution |
 | σάββατον (sabbaton) | G4521 | "sabbath" (in KJV NT verses) | Direct Greek loan word from shabbâth via LXX; meaning is identical; the distinction is purely linguistic/chronological |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[003001013] Names of Times** — *shabbâth* functions primarily as the name of a fixed sacred time rather than a generic rest-state.
 
 ## LXX Mapping
 
@@ -144,7 +157,13 @@ The LXX bond to G4521 (PMI 35.07) is among the strongest Hebrew→Greek alignmen
 - [TR-shabbath-sabbaton.md](TR-shabbath-sabbaton.md) — cross-testament trace: shabbâth → σάββατον through LXX into NT Sabbath controversies
 - [WG-sabbath.md](WG-sabbath.md) — word group: shabbâth, shavat, shabbathon, and related rest vocabulary
 - [WG-weeks.md](WG-weeks.md) — word group: sabbatical counting, weeks, and appointed times
+- [H7673-shabath.md](H7673-shabath.md) — the root verb: to cease, desist, rest
+- [H7677-shabbathown.md](H7677-shabbathown.md) — intensified "sabbath-rest" noun applied to special holy days
+- [H6942-qadash.md](H6942-qadash.md) — sanctifying the Sabbath is one of this word's core collocational settings
+- [TR-qadash-hagiazo.md](TR-qadash-hagiazo.md) — trace of sanctification language closely tied to Sabbath holiness
+- [G4521-sabbaton.md](G4521-sabbaton.md) — Greek loanword and primary LXX rendering of the Hebrew noun
+- [G4520-sabbatismos.md](G4520-sabbatismos.md) — NT "Sabbath-rest" concept downstream from the same lexical family
 
 ---
-*Generated from: gather_word_data.py (H7676), KJV verse texts, LXX mapping*  
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py (H7676), KJV verse texts, LXX mapping, search_relationships.py*  
+*Last updated: 2026-04-27*

@@ -78,7 +78,7 @@ In the NT, the gadal/gadol family → megas/megalynō, while the rab/rabah famil
 | H1431 gadal | [H1431-gadal.md](H1431-gadal.md) ✓ |
 | H1419 gadol | TODO(need H1419 study) |
 | H1420 gedullah | TODO(need H1420 study) |
-| H7227 rab | TODO(need H7227 study) |
+| H7227 rab | [H7227-rab.md](H7227-rab.md) |
 | H7235 rabah | TODO(need H7235 study) |
 
 ---

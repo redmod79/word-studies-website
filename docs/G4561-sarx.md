@@ -21,6 +21,17 @@ Flesh (as stripped of the skin); by extension the body; by implication human nat
 - **Additional Domains:** 009.001 (Human Beings), 010.001 (Kinship Groups), 023 (Physiological States), 025.002 (Desire Strongly), 058.001 (Nature/Character)
 - **Domain neighbors (008.001):** σῶμα G4983 (body, 116v), ἄνθρωπος G444 (man, 346v), πτῶμα G4430 (dead body, 4v), σκῆνος G4636 (tent/tabernacle, 2v)
 
+### UBS Semantic Domains
+
+- **[008]** Body, Body Parts, and Body Products
+- **[009]** People
+- **[010]** Kinship Terms
+- **[026]** Psychological Faculties
+- **[058]** Nature, Class, Example
+- **[023]** Physiological Processes and States
+- **[025]** Attitudes and Emotions
+- **[022]** Trouble, Hardship, Relief, Favorable Circumstances
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -133,6 +144,15 @@ Circumcision and outward ordinances as "fleshly"; misplaced confidence in human 
 - **G4559 σαρκικός (sarkikós)** — adjective: carnal, pertaining to flesh (10v; Rom 7:14; 1 Cor 3:3; 2 Cor 1:12)
 - **G4560 σάρκινος (sárkinos)** — adjective: made of flesh, fleshy (Heb 7:16; 2 Cor 3:3)
 
+### Synonyms
+
+No direct synonyms surfaced by `search_relationships.py`.
+
+### Antonyms
+
+- **G4151 πνεῦμα** — primary NT contrast term (Rom 8; Gal 5)
+- **G3563 νοῦς** — contrasting faculty term listed by `search_relationships.py`
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -157,7 +177,14 @@ Circumcision and outward ordinances as "fleshly"; misplaced confidence in human 
 - [TR-basar-sarx.md](TR-basar-sarx.md) — cross-testament trace: H1320 bâsâr → LXX σάρξ → NT σάρξ
 - [WG-flesh.md](WG-flesh.md) — word group: sarx, sōma, sarkikós, haima, pneuma, epithymia
 - [G4151-pneuma.md](G4151-pneuma.md) — πνεῦμα (spirit) — primary contrast term in Paul's flesh/spirit antithesis
+- [G1345-dikaioma.md](G1345-dikaioma.md)
+- [G1457-enkainizo.md](G1457-enkainizo.md)
+- [G4061-peritome.md](G4061-peritome.md)
+- [H1320-basar.md](H1320-basar.md)
+- [G4983-soma.md](G4983-soma.md)
+- [G4204-porne.md](G4204-porne.md)
+- [G500-antichristos.md](G500-antichristos.md)
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, greek_parser.py, search_relationships.py*
+*Last updated: 2026-04-27*

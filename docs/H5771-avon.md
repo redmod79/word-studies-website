@@ -128,6 +128,16 @@ Penitential and prophetic passages where עָוֺן is the object of God's forgi
 - **H5766 עֶוֶל (ʻevel)** — cognate noun: moral perverseness, injustice (judicial frame)
 - **H5758 עִוָּא (ʻivvâʼ)** — Aramaic cognate (BDB cross-reference)
 
+### Synonyms
+- **H819 אַשְׁמָה (ʼashmâh)** — guilt/trespass vocabulary returned by `search_relationships.py`; overlaps where *ʻâvôn* emphasizes culpability and liability.
+- **A2402** — Aramaic sin vocabulary surfaced by `search_relationships.py` alongside the Hebrew sin-word cluster.
+- **H2403 חַטָּאת / חַטָּאָה (chaṭṭâʼth / chaṭṭâʼâh)** — sin/sin-offering vocabulary in the same moral-culpability field.
+- **H6588 פֶּשַׁע (peshaʻ)** — transgression/rebellion vocabulary paired with *ʻâvôn* in the classic sin triad.
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for H5771.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -136,6 +146,13 @@ Penitential and prophetic passages where עָוֺן is the object of God's forgi
 | פֶּשַׁע (peshaʻ) | H6588 | "iniquity" (occasional) | pesha = willful rebellion / breach of covenant; avon = the crooked bent and its guilt |
 | עֶוֶל (ʻevel) | H5766 | "iniquity" | evel = injustice / perverseness in a judicial frame; cognate with avon but more legal |
 | אָוֶן (ʼâven) | H205 | "iniquity" | aven = trouble / emptiness / wickedness (emphasis on futility/falseness) |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002003003018] Sin** — `search_relationships.py` places *ʻâvôn* in the core moral-failure field with nearby terms such as **H2154/H2155**, **H2398**, and **A2408**.
+- **[002003003014] Guilty** — a culpability/liability field with neighbors including **H816**, **H817/H818/H819**, **H2398**, and **H2399**.
+- **[002003002005] Chastise** — a punishment/consequence field matching passages where *ʻâvôn* denotes the penalty borne, with neighbors such as **H1576/H1578** and **H2015**.
 
 ## LXX Mapping
 
@@ -155,7 +172,11 @@ The LXX renders עָוֺן with two dominant Greek frames: *adikia* (moral wrong
 - [WG-transgressions.md](WG-transgressions.md) — word group: transgression/sin cluster
 - [H2403-chattaah.md](H2403-chattaah.md) — major collocation / sin-triad partner
 - [TR-chattaah-hamartia.md](TR-chattaah-hamartia.md) — trace for the sin-triad partner
+- [H3722-kaphar.md](H3722-kaphar.md) — atonement verb paired with iniquity removal
+- [H6588-pesha.md](H6588-pesha.md) — rebellion term in the classic sin triad
+- [H5375-nasa.md](H5375-nasa.md) — "bear/carry iniquity" formula partner
+- [G2851-kolasis.md](G2851-kolasis.md) — punishment term linked to the consequence sense of *ʻâvôn*
 
 ---
-*Generated from: search_strongs.py, gather_word_data.py, BDB via strongs_translations.db*
-*Last updated: 2026-04-02*
+*Generated from: search_strongs.py, gather_word_data.py, BDB via strongs_translations.db, search_relationships.py*
+*Last updated: 2026-04-27*

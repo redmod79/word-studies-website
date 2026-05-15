@@ -48,6 +48,14 @@ The word marks the starting point of something that expands dramatically. The co
 - **H4705 מִצְעָר (mitsʻâr)** — masculine counterpart: small, few, a little while (5x: Gen 19:20; 2Chr 24:24; Job 8:7; Isa 63:18)
 - **H6810 צָעִיר (tsaʻîyr)** — root adjective: little, young, least (22x); covers both smallness in size and youth in age
 
+### Synonyms
+
+*No close synonyms returned by `search_relationships.py` for H4704.*
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for H4704.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -55,6 +63,13 @@ The word marks the starting point of something that expands dramatically. The co
 | מְעַט (mᵉʻaṭ) | H4592 | both rendered "little/few" | mᵉʻaṭ is the common word for smallness/fewness (102x); H4704 is a rare compound form occurring only once |
 | קָטָן (qatan) | H6996 | both rendered "small/little" | qatan covers small size and low rank broadly (101x); H4704 emphasizes origin from smallness |
 | צָעִיר (tsaʻîyr) | H6810 | both from same root | tsaʻîyr is the simple adjective; H4704 adds the "from" (מִן) prefix, marking starting-point littleness |
+
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 002001001035 | Little | `search_relationships.py` places *mitstsᵉʻîyrâh* in the smallness field, matching Dan 8:9's emphasis on a horn that begins from littleness before growing great. |
+| 002001001068 | Young | The neighboring youth/smallness field reflects the word's derivation from צָעִיר and its overlap with terms for lesser size or status. |
 
 ## LXX Mapping
 
@@ -65,5 +80,5 @@ No alignment data available (hapax; single-verse attestation too sparse for PMI 
 — *(no TR, WG, or EN files currently reference H4704)*
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, hebrew_parser.py*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, search_strongs.py, hebrew_parser.py, search_relationships.py*
+*Last updated: 2026-04-27*

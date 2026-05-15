@@ -90,6 +90,14 @@ Concentrated in prophetic literature (Ezekiel, Jeremiah, Daniel = 16/29 = 55%). 
 - **H8262 שָׁקַץ (shaqats)** — root verb: to be filthy, to detest, to make abominable (7x)
 - **H8263 שֶׁקֶץ (sheqets)** — cognate noun: detestable thing, abomination (11x; used for ritually unclean creatures in Lev 11)
 
+### Synonyms
+
+- **H8441 תּוֹעֵבָה** — broad partner term for "abomination" that overlaps with *shiqquwts* in idolatry/defilement contexts.
+
+### Antonyms
+
+No antonyms were returned by `search_relationships.py` for H8251.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -97,6 +105,13 @@ Concentrated in prophetic literature (Ezekiel, Jeremiah, Daniel = 16/29 = 55%). 
 | תּוֹעֵבַה (to'ebah) | H8441 | "abomination" | Broader term (113x); covers moral, social, and ritual abominations (e.g., lying, injustice). Shiqquts is specifically physical revulsion toward idols. |
 | שֶׁקֶץ (sheqets) | H8263 | "abomination/abominable" | Cognate but specialized for dietary/ritual uncleanness (swarming creatures in Lev 11). Shiqquts is used for idols and idolatrous practices. |
 | גִּלּוּל (gillul) | H1544 | both refer to idols | Gillul (from "dung pellet") emphasizes worthlessness/contempt; shiqquts emphasizes visceral disgust/defilement. Often paired together. |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002001002005] Despise** — `search_relationships.py` places *shiqquwts* in the revulsion/loathing field, matching its visceral force as a term of detestation.
+- **[003001017] Titles** — the tool also captures the naming/title use of the word in formulas like "the abomination of the Ammonites / Moabites."
+- **[001002008001006] Cult Objects** — the strongest concrete domain is cult objects, fitting idols, defiling images, and abominable things set in sacred space.
 
 ## LXX Mapping
 
@@ -108,9 +123,17 @@ Concentrated in prophetic literature (Ezekiel, Jeremiah, Daniel = 16/29 = 55%). 
 
 ## See Also
 
+- [H8441-towebah.md](H8441-towebah.md) — broader "abomination" term that overlaps heavily in idol/defilement contexts
+- [H8074-shamem.md](H8074-shamem.md) — "be desolate / appalled," paired with *shiqquwts* in Daniel's desolation formula
+- [H4432-molek.md](H4432-molek.md) — concrete instance of an idol called a *shiqquwts*
+- [G946-bdelygma.md](G946-bdelygma.md) — dominant Greek equivalent in LXX and NT
+- [G3392-miaino.md](G3392-miaino.md) — Greek defilement verb used when the context stresses pollution
 - [TR-shiqquwts-bdelygma.md](TR-shiqquwts-bdelygma.md) — cross-testament trace
+- [TR-towebah-bdelygma.md](TR-towebah-bdelygma.md) — parallel trace for the broader abomination vocabulary
+- [TR-tame-miaino.md](TR-tame-miaino.md) — defilement trace intersecting the pollution side of *shiqquwts*
 - [WG-abomination.md](WG-abomination.md) — word group
+- [WG-desolate.md](WG-desolate.md) — desolation cluster tied to Daniel's "abomination that maketh desolate"
 
 ---
-*Generated from: search_strongs.py, hebrew_parser.py, lxx-map*
-*Last updated: 2026-03-31*
+*Generated from: search_strongs.py, hebrew_parser.py, lxx-map, search_relationships.py*
+*Last updated: 2026-04-27*

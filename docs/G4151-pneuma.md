@@ -30,6 +30,16 @@ A current of air, i.e. breath (blast) or a breeze; by analogy or figuratively, a
 | 30 | Think / To Decide | Mental disposition, inclination of mind |
 | 88.007 | Humility | "poor in spirit" — humility of disposition |
 
+### UBS Semantic Domains
+
+- **[012]** Supernatural Beings and Powers
+- **[014]** Physical Events and States
+- **[023]** Physiological Processes and States
+- **[025]** Attitudes and Emotions
+- **[026]** Psychological Faculties
+- **[030]** Think
+- **[088]** Moral and Ethical Qualities and Related Behavior
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -143,6 +153,17 @@ Non-personal life or power given to an object.
 - **G4154 πνέω (pneō)** — to blow (wind); root verb
 - **G4157 πνοή (pnoē)** — breath, wind; 2 occurrences
 
+### Synonyms
+
+- **G5590 ψυχή (psychē)**
+- **G3563 νοῦς (nous)**
+
+### Antonyms
+
+- **G4561 σάρξ (sarx)**
+- **G1121 γράμμα (gramma)**
+- **G4983 σῶμα (sōma)** — listed by Abbott-Smith via `search_relationships.py`
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -169,7 +190,15 @@ The primary Hebrew word behind πνεῦμα in the LXX:
 - [H7307-ruach.md](H7307-ruach.md) — Hebrew source word study
 - [TR-ruach-pneuma.md](TR-ruach-pneuma.md) — cross-testament trace
 - [WG-spirit.md](WG-spirit.md) — word group
+- [G5590-psyche.md](G5590-psyche.md) — closest NT comparison term: soul / life
+- [G40-hagios.md](G40-hagios.md) — adjective in the dominant collocation "Holy Spirit"
+- [G1411-dynamis.md](G1411-dynamis.md) — power/empowerment cross-reference
+- [G1515-eirene.md](G1515-eirene.md) — referenced study cross-link
+- [G1632-ekcheo.md](G1632-ekcheo.md) — Spirit-outpouring cross-reference
+- [G4137-pleroo.md](G4137-pleroo.md) — filling/fullness cross-reference
+- [G4972-sphragizo.md](G4972-sphragizo.md) — sealing cross-reference
+- [WG-flesh.md](WG-flesh.md) — contrastive word group
 
 ---
-*Generated from: search_strongs.py, greek_parser.py, louw_nida.db, kjv.txt*
-*Last updated: 2026-03-31*
+*Generated from: search_strongs.py, greek_parser.py, louw_nida.db, kjv.txt, search_relationships.py*
+*Last updated: 2026-04-27*

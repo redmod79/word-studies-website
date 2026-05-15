@@ -21,6 +21,10 @@ A double diminutive: βίβλος → βιβλίον → βιβλαρίδιον.
 - **Gloss:** small scroll
 - **Other words in domain:** βιβλίον (G975, scroll/book), βίβλος (G976, scroll/book), γράμμα (G1121, letter/writing), ἐπιστολή (G1992, letter), κάλαμος (G2563, pen), κατασφραγίζω (G2696, to seal), κεφαλίς (G2777, scroll section), μεμβράνα (G3200, parchment), πινακίδιον (G4093, tablet), πλάξ (G4109, tablet), σφραγίζω (G4972, to seal), σφραγίς (G4973, seal)
 
+## UBS Semantic Domains
+
+- **[006] Artifacts** — `search_relationships.py` classifies **βιβλαρίδιον** within the writing-object/tool field rather than as a broader communication act.
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -75,6 +79,12 @@ The prophet is commanded to internalize the scroll — eating it produces sweetn
 
 The morphological chain βίβλος → βιβλίον → βιβλαρίδιον represents progressive diminution. In Revelation, John uses G975 (biblion) for the sealed seven-seal scroll and the book of life, reserving G974 (bibliaridion) for the already-opened small scroll of chapter 10.
 
+### Synonyms
+*No direct synonyms were returned by `search_relationships.py` for G974.*
+
+### Antonyms
+*No antonyms were returned by `search_relationships.py` for G974.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -101,6 +111,8 @@ No direct Hebrew source via LXX — bibliaridion does not appear in the Septuagi
 
 ## See Also
 
+- [G975-biblion.md](G975-biblion.md) — the larger/standard scroll term contrasted with **bibliaridion**
+- [G455-anoigo.md](G455-anoigo.md) — "to open"; the little scroll is introduced already open in Rev 10:2, 8
 - [WG-sealing.md](WG-sealing.md) — sealing word group (the sealed scroll context of Rev 5)
 - [G4972-sphragizo.md](G4972-sphragizo.md) — to seal (the seven seals on the biblion)
 - [G4973-sphragis.md](G4973-sphragis.md) — seal (the seals themselves)
@@ -110,5 +122,5 @@ No direct Hebrew source via LXX — bibliaridion does not appear in the Septuagi
 - [G2983-lambano.md](G2983-lambano.md) — to take/receive (Rev 10:8–10 context)
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-15*
+*Generated from: gather_word_data.py, search_strongs.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -22,6 +22,11 @@ From G4680; wisdom (higher or lower, worldly or spiritual): — wisdom.
 - **Subdomain 32.004:** Capacity for Understanding
 - **Other words in subdomain:** σοφίζω (sophizo, G4679), σοφός (sophos, G4680), σύνεσις (synesis, G4907), συνετός (synetos, G4908), ἐπιστήμων (epistemon, G1990), μάγος (magos, G3097)
 
+### UBS Semantic Domains
+
+- **[032] Understand**
+- **[028] Know**
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -126,6 +131,21 @@ Heavily concentrated in Paul (26 of 49 verses = 53%), with 1 Corinthians 1-3 alo
 - **G4679 σοφίζω (sophizo)** — verb: to make wise; passive: cunningly devised (2 Tim 3:15, 2 Pet 1:16). 2 NT occurrences.
 - **G4680 σοφός (sophos)** — adjective: wise. 22 NT occurrences. Frequent in 1 Cor 1-3 alongside sophia.
 
+### Synonyms
+- **G4907 σύνεσις** — understanding, comprehension; the closest wisdom-adjacent noun in the same understanding field
+- **G5428 φρόνησις** — prudence, practical intelligence; narrower and more situational than σοφία
+- **G1922 ἐπίγνωσις**, **G4920 συνίημι**, **G1771 ἔννοια** — knowledge / understanding terms from the wider cognition cluster
+- **G1012 βουλή**, **G2917 κρίμα** — counsel / judgment; wisdom-adjacent decision terms surfaced by `search_relationships.py`
+- **G3809 παιδεία** — instruction, training; wisdom-forming discipline
+- **G225 ἀλήθεια** — truth; related in the revealed-wisdom cluster
+- **ἀρεταί** — "virtues/excellencies"; surface form returned by `search_relationships.py` without a Strong's number in the tool output
+
+### Antonyms
+- **G877 ἀφροσύνη** — foolishness; the clearest wisdom/folly opposite in the returned set
+- **G878 ἄφρων** — fool, unwise person; personal counterpart to folly
+- **G2556 κακός**, **G459 ἄνομος**, **G763 ἀσέβεια**, **G819 ἀτιμία** — moral negatives returned as contrasts to godly wisdom
+- **G153 αἰσχύνω**, **G1608 ἐκπορνεύω**, **G2167 εὐφροσύνη**, **G1391 δόξα**, **G3510 νεφρός** — additional contrastive neighbors surfaced by `search_relationships.py`
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -158,10 +178,17 @@ The primary Hebrew source is H2451 chokmah (115 co-occurrences), establishing so
 ## See Also
 
 - [TR-chokmah-sophia.md](TR-chokmah-sophia.md) — cross-testament trace: chokmah → sophia
-- [WG-wise.md](WG-wise.md) — Hebrew wisdom word group
+- [TR-daath-gnosis.md](TR-daath-gnosis.md) — related knowledge-trace study intersecting the wisdom cluster
 - [TR-leb-kardia.md](TR-leb-kardia.md) — cross-testament trace (references sophia in overlap)
+- [H3820-leb.md](H3820-leb.md) — Hebrew heart / mind study overlapping with wisdom language
 - [H998-biynah.md](H998-biynah.md) — Hebrew "understanding" (secondary source)
+- [H995-biyn.md](H995-biyn.md) — Hebrew verb "to understand," adjacent to sophia's understanding field
+- [H1847-daath.md](H1847-daath.md) — Hebrew "knowledge" study
+- [H433-eloah.md](H433-eloah.md) — Eloah study referencing divine wisdom language
+- [G1411-dynamis.md](G1411-dynamis.md) — δύναμις paired with σοφία in divine-attribute contexts
+- [G5585-psephizo.md](G5585-psephizo.md) — counting / reckoning study linked by Rev 13:18 wisdom usage
+- [WG-wise.md](WG-wise.md) — Hebrew wisdom word group
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db*
-*Last updated: 2026-04-11*
+*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-28*

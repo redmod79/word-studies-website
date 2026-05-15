@@ -15,11 +15,19 @@
 
 From G1349 (dikē); equitable (in character or act); by implication, innocent, holy (absolutely or relatively):—just, meet, right(-eous).
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Primary Domain:** 088002 — Just, Righteous
-- **Also in:** Domain 066 (Proper, Fitting), Domain 034 (Association/Covenant)
-- **Other words in 088002:** ἀδικέω (G91), ἀδικία (G93), ἄδικος (G94), δικαιοσύνη (G1343), δικαιόω (G1344), δικαίωμα (G1345), δικαίως (G1346), ἔνδικος (G1738)
+**Louw-Nida:**
+- **088.002** — Just, Righteous
+- **066** — Proper, Fitting
+- **034** — Association / Covenant
+
+Other words in 088.002: ἀδικέω (G91), ἀδικία (G93), ἄδικος (G94), δικαιοσύνη (G1343), δικαιόω (G1344), δικαίωμα (G1345), δικαίως (G1346), ἔνδικος (G1738)
+
+**UBS Semantic Domains:**
+- **[088]** Moral and Ethical Qualities and Related Behavior
+- **[066]** Proper, Improper
+- **[034]** Association
 
 ## Translation Distribution (KJV)
 
@@ -129,6 +137,17 @@ Dikaios applied to actions, decisions, or ordinances that conform to what is rig
 - **G1347 δικαίωσις (dikaíōsis)** — justification, acquittal (2x)
 - **G1341 δικαιοκρισία (dikaiokrisía)** — righteous judgment (1x)
 
+### Synonyms
+- **G18 ἀγαθός (agathos)** — good; close ethical neighbor emphasizing goodness more than judicial rightness
+- **G2570 καλός (kalos)** — good, noble; overlaps where righteousness is visibly commendable
+- **G121 ἀθῷος (athōos)** — innocent, guiltless; near-synonym on the forensic side
+- **G3717 ὀρθός (orthos)** — straight, right; stresses rectitude and uprightness
+
+### Antonyms
+- **G94 ἄδικος (adikos)** — unjust, unrighteous (alpha-privative counterpart; clearest lexical opposite)
+- **G268 ἁμαρτωλός (hamartōlos)** — sinner (common contrast class: "the righteous" versus "sinners")
+- **G765 ἀσεβής (asebēs)** — ungodly (moral opposite in judgment and justification contexts)
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -151,11 +170,17 @@ The LXX translates Hebrew צַדִּיק (tsaddiq, H6662) with δίκαιος 18
 
 ## See Also
 
+- [G1343-dikaiosyne.md](G1343-dikaiosyne.md) — righteousness; the abstract quality named by the adjective
+- [G1344-dikaioo.md](G1344-dikaioo.md) — justify; the verbal counterpart within the same family
+- [G1345-dikaioma.md](G1345-dikaioma.md) — righteous decree/requirement; concrete outworking of the same root
+- [H6663-tsadaq.md](H6663-tsadaq.md) — Hebrew verbal source field behind justification language
+- [H6664-tsedeq.md](H6664-tsedeq.md) — Hebrew noun source field behind righteousness language
+- [H4941-mishpat.md](H4941-mishpat.md) — justice/judgment vocabulary frequently paired with the righteous
 - [TR-tsaddiyq-dikaios.md](TR-tsaddiyq-dikaios.md) — cross-testament trace: tsaddiq → dikaios
 - [TR-tsadaq-dikaioo.md](TR-tsadaq-dikaioo.md) — trace: tsadaq (verb) → dikaioo
 - [TR-tsedeq-dikaiosyne.md](TR-tsedeq-dikaiosyne.md) — trace: tsedeq → dikaiosyne
 - [WG-righteousness.md](WG-righteousness.md) — word group: δικ- family
 
 ---
-*Generated from: gather_word_data.py, gather_trace_data.py, search_strongs.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, gather_trace_data.py, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

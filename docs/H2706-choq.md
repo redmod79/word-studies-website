@@ -130,6 +130,14 @@ A fixed share of food, income, or provisions — the "appointed measure" sense f
 - **H2710 חָקַק (châqaq)** — root verb: to hack/engrave; to enact laws (laws were cut into stone or metal tablets); 19 occurrences — *Prov 8:15; Isa 10:1; 33:22*
 - **H2708 חֻקָּה (chuqqâh)** — feminine counterpart to chôq; virtually identical semantic range; 104 occurrences — the two words are used interchangeably and frequently alongside each other
 
+### Synonyms
+
+*No discrete synonym list was returned by `search_relationships.py` for H2706.*
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for H2706.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -138,6 +146,17 @@ A fixed share of food, income, or provisions — the "appointed measure" sense f
 | מִשְׁפָּט (mishpâṭ) | H4941 | law, ordinance, judgment | mishpâṭ = a legal verdict or case ruling; chôq = a formally enacted standing statute. Frequently paired as "statutes and judgments" |
 | תּוֹרָה (tôwrâh) | H8451 | law | tôwrâh = the body of teaching/instruction (the Torah as a whole); chôq = one specific enacted rule within that body |
 | מִצְוָה (mitsvâh) | H4687 | commandment | mitsvâh = a specific command given; chôq = a standing enacted enactment; paired as "statutes and commandments" |
+
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 002002002001 | Act | `search_relationships.py` places *chôq* in a broad enacted-rule field, fitting the idea of something prescribed and put into force. |
+| 002003003016 | Laws | Direct legal/statute field and the clearest relationship-domain match for the study's primary usage. |
+| 002001001042 | Quantity | Fits the prescribed-measure / allotted-portion sense seen in Gen 47:22, Prov 30:8, and Prov 31:15. |
+| 002002001017 | Space | Matches the boundary/limit uses, especially the sea's fixed bound and other spatial decrees. |
+| 002002002010 | Time | Reflects the appointed-time / fixed-order nuance that attaches to some ordinances and decrees. |
+| 002004002013 | Think | Secondary abstraction field in the tool output; here it is best taken as a loose relation to formal decree or considered enactment, not as a core gloss. |
 
 ## LXX Mapping
 
@@ -163,5 +182,5 @@ A fixed share of food, income, or provisions — the "appointed measure" sense f
 - [WG-commandment.md](WG-commandment.md) — commandment word group; statutes/commandments pairings
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py --lxx-map, gather_trace_data.py*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, search_strongs.py --lxx-map, gather_trace_data.py, search_relationships.py*
+*Last updated: 2026-04-27*

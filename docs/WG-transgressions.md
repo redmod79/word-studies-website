@@ -9,9 +9,9 @@ Hebrew Scripture distinguishes sin with a precision Greek and English flatten. T
 |----------|------|-----------------|-----|-------------|-----------------|---------------|
 | H6588 | פֶּשַׁע | peshaʻ | noun | 90 | The act — willful revolt/defection from authority | [H6588](H6588-pesha.md) |
 | H2403 | חַטָּאָה | chattaah | noun | 270 | The miss — falling short, sin offering | [H2403-chattaah](H2403-chattaah.md) |
-| H5771 | עָוֺן | avon | noun | 213 | The weight — iniquity, accumulated guilt | TODO(need H5771 study) |
-| H817 | אָשָׁם | asham | noun | 41 | The liability — guilt, trespass/guilt offering | TODO(need H817 study) |
-| H6586 | פָּשַׁע | pasha | verb | 37 | The action — to rebel, transgress | TODO(need H6586 study) |
+| H5771 | עָוֺן | avon | noun | 213 | The weight — iniquity, accumulated guilt | [H5771-avon.md](H5771-avon.md) |
+| H817 | אָשָׁם | asham | noun | 41 | The liability — guilt, trespass/guilt offering | [H817-asham.md](H817-asham.md) |
+| H6586 | פָּשַׁע | pasha | verb | 37 | The action — to rebel, transgress | [H6586-pasha.md](H6586-pasha.md) |
 
 ## Relationships
 

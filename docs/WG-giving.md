@@ -15,7 +15,7 @@ The giving concept in the Greek NT centers on δίδωμι (didomi) and its comp
 | G1431 | δωρεά | dorea | noun | 11 | Free gift, gratuity | TODO(need G1431 study) |
 | G1433 | δωρέομαι | doreomai | verb | 3 | Bestow gratuitously | TODO(need G1433 study) |
 | G1435 | δῶρον | doron | noun | 17 | Gift, present, offering | TODO(need G1435 study) |
-| G5483 | χαρίζομαι | charizomai | verb | 19 | Grant as a favor, forgive | TODO(need G5483 study) |
+| G5483 | χαρίζομαι | charizomai | verb | 19 | Grant as a favor, forgive | [G5483](G5483-charizomai.md) |
 
 ## Relationships
 

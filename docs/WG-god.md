@@ -9,7 +9,7 @@ The NT concept of God centers on θεός (G2316) but is expressed through a clu
 |----------|------|-----------------|-----|-------------|-----------------|---------------|
 | G2316 | θεός | theós | masc. noun | 1172 | The supreme Deity; God the Father | [G2316-theos.md](G2316-theos.md) |
 | G5547 | Χριστός | Christós | masc. noun | 530 | The anointed one; God the Son | TODO(need G5547 study) |
-| G2962 | κύριος | kúrios | masc. noun | 687 | Lord/Master; LXX rendering of YHWH | TODO(need G2962 study) |
+| G2962 | κύριος | kúrios | masc. noun | 687 | Lord/Master; LXX rendering of YHWH | [G2962-kyrios.md](G2962-kyrios.md) |
 | G5207 | υἱός | huiós | masc. noun | 348 | Son; especially "Son of God" | [G5207-huios.md](G5207-huios.md) |
 | G3962 | πατήρ | patēr | masc. noun | 372 | Father; God as Father | TODO(need G3962 study) |
 | G4151 | πνεῦμα | pneuma | neuter noun | 350 | Spirit; especially "Spirit of God" | [G4151-pneuma.md](G4151-pneuma.md) |

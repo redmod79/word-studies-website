@@ -10,9 +10,9 @@ two poles: *what something looks like* (physical/assessed appearance) and *what 
 
 | Strong's | Word | Transliteration | POS | Occurrences | Role in Concept | Library Entry |
 |----------|------|-----------------|-----|-------------|-----------------|---------------|
-| H7200 | רָאָה | ra'ah | verb | 1,205 | Root: to see | TODO(need H7200 study) |
+| H7200 | רָאָה | ra'ah | verb | 1,205 | Root: to see | [H7200](H7200-raah.md) |
 | H4758 | מַרְאֶה | mar'eh | masc. noun | 82 | Appearance / sight / vision (the thing seen) | [H4758-mareh.md](H4758-mareh.md) |
-| H4759 | מַרְאָה | mar'ah | fem. noun | 10 | Vision / mirror (feminine cognate) | TODO(need H4759 study) |
+| H4759 | מַרְאָה | mar'ah | fem. noun | 10 | Vision / mirror (feminine cognate) | [H4759-marah.md](H4759-marah.md) |
 | H2377 | חָזוֹן | chazon | masc. noun | 34 | Prophetic vision (from chazah, to behold) | TODO(need H2377 study) |
 | H8389 | תֹּאַר | to'ar | masc. noun | 15 | Outline, figure, physical form | TODO(need H8389 study) |
 | H3303 | יָפֶה | yapheh | adjective | 39 | Beautiful, fair | TODO(need H3303 study) |

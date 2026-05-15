@@ -10,7 +10,7 @@ The σκηνή word family covers the concept of tent-dwelling and the portable 
 | Strong's | Word | Transliteration | POS | Occurrences | Role in Concept | Library Entry |
 |----------|------|-----------------|-----|-------------|-----------------|---------------|
 | H7931 | שָׁכַן | shākan | verb | 123 | The Hebrew root: to dwell/encamp; God's tent-dwelling among Israel | [H7931](H7931-shakan.md) |
-| H4908 | מִשְׁכָּן | mishkān | noun | 139 | The Tabernacle itself; derived from shākan | TODO(need H4908 study) |
+| H4908 | מִשְׁכָּן | mishkān | noun | 139 | The Tabernacle itself; derived from shākan | [H4908-mishkan.md](H4908-mishkan.md) |
 | H5521 | סֻכָּה | sukkah | noun | 29 | Booth/hut; the structure built for the Feast of Tabernacles; also divine pavilion | [H5521-cukkah.md](H5521-cukkah.md) |
 
 ### Greek NT / LXX
@@ -20,7 +20,7 @@ The σκηνή word family covers the concept of tent-dwelling and the portable 
 | G4633 | σκηνή | skēnē | noun | 20 | The tent/tabernacle structure itself | [G4633](G4633-skene.md) |
 | G4637 | σκηνόω | skēnoō | verb | 5 | The action of dwelling in a tent | [G4637](G4637-skenoo.md) |
 | G2681 | κατασκηνόω | kataskēnóō | verb | 4 | LXX primary rendering of shākan (46x); NT: birds nesting, flesh resting in hope | TODO(need G2681 study) |
-| G4638 | σκήνωμα | skēnōma | noun | 3 | The dwelling-place / act of encamping | TODO(need G4638 study) |
+| G4638 | σκήνωμα | skēnōma | noun | 3 | The dwelling-place / act of encamping | [G4638](G4638-skenoma.md) |
 | G4636 | σκῆνος | skēnos | noun | 2 | The body as tent (figurative) | TODO(need G4636 study) |
 | G4639 | σκιά | skia | noun | 7 | Shadow — the tabernacle as shadow of heavenly reality | [G4639](G4639-skia.md) |
 | G3485 | ναός | naos | noun | 46 | Overlapping — permanent sanctuary (vs. portable tent) | [G3485](G3485-naos.md) |
@@ -72,7 +72,9 @@ The σκηνή word family covers the concept of tent-dwelling and the portable 
 
 ## See Also
 
+- [H4908-mishkan.md](H4908-mishkan.md) — Hebrew tabernacle noun: מִשְׁכָּן (mishkan)
 - [H7931-shakan.md](H7931-shakan.md) — Hebrew root of the concept: שָׁכַן (shākan)
 - [H5521-cukkah.md](H5521-cukkah.md) — Hebrew booth/hut: סֻכָּה (sukkah)
+- [TR-mishkan-skene.md](TR-mishkan-skene.md) — cross-testament trace: mishkan → σκηνή → NT
 - [TR-shakan-kataskenoo.md](TR-shakan-kataskenoo.md) — cross-testament trace: shākan → κατασκηνόω → NT
 - [TR-cukkah-skene.md](TR-cukkah-skene.md) — cross-testament trace: sukkah → σκηνή → NT

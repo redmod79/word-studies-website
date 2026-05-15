@@ -8,16 +8,17 @@ The atonement concept in Hebrew Scripture involves a tightly integrated cluster 
 | Strong's | Word | Transliteration | POS | Occurrences | Role in Concept | Library Entry |
 |----------|------|-----------------|-----|-------------|-----------------|---------------|
 | H3722 | כָּפַר | kaphar | verb | 102 | The action — to cover/atone/expiate | [H3722](H3722-kaphar.md) |
-| H3724 | כֹּפֶר | kopher | noun | 17 | The price — ransom, satisfaction | TODO(need H3724 study) |
+| H3724 | כֹּפֶר | kopher | noun | 17 | The price — ransom, satisfaction | [H3724](H3724-kopher.md) |
 | H3725 | כִּפֻּר | kippur | noun | 8 | The event — atonement (Yom Kippurim) | [H3725](H3725-kippur.md) |
 | H3727 | כַּפֹּרֶת | kapporeth | noun | 27 | The place — mercy seat / atonement cover | [H3727](H3727-kapporeth.md) |
 | H2403 | חַטָּאָה | chattaah | noun | 296 | The offering — sin / sin offering | [H2403-chattaah](H2403-chattaah.md) |
+| H817 | אָשָׁם | asham | noun | 41 | The offering — guilt/trespass offering (debt-focused) | [H817-asham.md](H817-asham.md) |
 | H1818 | דָּם | dam | noun | 360 | The instrument — blood | [H1818-dam.md](H1818-dam.md) |
-| H3548 | כֹּהֵן | kohen | noun | 750 | The agent — priest | TODO(need H3548 study) |
-| H4196 | מִזְבֵּחַ | mizbeach | noun | 402 | The location — altar | TODO(need H4196 study) |
-| H5545 | סָלַח | salach | verb | 46 | The divine response — forgive/pardon | TODO(need H5545 study) |
+| H3548 | כֹּהֵן | kohen | noun | 750 | The agent — priest | [H3548-kohen.md](H3548-kohen.md) |
+| H4196 | מִזְבֵּחַ | mizbeach | noun | 402 | The location — altar | [H4196](H4196-mizbeach.md) |
+| H5545 | סָלַח | salach | verb | 46 | The divine response — forgive/pardon | [H5545](H5545-calach.md) |
 | H2891 | טָהֵר | taher | verb | 94 | The result — cleanse/purify | [H2891](H2891-taher.md) |
-| H5771 | עָוֺן | avon | noun | 230 | The problem — iniquity/guilt | TODO(need H5771 study) |
+| H5771 | עָוֺן | avon | noun | 230 | The problem — iniquity/guilt | [H5771-avon.md](H5771-avon.md) |
 
 ## Relationships
 
@@ -53,8 +54,8 @@ The atonement concept in Hebrew Scripture involves a tightly integrated cluster 
 
 | Strong's | Word | Transliteration | Role | Library Entry |
 |----------|------|-----------------|------|---------------|
-| G2433 | ἱλάσκομαι | hilaskomai | The act — to propitiate, expiate, be merciful | TODO(need G2433 study) |
-| G2434 | ἱλασμός | hilasmos | The event — propitiation (abstract noun; 1 John 2:2; 4:10) | TODO(need G2434 study) |
+| G2433 | ἱλάσκομαι | hilaskomai | The act — to propitiate, expiate, be merciful | [G2433](G2433-hilaskomai.md) |
+| G2434 | ἱλασμός | hilasmos | The event — propitiation (abstract noun; 1 John 2:2; 4:10) | [G2434](G2434-hilasmos.md) |
 | G2435 | ἱλαστήριον | hilastērion | The place/person — the propitiatory (mercy seat / Christ; Rom 3:25; Heb 9:5) | [G2435](G2435-hilasterion.md) |
 
 ## Roles in the Concept

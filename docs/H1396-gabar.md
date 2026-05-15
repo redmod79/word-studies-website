@@ -127,6 +127,13 @@ Piel and Hiphil uses where God is the subject — making strong, saving, or conf
 - **H1397 גֶּבֶר (geber)** — man (as vigorous/valorous person; noun)
 - **H1404 גְּבִרָה (gebirah)** — mistress, queen, lady (fem. noun; also via this root)
 
+### Synonyms
+- **רבה** — lemma returned by `search_relationships.py` as a near-neighbor to *gâbar* in the field of prevailing / exceeding.
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for H1396.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -134,6 +141,14 @@ Piel and Hiphil uses where God is the subject — making strong, saving, or conf
 | חָזַק (chazaq) | H2388 | "prevailed" (6x) | chazaq = seize, hold fast, grip; gâbar = actually surpass or be stronger |
 | יָכֹל (yakol) | H3201 | "prevail" (10x) | yakol = be able to, have capability; gâbar = actively overpower or exceed |
 | עָזַז (azaz) | H5810 | "prevailed" (2x), "prevail" (1x) | azaz = be stout/hard (impersonal quality of strength); gâbar = relational superiority |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002001001059] Strong** — `search_relationships.py` places *gâbar* in the core strength field alongside neighbors such as **H47 אַבִּיר**, **H83 אֵבֶר**, **A153 אֶדְרָע**, and **H202/H203/H204 אֹון**.
+- **[002001002003] Confident** — the same data groups *gâbar* with confidence / firmness vocabulary, including **H47 אַבִּיר**, **H68 אֶבֶן**, **H441 אַלּוּף**, **H533 אַמִּיץ**, and **H539 אמן**.
+- **[002001001042] Quantity** — this domain reflects *gâbar* in the sense of exceeding or growing stronger in measure, with neighbors such as **H96 אֵגֶל**, **H259 אֶחָד**, **H430 אֱלֹהִים**, and **H502/H503 אלף**.
+- **[002001003012] Intense** — `search_relationships.py` also associates *gâbar* with intensified force, alongside **H247 אזר**, **H430 אֱלֹהִים**, **H533 אַמִּיץ**, **H605 אָנוּשׁ**, and **H1419 גָּדוֹל**.
 
 ## LXX Mapping
 
@@ -146,5 +161,5 @@ No dominant single Greek equivalent (no bridge co-occurrence ≥ 20); the LXX di
 several Greek strength-words depending on context.
 
 ---
-*Generated from: gather_word_data.py, hebrew_parser.py, search_strongs.py*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, hebrew_parser.py, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

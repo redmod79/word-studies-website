@@ -150,6 +150,14 @@ Specific places, peoples, or situations permanently altered by divine judgment �
 - **H5956 עָלַם (ʻâlam)** — to conceal, hide (proposed root; "the concealed/vanishing point")
 - **H5957 עָלַם (ʻâlam) [Aramaic]** — remote time (Aramaic cognate, same concept; Dan 2:4–7:28)
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for H5769.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for H5769.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -158,6 +166,11 @@ Specific places, peoples, or situations permanently altered by divine judgment �
 | נֶצַח (netsach) | H5331 | "for ever" (21v), "never" | netsach = victory, finality, perpetuity as decisive outcome; ʻôwlâm = time itself as unbounded |
 | תָּמִיד (tâmîyd) | H8548 | "perpetual" (2v) | tâmîyd = unbroken continuity, regularity (the daily sacrifice); ʻôwlâm = limitless duration |
 | קֶדֶם (qedem) | H6924 | "of old" (14v) | qedem = primordial antiquity from a directional standpoint (east, front); ʻôwlâm = time hidden beyond view |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[003002006] Temporal Referents** — `search_relationships.py` places *ʻôwlâm* in the broader time-reference field alongside other temporal markers such as **H227**, **H570**, **H1973**, and **H1988**.
 
 ## LXX Mapping
 
@@ -175,7 +188,15 @@ Specific places, peoples, or situations permanently altered by divine judgment �
 - [WG-forever.md](WG-forever.md) — word group: ʻôwlâm, ʻad, netsach, αἰών, αἰώνιος, ʻâlam (Aramaic)
 - [WG-covenant.md](WG-covenant.md) — word group referencing H5769 in berît ʻôlâm context
 - [WG-continual-worship.md](WG-continual-worship.md) — word group referencing H5769 in tamid / perpetual statute context
+- [H1285-beriyth.md](H1285-beriyth.md) — covenant term frequently paired with H5769 in "everlasting covenant" formulas
+- [H8548-tamid.md](H8548-tamid.md) — related perpetual/continual duration study
+- [A5957-alam.md](A5957-alam.md) — Aramaic cognate for remote or concealed time
+- [G166-aionios.md](G166-aionios.md) — adjectival Greek counterpart: "eternal/everlasting"
+- [G5550-chronos.md](G5550-chronos.md) — Greek time-word cross-referenced alongside the aiōn / aiōnios family
+- [H2708-chuqqah.md](H2708-chuqqah.md) — statute language often extended by everlasting duration formulas
+- [H3117-yowm.md](H3117-yowm.md) — day/time vocabulary frequently modified by broad temporal expressions
+- [H1860-draown.md](H1860-draown.md) — Danielic study linked by the phrase "everlasting contempt"
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py (--lxx-map, --lookup, --lexicon), gather_trace_data.py*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, search_strongs.py (--lxx-map, --lookup, --lexicon), gather_trace_data.py, search_relationships.py*
+*Last updated: 2026-04-27*

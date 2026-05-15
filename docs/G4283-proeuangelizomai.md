@@ -22,6 +22,12 @@ Middle voice from πρό (G4253) and εὐαγγελίζω (G2097); to announce 
 - **Gloss:** "to bring the good news ahead of time"
 - **Other words in subdomain:** ἀγγελία (G31), ἄγγελος (G32), ἀκούω (G191), ἀναγγέλλω (G312), ἀπαγγέλλω (G518), κηρύσσω (G2784), καταγγέλλω (G2605), εὐαγγελίζω (G2097), εὐαγγέλιον (G2098), προκαταγγέλλω (G4293)
 
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 033 | Communication | `search_relationships.py` keeps *proeuangelizomai* in proclamation/announcement language, fitting its sole NT use for the gospel announced beforehand. |
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -43,7 +49,9 @@ Single occurrence in a Pauline epistle. The word is not attested in classical Gr
 
 The subject is "the scripture" (personified), and the content of the advance gospel is the Abrahamic promise from Gen 12:3 ("in thee shall all families of the earth be blessed"). The temporal reference is to the patriarchal era — the gospel existed as proclamation long before the NT period.
 
-## Word Family / Cognates
+## Related Words
+
+### Word Family / Cognates
 
 The εὐαγγελ- word family shares the root εὖ ("good/well") + ἀγγέλλω ("announce"):
 
@@ -62,7 +70,15 @@ The πρό- prefix appears on other announcement/proclamation verbs:
 | G4296 | προκηρύσσω (prokerysso) | verb | 2 vv | to herald in advance (Acts 3:20; 13:24) |
 | G4270 | προγράφω (prographo) | verb | 5 vv | to write previously, portray beforehand (Rom 15:4; Gal 3:1) |
 
-## Easily Confused Words
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G4283.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G4283.*
+
+### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
 |------|----------|--------------------|----------------|
@@ -89,9 +105,10 @@ No LXX mapping data for G4283. This compound verb appears to be a NT coinage wit
 
 ## See Also
 
+- [G2097-euangelizo.md](G2097-euangelizo.md) — the base verb: to announce good news
 - [G2098-euangelion.md](G2098-euangelion.md) — the gospel noun (cognate)
 - [WG-gospel.md](WG-gospel.md) — gospel word group (G4283 is a member)
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, louw_nida.db*
-*Last updated: 2026-04-13*
+*Generated from: gather_word_data.py, search_strongs.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

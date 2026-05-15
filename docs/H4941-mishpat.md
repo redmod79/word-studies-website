@@ -144,6 +144,20 @@ Mishpat as what one is rightfully owed — an individual's claim, inheritance ri
 - **H8201 שֶׁפֶט (shephet)** — cognate noun: inflicted judgment, punishment; 16x
 - **H8196 שְׁפוֹט (shephowt)** — alternate noun form: judicial sentence; rare
 
+### Synonyms
+- **H1779 דִּין (din)** — legal contention or adjudication; the nearest overlap in courtroom-process language.
+- **H8199 שָׁפַט (shaphat)** — the root verb "to judge," supplying the verbal counterpart behind mishpat.
+- **H2706 חֹק (choq)** / **H2708 חֻקָּה (chuqqah)** — statute and ordinance terms that overlap with mishpat in covenant-law contexts.
+- **H4687 מִצְוָה (mitsvah)** / **H8451 תּוֹרָה (torah)** — broader command/law terms that overlap when mishpat denotes covenant legislation.
+- **H6664 צֶדֶק (tsedeq)** / **H6666 צְדָקָה (tsedaqah)** — justice/righteousness partners in the social-ethical sense.
+
+### Antonyms
+- **H5766 עָוֶל (avel)** — injustice or wrong; the direct opposite of just judgment.
+- **H7562 רֶשַׁע (resha)** — wickedness; opposed to righteous legal order.
+- **H4820 מִרְמָה (mirmah)** — deceit; corrupts judgment by fraud.
+- **H3939 לַעֲנָה (la'anah)** — wormwood; prophetic image for judgment turned bitter (cf. Amos 5:7).
+- **H7218 רֹאשׁ (rosh)** — poison/gall imagery for justice perverted into bitterness.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -167,11 +181,37 @@ Mishpat as what one is rightfully owed — an individual's claim, inheritance ri
 
 The LXX split between krima and krisis reflects mishpat's own dual emphasis: the verdict (krima) and the process (krisis). The δικ- word group captures the justice/righteousness overlap.
 
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002004002006] Judge** — core adjudication domain; the main relationship field returned for mishpat.
+- **[002003003016] Laws** — statutory and ordinance uses; the covenant-legislation axis.
+- **[002001003014] Right** — justice, rightness, and lawful claim.
+- **[002003002006] Conflict** — lawsuit or case-setting background for mishpat proceedings.
+- **[002003002005] Chastise** — punitive and sentencing uses.
+- **[002004002004] Design** — prescribed pattern, procedure, or formal arrangement.
+- **[002001003006] Extraordinary** — secondary relationship field returned by the tool, reflecting special decision or portent contexts.
+- **[001] Objects** — broad low-signal relationship bucket returned by the tool.
+- **[002002003003] Happen** — event-realization or verdict-coming-to-pass uses.
+- **[002002001017] Space** — secondary procedural or place-setting index returned by the tool.
+
 ## See Also
 
+- [H8199-shaphat.md](H8199-shaphat.md) — root verb: judge / govern / decide
+- [H2706-choq.md](H2706-choq.md) — statute, decree
+- [H2708-chuqqah.md](H2708-chuqqah.md) — statute, ordinance
+- [H4687-mitsvah.md](H4687-mitsvah.md) — commandment
+- [H8451-towrah.md](H8451-towrah.md) — law / instruction
+- [H6663-tsadaq.md](H6663-tsadaq.md) — be just / righteous
+- [H6664-tsedeq.md](H6664-tsedeq.md) — righteousness / justice
+- [H6666-tsedaqah.md](H6666-tsedaqah.md) — righteousness / justice
+- [G2917-krima.md](G2917-krima.md) — primary LXX verdict term
+- [G2920-krisis.md](G2920-krisis.md) — LXX process-of-judgment term
+- [G1345-dikaioma.md](G1345-dikaioma.md) — ordinance / righteous requirement
+- [G3551-nomos.md](G3551-nomos.md) — law sense in covenant contexts
 - [WG-hebrew-righteousness.md](WG-hebrew-righteousness.md) — word group: mishpat in the tsadaq righteousness cluster
 - [TR-mishpat-krima.md](TR-mishpat-krima.md) — cross-testament trace: mishpat → krima/krisis
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py (--lxx-map, --lookup, --lexicon)*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, search_strongs.py (--lxx-map, --lookup, --lexicon), search_relationships.py*
+*Last updated: 2026-04-27*

@@ -67,6 +67,14 @@ Both Nehemiah occurrences use the phrase "wrought great provocations" (עָשׂ�
 ### Word Family / Cognates
 - **H5006 נָאַץ (na'ats)** — root verb: to scorn, despise, blaspheme, provoke, contemn (25 occurrences). Broad semantic range covering verbal contempt, rejection of God, and despising counsel.
 
+### Synonyms
+
+No synonyms were returned by `search_relationships.py` for H5007.
+
+### Antonyms
+
+No antonyms were returned by `search_relationships.py` for H5007.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -84,6 +92,16 @@ Both Nehemiah occurrences use the phrase "wrought great provocations" (עָשׂ�
 
 The LXX translators rendered ne'atsah primarily with parorgismos (provocation/rage), reflecting the "provocative contempt" sense. The blasphemy/reviling sense in 2 Kings 19:3 and Isaiah 37:3 was handled differently in the LXX text. No strong single-word bridge to the NT exists.
 
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002001002031] Unwilling** — stubborn refusal or resistant contempt cluster returned by the relationship tool.
+- **[002001002005] Despise** — direct scorn, contempt, and rejection domain.
+
+## See Also
+
+- [G988-blasphemia.md](G988-blasphemia.md) — Greek NT counterpart for the blasphemy/reviling line of the word's usage
+
 ---
-*Generated from: gather_word_data.py, search_strongs.py, kjv.txt*
-*Last updated: 2026-04-10*
+*Generated from: gather_word_data.py, search_strongs.py, search_relationships.py, kjv.txt*
+*Last updated: 2026-04-27*

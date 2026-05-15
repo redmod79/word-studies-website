@@ -17,11 +17,18 @@ From G2049 (ἐρημόω); **despoliation** — desolation.
 
 The word denotes the result of a devastating act: a place or community rendered empty, ruined, and abandoned. In the NT it carries a specifically prophetic sense, citing the Danielic formula of sanctuary desecration.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Primary Domain:** 20.3 — Destroy
-- **Secondary Domains:** 53.4 — Defile, Unclean, Common; 53 — Religious Activities
-- **Domain neighbors (20.3):** ἀπόλλυμι (G622), ἀπώλεια (G684), ἀφανίζω (G853), ἐρημόω (G2049), καθαίρεσις (G2506)
+**Louw-Nida:**
+- **20.3** — Destroy
+- **53.4** — Defile, Unclean, Common
+- **53** — Religious Activities
+
+Other words in 20.3: ἀπόλλυμι (G622), ἀπώλεια (G684), ἀφανίζω (G853), ἐρημόω (G2049), καθαίρεσις (G2506)
+
+**UBS Semantic Domains:**
+- **[020]** Violence, Harm, Destroy, Kill
+- **[053]** Religious Activities
 
 ## Translation Distribution (KJV)
 
@@ -75,6 +82,20 @@ Luke's parallel passage replaces the Danielic formula with the visible sign of a
 - **G2049 ἐρημόω (erēmoō)** — verb: to lay waste, make desolate (4x; including Rev 17:16; 18:17, 19)
 - **G2047 ἐρημία (erēmia)** — noun: solitude, desert region (4x)
 
+### Synonyms
+- **G5013 ταπεινόω (tapeinoo)** — humble, abase
+- **G854 ἀφανισμός (aphanismos)** — vanishing, disappearance
+- **G2679 κατασκάπτω (kataskapto)** — dig down, overthrow
+- **G3973 παύω (pauo)** — stop, cease
+- **G1629 ἐκφοβέω (ekphobeo)** — terrify
+- **G2048 ἔρημος (eremos)** — desert, desolate place
+- **G264 ἁμαρτάνω (hamartano)** — sin
+- **G3996 πενθέω (pentheo)** — mourn
+- **G4863 συνάγω (synago)** — gather together
+
+### Antonyms
+- No direct antonyms surfaced from `search_relationships.py` for this lemma.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -108,7 +129,13 @@ The highest-PMI bridge (H2723) denotes physical ruin from drought or war. H8074 
 
 - [TR-shiqquwts-bdelygma](TR-shiqquwts-bdelygma.md) — cross-testament trace: שִׁקּוּץ → βδέλυγμα; the abomination language OT to NT (G946, G2050's paired word)
 - [WG-desolate.md](WG-desolate.md) — word group: Hebrew desolation cluster (shâmêm, shemamah, shammah, chârab); G2050 is the NT terminus of this semantic chain
+- [H8074-shamem.md](H8074-shamem.md)
+- [G3639-olethros.md](G3639-olethros.md)
+- [G1842-exolethreuo.md](G1842-exolethreuo.md)
+- [G946-bdelygma.md](G946-bdelygma.md)
+- [G2840-koinoo.md](G2840-koinoo.md)
+- [G684-apoleia.md](G684-apoleia.md)
 
 ---
-*Generated from: gather_word_data.py, kjv.txt*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, kjv.txt, search_relationships.py*
+*Last updated: 2026-04-27*

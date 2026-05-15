@@ -27,6 +27,13 @@ The dual meaning arises from the same logic: what is *common to all* is, by defi
 - **Secondary Domain:** 57.001 — Possess, Property: Have, Possess (what is held in common)
 - **Tertiary Domain:** 34 — Association (shared community)
 
+## UBS Semantic Domains
+
+- **[057] Possess, Transfer, Exchange** — what is shared, common, or held jointly rather than privately.
+- **[053] Religious Activities** — common/profane status in ritual-purity discourse.
+- **[065] Value** — what is ordinary or non-special rather than consecrated.
+- **[089] Relations** — shared standing or communal relationship within a group.
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -98,6 +105,14 @@ Applied to sacred things treated as if they were merely ordinary — the inverse
 - **G2842 κοινωνία (koinōnía)** — noun: fellowship, sharing, communion (20 occurrences)
 - **G2844 κοινωνός (koinōnós)** — noun: sharer, associate, partner (10 occurrences; Matt 23:30; Luke 5:10; 1 Cor 10:18; 2 Cor 1:7; 8:23; Phlm 17; Heb 10:33; 1 Pet 5:1; 2 Pet 1:4)
 
+### Synonyms
+
+*No synonyms were returned by `search_relationships.py` for G2839.*
+
+### Antonyms
+
+- **ἴδιος (G2398)** — one's own, private; the opposite of what is common or shared.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -118,10 +133,17 @@ Applied to sacred things treated as if they were merely ordinary — the inverse
 
 ## See Also
 
+- [G2840-koinoo.md](G2840-koinoo.md) — verb form: to make common, defile (12v); the action that produces the κοινός state
+- [G169-akathartos.md](G169-akathartos.md) — "unclean"; paired with κοινός in Acts 10-11
 - [WG-cleansing.md](WG-cleansing.md) — word group covering ritual purity vocabulary; κοινός occupies the opposite pole from H2891/G2511 (clean/cleanse)
 - [G2511-katharizo.md](G2511-katharizo.md) — to cleanse/purify (antonym in the purity register)
+- [G946-bdelygma.md](G946-bdelygma.md) — abomination; neighboring impurity vocabulary
+- [H2455-chol.md](H2455-chol.md) — Hebrew "common/profane" counterpart in priestly distinction language
+- [H2931-tame.md](H2931-tame.md) — Hebrew "unclean" category often paired conceptually with κοινός
 - [G4102-pistis.md](G4102-pistis.md) — faith (collocates in "common faith", Titus 1:4)
+- [WG-unclean.md](WG-unclean.md) — broader uncleanness cluster including κοινός and κοινόω
+- [TR-chol-bebelos.md](TR-chol-bebelos.md) — cross-testament trace of profane/common vocabulary
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -11,7 +11,7 @@ The "flesh" concept in the NT draws on a cluster of words ranging from the liter
 | G4559 | σαρκικός | sarkikós | adjective | 10 | Carnal / pertaining to flesh | TODO(need G4559 study) |
 | G4983 | σῶμα | sōma | neuter noun | 122 | Body as organized whole | [G4983-soma.md](G4983-soma.md) |
 | G4151 | πνεῦμα | pneûma | neuter noun | 350 | Spirit — primary antithesis to sarx | [G4151-pneuma.md](G4151-pneuma.md) |
-| G129 | αἷμα | haîma | neuter noun | 92 | Blood — paired with sarx in "flesh and blood" | TODO(need G129 study) |
+| G129 | αἷμα | haîma | neuter noun | 92 | Blood — paired with sarx in "flesh and blood" | [G129-haima.md](G129-haima.md) |
 | G1939 | ἐπιθυμία | epithymía | feminine noun | 36 | Desire/lust — what flesh pursues | TODO(need G1939 study) |
 
 ## Relationships

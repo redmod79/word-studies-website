@@ -17,8 +17,9 @@ From a primary κάρ kár (the hair of the head); **a horn** (literally or figu
 
 *The lexicon's Outline of Biblical Usage references LXX passages:* Ex 29:12; Lev 4:7, 18; 16:18; 1 Sam 2:10; 2 Sam 22:3; Ps 17:3; 18:3; 88:18; 89:18; 118:27; 132:17; 148:14; Amos 3:14; and NT: Luk 1:69; Rev 5:6; 9:13; 12:3; 13:1; 13:11; 17:3, 7, 12, 16.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
+**Louw-Nida:**
 - **Domain 079023 — Shapes** (the horn as a projecting geometric form)
 - **Domain 008002 — Parts of the Body** (literal animal body part)
 - **Domain 076 — Power, Force** (horn as metaphor for strength)
@@ -30,6 +31,11 @@ From a primary κάρ kár (the hair of the head); **a horn** (literally or figu
 | G1137 | γωνία (gōnía) | 7 | corner, corners |
 | G3313 | μέρος (méros) | 25 | part, parts |
 | G4750 | στόμα (stóma) | 65 | mouth |
+
+**UBS Semantic Domains:**
+- **[008]** Body, Body Parts, and Body Products
+- **[079]** Features of Objects
+- **[076]** Power, Force
 
 ## Translation Distribution (KJV)
 
@@ -93,6 +99,14 @@ John's angel gives an explicit interpretation: the ten horns are ten kings who r
 - **G2762 κεραία (keraía)** — a small projecting horn-like stroke; "tittle" of a letter (Matt 5:18; Luk 16:17)
 - **G2769 κεράτιον (kerátion)** — a little horn; the husk/pod of the carob tree (Luk 15:16, prodigal son's food)
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G2768.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G2768.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -110,10 +124,46 @@ John's angel gives an explicit interpretation: the ten horns are ten kings who r
 
 *Primary bridge: H7161 qeren overwhelmingly dominates (PMI 33.83). The LXX uses κέρας as the standard rendering for the Hebrew/Aramaic horn concept throughout the OT.*
 
+## Daniel LXX-Theodotion Bridge
+
+The book of Daniel exists in two major Greek recensions: the Old Greek (OG, 2nd c. BC) and Theodotion (Th, 2nd c. AD). The Theodotion text became the standard church version and supplies the vocabulary most closely echoed in Revelation. Both recensions render Aramaic **qarnā'** (קַרְנָא, H7162) and Hebrew **qeren** (קֶרֶן, H7161) with **κέρας** (G2768).
+
+| Daniel Passage | MT Form | LXX-OG | LXX-Theodotion | Content |
+|----------------|---------|--------|----------------|---------|
+| Dan 7:7 | קַרְנַיִן עֲשַׂר (qarnayin ʿăśar) | κέρατα δέκα | κέρατα δέκα | "ten horns" on the fourth beast |
+| Dan 7:8 | קֶרֶן אָחֳרִי זְעֵירָה (qeren ʾoḥŏrî zəʿêrāh) | κέρας ἕτερον... μικρόν | κέρας ἕτερον μικρόν | "another little horn" |
+| Dan 7:20 | קַרְנַיָּא עֲשַׂר (qarnayyāʾ ʿăśar) | κεράτων δέκα | κεράτων δέκα | "the ten horns" (interpretation) |
+| Dan 7:21 | קַרְנָא דִכֵּן (qarnāʾ dikkên) | κέρας ἐκεῖνο | τὸ κέρας ἐκεῖνο | "that horn" made war with the saints |
+| Dan 7:24 | קַרְנַיָּא עֲשַׂר (qarnayyāʾ ʿăśar) | κέρατα δέκα | τὰ δέκα κέρατα | "the ten horns are ten kings" |
+| Dan 8:3 | קְרָנָיִם (qərānāyim) | κέρατα | κέρατα δύο | ram's two horns |
+| Dan 8:5 | קֶרֶן חָזוּת (qeren ḥāzût) | κέρας (ἓν) θεωρητόν | κέρας ἓν θεωρητόν | goat's conspicuous horn |
+| Dan 8:8 | אַרְבַּע... חָזוּת (ʾarbaʿ ḥāzût) | τέσσαρα κέρατα | κέρατα τέσσαρα | four horns from the broken one |
+| Dan 8:9 | קֶרֶן־אַחַת מִצְּעִירָה (qeren-ʾaḥat miṣṣəʿîrāh) | κέρας ἓν ἰσχυρόν (OG) / κέρας ἓν μικρόν (Th) | κέρας ἓν μικρόν | "a little horn" from one of the four |
+
+**Key shared formulae linking Dan 7 (Th) → Revelation:**
+
+| Formula | Dan 7 (Theodotion) | Revelation |
+|---------|--------------------|-----------|
+| κέρατα δέκα ("ten horns") | Dan 7:7, 7:20, 7:24 | Rev 12:3; 13:1; 17:3, 17:7, 17:12 |
+| δέκα βασιλεῖς ("ten kings") | Dan 7:24 — τὰ δέκα κέρατα... δέκα βασιλεῖς | Rev 17:12 — δέκα κέρατα... δέκα βασιλεῖς εἰσιν |
+| κέρας + ὀφθαλμοί ("horn + eyes") | Dan 7:8, 7:20 — "eyes like the eyes of a man" | Rev 5:6 — "seven horns and seven eyes" |
+| θηρίον + κέρατα ("beast + horns") | Dan 7:7, 7:11, 7:19 | Rev 13:1; 17:3, 17:7 |
+| κέρας ἕτερον / ἄλλο ("another horn") | Dan 7:8, 7:20 | Rev 13:11 — ἄλλο θηρίον with κέρατα δύο |
+
+*The construction **δέκα κέρατα... δέκα βασιλεῖς εἰσιν** in Rev 17:12 verbally matches Dan 7:24 Theodotion (τὰ δέκα κέρατα... δέκα βασιλεῖς ἀναστήσονται), indicating direct lexical dependence on the Th-Daniel text-form rather than OG.*
+
 ## See Also
 
-- [TR-qeren-keras.md](TR-qeren-keras.md) — cross-testament trace: H7161 qeren → G2768 kéras
+- [TR-qeren-keras.md](TR-qeren-keras.md) — cross-testament trace: H7161/H7162 qeren → G2768 kéras
+- [H7161-qeren.md](H7161-qeren.md) — Hebrew source word study
+- [A7162-qeren.md](A7162-qeren.md) — Aramaic form (Daniel 7)
+- [G2342-therion.md](G2342-therion.md) — beast imagery; horns mark apocalyptic powers
+- [G1238-diadema.md](G1238-diadema.md) — diadems placed on horns in Rev 12:3 and 13:1
+- [G1404-drakon.md](G1404-drakon.md) — dragon imagery paired with horned apocalyptic power
+- [H7311-ruwm.md](H7311-ruwm.md) — רוּם, horn-exaltation language behind the OT/NT power idiom
+- [H6842-tsaphir.md](H6842-tsaphir.md) — צָפִיר, Daniel's he-goat imagery with its conspicuous horn
+- [TR-shaphak-ekcheo.md](TR-shaphak-ekcheo.md) — blood poured at the altar's horns; sanctuary-service bridge
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, gather_trace_data.py*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, greek_parser.py, gather_trace_data.py, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

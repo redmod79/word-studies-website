@@ -24,11 +24,21 @@
 
 *(Thayer's, STRONGS G5179)*
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Primary Domain:** 058009 — Pattern, Model, Example, and Corresponding Representation
-- **Other words in domain:** εἰκών (G1504), τυπικῶς (G5179a), ὑπογραμμός (G5261), ὑπόδειγμα (G5262), ὑποτύπωσις (G5296), χαρακτήρ (G5481)
-- **Also classified under:** 006013 (Images and Idols), 058010 (Archetype, Corresponding Type/Antitype), 058004 (Class, Kind)
+**Louw-Nida:**
+- **058009** — Pattern, Model, Example, and Corresponding Representation
+- **006013** — Images and Idols
+- **058010** — Archetype, Corresponding Type/Antitype
+- **058004** — Class, Kind
+
+Other words in 058009: εἰκών (G1504), τυπικῶς (G5179a), ὑπογραμμός (G5261), ὑπόδειγμα (G5262), ὑποτύπωσις (G5296), χαρακτήρ (G5481)
+
+**UBS Semantic Domains:**
+- **[058]** Nature, Class, Example
+- **[008]** Body, Body Parts, and Body Products
+- **[006]** Artifacts
+- **[090]** Case
 
 ## Translation Distribution (KJV)
 
@@ -123,6 +133,13 @@ A historical person or event that prefigures a later fulfillment.
 - **G499 ἀντίτυπον (antitypon)** — anti + typos: antitype, counterpart/fulfillment (1 Pet 3:21; Heb 9:24)
 - **G5179a τυπικῶς (typikōs)** — adverb: "typically," in a typological/representative manner (used in 1 Cor 10:11 variant readings)
 
+### Synonyms
+- **G5296 ὑποτύπωσις (hypotypōsis)** — outline, sketch, pattern; the closest modeled-form neighbor surfaced by `search_relationships.py`.
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G5179.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -138,9 +155,16 @@ No dominant LXX alignment. τύπος is primarily a NT Greek word. The OT conte
 
 ## See Also
 
+- [G1504-eikon.md](G1504-eikon.md) — image / representation language overlapping τύπος as formed likeness
+- [G1497-eidolon.md](G1497-eidolon.md) — idol/image usage adjacent to Acts 7:43
+- [G4633-skene.md](G4633-skene.md) — tabernacle "pattern" study and Exod 25:40 / Heb 8:5 linkage
+- [G4639-skia.md](G4639-skia.md) — shadow/pattern relationship in sanctuary typology
+- [G1096-ginomai.md](G1096-ginomai.md) — "become an example" collocation
+- [G4160-poieo.md](G4160-poieo.md) — "make according to the pattern" construction
+- [G5480-charagma.md](G5480-charagma.md) — impressed-mark language adjacent to τύπος as imprint
 - [WG-image.md](WG-image.md) — word group: image/representation cluster
 - [WG-shadow.md](WG-shadow.md) — word group: shadow/type/pattern cluster
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, strongs_translations.db, louw_nida.db*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, strongs_translations.db, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-28*

@@ -23,6 +23,11 @@
 - **Broader domain:** 006 — Artifacts
 - **Other words in subdomain:** λαμπάς (G2985), λυχνία (G3087), φανός (G5322), φῶς (G5457)
 
+## UBS Semantic Domains
+
+- **Domain:** 006 — Artifacts
+- **Representative neighbors:** ἀγγεῖον (G30), ἄγγος (G30), ἄγκιστρον (G44), ἄγκυρα (G45), ἀλάβαστρος (G211), ἀλόη (G250)
+
 ## Translation Distribution (KJV)
 
 | Translation     | Count | %     |
@@ -103,6 +108,15 @@ Revelation's three uses all concern the end state where lamps become unnecessary
 ### Word Family / Cognates
 - **G3087 λυχνία (lychnía)** — lampstand, candlestick; the stand on which the λύχνος rests (10 NT uses)
 
+### Synonyms
+
+- **λαμπάς (G2985)**
+- **φωτισμός (G5462)**
+
+### Antonyms
+
+- **ἡλίου** — the sun/light-of-the-sun contrast in Revelation's "no candle, neither light of the sun" scenes (Rev 21:23; 22:5)
+
 ### Domain Neighbors (Louw-Nida 006014)
 
 | Word | Strong's | Total vv | KJV Translation | Key Difference |
@@ -131,9 +145,13 @@ H5216 (נֵר) is the dominant Hebrew source — the common word for an oil lamp
 
 ## See Also
 
+- [G3087-lychnia.md](G3087-lychnia.md) — lampstand study: the structure that bears the lamp
+- [G2985-lampas.md](G2985-lampas.md) — torch / lamp study in the same light vocabulary cluster
+- [G5457-phos.md](G5457-phos.md) — light as the phenomenon emitted by the lamp
+- [WG-light.md](WG-light.md) — word group for broader light vocabulary
 - [TR-mnowrah-lychnia.md](TR-mnowrah-lychnia.md) — cross-testament trace: מְנוֹרָה (menorah) → λυχνία (lampstand); related lamp-stand vocabulary
 - [WG-candlesticks.md](WG-candlesticks.md) — word group: lamp and light-holder vocabulary cluster
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, thayer_definition*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, search_relationships.py, louw_nida.db, thayer_definition*
+*Last updated: 2026-04-27*

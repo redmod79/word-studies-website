@@ -24,6 +24,10 @@ Of Hebrew origin (H3316); Jephthaë (i.e. Jiphtach), an Israelite — proper mas
 
 This subdomain contains all NT proper personal names. As a hapax, G2422 has no distinguishing semantic range beyond identifying the historical figure.
 
+## UBS Semantic Domains
+
+- **[093] Names of Persons and Places** — `search_relationships.py` keeps G2422 in the general proper-name bucket, which fits its single NT use as a historical person-reference.
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -63,6 +67,14 @@ No collocational data — word occurs only once. In its single verse, Iephtháe 
 - **H3316 יִפְתָּח (Yiphtâch)** — Hebrew source form, 30 OT occurrences (primarily Judg 11–12 as the judge; also Josh 15:43, 19:14, 19:27 as Judahite and Zebulunite place names)
 - **H6605 פָּתַח (pathach)** — underlying Hebrew verb root, "to open"; the name is an imperfect form meaning "he will open" (likely theophoric: "[God] opens [the womb]")
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G2422. As a proper name, it identifies a single person rather than a reusable lexical meaning.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G2422.*
+
 ### Easily Confused Words
 None. G2422 is a unique proper-name transliteration; no other Greek lexeme shares its form or KJV rendering.
 
@@ -91,5 +103,5 @@ The Jephthah of Judg 11–12 is the son of Gilead by a harlot, expelled by his h
 No existing TR/WG/EN files reference G2422. As a hapax proper name with only one NT occurrence and a 1-to-1 LXX correspondence to H3316, auto-generation of a cross-testament trace or word group is not warranted (no distributional data, no collocations, no semantic cluster).
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py --lexicon, kjv.txt*
-*Last updated: 2026-04-16*
+*Generated from: gather_word_data.py, search_strongs.py --lexicon, kjv.txt, search_relationships.py*
+*Last updated: 2026-04-27*

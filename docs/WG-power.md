@@ -15,8 +15,8 @@ distinguishing graduated levels of authority, not treating them as synonyms.
 | G1411 | δύναμις | dýnamis | fem. noun | 116 | Inherent force; miracle-working ability | TODO(need G1411 study) |
 | G2904 | κράτος | krátos | neut. noun | 12 | Sovereign dominion; almighty grip (near-exclusively divine) | TODO(need G2904 study) |
 | G2479 | ἰσχύς | ischýs | fem. noun | 11 | Raw physical or muscular strength | TODO(need G2479 study) |
-| G746 | ἀρχή | archḗ | fem. noun | 56 | Originating rank; principality; first position | TODO(need G746 study) |
-| G758 | ἄρχων | árchōn | masc. noun | 36 | The holder of first rank; ruler, prince, magistrate | TODO(need G758 study) |
+| G746 | ἀρχή | archḗ | fem. noun | 56 | Originating rank; principality; first position | [G746-arche.md](G746-arche.md) |
+| G758 | ἄρχων | árchōn | masc. noun | 36 | The holder of first rank; ruler, prince, magistrate | [G758-archon.md](G758-archon.md) |
 
 ## Relationships
 

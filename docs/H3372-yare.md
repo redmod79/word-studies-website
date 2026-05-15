@@ -148,6 +148,17 @@ Fearing Yahweh alongside other gods — exposed as contradiction.
 - **H3373 יָרֵא (yare)** — adjective: "fearing, reverent" (54 verses). Used in construct: "those that fear him/God"
 - **H3374 יִרְאָה (yir'ah)** — feminine noun: "fear, reverence" (42 verses). "The fear of the LORD" (yir'at YHWH)
 
+### Synonyms
+- **H2729 חָרַד (charad)** — tremble, be afraid; emphasizes visibly shaking fear.
+- **H2865 חָתַת (chathath)** — be shattered, be dismayed; overlaps with *yare* in dread/discouragement contexts.
+- **H6206 עָרַץ (arats)** — dread, terrify; a stronger fear/terror term in threat contexts.
+- **H366 אָיֹם (ayom)** — dreadful, terrifying; adjective in the same fear cluster surfaced by `search_relationships.py`.
+- **H1219 בָּצַר (batsar)** — surfaced by `search_relationships.py` as a secondary pressure/threat neighbor rather than a direct equivalent of *yare*.
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for H3372.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -157,6 +168,12 @@ Fearing Yahweh alongside other gods — exposed as contradiction.
 | פָּחַד (pachad) | H6342 | "be afraid" (2x), "fear" (1x) | pachad (verb) = be startled by sudden alarm; yare covers the full range from terror to reverence |
 | חוּל (chuwl) | H2342 | "afraid" (2x) | chuwl = writhe, tremble; emphasizes physical anguish |
 | גּוּר (guwr) | H1481 | "afraid" (2x), "be afraid" (2x) | guwr = shrink back from; often with min (away from) |
+
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 002001002001 | Afraid | Core fear/dread field. `search_relationships.py` clusters *yare* most strongly with the emotional-fear side of the lexeme; the reverence/awe usage remains documented by the canonical categories above. |
 
 ## LXX Mapping
 
@@ -176,5 +193,5 @@ Fearing Yahweh alongside other gods — exposed as contradiction.
 - [WG-fear.md](WG-fear.md) — word group: the fear/reverence concept cluster
 
 ---
-*Generated from: gather_word_data.py, hebrew_parser.py, search_strongs.py (--lxx-map)*
-*Last updated: 2026-04-13*
+*Generated from: gather_word_data.py, hebrew_parser.py, search_strongs.py (--lxx-map), search_relationships.py*
+*Last updated: 2026-04-27*

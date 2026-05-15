@@ -17,11 +17,15 @@ From δόγμα (G1378); to prescribe by statute, i.e. (reflexively) to submit t
 
 Outline of Biblical Usage (including LXX): Esther 2; 3:9 — Daniel 2:13 — Colossians 2:20
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Domain:** 036 — Guide, Discipline, Follow
-- **Subdomain:** 036.003 — Obey, Disobey
-- **Domain definition:** The act of submitting to, following, or being governed by prescribed directives
+**Louw-Nida:**
+- **36.003** — Obey, Disobey
+
+In NT usage δογματίζω belongs to the obedience / submission field: not issuing decrees, but being placed under them.
+
+**UBS Semantic Domains:**
+- **[036]** Guide, Discipline, Follow
 
 ## Translation Distribution (KJV)
 
@@ -61,6 +65,14 @@ No collocations available — hapax legomenon with only one NT verse. The broade
 ### Word Family / Cognates
 - **G1378 δόγμα (dogma)** — root noun; decree, ordinance, regulation (5x NT: Luke 2:1; Acts 16:4; 17:7; Eph 2:15; Col 2:14)
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G1379.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G1379.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -88,11 +100,12 @@ No direct Hebrew LXX bridge found for G1379 via the concordance tools. The LXX o
 
 ## See Also
 
-- [G1378-dogma](G1378-dogma.md) — word study on the parent noun δόγμα (if created)
+- [G1378-dogma](G1378-dogma.md) — parent noun: decree, ordinance, regulation
+- [G5498-cheirographon](G5498-cheirographon.md) — "handwriting of ordinances" in the same Colossians context
 - [G1785-entole](G1785-entole.md) — commandment/precept (related domain)
 - [WG-commandment](WG-commandment.md) — word group for commandment/law cluster
 - [WG-law](WG-law.md) — broader law word group
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_strongs.py*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -125,6 +125,14 @@ visual impression received.
 - **H7200 רָאָה (ra'ah)** — root verb: to see (primitive root; 1,300+ occurrences)
 - **H4759 מַרְאָה (mar'ah)** — feminine cognate: vision; mirror (12 occurrences)
 
+### Synonyms
+
+*No synonyms returned by `search_relationships.py` for H4758.*
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for H4758.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -133,6 +141,17 @@ visual impression received.
 | חָזוֹן (chazon) | H2377 | vision | From H2372 (chazah, to behold prophetically); exclusively prophetic revelation; H4758 covers both visual appearance and vision |
 | תֹּאַר (to'ar) | H8389 | favoured | Outline/shape/figure; focuses on physical contour; H4758 is the visual impression, not just the shape |
 | פָּנִים (panim) | H6440 | countenance | Literally "face / presence"; H4758 is the visible appearance or expression of the face, not the face itself |
+
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 002004001005 | See | Core domain for *mar'eh* as visible appearance, sight, and the thing seen. |
+| 002001001007 | Bad | Secondary association from ill-favoured appearance language such as the "evil-favoured" cattle in Genesis 41. |
+| 002001003005 | Easy | Minor secondary domain surfaced by the relationship tool for what is plainly visible; not an independent gloss. |
+| 002001001029 | Good | Secondary association from *tob mar'eh* and related beauty / favor descriptions. |
+| 002001001034 | Large | Secondary association from size/form descriptions within visible-appearance contexts; not a stand-alone lexical sense. |
+| 002004002015 | Vision | Core revelatory domain for prophetic and theophanic vision usage in Ezekiel and Daniel. |
 
 ## LXX Mapping
 
@@ -150,9 +169,11 @@ The LXX splits H4758's two senses: *opsis* renders physical appearance/countenan
 
 - [TR-mareh-opsis](TR-mareh-opsis.md) — cross-testament trace: H4758 → G3799 opsis; "judge not by appearance" (1 Sam 16:7 → John 7:24) and theophanic countenance (Dan 10:6 → Rev 1:16)
 - [WG-vision](WG-vision.md) — word group: prophetic vision cluster; marʼeh as the visual form of what is seen
+- [WG-appearance-vision.md](WG-appearance-vision.md) — word group: the broader appearance/vision cluster where mar'eh bridges outward form and prophetic sight
 - [H2377-chazon](H2377-chazon.md) — closely related: chazon = revelatory content; Daniel 8–10 uses both with structural distinction
+- [H7200-raah.md](H7200-raah.md) — root verb "to see"; the verbal base behind mar'eh
 - [TR-chazon-horasis](TR-chazon-horasis.md) — G3706 ὅρασις also translates marʼeh in LXX, erasing the Hebrew chazon/marʼeh distinction
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py --lexicon/--lxx-map*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, search_strongs.py --lexicon/--lxx-map, search_relationships.py*
+*Last updated: 2026-04-27*

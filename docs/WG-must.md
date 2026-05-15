@@ -8,10 +8,10 @@ The necessity-obligation concept in the NT involves five Greek words expressing 
 | Strong's | Word | Transliteration | POS | Occurrences | Role in Concept | Library Entry |
 |----------|------|-----------------|-----|-------------|-----------------|---------------|
 | G1163 | δεῖ | deî | verb (impersonal) | 104 | Core necessity: divine/inherent compulsion | [G1163-dei.md](G1163-dei.md) |
-| G3784 | ὀφείλω | opheílō | verb | 35 | Moral debt/obligation to another person | TODO(need G3784 study) |
+| G3784 | ὀφείλω | opheílō | verb | 35 | Moral debt/obligation to another person | [G3784](G3784-opheilo.md) |
 | G318 | ἀνάγκη | anánkē | feminine noun | 18 | The noun: necessity, constraint, distress | TODO(need G318 study) |
 | G316 | ἀναγκαῖος | anagkaîos | adjective | 8 | Adjectival: necessary, needful, close (kin) | TODO(need G316 study) |
-| G3195 | μέλλω | méllō | verb | 106 | Imminence: about to, intending to, destined | TODO(need G3195 study) |
+| G3195 | μέλλω | méllō | verb | 106 | Imminence: about to, intending to, destined | [G3195-mello.md](G3195-mello.md) |
 
 ## Relationships
 

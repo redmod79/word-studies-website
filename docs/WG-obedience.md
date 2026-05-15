@@ -9,11 +9,11 @@ The obedience concept in the NT involves a tight word family built on the Greek 
 | Strong's | Word | Transliteration | POS | Occurrences | Role in Concept | Library Entry |
 |----------|------|-----------------|-----|-------------|-----------------|---------------|
 | G5218 | ὑπακοή | hupakŏē | noun | 14 | The act/quality: obedience | [G5218-hupakoe.md](G5218-hupakoe.md) |
-| G5219 | ὑπακούω | hupakŏuō | verb | 21 | The action: to obey, to heed | TODO(need G5219 study) |
+| G5219 | ὑπακούω | hupakŏuō | verb | 21 | The action: to obey, to heed | [G5219-hupakouo.md](G5219-hupakouo.md) |
 | G5255 | ὑπήκοος | hupēkŏŏs | adjective | 3 | The quality: being obedient | TODO(need G5255 study) |
 | G3876 | παρακοή | parakoē | noun | 3 | The antonym: disobedience (lit. "hearing amiss") | TODO(need G3876 study) |
-| G0543 | ἀπείθεια | apeitheia | noun | 7 | Obstinate disbelief / rebellious non-compliance | TODO(need G543 study) |
-| G0544 | ἀπειθέω | apeitheo | verb | 16 | To disbelieve wilfully; to disobey the gospel | TODO(need G544 study) |
+| G0543 | ἀπείθεια | apeitheia | noun | 7 | Obstinate disbelief / rebellious non-compliance | [G543-apeitheia.md](G543-apeitheia.md) |
+| G0544 | ἀπειθέω | apeitheo | verb | 16 | To disbelieve wilfully; to disobey the gospel | [G544-apeitheo.md](G544-apeitheo.md) |
 
 ## Relationships
 

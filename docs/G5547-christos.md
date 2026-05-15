@@ -34,6 +34,13 @@ The word is a verbal adjective (perfect passive participle of χρίω) that bec
 | G1249 | διάκονος | 15 | minister, deacon |
 | G1985 | ἐπίσκοπος | 6 | bishop |
 
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 053 | Religious Activities | `search_relationships.py` keeps Χριστός in the religious-role field; neighbors: ἁγιάζω (G37), ἁγιασμός (G38), ἅγιος (G40), ἁγιωσύνη (G42), ἁγνίζω (G48), ἁγνισμός (G49). |
+| 093 | Names of Persons and Places | `search_relationships.py` also classifies Χριστός in the proper-name/title field; neighbors: Ἀαρών (G2), Ἀβαδδών (G3), Ἅβελ (G6), Ἀβιά (G7), Ἀβιαθάρ (G8), Ἀβιληνή (G9). |
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -151,6 +158,14 @@ Christ's return is consistently linked to his title.
 - **G5548 → G5547** — *Christos* is the perfect passive participle of *chriō* substantivized as a title: "the Anointed One"
 - **G500 ἀντίχριστος (antichristos)** — "against-Christ" / "false-Christ"; uses the same root with ἀντί prefix (5 occurrences)
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G5547.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G5547.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -173,10 +188,19 @@ Christ's return is consistently linked to his title.
 
 - [TR-mashiyach-christos.md](TR-mashiyach-christos.md) — Cross-testament trace: H4899 (mashiyach) → G5547 (Christos)
 - [TR-mashach-chrio.md](TR-mashach-chrio.md) — Cross-testament trace: H4886 (mashach, to anoint) → G5548 (chriō)
+- [H4886-mashach.md](H4886-mashach.md) — Hebrew anointing verb behind the messianic title
+- [G40-hagios.md](G40-hagios.md) — linked study from the relationship graph
+- [G1484-ethnos.md](G1484-ethnos.md) — linked study from the relationship graph
+- [G1515-eirene.md](G1515-eirene.md) — linked study from the relationship graph
+- [G3551-nomos.md](G3551-nomos.md) — linked study from the relationship graph
+- [G3952-parousia.md](G3952-parousia.md) — linked study from the relationship graph
+- [G4151-pneuma.md](G4151-pneuma.md) — linked study from the relationship graph
+- [G5056-telos.md](G5056-telos.md) — linked study from the relationship graph
+- [G5207-huios.md](G5207-huios.md) — linked study from the relationship graph
 - [WG-anointed.md](WG-anointed.md) — Word group: the anointing concept cluster
 - [WG-god.md](WG-god.md) — Word group: God / deity vocabulary
 - [WG-law.md](WG-law.md) — Word group: law vocabulary (frequent "Christ is the end of the law" contexts)
 
 ---
-*Generated from: gather_word_data.py, strongs_translations.db, louw_nida.db, kjv.txt*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, strongs_translations.db, louw_nida.db, kjv.txt, search_relationships.py*
+*Last updated: 2026-04-28*

@@ -98,6 +98,14 @@ The Pael (transitive) and Ithpaal used for deliberate inner or diplomatic transf
 - **H8132 שָׁנָא (shânâʼ)** — Hebrew, primitive root "to alter" (3v: 2 Kgs 25:29; Eccl 8:1; Lam 4:1)
 - **H8138 שָׁנָה (shânâh)** — Hebrew cognate, "to fold/duplicate/change" (22v; primary Hebrew counterpart)
 
+### Synonyms
+
+No synonyms were returned by `search_relationships.py` for A8133.
+
+### Antonyms
+
+No antonyms were returned by `search_relationships.py` for A8133.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -119,11 +127,33 @@ Primary Greek rendering in Theodotion's Daniel (the standard LXX for Daniel):
 
 *Note: For the "diverse" usage Theodotion uses forms of διαφέρω ("differ from") and ἕτερος ("other/different"); the co-occurrence pattern above reflects the Aramaic text environment rather than direct gloss-for-gloss equivalence.*
 
+## Semantic Domains
+
+- **[002001001020] Different**
+  Other words: אַחֵר (H312), אַחֵר (H313), אָחֳרִי (A317), אָחֳרָן (A321), הפך (H2015), הֵפֶךְ (H2016)
+- **[002001003002] Change**
+  Other words: בלל (H1101), הפך (H2015), חדשׁ (H2318), חֲלִיפָה (H2487), חלף (A2499), חלף (H2498)
+- **[002001002010] Foolish**
+  Other words: אֱוִיל (H191), אֱוִלִי (H196), אִוֶּלֶת (H200), בער (H1197), בַּעַר (H1198), הֹולֵלוּת (H1948)
+- **[002003001007] Dress**
+  Other words: אזר (H247), אסר (H631), אפד (H640), חבשׁ (H2280), חָגֹור (H2289), חגר (H2296)
+- **[002001003009] Frequency**
+  Other words: אֶחָד (H259), אֲלַף (A506), אֶלֶף (H504), אֶלֶף (H505), אֶלֶף (H507), אַרְבַּע (A703)
+- **[002004002008] Non-Know**
+  Other words: בָּצוּר (H1208), גנב (H1589), חבא (H2244), חֵיק (H2436), חפא (H2644), חפשׂ (H2664)
+- **[002001002024] Respect**
+  Other words: אשׁר (H833), אֶשֶׁר (H835), אַשְׁרֵי (H835), הדר (A1922), הדר (H1921), הָדָר (H1926)
+- **[002001001048] Shape**
+  Other words: אבר (H82), אָפִיק (H650), ארך (H748), בֶּתֶר (H1335), בֶּתֶר (H1336), גַּב (A1355)
+
 ## See Also
+- [A5452-cbar.md](A5452-cbar.md) — cross-referenced related study
+- [H2376-chezev.md](H2376-chezev.md) — cross-referenced related study
+- [H8141-shaneh.md](H8141-shaneh.md) — Hebrew cognate year/change study
 - [WG-aramaic-time.md](WG-aramaic-time.md) — word group: Aramaic time vocabulary (Dan 2–7)
 - [A5732-iddan.md](A5732-iddan.md) — עִדָּן (ʻiddân) — "times and seasons" (the object H8133 acts upon in Dan 2:21; 7:25)
 - [A1882-dath.md](A1882-dath.md) — דָּת (dâth) — law/decree (co-occurs 4x; cannot be shᵉnâʼ in Medo-Persian law)
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py --lexicon, BDB outline*
-*Date: 2026-04-02*
+*Generated from: gather_word_data.py, search_strongs.py --lexicon, BDB outline, search_relationships.py*
+*Last updated: 2026-04-27*

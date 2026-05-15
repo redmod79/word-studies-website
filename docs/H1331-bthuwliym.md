@@ -83,6 +83,14 @@ Concentrated in Deut 22 (four of nine occurrences, the legal case on a defamed b
 ### Word Family / Cognates
 - **H1330 בְּתוּלָה (bᵉthûwlâh)** — the concrete counterpart: "a virgin, a maid." 50 OT uses. H1331 is the abstract state; H1330 is the person.
 
+### Synonyms
+
+*No synonyms returned by `search_relationships.py` for H1331.*
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for H1331.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -92,6 +100,12 @@ Concentrated in Deut 22 (four of nine occurrences, the legal case on a defamed b
 | עַלְמָה (ʻalmâh) | H5959 | young woman / maid | H5959 emphasizes nubile youth (Isa 7:14); H1331 focuses on untouched state |
 | נְעוּרִים (nᵉʻûrîm) | H5271 | "youth" / early life | H5271 = years of youth (parallels H1331 in Ezek 23); H1331 specifies sexual inviolacy within that period |
 | παρθενία (parthenía) | G3932 | "virginity" (NT/LXX) | Greek counterpart; appears once in NT (Luke 2:36) describing Anna's pre-widowhood years |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[001002007] People** — `search_relationships.py` places *bᵉthûwlîym* in the people/personhood field, fitting the way the abstract noun remains anchored to the status of a particular young woman.
+- **[002004002007] Know** — the same tool also groups it in the "Know" domain, which fits Deut 22's forensic "found / not found" virginity language and the state that is publicly recognized or contested.
 
 ## LXX Mapping
 
@@ -113,5 +127,5 @@ Direct lexical equivalent (from standard LXX readings not captured by the PMI ta
 No TR-, WG-, or EN- files currently reference H1331.
 
 ---
-*Generated from: gather_word_data.py (strongs_translations.db, occurrences table, LXX PMI alignment)*
-*Last updated: 2026-04-16*
+*Generated from: gather_word_data.py (strongs_translations.db, occurrences table, LXX PMI alignment), search_relationships.py*
+*Last updated: 2026-04-27*

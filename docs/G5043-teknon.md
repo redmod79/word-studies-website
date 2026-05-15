@@ -24,6 +24,14 @@ Outline of Biblical Usage includes: a child, children (literal offspring); used 
 - **Also classified in:** 9.40 — Persons For Whom There Is Affectionate Concern (Domain 009005)
 - **Other words in 009005:** θυγάτηρ (G2364), παιδίον (G3813), ταλιθά (G5008), τεκνίον (G5040), υἱός (G5207)
 
+### UBS Semantic Domains (search_relationships.py)
+
+- **[010] Kinship Terms** — literal family relationships and generational descent.
+- **[011] Groups and Classes of Persons and Members of Such Groups and Classes** — collective identities such as "children of..."
+- **[009] People** — the broader category of human persons and dependents.
+- **[036] Guide, Discipline, Follow** — household instruction and nurture contexts.
+- **[058] Nature, Class, Example** — identity-by-quality expressions such as "children of promise," "children of wrath," and "children of light."
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -139,6 +147,14 @@ Children in prophetic lament, divine judgment, or apocalyptic imagery.
 - **G5041 τεκνογονέω (teknogoneō)** — to bear children (1 Tim 5:14)
 - **G5042 τεκνογονία (teknogonia)** — childbearing (1 Tim 2:15)
 
+### Synonyms
+
+- **παῖς (G3816)** — a semantic neighbor for child / offspring, though it can also extend into servant-language contexts.
+
+### Antonyms
+
+- **ἄτεκνος (G815)** — alpha-privative opposite: childless / without offspring.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -168,9 +184,14 @@ Children in prophetic lament, divine judgment, or apocalyptic imagery.
 
 ## See Also
 
+- [G5207-huios.md](G5207-huios.md) — υἱός, the status- and inheritance-oriented counterpart to τέκνον
+- [G3962-pater.md](G3962-pater.md) — πατήρ, the parental term most often paired with τέκνον
+- [H1121-ben.md](H1121-ben.md) — Hebrew בן, the dominant OT source behind τέκνον / υἱός family language
+- [H2945-taph.md](H2945-taph.md) — Hebrew "little ones," a narrower child-grouping parallel
+- [G4690-sperma.md](G4690-sperma.md) — σπέρμα, offspring / seed language adjacent to kinship identity
 - [TR-ben-huios.md](TR-ben-huios.md) — cross-testament trace: H1121 bên → G5207 huiŏs (τέκνον is the birth-emphasis counterpart to υἱός's legal-status emphasis)
 - [WG-family.md](WG-family.md) — word group: family and kinship terms
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py --lexicon, louw_nida.db*
-*Date: 2026-04-02*
+*Generated from: gather_word_data.py, search_strongs.py --lexicon, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-28*

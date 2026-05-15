@@ -128,6 +128,14 @@ A primitive root; to decay, i.e. (causatively) ruin (literally or figuratively):
 ### Word Family / Cognates
 - **H4889 מַשְׁחִית (mashchiyth)** — destruction, destructive; destroyer; pit (noun from shâchath, Hiphil participial pattern); occurs 11x: Gen 9:11, Exod 12:13, 23; 2 Sam 24:16; 1 Chr 21:12,15; Jer 22:7; Ezek 5:16; 9:1; 21:31; 25:15
 
+### Synonyms
+
+*No synonym entries were returned by `search_relationships.py` for H7843.*
+
+### Antonyms
+
+*No antonym entries were returned by `search_relationships.py` for H7843.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -135,6 +143,15 @@ A primitive root; to decay, i.e. (causatively) ruin (literally or figuratively):
 | שָׁמַד (shâmad) | H8045 | "destroy", "destroyed" | shâmad = total extermination/eradication (used of tribes, idols, nations utterly wiped out); shâchath = broader ruin, including moral corruption, physical damage, or partial destruction |
 | אָבַד (ʼâbad) | H6 | "destroy", "destroyed" | ʼâbad often intransitive = to perish, be lost (things/persons that vanish); shâchath = active ruining/corrupting, usually by an agent |
 | חָבַל (châbal) | H2254 | "to destroy" | châbal = to wound by pledging, to corrupt by binding; shâchath = broader ruin/decay |
+
+## Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 002001001024 | Impact | Returned by `search_relationships.py` for literal damage / battering contexts. |
+| 002003003010 | End | The core termination / destruction field returned by the tool. |
+| 002001002007 | Evil | Secondary corruption field surfaced by the tool. |
+| 002001003020 | Wrong | Secondary moral-wrongness field surfaced by the tool. |
 
 ## LXX Mapping
 
@@ -152,7 +169,12 @@ A primitive root; to decay, i.e. (causatively) ruin (literally or figuratively):
 ## See Also
 
 - [TR-shachath-diaphtheiro.md](TR-shachath-diaphtheiro.md) — cross-testament trace: shâchath → διαφθείρω
+- [WG-destroy.md](WG-destroy.md) — word group: destroy / ruin vocabulary cluster
+- [H8045-shamad.md](H8045-shamad.md) — near-parallel Hebrew destruction verb
+- [H6-abad.md](H6-abad.md) — near-parallel perish / destroy study
+- [H2026-harag.md](H2026-harag.md) — kill / slay study in the wider destruction field
+- [H947-buwc.md](H947-buwc.md) — trample / tread-down study surfaced by `search_relationships.py`
 
 ---
-*Generated from: gather_word_data.py, hebrew_parser.py (BHSA/Text-Fabric), search_strongs.py --lxx-map*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, hebrew_parser.py (BHSA/Text-Fabric), search_strongs.py --lxx-map, search_relationships.py*
+*Last updated: 2026-04-27*

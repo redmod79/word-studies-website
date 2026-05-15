@@ -24,6 +24,17 @@ Apparently a prolonged form of an obsolete primary; to make or do (in a very wid
 
 The word's breadth of application across multiple Louw-Nida domains reflects its function as the default all-purpose action verb in Greek.
 
+### UBS Semantic Domains
+
+- **[013]** Be, Become, Exist, Happen
+- **[023]** Physiological Processes and States
+- **[025]** Attitudes and Emotions
+- **[037]** Control, Rule
+- **[041]** Behavior and Related States
+- **[042]** Perform, Do
+- **[057]** Possess, Transfer, Exchange
+- **[090]** Case
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -154,6 +165,14 @@ God and Christ as the subject of ποιέω in acts of salvation, appointment, a
 - **G4162 ποίησις (poíēsis)** — the act of doing (1 verse: Jas 1:25)
 - **G4163 ποιητής (poiētēs)** — doer, maker (6 verses: Acts 17:28; Rom 2:13; Jas 1:22, 23, 25; 4:11)
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G4160.*
+
+### Antonyms
+
+- **G2309 θέλω (thelō)** — listed by Abbott-Smith via `search_relationships.py`
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -197,9 +216,19 @@ Key difference from neighbors: κτίζω (G2936) is specifically divine *creati
 
 ## See Also
 
+- [H6213-asah.md](H6213-asah.md) — Hebrew OT counterpart (do, make) — LXX's dominant source for poieō
+- [TR-asah-poieo.md](TR-asah-poieo.md) — cross-testament trace (asah → poieō)
 - [WG-becoming.md](WG-becoming.md) — word group referencing G4160 in context of becoming/doing
 - [WG-doing.md](WG-doing.md) — word group: ποιέω / πράσσω / κατεργάζομαι / ἐργάζομαι / ἔργον
+- [G1096-ginomai.md](G1096-ginomai.md) — comparison term: become / come to be
+- [G2041-ergon.md](G2041-ergon.md) — noun counterpart: work / deed
+- [G1785-entole.md](G1785-entole.md) — commandment field paired with doing
+- [G2342-therion.md](G2342-therion.md) — Revelation cross-reference
+- [G4633-skene.md](G4633-skene.md) — referenced study cross-link
+- [G4442-pyr.md](G4442-pyr.md) — referenced study cross-link
+- [G5179-typos.md](G5179-typos.md) — pattern/example cross-reference
+- [G4204-porne.md](G4204-porne.md) — moral-action cross-reference
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, kjv.txt*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, search_strongs.py, kjv.txt, search_relationships.py*
+*Last updated: 2026-04-27*

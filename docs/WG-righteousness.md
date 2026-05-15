@@ -7,14 +7,14 @@ The δικ- (dik-) word family in the NT forms a tightly integrated concept clus
 
 | Strong's | Word | Transliteration | POS | Occurrences | Role in Concept | Library Entry |
 |----------|------|-----------------|-----|-------------|-----------------|---------------|
-| G1349 | δίκη | dikē | noun-f | 4 | The root concept (right, justice, penalty) | TODO(need G1349 study) |
+| G1349 | δίκη | dikē | noun-f | 4 | The root concept (right, justice, penalty) | [G1349-dike](G1349-dike.md) |
 | G1342 | δίκαιος | dikaios | adj | 81 | The person (righteous one, just) | [G1342-dikaios](G1342-dikaios.md) |
 | G1343 | δικαιοσύνη | dikaiosynē | noun-f | 92 | The quality (righteousness) | [G1343-dikaiosyne](G1343-dikaiosyne.md) |
 | G1344 | δικαιόω | dikaioō | verb | 40 | The divine action (to justify, declare righteous) | TODO(need G1344 study) |
 | G1345 | δικαίωμα | dikaiōma | noun-n | 10 | The concrete expression (ordinance, righteous act, decree) | [G1345](G1345-dikaioma.md) |
-| G1346 | δικαίως | dikaiōs | adv | 5 | The manner (righteously, justly) | TODO(need G1346 study) |
-| G1347 | δικαίωσις | dikaiōsis | noun-f | 2 | The result (justification, acquittal) | TODO(need G1347 study) |
-| G1341 | δικαιοκρισία | dikaiokrisia | noun-f | 1 | The judgment (righteous judgment) | TODO(need G1341 study) |
+| G1346 | δικαίως | dikaiōs | adv | 5 | The manner (righteously, justly) | [G1346-dikaios](G1346-dikaios.md) |
+| G1347 | δικαίωσις | dikaiōsis | noun-f | 2 | The result (justification, acquittal) | [G1347](G1347-dikaiosis.md) |
+| G1341 | δικαιοκρισία | dikaiokrisia | noun-f | 1 | The judgment (righteous judgment) | [G1341-dikaiokrisia](G1341-dikaiokrisia.md) |
 
 ## Relationships
 

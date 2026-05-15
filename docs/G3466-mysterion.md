@@ -108,6 +108,14 @@ Revelation uses mystērion to flag that a name or image carries a hidden symboli
 - **G3453 μυέω (myeō)** — to initiate (Phil 4:11, translated "learned" in KJV but lit. "been initiated"); the verb from which mystērion derives
 - **G3467 μυωπάζω (myōpazō)** — to be short-sighted (2 Pet 1:9); same root μύω, but "closing the eyes" rather than "closing the mouth"
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G3466.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G3466.*
+
 ### Domain Neighbors (Louw-Nida 28.005)
 
 | Word | Strong's | Occurrences | Key Difference |
@@ -115,6 +123,12 @@ Revelation uses mystērion to flag that a name or image carries a hidden symboli
 | κρυπτός (kryptós) | G2927 | 17 | Describes what is hidden/concealed (state); mystērion is the secret disclosed by revelation |
 | ἀποκρύπτω (apokrýptō) | G613 | 6 | The act of concealing; provides backstory for mystērion ("that which was hidden") |
 | ἀπόκρυφος (apókryphos) | G614 | 3 | Adjective: hidden away; used of treasures hidden in Christ (Col 2:3) |
+
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 028 | Know | `search_relationships.py` places *mystērion* in the knowledge/disclosure field, fitting the NT emphasis on a divine secret made known by revelation. |
 
 ## Hebrew Source
 
@@ -128,8 +142,17 @@ The primary bridge is Daniel 2, where Nebuchadnezzar's dream is called a râz (s
 
 ## See Also
 
-- [WG-mystery](WG-mystery.md) — word group: mystery, reveal, hidden, make known
+- [G602-apokalypsis.md](G602-apokalypsis.md) — revelation/disclosure vocabulary paired with *mystērion*
+- [G1325-didomi.md](G1325-didomi.md) — "it is given" language in mystery-revelation contexts
+- [G1391-doxa.md](G1391-doxa.md) — glory language in Pauline mystery passages
+- [G1484-ethnos.md](G1484-ethnos.md) — Gentile inclusion as a major content of the mystery
+- [G3173-megas.md](G3173-megas.md) — "great mystery" formula
+- [G897-babylon.md](G897-babylon.md) — Revelation's symbolic "MYSTERY, BABYLON THE GREAT"
+- [H8065-shamayin.md](H8065-shamayin.md) — heavenly/apocalyptic backdrop in mystery-revelation contexts
+- [H2376-chezev.md](H2376-chezev.md) — visionary/apocalyptic counterpart in OT revelation vocabulary
+- [WG-mystery.md](WG-mystery.md) — word group: mystery, hidden, make known
+- [WG-revelation.md](WG-revelation.md) — word group: revelation / disclosure vocabulary
 
 ---
-*Generated from: gather_word_data.py, gather_word_group_data.py*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, gather_word_group_data.py, search_relationships.py*
+*Last updated: 2026-04-27*

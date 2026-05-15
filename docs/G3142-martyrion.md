@@ -15,11 +15,15 @@
 
 Neuter of a presumed derivative of G3144 (μάρτυς); something evidential, i.e. (genitive case) evidence given or (specifically) the Decalogue (in the sacred Tabernacle): — to be testified, testimony, witness.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
+**Louw-Nida:**
 - **Domain:** 33.020 — Communication: Witness, Testify
 - **Subdomain:** Witness, Testify
 - **Other words in subdomain:** ἀμάρτυρος (G267), ἐπιμαρτυρέω (G1957), καταμαρτυρέω (G2649), μαρτυρέω (G3140), μαρτυρία (G3141), μάρτυς (G3144), συμμαρτυρέω (G4828), συνεπιμαρτυρέω (G4901), ψευδομαρτυρέω (G5576)
+
+**UBS Semantic Domains:**
+- **[033]** Communication
 
 ## Translation Distribution (KJV)
 
@@ -111,6 +115,18 @@ Physical objects or legal acts that stand as objective evidence — either testi
 - **G5576 ψευδομαρτυρέω (pseudomartureō)** — to bear false witness
 - **G5577 ψευδομαρτυρία (pseudomartyria)** — false testimony
 
+### Synonyms
+- **G1242 διαθήκη (diathḗkē)** — covenant, testament, arrangement
+- **G2917 κρίμα (kríma)** — judgment, decision
+- **G1345 δικαίωμα (dikaíōma)** — ordinance, righteous requirement
+- **G3551 νόμος (nómos)** — law
+- **G1785 ἐντολή (entolḗ)** — commandment
+- **G4634 σκηνοπηγία** — listed by `search_relationships.py`; no lexicon entry was resolved in the current DB
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G3142.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -133,13 +149,18 @@ The two strongest semantic links are H5715 (eduwth) and H5713 (edah), both meani
 
 ## See Also
 
+- [H4150-moed.md](H4150-moed.md) — Hebrew meeting/testimony counterpart
+- [G1242-diatheke.md](G1242-diatheke.md) — related covenant/testimony study
+- [G2409-hiereus.md](G2409-hiereus.md) — related priestly-confirmation study
 - [TR-eduwth-martyrion.md](TR-eduwth-martyrion.md) — cross-testament trace: eduwth → martyrion
+- [TR-arown-kibotos.md](TR-arown-kibotos.md) — cross-testament trace
 - [TR-ed-martys.md](TR-ed-martys.md) — cross-testament trace: ed → martys
+- [TR-moed-heorte.md](TR-moed-heorte.md) — cross-testament trace
 - [WG-testimony.md](WG-testimony.md) — word group: testimony cluster
 - [G3141-martyria.md](G3141-martyria.md) — related: martyria (the testimony-act)
 - [G3144-martys.md](G3144-martys.md) — related: martys (the witness-person)
 - [H5715-eduwth.md](H5715-eduwth.md) — Hebrew source: eduwth (testimony)
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, louw_nida.db*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, search_strongs.py, search_relationships.py, louw_nida.db*
+*Last updated: 2026-04-27*

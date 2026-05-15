@@ -22,6 +22,10 @@ Scurrilous, i.e. calumnious (against man), or (specially) impious (against God).
 - **Glosses:** insulting, slanderous, blasphemous
 - **Other words in subdomain:** βλασφημέω (blasphemeo, G987), βλασφημία (blasphemia, G988), λοιδορέω (loidoreo, G3058), καταλαλέω (katalaleo, G2635), ὀνειδίζω (oneidizo, G3679)
 
+## UBS Semantic Domains
+
+- **[033] Communication** — `search_relationships.py` keeps **βλάσφημος** in the speech/defamation field, focusing on language or persons marked by slanderous or irreverent speech.
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -81,6 +85,12 @@ The strongest collocation is with ῥῆμα — blasphemos characterizes the ki
 
 The adjective (G989) is the rarest member of the word family. The verb (G987) dominates NT usage, especially in the Gospels and Revelation.
 
+### Synonyms
+*No direct synonyms were returned by `search_relationships.py` for G989.*
+
+### Antonyms
+*No antonyms were returned by `search_relationships.py` for G989.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -114,5 +124,5 @@ No Hebrew source found via LXX mapping. The βλασφημ- word group has no co
 - [WG-blasphemy.md](WG-blasphemy.md) — word group: blasphemy concept cluster
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db*
-*Last updated: 2026-04-10*
+*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

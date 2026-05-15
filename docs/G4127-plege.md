@@ -22,6 +22,15 @@ From G4141; a stroke; by implication, a wound; figuratively, a calamity. KJV: pl
 - **Secondary Domains:** 19.001 (Hit, Strike), 23.009 (Sickness, Disease, Weakness), 22.001 (Trouble, Hardship, Distress)
 - **Key domain neighbors (20.002):** ἀδικέω G91 (hurt, wrong), βλάπτω G984 (harm), κακόω G2559 (mistreat, harm), μάστιξ G3148 (scourge, plague)
 
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 019 | Physical Impact | Covers the concrete sense of a stroke, blow, or wound. |
+| 020 | Violence, Harm, Destroy, Kill | Fits πληγή where injury or destructive harm is foregrounded. |
+| 023 | Physiological Processes and States | Captures plague/affliction contexts where bodily suffering is emphasized. |
+| 022 | Trouble, Hardship, Relief, Favorable Circumstances | Captures the calamity/distress side of the word in judgment scenes. |
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -104,6 +113,18 @@ Broader uses: plagues as consequence of sin, instrument of prophecy, or threaten
 - **G4141 πλήσσω (plēssō)** — root verb: to strike, smite (NT hapax — Rev 8:12 only)
 - **G4131 πλήκτης (plēktēs)** — a striker, quarrelsome person (1 Tim 3:3; Titus 1:7)
 
+### Synonyms
+
+- **G4938 σύντριμμα (syntrimma)** — fracture, crushing, ruin; overlaps with the wound/breakage result of a blow.
+- **G4417 πταίω (ptaio)** — stumble, fall, incur harm; overlaps where damaging impact or injury is in view.
+- **G3809 παιδεία (paideia)** — chastening, correction; overlaps with the punitive "stripes" sense of blows administered as discipline.
+- **G3468 μώλωψ (mōlōps)** — bruise/stripe; the closest NT parallel for the mark left by a blow.
+- **G3119 μαλακία (malakia)** — sickness, weakness; overlaps with the affliction/plague side of πληγή rather than the striking event itself.
+
+### Antonyms
+
+*No direct antonyms were returned by `search_relationships.py` for G4127.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -125,8 +146,16 @@ Broader uses: plagues as consequence of sin, instrument of prophecy, or threaten
 
 ## See Also
 
+- [G2342-therion.md](G2342-therion.md) — θηρίον; the beast's deadly wound in Revelation 13
+- [G2347-thlipsis.md](G2347-thlipsis.md) — θλῖψις; affliction/distress vocabulary adjacent to plague judgment
+- [G2288-thanatos.md](G2288-thanatos.md) — θάνατος; paired with deadly wound and plague judgments
+- [G5464-chalaza.md](G5464-chalaza.md) — χάλαζα; hail-plague imagery in Revelation
+- [H4046-maggephah.md](H4046-maggephah.md) — מַגֵּפָה; Hebrew plague equivalent in the LXX bridge
+- [H5221-nakah.md](H5221-nakah.md) — נָכָה; strike/smite verb behind related wound/plague imagery
+- [TR-nakah-patasso.md](TR-nakah-patasso.md) — cross-testament trace of striking/smiting language
+- [H1419-gadol.md](H1419-gadol.md) — גָּדוֹל; linked in "great plagues" judgment contexts
 - [WG-plagues.md](WG-plagues.md) — word group: plagues, stripes, wounds (πληγή + μάστιξ + μώλωψ)
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py --lexicon, --hebrew-source*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py --lexicon, --hebrew-source, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -11,9 +11,9 @@ The Greek NT vocabulary of filling and fulfillment clusters around the root πλ
 | G4137 | πληρόω | plēróō | verb | 90 | The action: fill, fulfill, complete | [G4137-pleroo.md](G4137-pleroo.md) |
 | G4138 | πλήρωμα | plērōma | noun | 17 | The state: fullness, the sum that fills | TODO(need G4138 study) |
 | G4134 | πλήρης | plērēs | adj | 17 | The quality: full, replete | TODO(need G4134 study) |
-| G5048 | τελειόω | teleióō | verb | 24 | Moral/purpose completion: perfect, finish | TODO(need G5048 study) |
+| G5048 | τελειόω | teleióō | verb | 24 | Moral/purpose completion: perfect, finish | [G5048-teleioo.md](G5048-teleioo.md) |
 | G5055 | τελέω | teleō | verb | 26 | Actional completion: finish, accomplish, fulfill | [G5055-teleo.md](G5055-teleo.md) |
-| G4931 | συντελέω | synteleō | verb | 7 | Total ending: bring fully to close | TODO(need G4931 study) |
+| G4931 | συντελέω | synteleō | verb | 7 | Total ending: bring fully to close | [G4931-synteleo.md](G4931-synteleo.md) |
 
 ## Relationships
 
@@ -62,6 +62,10 @@ This means the two verbs occasionally cover the same Hebrew semantic ground.
 - **John 15:11 / 17:13 / 2 Jhn 1:12** — joy "fulfilled" (πληρόω) + "full" (πλήρης) — verb and adjective in joy contexts
 - **Heb 9:26** — "at the end (συντελέω) of the world" — age-ending complementary to plēróō's prophetic fulfillment
 
+## See Also
+
+- [G2005-epiteleo.md](G2005-epiteleo.md) — ἐπιτελέω, "fulfill further/completely" — τελ- compound verb in same Louw-Nida subdomain (68.003) as G5055 and G4931; distinctive "begin → complete" pairing with ἐνάρχομαι
+
 ---
 *Generated from: gather_word_group_data.py, search_strongs.py --lookup*
-*Last updated: 2026-04-01*
+*Last updated: 2026-04-26*

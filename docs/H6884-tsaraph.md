@@ -112,6 +112,19 @@ End-time purification of a remnant through trial — fire as judgment that separ
 ### Word Family / Cognates
 - **H4715 מִצְרֵף (mitzreph)** — fining pot, crucible (noun from same root); Pro 17:3 "The fining pot is for silver"; Pro 27:21 "as the fining pot for silver"
 
+### Synonyms
+- **H974 בָּחַן (bâchan)** — the closest testing verb; assay, examine, or prove, especially in contexts of tried character or metal.
+- **H6485 פָּקַד (pâqad)** — inspect, visit, oversee; a looser neighbor where examination discloses the true condition.
+- **H2212 זָקַק (zâqaq)** — refine, purge, clarify; another metallurgical purification verb.
+- **H1305 בָּרַר (bârar)** — cleanse, make bright, select; overlaps with the clarifying result of refining.
+- **H3835 לָבַן (lâban)** — make white; connected by the imagery of purification into brightness.
+- **H8549 תָּמִים (tâmîym)** — complete, blameless, sound; a result-word for what emerges tested and genuine.
+- **H2796 חָרָשׁ (chârâsh)** — craftsman/artificer; linked on the artisan side of *tsaraph* when the participle denotes a refiner or metalworker.
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for H6884.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -119,6 +132,15 @@ End-time purification of a remnant through trial — fire as judgment that separ
 | בָּחַן (bachan) | H974 | Both translated "try/tried" | bachan = examine, test (character or weight); tsaraph = smelt/refine with heat. bachan emphasizes examination; tsaraph emphasizes fire-purification |
 | טָהוֹר (tahowr) | H2889 | Both translated "pure" | tahowr = ritually/ceremonially clean; tsaraph = pure through fire-refining (proven genuine) |
 | בָּרַר (barar) | H1305 | Both translated "purge" or "make clean" | barar = clarify, select, make bright; tsaraph = fuse/smelt with fire. barar is broader (sifting, choosing); tsaraph is specifically metallurgical |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002004002012] Test** — the core relationship domain for *tsaraph*: proving, assaying, and testing whether something is genuine.
+- **[002003001021] Non-Whole** — the damaged/impure field, fitting smelting imagery that removes dross and incompleteness.
+- **[002003003015] Innocent** — the resultative field of something proved clean or blameless after testing.
+- **[002001003018] True** — a neighboring field for what has been tested and shown genuine, especially in the "tried word" passages.
+- **[001002007009] Professions** — the participial use "refiner/goldsmith/founder" places *tsaraph* in the artisan-trade domain as well as the testing domain.
 
 ## LXX Mapping
 
@@ -134,12 +156,16 @@ End-time purification of a remnant through trial — fire as judgment that separ
 
 ## See Also
 
-- [H974-bachan.md](H974-bachan.md) — TODO: study for the closely paired testing verb
+- [H974-bachan.md](H974-bachan.md) — closely paired testing verb (test/examine)
+- [TR-bachan-dokimazo.md](TR-bachan-dokimazo.md) — cross-testament trace: bachan → dokimazo
+- [WG-testing.md](WG-testing.md) — word group: testing/examining concept
 - [H1305-barar.md](H1305-barar.md) — related purifying/choosing verb
+- [H3835-laban.md](H3835-laban.md) — related whitening/purification verb
 - [H4715-mitsreph.md](H4715-mitsreph.md) — TODO: noun cognate (fining pot/crucible)
+- [H6459-pecel.md](H6459-pecel.md) — idol-image term often appearing where the refiner/goldsmith crafts metal images
 - [WG-refining.md](WG-refining.md) — word group: refining/testing cluster
 - [WG-cleansing.md](WG-cleansing.md) — related purity cluster (taher, barar)
 
 ---
-*Generated from: gather_word_data.py H6884, hebrew_parser.py --lemma "צרף"*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py H6884, hebrew_parser.py --lemma "צרף", search_relationships.py*
+*Last updated: 2026-04-27*

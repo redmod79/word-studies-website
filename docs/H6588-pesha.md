@@ -107,6 +107,14 @@ Isaiah clusters pesha with God's sovereign act of removal — bearing, blotting,
 ### Word Family / Cognates
 - **H6586 פָּשַׁע (pasha)** — root verb: to rebel, transgress (37 occurrences)
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for H6588.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for H6588.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -115,6 +123,11 @@ Isaiah clusters pesha with God's sovereign act of removal — bearing, blotting,
 | עָוֺן (avon) | H5771 | both → "iniquity/sin" | avon = the twisted state of guilt and its accumulated weight; pesha = the act of breaking away |
 | אָשָׁם (asham) | H817 | both → "trespass" | asham = guilt with liability for restitution; pesha = willful defection from authority |
 | παράβασις (parabasis) | G3847 | both → "transgression" (KJV NT) | parabasis = stepping aside from a specific line; pesha = active revolt against authority |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002001003020] Wrong** — `search_relationships.py` groups *peshaʻ* in the broad "wrong/offense" field, reinforcing its place among culpable acts of rebellion.
 
 ## LXX Mapping
 
@@ -130,9 +143,15 @@ Isaiah clusters pesha with God's sovereign act of removal — bearing, blotting,
 
 ## See Also
 
+- [H2403-chattaah.md](H2403-chattaah.md) — sin / sin-offering term frequently paired with pesha in the OT
+- [H5375-nasa.md](H5375-nasa.md) — bear / forgive; a common forgiveness verb with transgression
+- [H5771-avon.md](H5771-avon.md) — iniquity; companion term in the classic triad with pesha
+- [G458-anomia.md](G458-anomia.md) — lawlessness; major Greek rendering in the LXX/NT
+- [G266-hamartia.md](G266-hamartia.md) — broad Greek "sin" word used for pesha in some LXX contexts
+- [TR-chattaah-hamartia.md](TR-chattaah-hamartia.md) — trace file for the adjacent OT/NT sin vocabulary set
 - [WG-transgressions](WG-transgressions.md) — OT sin-terms word group (pesha / chattah / avon / asham)
 - [WG-atonement](WG-atonement.md) — pesha as the problem that atonement addresses
 
 ---
-*Generated from: gather_word_data.py, gather_word_group_data.py, kjv.txt*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, gather_word_group_data.py, kjv.txt, search_relationships.py*
+*Last updated: 2026-04-27*

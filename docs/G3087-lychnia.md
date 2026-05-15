@@ -21,6 +21,11 @@ From G3088; a lamp-stand (literally or figuratively):—candlestick.
 - **Domain:** 006.014 — Lights and Light Holders
 - **Other words in domain:** λαμπάς (G2985), λύχνος (G3088), φανός (G5322), φῶς (G5457)
 
+## UBS Semantic Domains
+
+- **Domain:** 006 — Artifacts
+- **Representative neighbors:** ἀγγεῖον (G30), ἄγγος (G30), ἄγκιστρον (G44), ἄγκυρα (G45), ἀλάβαστρος (G211), ἀλόη (G250)
+
 ## Domain Neighbors (006.014 — Lights and Light Holders)
 
 | Strong's | Word | Occurrences | Primary KJV |
@@ -94,6 +99,14 @@ Revelation accounts for more than half of all occurrences. The high density in R
 ### Word Family / Cognates
 - **G3088 λύχνος (lýchnos)** — masculine noun, the portable lamp/candle itself; λυχνία is derived from it as the stand that holds it
 
+### Synonyms
+
+- No additional curated synonyms were surfaced by `search_relationships.py` beyond the immediate lamp / lampstand family already listed above.
+
+### Antonyms
+
+- No curated antonyms were surfaced by `search_relationships.py` for this entry.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -114,9 +127,12 @@ H4501 is the clear primary source. The lower-ranked words (perach = blossom, kap
 
 ## See Also
 
+- [G3088-lychnos.md](G3088-lychnos.md) — the lamp itself, contrasted with the stand that bears it
+- [G2985-lampas.md](G2985-lampas.md) — torch / lamp study in the same light-holder cluster
+- [G1577-ekklesia.md](G1577-ekklesia.md) — church study, linked through Revelation's lampstand symbolism
 - [TR-mnowrah-lychnia.md](TR-mnowrah-lychnia.md) — cross-testament trace: מְנוֹרָה → λυχνία
 - [WG-candlesticks.md](WG-candlesticks.md) — word group: lampstand / light holders
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, gather_trace_data.py*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, greek_parser.py, search_relationships.py, gather_trace_data.py*
+*Last updated: 2026-04-27*

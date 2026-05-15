@@ -80,6 +80,7 @@ minor prophets. Chronicles uses it rarely despite covering the same history as S
 Nephesh applies to all breathing creatures, not only humans.
 - **Gen 1:20** — "the moving creature that hath life" (*kol nephesh chayyah*) — sea creatures
 - **Gen 1:24** — "Let the earth bring forth the living creature after his kind" — land animals
+- **Gen 2:7** — "man became a living soul" (*nephesh chayyah*) — the Edenic formation of Adam; same phrase applied to humans that Gen 1 applied to animals
 - **Gen 9:10** — "every living creature (*nephesh chayyah*)" in Noah's covenant — all vertebrate life
 
 ### 2. The Whole Person / Legal Individual
@@ -98,6 +99,7 @@ Nephesh = the life one can lose, risk, or have taken.
 ### 4. Inner Self / Seat of Desire, Appetite, and Emotion
 Nephesh as the locus of hunger, longing, grief, and inner experience.
 - **1 Sam 1:10** — "she was in bitterness of soul, and prayed unto the LORD"
+- **Deu 14:26** — "whatsoever thy soul desireth" (*asher te'avveh naphshekha*) — festival provision; nephesh as the seat of lawful appetite and delight
 - **Pro 2:10** — "knowledge is pleasant unto thy soul"
 - **Ec 6:2** — "he wanteth nothing for his soul of all that he desireth"
 - **Hab 2:5** — "he is a proud man... who enlargeth his desire as hell"
@@ -134,6 +136,15 @@ Contact with a dead nephesh conveys defilement — nephesh can refer to a dead b
 ### Word Family / Cognates
 - **H5314 נָפַשׁ (naphash)** — root verb: to breathe, refresh oneself (3 occurrences)
 
+### Synonyms
+- **H1621 גַּרְגֶּרֶת, H7272 רֶגֶל, H990 בֶּטֶן, H1320 בָּשָׂר, H1538 גֻּלְגֹּלֶת** — body-part / embodied-life terms returned by `search_relationships.py` where *nephesh* overlaps the concrete living person.
+- **H2416 חַיָּה, H376 אִישׁ** — living-creature / person terms in the same animate-being field.
+- **H3519 כָּבוֹד, H3820 לֵב, H3824 לֵבָב, H6106 עֶצֶם, H7307 רוּחַ** — inner-person / self vocabulary neighboring *nephesh* in the personhood cluster.
+- **פִּי, מְאֹד** — additional surface forms flagged by `search_relationships.py` inside this wider embodied-self network.
+
+### Antonyms
+- **H1320 בָּשָׂר (basar)** — also returned as an antonym where material flesh is contrasted with the whole living self or life-bearing person.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -153,14 +164,31 @@ Contact with a dead nephesh conveys defilement — nephesh can refer to a dead b
 The LXX's near-exclusive use of ψυχή for nephesh permanently imported the Hebrew concept
 of the whole animated self into Greek — directly shaping NT anthropology and soteriology.
 
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[001002010001] Air** — breath / atmosphere cluster with neighbors such as **A638/H637/H639 אַף**, **H1864 דָּרוֹם**, and **H1892/H1893 הֶבֶל**.
+- **[003001016] Self** — the strongest personhood field, with neighbors such as **H2436 חֵיק**, **H3173 יָחִיד**, **H3519 כָּבוֹד**, **H3629 כִּלְיָה**, and **H6106/H6107 עֶצֶם**.
+- **[001002007] People** — places *nephesh* among human-being terms such as **H120/H121 אָדָם**, **H157/H158 אהב / אַהַב**, and **H352 אַיִל**.
+- **[001002010014] Spices** — a secondary cluster surfaced by `search_relationships.py`, with neighbors such as **H81 אֲבָקָה**, **H174 אֲהָלוֹת**, **H1313/H1314 בֹּשֶׂם**, and **H2464 חֶלְבְּנָה**.
+
 ## See Also
 
 - [TR-nephesh-psyche.md](TR-nephesh-psyche.md) — cross-testament trace: nephesh → ψυχή
+- [G5590-psyche.md](G5590-psyche.md) — NT counterpart word study
+- [H7307-ruach.md](H7307-ruach.md) — רוחַ as the closest Hebrew comparison word
+- [H5397-nshamah.md](H5397-nshamah.md) — breath / life word often linked with nephesh
+- [H1320-basar.md](H1320-basar.md) — flesh/body study intersecting the embodied-person field
+- [H3820-leb.md](H3820-leb.md) — heart / inner-person study overlapping with nephesh
+- [H3519-kabowd.md](H3519-kabowd.md) — personhood / self overlap noted by `search_relationships.py`
+- [WG-heart.md](WG-heart.md) — word group for the Hebrew inner-person cluster
 - [WG-spirit.md](WG-spirit.md) — word group: nephesh in contrast with ruach and pneuma
 - [WG-death.md](WG-death.md) — word group: nephesh in death and mortality contexts
 - [WG-soul.md](WG-soul.md) — word group: soul/life concept cluster (Greek side)
-- [G5590-psyche.md](G5590-psyche.md) — NT counterpart word study
+- [G3083-lytron.md](G3083-lytron.md) — ransom study linked through "give his life / soul"
+- [H7677-shabbathown.md](H7677-shabbathown.md) — study cross-reference surfaced by `search_relationships.py`
+- [H3772-karath.md](H3772-karath.md) — covenant / cut-off study with nephesh overlap in legal-person contexts
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, G5590-psyche.md*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, search_strongs.py, search_relationships.py, G5590-psyche.md*
+*Last updated: 2026-04-27*

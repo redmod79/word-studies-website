@@ -15,16 +15,27 @@
 
 A prolonged form of a primary verb (which is used as an alternative in most of the tenses); to give (used in a very wide application, properly, or by implication, literally or figuratively; greatly modified by the connection).
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Domain 057.008:** Give
-- **Other words in domain:** ἀναδίδωμι (G325), ἀναπληρόω (G378), ἀντιμετρέω (G488), ἁπλότης (G572), ἁπλοῦς (G573), ἁπλῶς (G574)
-- **Domain 057.017:** Lend, Loan, Interest, Borrow, Bank
-- **Domain 053.006:** Dedicate, Consecrate
-- **Domain 037.005:** Assign to a Role or Function
-- **Domain 090.012:** Agent in a Causative Role Marked by Verbs
+**Louw-Nida:**
+- **057.008:** Give
+- **057.017:** Lend, Loan, Interest, Borrow, Bank
+- **053.006:** Dedicate, Consecrate
+- **037.005:** Assign to a Role or Function
+- **090.012:** Agent in a Causative Role Marked by Verbs
+
+Other words in 057.008: ἀναδίδωμι (G325), ἀναπληρόω (G378), ἀντιμετρέω (G488), ἁπλότης (G572), ἁπλοῦς (G573), ἁπλῶς (G574)
 
 Note: The wide range of Louw-Nida domains reflects the verb's extraordinary semantic flexibility. The primary domain is 57.008 (Give), but it extends into causation, appointment, and even communication contexts.
+
+**UBS Semantic Domains:**
+- **[057]** Possess, Transfer, Exchange
+- **[037]** Control, Rule
+- **[053]** Religious Activities
+- **[033]** Communication
+- **[090]** Case
+
+The UBS classifications highlight how didomi moves beyond simple transfer into delegated authority, consecration, speech-act, and passive-case constructions.
 
 ## Verb Morphology Distribution (414 forms)
 
@@ -192,6 +203,14 @@ Revelation has by far the highest density (12.1 per 100 verses), where didomi ap
 - **G3330 μεταδίδωμι (metadidomi)** — to share, impart
 - **G1239 διαδίδωμι (diadidomi)** — to distribute
 
+### Synonyms
+
+`search_relationships.py` did not return any additional close synonym outside the δίδωμι family already listed above. Its one direct lexical parallel was **G1433 δωρέομαι (doreomai)**, which is already included as the gratuitous-gift cognate.
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G1325.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -227,9 +246,14 @@ The overwhelmingly dominant Hebrew source is נָתַן (nathan, H5414) with 1,3
 
 ## See Also
 
+- [G1849-exousia.md](G1849-exousia.md) — authority; delegated power is often something "given"
+- [G4151-pneuma.md](G4151-pneuma.md) — Spirit; repeated gift language ("gave the Holy Ghost")
+- [G5485-charis.md](G5485-charis.md) — grace; frequent "grace given" collocation
+- [G3466-mysterion.md](G3466-mysterion.md) — mystery; revelation/knowledge "given" to know
+- [G1242-diatheke.md](G1242-diatheke.md) — covenant; inheritance and grant language often overlaps with didomi
 - [WG-take-receive.md](WG-take-receive.md) — word group (give/take/receive)
 - [WG-giving.md](WG-giving.md) — word group (giving concept cluster)
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-10*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

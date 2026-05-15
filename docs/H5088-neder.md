@@ -128,6 +128,14 @@ Neder used for sincere vows by outsiders.
 - **H5087 נָדַר (nadar)** — the cognate verb "to vow"; shares 19 verses with neder
 - **H5071 נְדָבָה (nedabah)** — "freewill offering"; the standard contrastive companion (a vow is elicited, a nedabah is spontaneous)
 
+### Synonyms
+
+No synonyms were returned by `search_relationships.py` for H5088.
+
+### Antonyms
+
+No antonyms were returned by `search_relationships.py` for H5088.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -136,6 +144,11 @@ Neder used for sincere vows by outsiders.
 | אֱסָר (esar) | H632 | "bond" (paired with vow in Num 30) | esar = a self-imposed binding prohibition; neder = a positive promise to give |
 | שְׁבוּעָה (shebuah) | H7621 | sometimes rendered "oath" alongside vow | shebuah appeals to a witness/curse; neder obligates toward God |
 | נְדָבָה (nedabah) | H5071 | freewill offering | nedabah is wholly spontaneous; neder is conditional/promised |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002004001009013] Vow** — `search_relationships.py` places *neder* in the vow field, with neighbors such as **אָלָה (H423)**, **אסר (H631)**, **אִסָּר (H632)**, **בוא (H935)**, and **בְּרִית (H1285/H1286)**.
 
 ## LXX Mapping
 
@@ -155,11 +168,14 @@ Neder used for sincere vows by outsiders.
 ## See Also
 
 - [H5087-nadar.md](H5087-nadar.md) — the cognate verb "to vow"
+- [H5144-nazar.md](H5144-nazar.md) — related separation/vow vocabulary
 - [H5315-nephesh.md](H5315-nephesh.md) — nephesh as the "soul" bound by a vow (Num 30)
+- [H6187-erek.md](H6187-erek.md) — vow/payment vocabulary referenced alongside neder
 - [TR-neder-euche.md](TR-neder-euche.md) — cross-testament trace (neder → εὐχή)
+- [TR-nadar-euchomai.md](TR-nadar-euchomai.md) — cross-testament trace for the cognate vow verb
 - [WG-vow.md](WG-vow.md) — word group for the vow cluster
 - [TR-nephesh-psyche.md](TR-nephesh-psyche.md) — related nephesh trace
 
 ---
-*Generated from: gather_word_data.py (search_strongs.py, hebrew_parser.py, lxx-map)*
-*Last updated: 2026-04-16*
+*Generated from: gather_word_data.py (search_strongs.py, hebrew_parser.py, lxx-map), search_relationships.py*
+*Last updated: 2026-04-27*

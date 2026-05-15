@@ -12,7 +12,7 @@ The fornication concept in the NT involves 7 words covering the act, the persons
 | G4204 | πόρνη | pornē | fem. noun | 12 | The person (harlot/whore) | [G4204](G4204-porne.md) |
 | G4205 | πόρνος | pornos | masc. noun | 10 | The person (fornicator/whoremonger) | [G4205](G4205-pornos.md) |
 | G3430 | μοιχεία | moicheia | fem. noun | 4 | Parallel act (adultery; sex with married person) | TODO(need G3430 study) |
-| G167 | ἀκαθαρσία | akatharsia | fem. noun | 10 | Broader category (moral uncleanness/impurity) | TODO(need G167 study) |
+| G167 | ἀκαθαρσία | akatharsia | fem. noun | 10 | Broader category (moral uncleanness/impurity) | [G167](G167-akatharsia.md) |
 | G766 | ἀσέλγεια | aselgeia | fem. noun | 9 | Related attitude (licentiousness / shameless conduct) | TODO(need G766 study) |
 
 ## Relationships

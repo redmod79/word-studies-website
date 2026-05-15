@@ -21,6 +21,9 @@ From πέρνημι (pernēmi, "to sell"); a (male) prostitute (by extension, a 
 - **Gloss:** a sexually immoral person
 - **Other words in subdomain:** ἀρσενοκοίτης (G733), ἀσέλγεια (G766), ἐκπορνεύω (G1608), κοίτη (G2845), κύων (G2965), μαλακός (G3120), μοιχαλίς (G3428), μοιχάω (G3429), μοιχεία (G3430), μοιχεύω (G3431), μοιχός (G3432)
 
+**UBS Semantic Domains:**
+- **[088]** Moral and Ethical Qualities and Related Behavior
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -99,6 +102,14 @@ The dominant collocation is with idolaters (60% of all verses) — pornos and ei
 
 All derive from πέρνημι (pernēmi, "to sell"). G4205 is the masculine agent noun; G4204 is the feminine.
 
+### Synonyms
+
+*No distinct synonyms were returned by `search_relationships.py` for G4205 beyond the cognate family already listed above.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G4205.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -126,8 +137,11 @@ No Hebrew sources found via LXX mapping for G4205. The feminine counterpart πό
 ## See Also
 
 - [G4202-porneia.md](G4202-porneia.md) — porneia: the act of fornication (cognate abstract noun)
+- [G4203-porneuo.md](G4203-porneuo.md) — cognate verb: to commit fornication
+- [G4204-porne.md](G4204-porne.md) — cognate feminine noun: harlot
+- [TR-zanah-porne.md](TR-zanah-porne.md) — cross-testament trace into the πόρνη / πόρνος family
 - [WG-fornication.md](WG-fornication.md) — word group: fornication / sexual immorality cluster
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db*
-*Last updated: 2026-04-08*
+*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

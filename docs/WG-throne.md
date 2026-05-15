@@ -8,7 +8,7 @@ The NT throne concept clusters around five Greek words: the seat itself (thróno
 | Strong's | Word | Transliteration | POS | Occurrences | Role in Concept | Library Entry |
 |----------|------|-----------------|-----|-------------|-----------------|---------------|
 | G2362 | θρόνος | thrónos | masc. noun | 50 | The seat of ultimate authority | [G2362](G2362-thronos.md) |
-| G2521 | κάθημαι | káthēmai | verb | 87 | To sit (on the throne) — occupancy | TODO(need G2521 study) |
+| G2521 | κάθημαι | káthēmai | verb | 87 | To sit (on the throne) — occupancy | [G2521](G2521-kathemai.md) |
 | G932 | βασιλεία | basileía | fem. noun | 154 | The kingdom — domain of throne authority | TODO(need G932 study) |
 | G935 | βασιλεύς | basileús | masc. noun | 107 | The king — occupant of the throne | TODO(need G935 study) |
 | G2515 | καθέδρα | kathédra | fem. noun | 3 | Bench/teaching seat — easily confused | TODO(need G2515 study) |
@@ -51,6 +51,11 @@ G2362, G2521, G932, and G935 all appear in domain 037 (Control, Rule), subdomain
 - **Rev 6:16** — [G2362 + G2521 + G721] "hide us from the face of him that sitteth on the throne, and from the wrath of the Lamb"
 - **Rev 7:10** — [G2362 + G2521 + G721] "Salvation to our God which sitteth upon the throne, and unto the Lamb"
 - **Luk 22:30** — [G2362 + G932] "sit on thrones judging the twelve tribes of Israel...in my kingdom"
+
+## See Also
+
+- [A7412-rmah.md](A7412-rmah.md) — Aramaic verb "cast/throw/set" — used in Dan 7:9 for thrones being "placed/set" (Peil stem)
+- [TR-kisse-thronos.md](TR-kisse-thronos.md) — Hebrew-Greek throne trace
 
 ---
 *Generated from: gather_word_group_data.py (G2362 G2521 G932 G935 G2515 G721)*

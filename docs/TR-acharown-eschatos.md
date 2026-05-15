@@ -29,7 +29,7 @@ H314, 48x in OT             33x as translation          49x in NT
 - **1Ch 23:27** — "by the last (ʼachărôwn) words of David the Levites were numbered"
 - **Isa 44:6** — "I am the first, and I am the last (ʼachărôwn); and beside me there is no God" ← most direct OT precursor to the NT divine title
 
-Word study: TODO(need H314 study)
+Word study: [H314-acharown.md](H314-acharown.md)
 
 ## LXX Bridge
 

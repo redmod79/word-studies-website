@@ -8,8 +8,8 @@ The Hebrew vocabulary for divine anger involves a cluster of seven words spannin
 | Strong's | Word | Transliteration | POS | Occurrences | Role in Concept | Library Entry |
 |----------|------|-----------------|-----|-------------|-----------------|---------------|
 | H2195 | זַעַם | zaʻam | noun-m | 22 | The intense fury (froth at the mouth; especially God's displeasure against sin) | [H2195](H2195-zaam.md) |
-| H639 | אַף | aph | noun-m | 269 | The primary anger word (flaring nostril; broadest and most frequent) | TODO(need H639 study) |
-| H2534 | חֵמָה | chemah | noun-f | 117 | The burning heat (venom, boiling fury; most visceral) | TODO(need H2534 study) |
+| H639 | אַף | aph | noun-m | 269 | The primary anger word (flaring nostril; broadest and most frequent) | [H639](H639-aph.md) |
+| H2534 | חֵמָה | chemah | noun-f | 117 | The burning heat (venom, boiling fury; most visceral) | [H2534](H2534-chemah.md) |
 | H7110 | קֶצֶף | qetseph | noun-m | 29 | The outburst (splinter; sudden explosive anger) | TODO(need H7110 study) |
 | H2740 | חָרוֹן | charon | noun-m | 40 | The burning (fierce heat; almost always of God, usually in "charon aph") | TODO(need H2740 study) |
 | H5678 | עֶבְרָה | ebrah | noun-f | 34 | The overflow (outburst of passion; surging anger) | TODO(need H5678 study) |

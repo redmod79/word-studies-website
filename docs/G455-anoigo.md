@@ -15,12 +15,20 @@
 
 From ἀνά and οἴγω (to open); to open up (literally or figuratively, in various applications).
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Domain:** 79 — Features of Objects
-- **Subdomain:** 79.24 — Open, Closed
-- **Glosses:** to open, to make open, to regain one's hearing
-- **Other words in subdomain:** ἀποκλείω (apokleio, G608), διανοίγω (dianoigo, G1272), ἐφφαθά (ephphatha, G2188), κλείω (kleio, G2808)
+**Louw-Nida:**
+- **079.24** — Open, Closed
+- **Domain 079:** Features of Objects
+- **Gloss:** to open, to make open, to regain one's hearing
+
+Other words in 079.24: ἀποκλείω (G608), διανοίγω (G1272), ἐφφαθά (G2188), κλείω (G2808)
+
+**UBS Semantic Domains:**
+- **[079]** Features of Objects
+- **[024]** Sensory Events and States
+- **[071]** Mode
+- **[033]** Communication
 
 ## Verb Voice and Tense Distribution
 
@@ -152,6 +160,18 @@ Revelation has by far the highest concentration (6.2 per 100 verses), with a ful
 - **G1272 διανοίγω (dianoigo)** — "to open thoroughly" (8x); intensified form with δια- prefix; used for opening understanding (Luk 24:31-45) and the firstborn (Luk 2:23)
 - **G2188 ἐφφαθά (ephphatha)** — Aramaic imperative "be opened!" (1x, Mk 7:34); the word Jesus spoke to the deaf-mute
 
+### Synonyms
+- **G4977 σχίζω (schizō)** — split, rend; opening by tearing or separating
+- **G1031 βρύχω (bruchō)** — gnash; tool-listed mouth-opening neighbor rather than a full-range synonym for anoigō
+
+### Antonyms
+- **G2808 κλείω (kleiō)** — shut, close; direct lexical antonym (Rev 3:7-8)
+- **G4024 περιζώννυμι (perizōnnymi)** — gird around, bind up; a domain-opposite emphasizing enclosure rather than opening
+- **G722 ἀροτριόω (arotrioō)** — plough; tool-listed domain opposite, not a direct open/close pair
+- **G4644 σκληροτράχηλος (sklērotrachēlos)** — stiff-necked; contextual opposite of openness/receptivity
+- **G4645 σκληρύνω (sklērynō)** — harden; contextual opposite to opened eyes, ears, or heart
+- **G3960 πατάσσω (patassō)** — strike, smite; tool-listed domain opposite rather than a direct lexical antonym
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -190,7 +210,13 @@ The dominant LXX bridge is H6605 pathach (85 co-occurrences, PMI 31.1), making t
 - [G4750-stoma.md](G4750-stoma.md) — mouth; top collocation with anoigo ("opened his mouth")
 - [G4973-sphragis.md](G4973-sphragis.md) — seal; anoigo opens the seals in Rev 5–8
 - [WG-sealing.md](WG-sealing.md) — word group on sealing; anoigo is the antonym action (opening seals)
+- [WG-flesh.md](WG-flesh.md) — flesh word group referencing anoigō
+- [G4578-seismos.md](G4578-seismos.md) — earthquake study referencing anoigō
+- [TR-basar-sarx.md](TR-basar-sarx.md) — flesh trace referencing anoigō
+- [G4561-sarx.md](G4561-sarx.md) — flesh study referencing anoigō
+- [G974-bibliaridion.md](G974-bibliaridion.md) — little book study referencing anoigō
+- [G975-biblion.md](G975-biblion.md) — scroll/book study referencing anoigō
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py --hebrew-source, louw_nida.db*
-*Last updated: 2026-04-15*
+*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py --hebrew-source, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

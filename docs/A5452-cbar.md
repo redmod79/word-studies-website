@@ -71,12 +71,26 @@ Key words in Dan 7:25 context:
 ### Word Family / Cognates
 - **H7663 שָׂבַר (sabar)** — Biblical Hebrew cognate; primary sense: to hope, wait; secondary (late) sense: to think, suppose. BDB cross-references this Aramaic root directly to H7663 II.
 
+### Synonyms
+
+*No synonyms returned by `search_relationships.py` for A5452.*
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for A5452.*
+
 ### Easily Confused Words
 
 | Word               | Strong's | Shared Translation | Key Difference |
 |--------------------|----------|--------------------|----------------|
 | חָשַׁב (chashab)  | H2803    | both → "think, devise" | chashab is Hebrew with broad range (think/plan/reckon/weave); çᵉbar is Aramaic, rare, specifically an intent toward action |
 | שָׂבַר (sabar)    | H7663    | both → "think" (contextually) | sabar primarily = "hope/wait"; çᵉbar = active purposeful intent; BDB links them as cognates |
+
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 002004002013 | Think | Fits Dan 7:25, where the verb marks deliberate mental resolve or intention. |
 
 ## See Also
 
@@ -86,5 +100,5 @@ Key words in Dan 7:25 context:
 - [A1080-bla.md](A1080-bla.md) — Aramaic בְּלָא "to wear out" — parallel verb in Dan 7:25
 
 ---
-*Generated from: search_strongs.py, hebrew_parser.py*
-*Last updated: 2026-04-02*
+*Generated from: search_strongs.py, hebrew_parser.py, search_relationships.py*
+*Last updated: 2026-04-27*

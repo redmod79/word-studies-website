@@ -22,6 +22,11 @@ From μετά and ὤψ (the face); the forehead (as opposite the countenance).
 - **Gloss:** forehead
 - **Other words in subdomain:** ἀγκάλη (G43, bent arm), αἷμα (G129, blood), γλῶσσα (G1100, tongue), γόνυ (G1119, knee), δάκτυλος (G1147, finger), δεξιός (G1188, right hand), θρίξ (G2359, hair), χείρ (G5495, hand)
 
+## UBS Semantic Domains
+
+- **[008]** Body, Body Parts, and Body Products
+- UBS keeps μέτωπον in the concrete body-part field, matching Revelation's repeated use of the forehead as a visible location for names, seals, and marks.
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -84,6 +89,14 @@ The plural (genitive) form dominates (4/8), always referring to the foreheads of
 
 ## Related Words
 
+### Synonyms
+
+- **G4645 σκληρύνω (sklērynō)** — harden, render stubborn; returned by `search_relationships.py` as a semantic neighbor, echoing the forehead's association with fixed resolve or stubbornness.
+
+### Antonyms
+
+*No direct antonyms were returned by `search_relationships.py` for G3359.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -113,7 +126,8 @@ The primary Hebrew equivalent is H4696 metsach (PMI 21.99), a near-exclusive map
 - [G5480-charagma.md](G5480-charagma.md) — the mark (charagma) — what is placed on the forehead
 - [G4973-sphragis.md](G4973-sphragis.md) — the seal (sphragis) — God's counter-mark on the forehead
 - [G5495-cheir.md](G5495-cheir.md) — the hand — paired location with forehead
+- [G1188-dexios.md](G1188-dexios.md) — "right hand/right side" — the paired hand-side term in the mark passages
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db*
-*Last updated: 2026-04-16*
+*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

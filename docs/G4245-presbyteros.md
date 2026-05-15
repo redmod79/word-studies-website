@@ -22,6 +22,14 @@ Comparative of πρέσβυς (présbys, elderly); *older*; as noun, **a senior*
 - **Related words in 053009:** ἀπόστολος (G652), ἀρχιερεύς (G749), γραμματεύς (G1122), διάκονος (G1249), ἐπισκοπέω (G1983)
 - **Related words in 009002:** γέρων (G1088), νεανίας (G3494), νεανίσκος (G3495), πρεσβύτης (G4246)
 
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 067 | Time | `search_relationships.py` preserves the comparative age/seniority sense of *presbyteros*, matching uses where the word simply means "older." |
+| 009 | People | The tool also groups *presbyteros* with person/age-role vocabulary, fitting both household-age and communal-status usage. |
+| 053 | Religious Activities | It also places the word in religious-role language, matching synagogue/church leadership and council contexts. |
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -129,6 +137,16 @@ The author of 2 and 3 John identifies himself simply as "the elder" without a pe
 - **G4246 πρεσβύτης (presbyteres)** — an old man (3x: Luke 1:18; Titus 2:2; Philem 1:9)
 - **G4247 πρεσβῦτις (presbytis)** — an aged woman (1x: Titus 2:3)
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G4245.*
+
+### Antonyms
+
+- **νεανίσκοι** — younger men / youths; age-based opposite of elders
+- **G3398 μικρός (mikros)** — little, small; contrasts with seniority/status by littleness
+- **G3501 νέος (neos)** — new, young; explicit youth/newness contrast to "elder/older"
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -153,7 +171,14 @@ The dominant Hebrew bridge is H2205 זָקֵן, which covers both age and offici
 
 - [TR-zaqen-presbyteros.md](TR-zaqen-presbyteros.md) — cross-testament trace: H2205 זָקֵן → G4245
 - [WG-elders.md](WG-elders.md) — word group: presbyteros family (G4243–G4247, G1087)
+- [G1577-ekklesia.md](G1577-ekklesia.md) — church; elders are appointed within and over local congregations
+- [G749-archiereus.md](G749-archiereus.md) — chief priest; elders regularly appear with chief priests in gospel trial scenes
+- [G2362-thronos.md](G2362-thronos.md) — throne; Revelation's elders repeatedly surround God's throne
+- [G2226-zoon.md](G2226-zoon.md) — living creature; the elders and living creatures appear together in throne-room worship scenes
+- [G4166-poimen.md](G4166-poimen.md) — shepherd; pastoral oversight overlaps with the leadership work of elders
+- [G1378-dogma.md](G1378-dogma.md) — decree; apostles and elders issue authoritative decrees at Jerusalem
+- [G3162-machaira.md](G3162-machaira.md) — sword; cross-reference surfaced by `search_relationships.py` from conflict/authority contexts
 
 ---
-*Generated from: gather_word_data.py, gather_trace_data.py, gather_word_group_data.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, gather_trace_data.py, gather_word_group_data.py, search_relationships.py*
+*Last updated: 2026-04-27*

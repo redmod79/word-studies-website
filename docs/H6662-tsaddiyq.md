@@ -129,6 +129,17 @@ Prophetic usage connects tsaddiyq with faithful trust in YHWH amid injustice and
 - **H6664 צֶדֶק (tsedeq)** — abstract noun: rightness, equity, the right thing
 - **H6666 צְדָקָה (tsedaqah)** — noun: righteousness, justice, acts of fidelity/charity
 
+### Synonyms
+- **H3477 יָשָׁר (yashar)** — "straight, upright"; overlaps with *tsaddiyq* in wisdom texts for the morally right person.
+- **H5355 נָקִי (naqiy)** — "innocent, guiltless"; overlaps in judicial settings where the righteous person is the one cleared of guilt.
+- **H8549 תָּמִים (tamim)** — "complete, perfect, upright"; shares the blameless-integrity profile of the righteous man.
+- **H2587 חַנּוּן (channun)** — "gracious"; surfaced by `search_relationships.py` as a neighboring virtue term.
+- **H2896 טוֹב (tov)** — "good"; broad moral-good term overlapping with *tsaddiyq* in ethical valuation.
+- **H7349 רַחוּם (rachum)** — "compassionate, merciful"; adjacent virtue term where righteousness is expressed in merciful conduct.
+
+### Antonyms
+- **H7563 רָשָׁע (rasha)** — "wicked"; the standard opposite in Psalms/Proverbs antithesis ("the righteous and the wicked").
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -137,6 +148,13 @@ Prophetic usage connects tsaddiyq with faithful trust in YHWH amid injustice and
 | צֶדֶק (tsedeq) | H6664 | both: "righteous", "just" | tsedeq = the abstract quality or state of rightness; tsaddiyq = the person who embodies it |
 | צָדַק (tsadaq) | H6663 | both: "righteous" | tsadaq = the verbal action (to act justly, be justified); tsaddiyq = the adjectival state (being righteous) |
 | שָׁלֵם (shalem) | H8003 | both occasionally: "just" | shalem = complete/whole/at peace; tsaddiyq = conforming to moral/legal right |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002001002016] Just** — `search_relationships.py` places *tsaddiyq* in the justice / being-in-the-right field.
+- **[002001003014] Right** — highlights the "straight/right/correct" side of the word's ethical meaning.
+- **[002003003015] Innocent** — reflects the legal-innocence and blameless-standing side of the adjective.
 
 ## LXX Mapping
 
@@ -160,7 +178,10 @@ Prophetic usage connects tsaddiyq with faithful trust in YHWH amid injustice and
 - [WG-righteousness.md](WG-righteousness.md) — full righteousness concept cluster
 - [H6663-tsadaq.md](H6663-tsadaq.md) — cognate verb
 - [H6664-tsedeq.md](H6664-tsedeq.md) — cognate abstract noun
+- [G1342-dikaios.md](G1342-dikaios.md) — primary Greek adjective counterpart in the LXX/NT
+- [G1344-dikaioo.md](G1344-dikaioo.md) — cognate Greek verb "justify"
+- [G4103-pistos.md](G4103-pistos.md) — Greek faithfulness term linked through Habakkuk 2:4 / TR-aman-pistos
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

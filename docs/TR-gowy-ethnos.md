@@ -25,7 +25,7 @@ Root uncertain; possibly from גֵּו (gēw, body, back) — a people grouped t
 - **Lev 18:24** — "Defile not ye yourselves in any of these things: for in all these the nations are defiled which I cast out before you" — nations as morally other
 - **Deu 4:6** — "Keep therefore and do them; for this is your wisdom and your understanding in the sight of the nations" — Israel's law as witness to the nations
 
-Library status: TODO(need H1471 study)
+Library status: [H1471-gowy.md](H1471-gowy.md)
 
 ## LXX Bridge
 

@@ -22,6 +22,11 @@
 - **Secondary Domain:** 001003 — Regions Below the Surface of the Earth
 - **Domain neighbors (014007):** γνόφος (G1105), σκοτεινός (G4652), σκοτία (G4653), σκοτίζω (G4654), σκότος (G4655), σκιά (G4639), νύξ (G3571)
 
+### UBS Semantic Domains
+
+- **[014] Physical Events and States**
+- **[001] Geographical Objects and Features**
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -77,6 +82,13 @@ The compound **ζόφος τοῦ σκότους** ("blackness of darkness") int
 ### Word Family / Cognates
 - **G1105 γνόφος (gnóphos)** — blackness, gloom; cognate root; 1x in NT (Heb 12:18 KJV tradition); used of Sinai in LXX (Deut 4:11; 5:22); semantically very close to ζόφος
 
+### Synonyms
+- **G3509 νέφος (néphos)** — cloud; grouped by `search_relationships.py` with ζόφος in the murk/cloud vocabulary.
+- **G3507 νεφέλη (nephélē)** — cloud; overlapping atmospheric-darkness imagery.
+
+### Antonyms
+- No antonym set was returned by `search_relationships.py` for ζόφος.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -100,6 +112,17 @@ The compound **ζόφος τοῦ σκότους** ("blackness of darkness") int
 
 No systematic LXX alignment found. The conceptual parallel to Heb. חֹשֶׁךְ אֲפֵלָה ("thick darkness," Exod 10:22) noted by Thayer for ζόφος τοῦ σκότους is a conceptual echo, not a translation equivalence. ζόφος does not appear as a consistent LXX rendering of any specific Hebrew word.
 
+## See Also
+
+- [G5020-tartaroo.md](G5020-tartaroo.md) — cast down to Tartarus; paired with ζόφος in 2 Pet 2:4
+- [G1067-geenna.md](G1067-geenna.md) — final punishment imagery
+- [G3613-oiketerion.md](G3613-oiketerion.md) — Jude's angelic-fall context
+- [G4655-skotos.md](G4655-skotos.md) — the broader NT darkness term
+- [G4653-skotia.md](G4653-skotia.md) — Johannine darkness vocabulary
+- [G5457-phos.md](G5457-phos.md) — light, the chief contrastive field
+- [G4639-skia.md](G4639-skia.md) — shadow imagery adjacent to darkness language
+- [WG-darkness.md](WG-darkness.md) — darkness / blackness concept cluster
+
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, KJV text*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, search_relationships.py, louw_nida.db, KJV text*
+*Last updated: 2026-04-27*

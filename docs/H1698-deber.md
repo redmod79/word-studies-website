@@ -101,6 +101,14 @@ One occurrence uses deber for animal plague specifically.
 
 ## Related Words
 
+### Synonyms
+- **H7451 רָעָה (ra'ah)** — near-neighbor in the disaster/calamity field; not every use of *ra'ah* means pestilence, but `search_relationships.py` groups it with *deber* inside judgment-language overlap.
+- **קֶּטֶב** — destruction / plague term in the same pestilence field, especially close to *deber* in poetic judgment contexts.
+
+### Antonyms
+
+No antonyms were returned by `search_relationships.py` for H1698.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -109,6 +117,11 @@ One occurrence uses deber for animal plague specifically.
 | נֶגַע (nega) | H5061 | plague | nega = a physical mark or lesion (esp. leprosy); deber = mass epidemic |
 | מָוֶת (maveth) | H4194 | pestilence (figurative) | maveth = death itself; deber = the specific instrument of pestilence causing death |
 | G3061 λοιμός (loimos) | G3061 | pestilence (NT) | loimos = NT Greek equivalent; used in Luke 21:11 parallel to deber's OT semantic range |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002001001064] Weak** — `search_relationships.py` places *deber* in a sickness / debilitating field with neighbors such as **H535 אמל**, **H537 אֲמֵלָל**, **H536 אֻמְלַל**, and **H605 אנשׁ**.
 
 ## LXX Mapping
 
@@ -129,5 +142,5 @@ The LXX typically renders deber as thanatos ("death") rather than using a specif
 - [WG-plagues.md](WG-plagues.md) — plagues/stripes word group (NT focus)
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, kjv.txt*
-*Last updated: 2026-04-15*
+*Generated from: gather_word_data.py, search_strongs.py, kjv.txt, search_relationships.py*
+*Last updated: 2026-04-27*

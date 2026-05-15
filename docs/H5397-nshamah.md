@@ -109,12 +109,25 @@ Neshamah as the shared quality that defines all living creatures; universal brea
 ### Word Family / Cognates
 - **H5395 נָשַׁם (nâsham)** — root verb: to blow away, destroy (Isa 42:14 only)
 
+### Synonyms
+- **H7307 רוּחַ (rûwach)** — breath, wind, spirit; the closest Hebrew neighbor, though broader and less specifically tied to the animating breath of life.
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for H5397.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
 |------|----------|--------------------|----------------|
 | רוּחַ (rûwach) | H7307 | both: "breath," "spirit" | rûwach = wind/breath/spirit broadly (389x); neshamah = the breath-as-divine-gift specifically, especially in creation and wisdom contexts |
 | נֶפֶשׁ (nephesh) | H5315 | both: "soul," "living being" | nephesh = the whole animated person or life-force (753x); neshamah = the animating breath God provides; conceptually complementary — Gen 2:7 contains both |
+
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 002002001002 | Blow | The core breath/blowing field that fits neshamah's life-breath and divine-breath imagery. |
 
 ## LXX Mapping
 
@@ -133,10 +146,12 @@ to πνεῦμα.
 - [TR-nshamah-pnoe.md](TR-nshamah-pnoe.md) — cross-testament trace: neshamah → πνοή (pnoē) → NT breath
 - [H7307-ruach.md](H7307-ruach.md) — top collocate; broad Hebrew word for wind/spirit/breath
 - [H5315-nephesh.md](H5315-nephesh.md) — companion word; both appear in Gen 2:7 creation account
+- [G4151-pneuma.md](G4151-pneuma.md) — Greek spirit/breath study; secondary LXX equivalent for neshamah
+- [H5221-nakah.md](H5221-nakah.md) — study that references neshamah in destructive "breath/blast" contexts
 - [TR-ruach-pneuma.md](TR-ruach-pneuma.md) — trace of the ruach/pneuma bridge
 - [WG-spirit.md](WG-spirit.md) — word group that includes G4157 (the primary LXX bridge for this word)
 - [WG-soul.md](WG-soul.md) — word group covering the soul/life concept cluster
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py (--lexicon, --lxx-map), gather_trace_data.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, search_strongs.py (--lexicon, --lxx-map), gather_trace_data.py, search_relationships.py*
+*Last updated: 2026-04-27*

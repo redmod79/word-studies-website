@@ -91,6 +91,13 @@ The dominant collocation pattern is the formulaic Daniel 3 decree: hear the soun
 ### Word Family / Cognates
 - **H5456 סָגַד (sagad)** — Hebrew cognate, 4x in Isa 44:15, 17, 19; 46:6. Means "fall down, prostrate oneself" in idol-worship contexts. KJV translates as "fall down" rather than "worship." Both the Hebrew and Aramaic forms appear exclusively in contexts of idol prostration.
 
+### Synonyms
+- **A263 חוה** — bow / prostrate oneself; close Aramaic neighbor in the bodily-homage field surfaced by `search_relationships.py`.
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for A5457.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -98,6 +105,12 @@ The dominant collocation pattern is the formulaic Daniel 3 decree: hear the soun
 | שָׁחָה (shachah) | H7812 | "worship" (166x) | Primary Hebrew worship word; used for both true worship of God and idolatry across all genres. Segid is exclusively Aramaic and exclusively in Daniel. |
 | προσκυνέω (proskyneo) | G4352 | "worship" (54x) | Primary NT worship word and LXX equivalent of shachah. Broader range: worship of God, Jesus, idols, and social homage. |
 | פְּלַח (pelach) | H6399 | frequently paired | Aramaic "serve/minister" — the ongoing service dimension vs. segid's physical act of prostration. In Dan 3, they form a hendiadys: "serve (pelach) nor worship (segid)." |
+
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 002001001009 | Bow | Captures the physical act of bowing/prostration that defines segid in Daniel 2-3. |
 
 ## LXX Mapping
 
@@ -109,8 +122,9 @@ The LXX consistently renders segid as proskyneo. The other high-PMI words in the
 
 ## See Also
 
+- [H6399-pelach.md](H6399-pelach.md) — paired Aramaic verb "serve/minister" in Daniel 3's worship-refusal formula
 - [WG-worship.md](WG-worship.md) — word group: worship / prostration concept cluster
 
 ---
-*Generated from: gather_word_data.py, hebrew_parser.py, search_strongs.py*
-*Last updated: 2026-04-15*
+*Generated from: gather_word_data.py, hebrew_parser.py, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

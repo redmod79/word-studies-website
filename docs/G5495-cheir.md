@@ -22,6 +22,17 @@
 - **Related domains:** 037 (Control, Rule — the hand as instrument of seizure/authority), 076 (Power, Force — divine hand), 090.001 (Agent — "by the hand of")
 - **Body-part neighbors in domain:** γόνυ (G1119 — knee), γλῶσσα (G1100 — tongue), βάσις (G0939 — foot/base), ἀγκάλη (G0043 — arm/embrace), αὐτόχειρ (G0849 — with one's own hand)
 
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 008 | Body, Body Parts, and Body Products | Primary body-part classification; neighbors from `search_relationships.py`: ἀγκάλη (G43), αἷμα (G129), ἄνθρωπος (G444), ἀριστερός (G710), ἁρμός (G719), αὐτόχειρ (G849). |
+| 009 | People | Additional classification returned by `search_relationships.py`; neighbors: αἷμα (G129), ἀνήρ (G435), ἀνθρώπινος (G442), ἄνθρωπος (G444), βρέφος (G1025), γέρων (G1088). |
+| 076 | Power, Force | Additional classification returned by `search_relationships.py`; neighbors: ἀθετέω (G114), ἀθέτησις (G115), ἀκυρόω (G208), ἀναιρέω (G337), ἀρετή (G703), βραχίων (G1023). |
+| 037 | Control, Rule | Additional classification returned by `search_relationships.py`; neighbors: ἀγγαρεύω (G29), ἀγοράζω (G59), αἰχμαλωτίζω (G163), ἀκατάστατος (G182), ἅλυσις (G254), ἀναγκάζω (G315). |
+| 090 | Case | Additional classification returned by `search_relationships.py`; neighbors: αἴρω (G142), ἀναδέχομαι (G324), ἀντί (G473), ἀπέναντι (G561), ἀπέχω (G568), ἀπό (G575). |
+| 068 | Aspect | Additional classification returned by `search_relationships.py`; neighbors: ἀγωνίζομαι (G75), ἀδιάλειπτος (G88), ἀδιαλείπτως (G89), ἀκατάπαυστος (G180), ἀναζωπυρέω (G329), ἀνάπαυσις (G372). |
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -142,6 +153,14 @@ The hand as organ of work — physical labor, creation, and the personal handwri
 - **G5499 χειροποίητος (cheiropoiētos)** — made with hands, hand-manufactured (often contrasted with divine, eternal things); 6x
 - **G5500 χειροτονέω (cheirotoneō)** — to appoint/ordain (lit. "to stretch out the hand"); 4x (Act 14:23; 2Co 8:19)
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G5495.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G5495.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -167,9 +186,16 @@ The LXX bridge is extremely strong (PMI 27.00, 1,197 co-occurrences). χείρ i
 
 - [TR-yad-cheir.md](TR-yad-cheir.md) — cross-testament trace: H3027 יָד → G5495 χείρ
 - [WG-hands.md](WG-hands.md) — word group: χείρ family (G5495–G5500)
+- [WG-righthand.md](WG-righthand.md) — related word group referencing χείρ
 - [WG-mark.md](WG-mark.md) — word group: mark of the beast (G5495 as location of the mark)
 - [G5498-cheirographon.md](G5498-cheirographon.md) — cognate word study: handwriting/certificate
+- [G5480-charagma.md](G5480-charagma.md) — related study referencing χείρ
+- [G1497-eidolon.md](G1497-eidolon.md) — related study referencing χείρ
+- [G2323-therapeuo.md](G2323-therapeuo.md) — related study referencing healing-by-hand contexts
+- [G3359-metopon.md](G3359-metopon.md) — related study referencing the hand/forehead pairing
+- [H5414-nathan.md](H5414-nathan.md) — related study referencing "give into the hand" formulas
+- [H7429-ramas.md](H7429-ramas.md) — related study referencing hand/foot trampling contexts
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py (--lexicon, --lxx-map, --hebrew-source)*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, search_relationships.py, search_strongs.py (--lexicon, --lxx-map, --hebrew-source)*
+*Last updated: 2026-04-28*

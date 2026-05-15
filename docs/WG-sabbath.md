@@ -12,7 +12,7 @@ The NT sabbath vocabulary clusters around a handful of words that define the day
 | G4520 | σαββατισμός | sabbatismós | masculine noun | 1 | The sabbath-rest as eschatological reality (Heb 4:9) | TODO(need G4520 study) |
 | G4864 | συναγωγή | synagōgḗ | feminine noun | 57 | The place — where sabbath worship occurs | TODO(need G4864 study) |
 | G1832 | ἔξεστι | éxesti | verb | 30 | The question — "Is it lawful?" | TODO(need G1832 study) |
-| G2250 | ἡμέρα | hēméra | feminine noun | 365 | The unit — "day" (sabbath day; first day of the week) | TODO(need G2250 study) |
+| G2250 | ἡμέρα | hēméra | feminine noun | 365 | The unit — "day" (sabbath day; first day of the week) | [G2250-hemera.md](G2250-hemera.md) |
 
 ## Relationships
 

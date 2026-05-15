@@ -15,14 +15,20 @@
 
 From θράω thráō (to sit); a stately seat ("throne"); by implication, power.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Domain 037004:** Control, Rule — Rule, Govern
+**Louw-Nida:**
+- **037.004** — Control, Rule — Rule, Govern
   - Neighbors: ἀρχή (G746), βασιλεία (G932), βασιλεύς (G935), βασιλεύω (G936), ἄρχων (G758)
-- **Domain 006015:** Artifacts — Furniture
+- **006.015** — Artifacts — Furniture
   - Neighbors: καθέδρα (G2515), κλίνη (G2825), θυσιαστήριον (G2379)
-- **Domain 012002:** Supernatural Beings and Powers — Supernatural Powers
+- **012.002** — Supernatural Beings and Powers — Supernatural Powers
   - Neighbors: ἀρχή (G746), δύναμις (G1411), ἐξουσία (G1849)
+
+**UBS Semantic Domains:**
+- **[006]** Artifacts
+- **[012]** Supernatural Beings and Powers
+- **[037]** Control, Rule
 
 ## Translation Distribution (KJV)
 
@@ -107,6 +113,14 @@ Plural "thrones" used abstractly for a class of celestial beings or dominion str
 - **G2523 καθίζω (kathízō)** — to seat, to sit down; the active/transitive counterpart (enthrone)
 - **G2515 καθέδρα (kathédra)** — a bench or teaching seat (Moses' seat, seat of scorners)
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G2362.*
+
+### Antonyms
+
+No direct antonyms were identified by `search_relationships.py` for θρόνος.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -128,7 +142,16 @@ Plural "thrones" used abstractly for a class of celestial beings or dominion str
 
 - [TR-kisse-thronos.md](TR-kisse-thronos.md) — cross-testament trace: H3678 כִּסֵּא → G2362 θρόνος
 - [WG-throne.md](WG-throne.md) — word group: throne, kingdom, king, sitting
+- [G746-arche.md](G746-arche.md) — rule / principality language in the same sovereignty field
+- [G1411-dynamis.md](G1411-dynamis.md) — power vocabulary adjacent to throne imagery
+- [G1849-exousia.md](G1849-exousia.md) — authority language adjacent to throne imagery
+- [G2226-zoon.md](G2226-zoon.md) — living creatures around the throne
+- [G3022-leukos.md](G3022-leukos.md) — white-throne and heavenly-vision imagery
+- [G3031-libanotos.md](G3031-libanotos.md) — throne-room incense imagery
+- [G4245-presbyteros.md](G4245-presbyteros.md) — elders seated around the throne
+- [G4352-proskyneo.md](G4352-proskyneo.md) — worship before the throne
+- [H4438-malkuwth.md](H4438-malkuwth.md) — kingdom / dominion source word connected to throne language
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -107,6 +107,12 @@ When the relational opposite "family / companions" is absent, *yâchîyd* slides
 - **H259 אֶחָד (ʼechâd)** — numeral: one (Deut 6:4 "the LORD is one")
 - **H3175 יָחִיל (yâchîyl)** — expectant/waiting (unrelated root, easily confused graphically)
 
+### Synonyms
+- **H5315 נֶפֶשׁ (nephesh)** — surfaced by `search_relationships.py` because the feminine *yᵉchidah* in Psa 22:20 and 35:17 parallels *nephesh* as the one irreplaceable self/life; this is a poetic overlap, not a general substitute.
+
+### Antonyms
+No antonym entries were returned by `search_relationships.py` for H3173.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -115,6 +121,13 @@ When the relational opposite "family / companions" is absent, *yâchîyd* slides
 | בָּדַד (bâdad) / בָּד (bad) | H910/H905 | "alone" / "solitary" | *bâdâd* = physical separateness; *yâchîyd* = "only" in a relational sense (sole child, sole self) |
 | בְּכוֹר (bᵉkôwr) | H1060 | "firstborn" (paralleled with yachid in Zech 12:10) | *bᵉkôwr* = rank-in-birth-order; *yâchîyd* = "only-one" regardless of rank |
 | יְדִיד (yᵉdîyd) | H3039 | "beloved" (shares KJV overlap via darling) | *yᵉdîyd* = beloved from root "to love"; *yâchîyd* = beloved because sole/unique |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002003002009] Dissociate** — reflects the solitary/desolate edge of the word ("alone," "solitary").
+- **[002001002012] Great** — a secondary value/intensity association that fits the "precious / uniquely weighty" nuance of the only child.
+- **[003001016] Self** — matches the psalmic uses where *yᵉchidah* parallels *nephesh* as the irreplaceable self or life.
 
 ## LXX Mapping
 
@@ -160,5 +173,5 @@ No TR- / WG- / EN- files currently reference H3173. Potential future companions 
 - Related library entries worth consulting for the H3173 word field: [H1121-ben.md](H1121-ben.md), [H5315-nephesh.md](H5315-nephesh.md)
 
 ---
-*Generated from: gather_word_data.py H3173, verse_alignments (LXX per-verse), KJV text.*
-*Last updated: 2026-04-17*
+*Generated from: gather_word_data.py H3173, verse_alignments (LXX per-verse), KJV text, search_relationships.py.*
+*Last updated: 2026-04-27*

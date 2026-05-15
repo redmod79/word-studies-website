@@ -16,12 +16,22 @@
 
 The body (as a sound whole), used in a very wide application, literal or figurative: body, slave.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Primary Domain:** 008.001 — Body, Body Parts, and Body Products → Body
+**Louw-Nida:**
+- **Primary Domain 008.001:** Body, Body Parts, and Body Products → Body
 - **Other words in domain:** ἄνθρωπος (G0444), πτῶμα (G4430), σάρξ (G4561), σκεῦος (G4632), σκῆνος (G4636), σκήνωμα (G4638), σωματικός (G4984), σωματικῶς (G4985)
-- **Secondary Domain:** 023.007 — Physiological Processes and States → Live, Die (body as the locus of mortal existence)
-- **Additional:** 001.004 — Heavenly Bodies (astronomical use in 1 Cor 15)
+- **Secondary Domain 023.007:** Physiological Processes and States → Live, Die (body as the locus of mortal existence)
+- **Additional Domain 001.004:** Heavenly Bodies (astronomical use in 1 Cor 15)
+
+**UBS Semantic Domains:**
+- **[008]** Body, Body Parts, and Body Products
+- **[009]** People
+- **[011]** Groups and Classes of Persons and Members of Such Groups and Classes
+- **[087]** Status
+- **[058]** Nature, Class, Example
+- **[001]** Geographical Objects and Features
+- **[023]** Physiological Processes and States
 
 ## Translation Distribution (KJV)
 
@@ -131,13 +141,22 @@ The transformed body — raised, glorified, fashioned like Christ's glorious bod
 - **G4984 σωματικός (sōmatikos)** — adjective: bodily, corporeal (Luk 3:22 "in a bodily shape"; Col 2:9 "bodily")
 - **G4985 σωματικῶς (sōmatikōs)** — adverb: bodily (Col 2:9 "all the fulness of the Godhead bodily")
 
+### Synonyms
+
+No direct synonyms were returned by `search_relationships.py` for G4983.
+
+### Antonyms
+
+- **G4639 σκιά (skia)** — shadow; Col 2:17 sets σῶμα as the substantial reality over against mere shadow
+- **G4151 πνεῦμα (pneuma)** — spirit; regular contrast term where body and spirit are distinguished (Mat 10:28; 1Co 5:3; 1Th 5:23)
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
 |------|----------|--------------------|----------------|
 | σάρξ (sárx) | G4561 | both = "body" in some contexts | sárx stresses fleshly/sinful nature or material substance; sōma is the whole body as a functioning unit, morally neutral |
 | ψυχή (psychē) | G5590 | both can mean "person/life" | psychē = the soul, inner life, person as living being; sōma = the outward physical form |
-| νεφέλη (nephesh via H5315) | H5315 | KJV renders nephesh "body" 4× | nephesh = the living soul/person (OT holistic); sōma = the bodily form specifically |
+| נֶפֶשׁ (nephesh) | H5315 | KJV renders nephesh "body" 4× | nephesh = the living soul/person (OT holistic); sōma = the bodily form specifically |
 | בָּשָׂר (bâsâr) | H1320 | KJV renders bâsâr "body" 2× | bâsâr = fleshly material, kin; sōma = the whole body as a unit |
 
 ## Louw-Nida Domain Neighbors (023.007 — Live, Die)
@@ -166,11 +185,21 @@ The LXX uses σῶμα most consistently for גְּוִיָּה (body). The high
 
 ## See Also
 
+- [G4561-sarx.md](G4561-sarx.md) — flesh/body distinction in Paul and the Gospels
+- [G4151-pneuma.md](G4151-pneuma.md) — spirit as the regular contrast term
+- [G4639-skia.md](G4639-skia.md) — shadow versus body/substance contrast in Col 2:17
+- [G5590-psyche.md](G5590-psyche.md) — soul/life contrasted with body in Mat 10:28
+- [H1320-basar.md](H1320-basar.md) — primary Hebrew body/flesh overlap
 - [TR-basar-sarx.md](TR-basar-sarx.md) — cross-testament trace: H1320 בָּשָׂר → G4561 σάρξ
 - [WG-flesh.md](WG-flesh.md) — word group: flesh, body, spirit cluster
-- [G4561-sarx.md](G4561-sarx.md) — closely related; flesh vs. body distinction
-- [G5590-psyche.md](G5590-psyche.md) — soul/life; contrasted with sōma in Mat 10:28
+- [G1067-geenna.md](G1067-geenna.md) — body cast into Gehenna in Jesus' warning sayings
+- [G3088-lychnos.md](G3088-lychnos.md) — lamp/body imagery in the Sermon on the Mount and Luke
+- [G4204-porne.md](G4204-porne.md) — bodily defilement and sexual sin
+- [G622-apollymi.md](G622-apollymi.md) — destroy body and soul language overlap
+- [G364-anamnesis.md](G364-anamnesis.md) — Eucharistic remembrance tied to Christ's body
+- [G3850-parabole.md](G3850-parabole.md) — figurative/body imagery with representative form
+- [G499-antitypon.md](G499-antitypon.md) — body/type correspondence language
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, kjv.txt*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, kjv.txt, search_relationships.py*
+*Last updated: 2026-04-28*

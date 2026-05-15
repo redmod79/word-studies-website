@@ -23,6 +23,10 @@ From a compound of διά and δέω (to bind); a "diadem" — the royal headban
 - **Subdomain:** 6.018 — Adornments
 - **Other words in subdomain:** δακτύλιος (G1146, ring), κόσμος (G2889, adornment/world), στέμμα (G4725, garland), στέφανος (G4735, crown/wreath), χρυσίον (G5553, gold ornament)
 
+## UBS Semantic Domains
+
+- **[006] Artifacts** — `search_relationships.py` keeps **διάδημα** in the artifact/adornment field as the royal headpiece of sovereignty.
+
 ## Domain Neighbors (Subdomain 006018 — Adornments)
 
 | Strong's | Lemma | Total vv | Primary KJV Translation |
@@ -78,6 +82,14 @@ In deliberate contrast to the dragon and beast, the Rider on the white horse wea
 - **G1210 δέω (deō)** — root verb: to bind, tie
 - **G1223 διά (dia)** — prepositional component: through, around
 
+### Synonyms
+
+- **G4735 στέφανος (stephanos)** — the other major NT "crown" word; `search_relationships.py` surfaced it as the closest lexical parallel, though the distinction between victor's wreath and royal diadem remains important.
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G1238.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -98,7 +110,9 @@ In deliberate contrast to the dragon and beast, the Rider on the white horse wea
 ## See Also
 
 - [G4735-stephanos.md](G4735-stephanos.md) — the competing "crown" word; victor's wreath vs. royal diadem
+- [G2768-keras.md](G2768-keras.md) — horn; Rev 13 places diadems on the beast's horns
+- [G988-blasphemia.md](G988-blasphemia.md) — blasphemy; Rev 13 joins the beast's diadems with blasphemous names
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

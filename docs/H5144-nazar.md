@@ -104,6 +104,14 @@ The collocational profile is classically Nazirite: a vow (neder) for a span of d
 - **H5145 נֶזֶר (nezer)** — noun: "consecration, crown, diadem"; the physical token of the vow (unshorn hair) and the priestly/royal diadem
 - **H4502 מִנְּזָר (minzar)** — noun: "crowned one/princely guard" (Nah 3:17)
 
+### Synonyms
+
+No synonyms were returned by `search_relationships.py` for H5144.
+
+### Antonyms
+
+No antonyms were returned by `search_relationships.py` for H5144.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -112,6 +120,14 @@ The collocational profile is classically Nazirite: a vow (neder) for a span of d
 | קָדַשׁ (qâdash) | H6942 | "consecrate / sanctify" | qâdash = make holy (general); nâzar = specifically separate *by abstention and vow* |
 | פָּרַשׁ (pârash) | H6567 | "separate / declare" | pârash = distinguish/make distinct; nâzar = set apart for devoted status |
 | חָרַם (châram) | H2763 | devote/separate | châram = devote to destruction (ban); nâzar = devote to living service |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002003002009] Dissociate** — `search_relationships.py` places *nazar* in a core separation field, with neighbors such as **אחז (H270)**, **אַלְמֹון (H489)**, **אַלְמָן (H488)**, **אַלְמָנוּת (H491)**, and **בַּד (H905/H906)**.
+- **[002003003012] Non-Engage** — the tool also groups *nazar* with abstention/cessation vocabulary such as **בטל (A989/H988)**, **דֳּמִי (H1824)**, **דמם (H1826)**, **הֲנָחָה (H2010)**, and **הֲפוּגָה (H2014)**.
+- **[002001002027] Unfaithful** — this domain captures the prophetic apostasy side of the verb, with neighbors such as **בגד (H898)**, **בֶּגֶד (H899)**, **בֹּגְדֹות (H900)**, **בָּגֹוד (H901)**, and **זנה (H2181/H2185)**.
+- **[002004001009013] Vow** — the Nazirite-vow field, with neighbors such as **אָלָה (H423)**, **אסר (H631)**, **אִסָּר (H632)**, **בוא (H935)**, and **בְּרִית (H1285/H1286)**.
 
 ## LXX Mapping
 
@@ -128,12 +144,12 @@ There is no single verb-level Greek gloss; the LXX translates semantically, usin
 
 ## See Also
 
-- [H5139 nazir](H5139-nazir.md) — *if/when added* — the Nazirite himself (noun of person)
-- [H5145 nezer](H5145-nezer.md) — *if/when added* — consecration / crown (the resulting state/symbol)
+- [H5139-naziyr.md](H5139-naziyr.md) — the Nazirite himself (noun of person; consecrated one / unpruned vine)
+- **H5145 nezer** — *study not yet added* — consecration / crown (the resulting state/symbol)
 - [H5088 neder](H5088-neder.md) — *if/when added* — vow (the covenantal speech-act nâzar enacts)
 - [H6942 qadash](H6942-qadash.md) — *if/when added* — general sanctification vocabulary
-- [H914 badal](H914-badal.md) — *if/when added* — general separation vocabulary
+- **H914 badal** — *study not yet added* — general separation vocabulary
 
 ---
-*Generated from: gather_word_data.py (H5144), hebrew_parser.py (lemma נזר), kjv.txt, ETCBC/BHSA parse.*
-*Last updated: 2026-04-16*
+*Generated from: gather_word_data.py (H5144), hebrew_parser.py (lemma נזר), kjv.txt, ETCBC/BHSA parse, search_relationships.py.*
+*Last updated: 2026-04-27*

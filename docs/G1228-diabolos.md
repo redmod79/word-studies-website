@@ -25,6 +25,12 @@ The word's literal force is "one who throws across/against" — i.e., one who lo
 
 The double domain placement reflects the word's two functional registers in the NT.
 
+## UBS Semantic Domains
+
+- **[012] Supernatural Beings and Powers** — the personal-adversary sense: Satan as the devil.
+- **[033] Communication** — the accusation, slander, and reviling field that lies behind the word's literal force.
+- **[088] Moral and Ethical Qualities and Related Behavior** — the moral classification of the devil as evil and destructive.
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -117,6 +123,14 @@ The only non-personal uses — describing people who are false accusers/slandere
 - **G1223 διά** (dia) — preposition component: through, across, against
 - **G906 βάλλω** (bállō) — root verb: to throw, cast — in lexical DNA of the word
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G1228.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G1228.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -147,8 +161,17 @@ The LXX's consistent rendering of H7854 as διάβολος established the Gree
 
 ## See Also
 
+- [G1404-drakon.md](G1404-drakon.md) — Revelation's dragon image explicitly identified with the devil
+- [G987-blasphemeo.md](G987-blasphemeo.md) — cognate speech field: to blaspheme, revile, speak evil
+- [G988-blasphemia.md](G988-blasphemia.md) — noun counterpart in the same slander / reviling domain
+- [G2316-theos.md](G2316-theos.md) — the God whom the devil opposes and against whom accusation/blasphemy is directed
+- [G3841-pantokrator.md](G3841-pantokrator.md) — the Almighty in Revelation's warfare contrast
+- [G4103-pistos.md](G4103-pistos.md) — faithful / trustworthy; moral and relational contrast field
+- [H7854-satan.md](H7854-satan.md) — Hebrew source-title behind the LXX and NT use of διάβολος
 - [WG-dragon.md](WG-dragon.md) — word group: Dragon / Serpent / Devil / Beast (Revelation adversary cluster)
+- [WG-satan.md](WG-satan.md) — word group: Satan / adversary cluster across Hebrew and Greek terms
+- [WG-blasphemy.md](WG-blasphemy.md) — word group for blasphemy / slander vocabulary linked to διάβολος
 
 ---
-*Generated from: gather_word_data.py, louw_nida.db, kjv.txt*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, louw_nida.db, kjv.txt, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -132,6 +132,22 @@ A righteous reign and branch from David's line, where tsedaqah characterizes the
 
 See also: [WG-hebrew-righteousness.md](WG-hebrew-righteousness.md) for the full tsadaq word family.
 
+### Synonyms
+
+`search_relationships.py` returns a wide semantic neighborhood for `tsedaqah`; the closest overlaps cluster around truth, justice, uprightness, salvation, and covenant well-being.
+
+- **H530 אֱמוּנָה (emunah)**, **H571 אֶמֶת (emeth)**, and **H2617 חֶסֶד (chesed)** — faithfulness / truth / covenant kindness; central covenant-neighbor terms.
+- **H4941 מִשְׁפָּט (mishpat)** and **H6664 צֶדֶק (tsedeq)** — justice / righteousness; the noun pair most closely linked to *tsedaqah*.
+- **H3476 יֹשֶׁר (yosher)**, **H3483 יִשְׁרָה (yishrah)**, and **H4339 מֵישָׁר (meyshar)** — uprightness / rectitude / equity cluster.
+- **H3444 יְשׁוּעָה (yeshuah)**, **H3468 יֶשַׁע (yesha')**, and **H8668 תְּשׁוּעָה (teshuah)** — salvation / deliverance cluster, especially where God's righteousness appears as saving action.
+- **H1293 בְּרָכָה (berakhah)**, **H7965 שָׁלוֹם (shalom)**, and **H5797 עֹז (oz)** — blessing / peace / strength; outcomes or companions of righteous order.
+- **H6382 פֶּלֶא (pele')** and **H3519 כָּבוֹד (kabod)** — wonder / glory; surfaced by the relationship tool in the wider praise-and-display field around God's righteousness.
+
+### Antonyms
+- **H2403 חַטָּאָה (chatta'ah)**, **H7562 רֶשַׁע (resha')**, **H7563 רָשָׁע (rasha)**, and **H7564 רִשְׁעָה (rish'ah)** — sin / wickedness cluster standing opposite righteousness.
+- **H5766 עֶוֶל (evel)** and **H2555 חָמָס (hamas)** — injustice / violence; social-order opposites to *tsedaqah*.
+- **H7451 רַע (ra')** — evil in the broad moral sense, opposed to righteous good.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -139,6 +155,12 @@ See also: [WG-hebrew-righteousness.md](WG-hebrew-righteousness.md) for the full 
 | צֶדֶק (tsedeq) | H6664 | both translated "righteousness," "justice" | tsedeq = abstract standard or norm ("a just weight," "judge in righteousness"); tsedaqah = righteousness as personal quality or concrete act. Hebrew often pairs them; Greek collapses both into δικαιοσύνη. |
 | δικαιοσύνη (dikaiosyne) | G1343 | both translated "righteousness" | Greek NT word that inherits tsedaqah's semantic range via LXX; used 85x in NT, carrying both the normative and active/covenantal senses of the Hebrew. |
 | מִשְׁפָּט (mishpat) | H4941 | occasionally "justice" | mishpat = the judicial process or verdict; tsedaqah = the moral rightness behind or accompanying it. They are complementary, not synonymous. |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002001003014] Right** — marks the core rightness / rectitude field for *tsedaqah*.
+- **[002] Events** — `search_relationships.py` also places the noun in a broader event-and-action field, fitting uses where righteousness is enacted or displayed in history.
 
 ## LXX Mapping
 
@@ -162,7 +184,9 @@ See also: [WG-hebrew-righteousness.md](WG-hebrew-righteousness.md) for the full 
 - [H6662-tsaddiyq.md](H6662-tsaddiyq.md) — sibling adjective
 - [H4941-mishpat.md](H4941-mishpat.md) — primary collocation word (judgment/justice)
 - [G1343-dikaiosyne.md](G1343-dikaiosyne.md) — Greek NT counterpart
+- [G1344-dikaioo.md](G1344-dikaioo.md) — cognate Greek justify-verb
+- [G2920-krisis.md](G2920-krisis.md) — Greek judgment term in the same justice field
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, kjv.txt*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, search_strongs.py, kjv.txt, search_relationships.py*
+*Last updated: 2026-04-27*

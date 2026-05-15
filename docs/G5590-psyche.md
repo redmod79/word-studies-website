@@ -15,14 +15,25 @@
 
 From ψύχω; breath, i.e. (by implication) spirit, abstractly or concretely — the animal sentient principle only; thus distinguished on the one hand from πνεῦμα (G4151), which is the rational and immortal soul; and on the other from ζωή (G2222), which is mere vitality, even of plants. These terms correspond respectively to the Hebrew נֶפֶשׁ (H5315), רוּחַ (H7307), and חַי (H2416).
 
-## Louw-Nida Semantic Domains
+## Semantic Domains
 
-- **Primary:** 026 — Psychological Faculties (inner self, mind, thoughts)
+**Louw-Nida:**
+- **026** — Psychological Faculties (inner self, mind, thoughts)
 - **023.007** — Live, Die
 - **009.001** — Human Beings (person, individual)
 - **004** — Animals (living creature)
 - **025** — Attitudes and Emotions (025.023 Sorrow/Regret; 025.024 Discouragement)
-- Other words in domain 026: καρδία (kardia), διάνοια (dianoia), νοῦς (nous), πνεῦμα (pneuma)
+
+Other words in 026: καρδία (kardia), διάνοια (dianoia), νοῦς (nous), πνεῦμα (pneuma)
+
+**UBS Semantic Domains:**
+- **[026]** Psychological Faculties
+- **[023]** Physiological Processes and States
+- **[009]** People
+- **[004]** Animals
+- **[025]** Attitudes and Emotions
+- **[088]** Moral and Ethical Qualities and Related Behavior
+- **[021]** Danger, Risk, Safe, Save
 
 ## Translation Distribution (KJV)
 
@@ -104,6 +115,13 @@ Gospels + Acts account for 71 of 87 (82%). Highest density in 1 Peter (5.7/100v)
 - **G5594 ψύχω (psychō)** — root verb: to breathe, blow cool
 - **G5591 ψυχικός (psychikos)** — adj: natural, sensual (as opposed to spiritual)
 
+### Synonyms
+- **G3563 νοῦς (nous)** — mind, understanding; overlapping inner-self vocabulary
+- **G4151 πνεῦμα (pneuma)** — spirit; overlapping language for the immaterial inner person
+
+### Antonyms
+- None listed by `search_relationships.py` for this lemma.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -122,10 +140,17 @@ Gospels + Acts account for 71 of 87 (82%). Highest density in 1 Peter (5.7/100v)
 
 ## See Also
 
+- [H7307-ruach.md](H7307-ruach.md) — Hebrew source-side comparison for spirit/breath vocabulary
+- [TR-nephesh-psyche.md](TR-nephesh-psyche.md) — cross-testament trace from נֶפֶשׁ to ψυχή
+- [TR-chay-zoe.md](TR-chay-zoe.md) — life vocabulary trace intersecting ψυχή / ζωή usage
 - [WG-spirit.md](WG-spirit.md) — word group (psyche as contrast to pneuma)
 - [WG-soul.md](WG-soul.md) — word group (soul/life concept cluster)
+- [WG-heart.md](WG-heart.md) — inner-life / heart-soul overlap
 - [G4151-pneuma.md](G4151-pneuma.md) — related: spirit vs. soul
+- [G2222-zoe.md](G2222-zoe.md) — related: life as vitality / eternal life
+- [G4983-soma.md](G4983-soma.md) — related: body in body-soul/spirit distinctions
+- [G3083-lytron.md](G3083-lytron.md) — ransom study linked by "give his life (psyche) a ransom"
 
 ---
-*Generated from: search_strongs.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-03-31*
+*Generated from: search_strongs.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-28*

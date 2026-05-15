@@ -21,6 +21,10 @@ Valley of (the son of) Hinnom; a ravine south of Jerusalem historically used for
 - **Subdomain:** 1.19 — Regions Below the Surface of the Earth
 - **Other words in domain:** ἄβυσσος (G12), ᾅδης (G86), βάθος (G899), ζόφος (G2217), σκότος (G4655), ταρταρόω (G5020)
 
+## UBS Semantic Domains
+
+- **[001] Geographical Objects and Features** — `search_relationships.py` classifies **γέεννα** as a place-term, even though NT usage loads it with judicial and eschatological force.
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -106,6 +110,12 @@ No Greek cognates — geenna is a transliteration, not a native Greek word. The 
 - **גֵּי בֶן הִנּוֹם** — Valley of the Son of Hinnom (2 Chr 28:3; Jer 7:31-32; 19:2, 6)
 - In Second Temple literature, this site became associated with eschatological judgment (1 En 27:2; 4 Ezra 7:36; 2 Bar 85:13).
 
+### Synonyms
+*No direct synonyms were returned by `search_relationships.py` for G1067.*
+
+### Antonyms
+*No antonyms were returned by `search_relationships.py` for G1067.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -131,11 +141,17 @@ No LXX mapping exists for geenna — it is a proper noun transliteration, not a 
 
 ## See Also
 
+- [G4442-pyr.md](G4442-pyr.md) — fire; Gehenna's dominant collocate in Jesus' warnings
+- [G4624-skandalizo.md](G4624-skandalizo.md) — offend/cause to stumble; the recurring trigger in the limb-cutting sayings
+- [G622-apollymi.md](G622-apollymi.md) — destroy; Matt 10:28 links Gehenna with destruction of soul and body
+- [G5020-tartaroo.md](G5020-tartaroo.md) — Tartarus; another NT punishment-place term
+- [G4655-skotos.md](G4655-skotos.md) — darkness; parallel judgment imagery
+- [H7585-showl.md](H7585-showl.md) — Sheol; OT realm of the dead contrasted with Gehenna
 - [WG-judgment.md](WG-judgment.md) — word group: judgment terms
 - [WG-death.md](WG-death.md) — word group: death terms
 - [WG-soul.md](WG-soul.md) — word group: soul/life/spirit
 - [WG-life.md](WG-life.md) — word group: life terms (geenna's antithesis)
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, KJV text*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, KJV text, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -15,11 +15,20 @@
 
 From G1342 (dikaios); equity (of character or act); specially (Christian) justification: — righteousness.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Domain:** 088.002 — Moral and Ethical Qualities: Just, Righteous
-- **Other words in domain:** δίκαιος (G1342), δικαιόω (G1344), δικαίωμα (G1345), δικαίως (G1346), ἄδικος (G0094), ἀδικία (G0093), ἔνδικος (G1738)
-- **Also in:** 053.001 — Religious Practice; 034.005 — Establish/Confirm a Relation
+**Louw-Nida:**
+- **088.002** — Moral and Ethical Qualities: Just, Righteous
+- **053.001** — Religious Practice
+- **034.005** — Establish / Confirm a Relation
+
+Other words in 088.002: δίκαιος (G1342), δικαιόω (G1344), δικαίωμα (G1345), δικαίως (G1346), ἄδικος (G0094), ἀδικία (G0093), ἔνδικος (G1738)
+
+**UBS Semantic Domains:**
+- **[088]** Moral and Ethical Qualities and Related Behavior
+- **[053]** Religious Activities
+- **[034]** Association
+- **[057]** Possess, Transfer, Exchange
 
 ## Translation Distribution (KJV)
 
@@ -121,6 +130,16 @@ Romans dominates (35% of all occurrences, highest density). Pauline epistles acc
 - **G1346 δικαίως** — righteously, justly (adverb)
 - **G1347 δικαίωσις** — justification (the act/state of being declared righteous)
 
+### Synonyms
+
+`search_relationships.py` surfaced mostly theological associates rather than a tight synonym set. The clearest non-cognate lexical overlap was:
+- **G2118 εὐθύτης (euthytēs)** — uprightness, rectitude; a rare overlap term for moral straightness/rightness
+
+### Antonyms
+- **G94 ἄδικος (adikos)** — unrighteous; direct privative opposite within the same moral field
+- **G266 ἁμαρτία (hamartia)** — sin; the dominant antithesis to righteousness in Romans 6 and related contexts
+- **G459 ἄνομος (anomos)** — lawless; opposite image where righteousness is defined over against lawlessness
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -143,11 +162,18 @@ Primary LXX sources are tsedaqah (H6666) and tsedeq (H6664) — together these t
 
 ## See Also
 
+- [G1342-dikaios.md](G1342-dikaios.md) — righteous/just; adjectival root and personal form of the same concept
+- [G1344-dikaioo.md](G1344-dikaioo.md) — justify; the verbal action corresponding to righteousness
+- [G1345-dikaioma.md](G1345-dikaioma.md) — righteous requirement/act; the concrete expression of the root
+- [G2435-hilasterion.md](G2435-hilasterion.md) — propitiatory/atonement vocabulary tied to God's righteousness in Romans 3
+- [H6663-tsadaq.md](H6663-tsadaq.md) — Hebrew verbal source field behind justification language
+- [H6664-tsedeq.md](H6664-tsedeq.md) — major Hebrew source noun behind dikaiosynē
+- [H4941-mishpat.md](H4941-mishpat.md) — justice/judgment term that often travels with righteousness in the OT
 - [TR-tsadaq-dikaioo.md](TR-tsadaq-dikaioo.md) — cross-testament trace: H6663 tsadaq → G1344 dikaioo (verbal cognate of this word)
 - [TR-mishpat-krima.md](TR-mishpat-krima.md) — cross-testament trace: H4941 mishpat → κρίμα/κρίσις (justice/judgment cluster)
 - [WG-righteousness.md](WG-righteousness.md) — full δικ- word group (7+ words, 234 NT occurrences)
 - [WG-faith.md](WG-faith.md) — faith and righteousness cluster
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py --lexicon, KJV verse texts*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, search_strongs.py --lexicon, KJV verse texts, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -25,7 +25,7 @@ Primary KJV translations: *the congregation* (40x), *congregation* (14x), *assem
 - **1 Sa 17:47** — "And all this assembly shall know that the LORD saveth not with sword and spear: for the battle is the LORD's."
 - **Neh 8:2** — "And Ezra the priest brought the law before the congregation both of men and women, and all that could hear with understanding."
 
-TODO(need H6951 study)
+[H6951-qahal.md](H6951-qahal.md)
 
 ## LXX Bridge
 

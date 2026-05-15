@@ -119,6 +119,14 @@ A small cluster where mashach describes smearing without consecration — anoint
 - **H4899 מָשִׁיחַ (mashiyach)** — the anointed one; the Messiah; derived from H4886 as a substantive participle
 - **H4473 מִמְשַׁח (mimshach)** — outspread (Ezek 28:14 only, of the covering cherub); from H4886 in the sense of spreading/extension
 
+### Synonyms
+
+*No synonyms returned by `search_relationships.py` for H4886.*
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for H4886.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -126,6 +134,13 @@ A small cluster where mashach describes smearing without consecration — anoint
 | סוּךְ (suk) | H5480 | "anoint" | suk = personal/cosmetic application (Ruth 3:3, 2Sa 12:20); mashach = ritual/official consecration |
 | מָשִׁיחַ (mashiyach) | H4899 | "anointed" | mashiyach is the person consecrated; mashach is the act of consecrating |
 | ἀλείφω (aleipho) | G218 | "anoint" | NT: aleipho = ordinary personal anointing (Jas 5:14); χρίω (chrio) = official/divine anointing, the NT equivalent of mashach |
+
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 002003001016 | Rub | Core physical sense of rubbing or smearing with oil or pigment, including the non-ritual "painted" use in Jer 22:14. |
+| 002002002008 | Role | Official-installation domain where anointing marks priestly, royal, or sacred office. |
 
 ## LXX Mapping
 
@@ -146,7 +161,8 @@ The near-exclusive LXX rendering is χρίω (G5548), which then appears 5x in t
 - [TR-mashiyach-christos.md](TR-mashiyach-christos.md) — trace of the derived noun to Χριστός
 - [TR-qadash-hagiazo.md](TR-qadash-hagiazo.md) — consecration/sanctification (closely paired with anointing)
 - [WG-anointed.md](WG-anointed.md) — word group: mashach, mashiyach, melek, kohen, nagiyd
+- [G5547-christos.md](G5547-christos.md) — Greek messianic title descended from this anointing word-family through *mashiyach*
 
 ---
-*Generated from: gather_word_data.py, gather_trace_data.py, hebrew_parser.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, gather_trace_data.py, hebrew_parser.py, search_relationships.py*
+*Last updated: 2026-04-27*

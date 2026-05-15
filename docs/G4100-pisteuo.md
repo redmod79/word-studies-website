@@ -24,6 +24,13 @@ From G4102 (pistis); to have faith (in, upon, or with respect to, a person or th
 - **Domain 35.005:** Entrust To the Care Of
 - **Other words in 31.010:** ἀπείθεια (G0543), ἀπειθέω (G0544), ἀπιστέω (G0569), ἀπιστία (G0570), ἄπιστος (G0571), πίστις (G4102), πιστός (G4103)
 
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 031 | Hold a View, Believe, Trust | `search_relationships.py` places *pisteuō* in the primary belief/trust field: believing, relying, and accepting as true. |
+| 035 | Help, Care For | Covers the secondary entrust/commit sense found in passive and stewardship contexts. |
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -145,6 +152,16 @@ The present tense forms (participle + indicative + imperative + subjunctive) dom
 - **G0570 ἀπιστία (apistía)** — unbelief, unfaithfulness
 - **G0571 ἄπιστος (ápistos)** — unbelieving, faithless
 
+### Synonyms
+
+`search_relationships.py` returned a mixed trust/truth field. The clearest lexical overlap is:
+- **G3982 πείθω (peithō)** — persuade, be convinced, trust; the nearest NT partner at the conviction/trust boundary
+
+### Antonyms
+
+- **G544 ἀπειθέω (apeitheō)** — disobey/refuse to believe; the clearest opposite returned in the belief-response field
+- **G5579 ψεῦδος (pseudos)** — lie, falsehood; returned by `search_relationships.py` as truth-opposed content incompatible with believing the truth
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -181,7 +198,13 @@ H539 אָמַן (ʼâman) is the dominant Hebrew equivalent with 43 co-occurrenc
 - [WG-gospel.md](WG-gospel.md) — word group: gospel concept cluster
 - [G4102-pistis.md](G4102-pistis.md) — cognate noun: faith
 - [G4103-pistos.md](G4103-pistos.md) — cognate adjective: faithful
+- [G1344-dikaioo.md](G1344-dikaioo.md) — justify; frequent Pauline partner in faith language
+- [G2222-zoe.md](G2222-zoe.md) — life; frequent result term in Johannine belief formulas
+- [G166-aionios.md](G166-aionios.md) — eternal; paired with life in Johannine belief contexts
+- [G2782-kerygma.md](G2782-kerygma.md) — proclamation; what is believed in apostolic preaching
+- [G2098-euangelion.md](G2098-euangelion.md) — gospel; core message believed
+- [G3140-martyreo.md](G3140-martyreo.md) — bear witness/testify; testimony language that evokes belief
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db*
-*Last updated: 2026-04-13*
+*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -140,6 +140,14 @@ forgiveness — showing the word belongs not only to the problem but to its reso
 - **H2402 חַטָּאָה (chaṭṭâʼâh)** — Aramaic cognate (corresponds to H2403 in Aramaic sections)
 - **H2408 חֲטִי (chăṭîy)** — Aramaic: an offence (Dan)
 
+### Synonyms
+- **H5771 עָוֺן (ʻâvôn)** — iniquity/guilt; close moral-neighbor term, especially in confession and punishment passages.
+- **H6588 פֶּשַׁע (peshaʻ)** — transgression/rebellion; regularly paired with *chaṭṭâʼâh* in the major sin-confession triads.
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for H2403.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -151,6 +159,15 @@ forgiveness — showing the word belongs not only to the problem but to its reso
 
 *Note: Exo 34:7 and 34:9 deliberately pair chattaah + pesha + avon as a complete triad covering
 the full range of human sin — none is redundant.*
+
+## Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 002003003018 | Sin | Core domain for moral offense and culpability. |
+| 002003002020 | Sacrifice | Captures the established "sin offering" sense that dominates Leviticus and Numbers. |
+| 002003002005 | Chastise | Reflects passages where *chaṭṭâʼâh* shades into penalty, punishment, or covenant judgment. |
+| 002001001012 | Clean | Reflects purification contexts where sin is removed, purged, or ritually cleansed. |
 
 ## LXX Mapping
 
@@ -173,5 +190,5 @@ the full range of human sin — none is redundant.*
 - [WG-continual-worship.md](WG-continual-worship.md) — word group: tamid and the regular sanctuary ritual cluster
 
 ---
-*Generated from: gather_word_data.py H2403, gather_trace_data.py H2403*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py H2403, gather_trace_data.py H2403, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -56,7 +56,7 @@ G758 árchōn also translates:
 - **Acts 3:17** — "your rulers... did it through ignorance" — Jerusalem council leaders
 - **Rev 1:5** — "Jesus Christ... the prince (árchōn) of the kings of the earth" — messianic sar (cf. Isa 9:6)
 
-[→ G758 study: TODO]
+[→ G758-archon.md](G758-archon.md)
 
 ## Direct OT→NT Quotations
 

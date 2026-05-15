@@ -22,6 +22,11 @@ From G3358 (μέτρον); to measure (i.e. ascertain in size by a fixed standar
 - **Domain 57.008:** Possess, Transfer, Exchange — Give
   - Other words in subdomain: ἀντιμετρέω (antimetreō, G488), δίδωμι (didōmi, G1325), ἀναπληρόω (anaplēroō, G378)
 
+## UBS Semantic Domains
+
+- **[081]** Spacial Dimensions
+- **[057]** Possess, Transfer, Exchange
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -105,6 +110,14 @@ The only figurative/metaphorical use. Here μετρέω means to assess or evalu
 - **G488 ἀντιμετρέω (antimetreō)** — to measure back in return. 2 occurrences (Matt 7:2; Luke 6:38). Intensifies the reciprocal idea.
 - **G3355 μετρητής (metrētēs)** — a measurer, a liquid measure (firkin). 1 occurrence (John 2:6).
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G3354.*
+
+### Antonyms
+
+*No direct antonyms were returned by `search_relationships.py` for G3354.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -122,6 +135,10 @@ The only figurative/metaphorical use. Here μετρέω means to assess or evalu
 
 H4058 מָדַד is the primary Hebrew equivalent: "to stretch; to measure (as if by stretching a line)." Used 51 times in OT, concentrated in Ezekiel 40-47 (temple measurements). The LXX consistently renders מָדַד with μετρέω, establishing continuity between Ezekiel's temple-measuring visions and Revelation's temple/city measurement.
 
+## See Also
+
+- [G2563-kalamos.md](G2563-kalamos.md) — "reed" — the measuring instrument in Rev 11:1 and Rev 21:15
+
 ---
-*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db*
-*Last updated: 2026-04-05*
+*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

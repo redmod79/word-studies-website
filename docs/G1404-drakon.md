@@ -16,11 +16,15 @@
 From an alternate form of δέρκομαι (dérkomai, to look); a fabulous kind of serpent — a dragon.
 KJV translation: dragon (13x).
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Domain:** 004004 — Reptiles and Other 'Creeping Things'
-- **Parent domain:** 004 — Animals
-- **Other words in subdomain:** ἀσπίς (G785, asp), βάτραχος (G944, frog), ἑρπετόν (G2062, creeping thing), ἔχιδνα (G2191, viper), ὄφις (G3789, serpent), σκορπίος (G4651, scorpion), σκώληξ (G4663, worm)
+**Louw-Nida:**
+- **004004** — Reptiles and Other "Creeping Things"
+
+The lexical domain is zoological, even though Revelation uses the creature symbolically and apocalyptically.
+
+**UBS Semantic Domains:**
+- **[004]** Animals
 
 ## Translation Distribution (KJV)
 
@@ -97,6 +101,13 @@ The dragon's mouth is a source of deceptive spirits in the final conflict.
 ### Word Family / Cognates
 - **δέρκομαι** (dérkomai) — root verb: to look, to see; not used in NT but provides etymology
 
+### Synonyms
+- **G785 ἀσπίς (aspis)** — asp; another serpent/reptile term returned by `search_relationships.py`
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G1404.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -130,12 +141,16 @@ The dragon's mouth is a source of deceptive spirits in the final conflict.
 
 ## See Also
 
-- [WG-dragon.md](WG-dragon.md) — word group: dragon, beast, devil, serpent, tannîyn
-- [WG-beast.md](WG-beast.md) — θηρίον (co-occurs with dragon 4x; beast receives dragon's authority)
+- [WG-dragon](WG-dragon.md) — word group: dragon, beast, devil, serpent, tannîyn
+- [WG-beast](WG-beast.md) — θηρίον (co-occurs with dragon 4x; beast receives dragon's authority)
+- [G1228-diabolos](G1228-diabolos.md) — explicit identification: dragon = the devil
+- [G1238-diadema](G1238-diadema.md) — crowns on the dragon's heads (Rev 12:3)
+- [G4171-polemos](G4171-polemos.md) — war; the dragon wages war in heaven and against the remnant
+- [G2768-keras](G2768-keras.md) — horns; part of the dragon's apocalyptic description
+- [G2462-hippos](G2462-hippos.md) — related Revelation warfare imagery
 - TODO(need H8577 study) — H8577-tanniyn.md — primary OT Hebrew equivalent
-- [G1228-diabolos.md](G1228-diabolos.md) — explicitly identified with dragon in Rev 12:9, 20:2
-- TODO(need G3789 study) — G3789-ophis.md — explicitly equated with dragon in Rev 12:9, 20:2
+- [G3789-ophis.md](G3789-ophis.md) — explicitly equated with dragon in Rev 12:9, 20:2
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -88,12 +88,25 @@ The backward-facing use, denoting remote antiquity (the same semantic pole as H5
 ### Word Family / Cognates
 - **H5769 עוֹלָם (ʻôwlâm)** — Hebrew cognate; the same word in Hebrew form (406x in OT); same meaning; used throughout all OT genres
 
+### Synonyms
+
+No direct synonyms were returned by `search_relationships.py` for A5957.
+
+### Antonyms
+
+No antonyms were returned by `search_relationships.py` for A5957.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
 |------|----------|--------------------|----------------|
 | עוֹלָם (ʻôwlâm) | H5769 | "for ever," "everlasting," "ever," "old" | Hebrew form of the same root (406x); ʻâlam is its Aramaic equivalent (15x, only Daniel/Ezra) |
 | עַד (ʻad) | H5703 | "for ever" (25x) | ʻad = a terminus or endpoint; used with ʻôwlâm/ʻâlam to intensify: לְעָלְמִין וְעַד עָלְמָא ("for ever and ever") |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002002002010] Time** — the broad time-reference field that covers remote past, indefinite future, and everlasting duration.
 
 ## LXX Mapping
 
@@ -110,7 +123,8 @@ The backward-facing use, denoting remote antiquity (the same semantic pole as H5
 - [TR-owlam-aion.md](TR-owlam-aion.md) — cross-testament trace: ʻôwlâm → αἰών (includes H5957 in OT usage table)
 - [WG-forever.md](WG-forever.md) — word group: forever / eternal duration cluster
 - [H5769-owlam.md](H5769-owlam.md) — Hebrew cognate (the dominant word; 406x)
+- [H606-enash.md](H606-enash.md) — Aramaic cross-reference returned by `search_relationships.py`
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py*
-*Date: 2026-04-02*
+*Generated from: gather_word_data.py, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

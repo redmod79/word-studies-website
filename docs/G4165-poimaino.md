@@ -23,6 +23,12 @@ From G4166 (poimen); to tend as a shepherd of (figuratively, supervise): — fee
 - **Other words in Domain 44:** ἀρχιποίμην (archipoimen, G750), βόσκω (bosko, G1006), ποιμήν (poimen, G4166)
 - **Other words in Domain 37.004:** βασιλεύω (basileuo, G936), ἄρχω (archo, G756), ἄρχων (archon, G758)
 
+### UBS Semantic Domains
+
+- **[036]** Guide, Discipline, Follow
+- **[037]** Control, Rule
+- **[044]** Animal Husbandry, Fishing
+
 ## Verb Tense/Voice Distribution
 
 | Tense-Form | Count | Typical Usage |
@@ -104,6 +110,14 @@ The word used of actual livestock care, or pejoratively of selfish leaders.
 - **G4168 ποίμνιον (poimnion)** — little flock, flock (5x)
 - **G750 ἀρχιποίμην (archipoimen)** — chief shepherd (1x, 1Pet 5:4)
 
+### Synonyms
+
+- **G1006 βόσκω (boskō)** — closest lexical overlap returned by `search_relationships.py`
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G4165.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -138,7 +152,8 @@ H7462 ra'ah is the dominant Hebrew source (34 co-occurrences, PMI 25.43). Poimai
 - [G4166-poimen.md](G4166-poimen.md) — cognate noun: shepherd/pastor
 - [TR-raah-poimaino.md](TR-raah-poimaino.md) — cross-testament trace: H7462 ra'ah → G4165 poimaino
 - [WG-shepherd.md](WG-shepherd.md) — word group: shepherd concept cluster
+- [G4274-prodromos.md](G4274-prodromos.md) — referenced study cross-link
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-13*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

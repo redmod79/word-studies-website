@@ -21,6 +21,12 @@ A space of time (in general, and thus distinguished from G2540 which is a fixed 
 - **Subdomain 067005:** Duration of Time without Reference to Points or Units of Time: Time, Spend Time, Always, Eternal, Old, Immediately, Young
 - **Other words in subdomain:** αἰών (G0165), αἰώνιος (G0166), ἀεί (G0104), ἀρχαῖος (G0744), βραχύς (G1024)
 
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 067 | Time | `search_relationships.py` places χρόνος in the time field; neighbors: ἄγω (G71), ἀεί (G104), ἀΐδιος (G126), αἰφνίδιος (G160), αἰών (G165), αἰώνιος (G166). |
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -110,6 +116,13 @@ A limited span allotted for something to occur — rest, repentance, tarrying.
 - **χρονίζω (G5549)** — to delay, linger, spend time (verb derived from χρόνος)
 - **χρονοτριβέω (G5551)** — to waste time (compound: chronos + tribe "to rub/wear away")
 
+### Synonyms
+- **G2540 καιρός (kairós)** — appointed time, season; overlaps in English "time," but emphasizes the fitting or appointed moment rather than elapsed duration.
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G5550.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -133,9 +146,16 @@ A limited span allotted for something to occur — rest, repentance, tarrying.
 ## See Also
 
 - [G2540-kairos.md](G2540-kairos.md) — the primary confused word; appointed vs. measured time
+- [G166-aionios.md](G166-aionios.md) — related study on age-lasting / eternal duration
+- [G2250-hemera.md](G2250-hemera.md) — related study on day as a unit of time
+- [G5610-hora.md](G5610-hora.md) — related study on a specific hour or moment
+- [H5769-owlam.md](H5769-owlam.md) — Hebrew study on age / eternity
+- [H6256-eth.md](H6256-eth.md) — Hebrew study on time / season
+- [H7093-qets.md](H7093-qets.md) — Hebrew study on end / appointed end
+- [TR-eth-kairos.md](TR-eth-kairos.md) — cross-testament trace of appointed time vocabulary
 - [WG-time.md](WG-time.md) — word group: Greek NT time vocabulary (chronos, kairos, aion, hora)
 - [TR-owlam-aion.md](TR-owlam-aion.md) — related trace: Hebrew olam → Greek aion
 
 ---
-*Generated from: gather_word_data.py, gather_word_group_data.py, search_strongs.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, gather_word_group_data.py, search_relationships.py, search_strongs.py*
+*Last updated: 2026-04-28*

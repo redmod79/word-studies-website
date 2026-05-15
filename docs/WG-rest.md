@@ -9,7 +9,7 @@ The biblical concept of "rest" draws on a cluster of Greek and Hebrew words that
 |----------|------|-----------------|-----|-------------|-----------------|---------------|
 | G2663 | κατάπαυσις | katapausis | feminine noun | 8 | The "settling-down" rest / God's dwelling; Heb 3–4 / Acts 7:49 | [G2663-katapausis](G2663-katapausis.md) |
 | G2664 | καταπαύω | katapauo | verb | 4 | Causative: to cause to rest, to give rest | TODO(need G2664 study) |
-| G372 | ἀνάπαυσις | anapausis | feminine noun | 5 | Refreshment / intermission — temporary rest | TODO(need G372 study) |
+| G372 | ἀνάπαυσις | anapausis | feminine noun | 5 | Refreshment / intermission — temporary rest | [G372](G372-anapausis.md) |
 | G373 | ἀναπαύω | anapauo | verb | 12 | To refresh, repose, take rest | TODO(need G373 study) |
 | G4520 | σαββατισμός | sabbatismos | masculine noun | 1 | Sabbath-keeping rest as eschatological reality (Heb 4:9) | [G4520-sabbatismos](G4520-sabbatismos.md) |
 | H4496 | מְנוּחָה | menuchah | feminine noun | 22 | The OT settled resting place; primary Hebrew source for katapausis | TODO(need H4496 study) |
@@ -53,6 +53,13 @@ Hebrews 4 uses both words deliberately. Nine uses of κατάπαυσις (G2663
 - **Heb 4:9–10** — "There remaineth therefore a rest [G4520 sabbatismos] to the people of God. For he that is entered into his rest [G2663] hath ceased from his own works [G2664-cognate], as God did from his."
 - **Acts 7:49** — "what is the place of my rest [G2663]?" (quoting Isa 66:1)
 
+## See Also
+
+- [H5117-nuwach.md](H5117-nuwach.md) — canonical word study for the primary Hebrew verb of resting
+- [TR-nuwach-anapauo.md](TR-nuwach-anapauo.md) — cross-testament trace: nuwach → anapauo
+- [G2663-katapausis.md](G2663-katapausis.md) — canonical word study for the settling-down rest noun
+- [G4520-sabbatismos.md](G4520-sabbatismos.md) — canonical word study for sabbath-rest
+
 ---
 *Generated from: gather_word_group_data.py, search_strongs.py*
-*Last updated: 2026-04-02*
+*Last updated: 2026-05-12*

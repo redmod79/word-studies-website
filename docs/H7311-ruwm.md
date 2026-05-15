@@ -147,6 +147,13 @@ The king's horn raised in victory; the Servant elevated in the Servant Song.
 - **H7313 רוּם (rûwm)** — Aramaic counterpart verb: to exalt (same root in Biblical Aramaic)
 - **H7314 רוּם (rûwm)** — masculine noun (Aramaic): height
 
+### Synonyms
+- `search_relationships.py` places *rûwm* in a broad elevation/exaltation cluster, including **H5157 נחל**, **H1343 גֵּאֶה**, **H1431 גדל**, **H3513 כבד**, **H1288 ברך**, **H1419 גָּדֹול**, **H1984 הלל**, **H6965 קום**, **H1369 גְּבוּרָה**, and **H5810 עזז**.
+- The same relationship set also surfaces the lifting/bearing verb **נָשָׂא** and several Aramaic or rarer parallels (**A263 חוה**, **A3029 ידה**, **H5115 נוה**), reinforcing the word's overlap with praise, upward motion, and elevated status.
+
+### Antonyms
+- **H8213 שׁפל (shaphel)** — be low / be made low; the core opposite of being raised or exalted.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -156,6 +163,16 @@ The king's horn raised in victory; the Servant elevated in the Servant Song.
 | גָּבַהּ (gâbahh) | H1361 | "exalt", "lifted up", "is lifted up" | gâbahh = to soar, often with connotation of pride/arrogance; rûwm is broader and more theologically neutral |
 | שָׂגַב (sâgab) | H7682 | "exalted", "is exalted", "shall be exalted" | sâgab = inaccessibly high (used especially of God as safe refuge); rûwm = general upward movement or elevation |
 | עֶלְיוֹן (ʻelyôwn) | H5945 | "most High", "high" | ʻelyôwn is an adjective/title (the Most High, superlative of height); rûwm is the verbal root encoding the act or state |
+
+## UBS Semantic Domains
+
+The relationship tool maps *rûwm* across a wide semantic network, led by the core elevation field and extending into praise, lifting, and sacrificial elevation.
+
+- **Core elevation/height:** `[002001001033] High`
+- **Upward and lifting actions:** `[002003003003] Bear`, `[002003001009] Hold`, `[002002001012] Move`
+- **Honor and exalted speech:** `[002004001009009] Praise`, `[002004001009005] Shout`, `[002004001009013] Vow`
+- **Greatness, strength, and status:** `[002001002012] Great`, `[002001003006] Extraordinary`, `[002001002003] Confident`
+- **Peripheral relationship fields returned by `search_relationships.py`:** `[002001003004] Complicated`, `[002003001020] Whole`, `[002003003012] Non-Engage`, `[002003003019] Safe`, `[002001001056] Stage`, `[002001001057] Stance`, `[002003003011] Engage`, `[002003003022] Unsafe`, `[002001002031] Unwilling`, `[002003002020] Sacrifice`
 
 ## LXX Mapping
 
@@ -174,9 +191,12 @@ The dominant LXX equivalent G5312 ὑψόω carries directly into NT vocabulary,
 
 - [TR-ruwm-hupsoo.md](TR-ruwm-hupsoo.md) — cross-testament trace: H7311 rûwm → G5312 ὑψόω
 - [WG-high.md](WG-high.md) — word group: Hebrew exaltation/height cluster
+- [H1431-gadal.md](H1431-gadal.md) — related greatness/exaltation verb
+- [H5375-nasa.md](H5375-nasa.md) — major overlap in "lift up / raise" contexts
+- [H5927-alah.md](H5927-alah.md) — companion upward-motion verb, "go up / ascend"
 - [TR-gadal-megaluno.md](TR-gadal-megaluno.md) — related: H1431 gâdal (be great/magnify) shares exaltation vocabulary
 - [TR-qeren-keras.md](TR-qeren-keras.md) — related: qeren (horn, H7161) frequently collocates with rûwm
 
 ---
-*Generated from: gather_word_data.py, hebrew_parser.py, gather_trace_data.py, gather_word_group_data.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, hebrew_parser.py, gather_trace_data.py, gather_word_group_data.py, search_relationships.py*
+*Last updated: 2026-04-27*

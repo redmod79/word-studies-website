@@ -8,7 +8,7 @@ The dragon imagery in Revelation draws on a cluster of terms — Greek and Hebre
 | Strong's | Word | Transliteration | POS | Occurrences | Role in Concept | Library Entry |
 |----------|------|-----------------|-----|-------------|-----------------|---------------|
 | G1404 | δράκων | drákōn | noun | 12 | The apocalyptic adversary figure; exclusively Revelation | [G1404-drakon.md](G1404-drakon.md) |
-| G3789 | ὄφις | óphis | noun | 13 | Serpent; connects dragon to Eden and broader narrative | TODO(need G3789 study) |
+| G3789 | ὄφις | óphis | noun | 14 | Serpent; connects dragon to Eden and broader narrative | [G3789-ophis.md](G3789-ophis.md) |
 | G1228 | διάβολος | diábolos | noun/adj | 36 | Devil; the accuser/slanderer; identified with the dragon | [G1228-diabolos.md](G1228-diabolos.md) |
 | G2342 | θηρίον | thēríon | noun | 38 | Beast; receives authority from the dragon in Revelation | [G2342-therion.md](G2342-therion.md) |
 | H8577 | תַּנִּין | tannîyn | noun | 26 | OT great serpent/sea monster; primary Hebrew precursor to δράκων | TODO(need H8577 study) |

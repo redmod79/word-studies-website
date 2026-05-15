@@ -24,7 +24,7 @@ H7819, 70x in OT        58x as LXX rendering    9x in NT
 - **Lev 1:5** — "he shall kill the bullock before the LORD: and the priests, Aaron's sons, shall bring the blood" — standard burnt offering procedure
 - **1 Ki 18:40** — "Take the prophets of Baal; let not one of them escape...And Elijah slew them there" — massacre use; same word for sacrifice and killing
 
-[H7819 word study: TODO(need H7819 study)]
+[H7819-shachat.md](H7819-shachat.md)
 
 ## LXX Bridge
 

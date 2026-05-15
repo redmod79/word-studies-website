@@ -28,6 +28,10 @@
 - **Subdomain:** 19.5 — Press
 - **Other words in subdomain:** ἀποθλίβω (G598), θλίβω (G2346), καταπατέω (G2662), πατέω (G3961), πιέζω (G4085)
 
+### UBS Semantic Domains
+
+- **[019] Physical Impact** — striking, crushing, and physical force. Other words: ἀποθλίβω (G598), ἀποκόπτω (G609), δέρω (G1194), διαρρήγνυμι (G1284), διασπάω (G1288), διορύσσω (G1358)
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -69,6 +73,12 @@ The word's only NT use is in Jesus' quotation/application of Ps 118:22 — the s
 - **λικμός** (likmós) — the winnowing fan/van; root noun (not in NT)
 - **λίκνον** (líknon) — winnowing basket (Luke 3:17 as πτύον, not this word)
 
+### Synonyms
+- No direct synonym entries were returned by `search_relationships.py` for G3039.
+
+### Antonyms
+- **εἰσδέχομαι (G1523)** — listed by the relationship data as an antonymic counterpart: admit or receive in rather than strike down
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -87,6 +97,11 @@ The word's only NT use is in Jesus' quotation/application of Ps 118:22 — the s
 
 *Primary LXX bridge is H2219 zârâh (scatter/winnow), consistent with senses 1–2 above. The NT usage in Matt/Luke connects instead to Dan 2:44's imagery (the stone smiting the image), where Theodotion uses λικμάω for the Aramaic Aphel of סוּף (to end/destroy).*
 
+## See Also
+
+- [G2662-katapateo.md](G2662-katapateo.md) — trample/crush study in the same physical-impact field
+- [H1471-gowy.md](H1471-gowy.md) — nation(s) study referenced through the LXX scattering background
+
 ---
-*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

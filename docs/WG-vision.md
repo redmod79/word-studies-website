@@ -8,17 +8,19 @@ The prophetic vision concept in Hebrew Scripture involves a cluster of words des
 | Strong's | Word | Transliteration | POS | Occurrences | Role in Concept | Library Entry |
 |----------|------|-----------------|-----|-------------|-----------------|---------------|
 | H2377 | חָזוֹן | chazon | noun | 37 | The content (prophetic revelation) | [H2377](H2377-chazon.md) |
-| H2372 | חָזָה | chazah | verb | 51 | The action (to perceive in vision) | TODO(need H2372 study) |
-| H2374 | חֹזֶה | chozeh | noun | 17 | The person (seer/visionary) | TODO(need H2374 study) |
-| H2384 | חִזָּיוֹן | chizzayon | noun | 9 | The experience (dream-vision) | TODO(need H2384 study) |
+| H2380 | חָזוּת | chazuwth | noun | 5 | Rare cognate (vision/appearance/compact) | [H2380](H2380-chazuwth.md) |
+| H2372 | חָזָה | chazah | verb | 51 | The action (to perceive in vision) | [H2372](H2372-chazah.md) |
+| H2374 | חֹזֶה | chozeh | noun | 17 | The person (seer/visionary) | [H2374](H2374-chozeh.md) |
+| H2384 | חִזָּיוֹן | chizzayon | noun | 9 | The experience (dream-vision) | [H2384](H2384-chizzayon.md) |
+| H4236 | מַחֲזֶה | machazeh | noun | 4 | The mode (act of receiving vision) | [H4236](H4236-machazeh.md) |
 | H4758 | מַרְאֶה | mar'eh | noun | 103 | The form (visual appearance seen) | [H4758](H4758-mareh.md) |
 | H5030 | נָבִיא | nabi | noun | 316 | The office (prophet — receives chazon) | TODO(need H5030 study) |
-| H7200 | רָאָה | ra'ah | verb | 1313 | The general act (to see — broader than chazah) | TODO(need H7200 study) |
+| H7200 | רָאָה | ra'ah | verb | 1313 | The general act (to see — broader than chazah) | [H7200](H7200-raah.md) |
 
 ## Relationships
 
 ### Shared Roots
-- **חזה root:** chazon (H2377), chazah (H2372), chozeh (H2374), chizzayon (H2384) — all from the root meaning "to gaze/perceive"
+- **חזה root:** chazon (H2377), chazah (H2372), chozeh (H2374), chizzayon (H2384), machazeh (H4236) — all from the root meaning "to gaze/perceive"
 - **ראה root:** mar'eh (H4758), ra'ah (H7200) — the general seeing root, overlapping with חזה in visionary contexts
 
 ### Co-occurrence (appear in same verses)
@@ -47,6 +49,7 @@ The prophetic vision concept in Hebrew Scripture involves a cluster of words des
 - **Person:** chozeh (חֹזֶה) — the seer who receives visions
 - **Office:** nabi (נָבִיא) — the prophet, institutional recipient of chazon
 - **Experience:** chizzayon (חִזָּיוֹן) — the visionary experience, especially in dreams
+- **Mode:** machazeh (מַחֲזֶה) — the act/mode of receiving prophetic vision
 - **Form:** mar'eh (מַרְאֶה) — the visual appearance/form of what is seen
 
 ## Key Passages Where Multiple Group Words Appear Together

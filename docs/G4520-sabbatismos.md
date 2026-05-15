@@ -25,6 +25,12 @@
 - **Subdomain:** 067.009 — Definite Units of Time: Year, Month, Week, Day, Hour
 - **Note:** Placement in "Units of Time" reflects the word's anchor in the Sabbath calendar unit, though the NT usage points to a qualitative sabbath rest rather than mere time measurement.
 
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 067 | Time | `search_relationships.py` places *sabbatismos* in the time/Sabbath field, matching Hebrews 4:9 where the "remaining rest" is framed in explicit Sabbath language. |
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -71,6 +77,14 @@ The shift to σαββατισμός at v. 9 (rather than continuing with κατ�
 | שַׁבָּת (shabbath) | H7676 | Hebrew ancestor — the Sabbath (110 occurrences) |
 | שָׁבַת (shabath) | H7673 | Hebrew root verb — to cease, rest |
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G4520.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G4520.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -89,7 +103,12 @@ See [TR-shabbath-sabbaton.md](TR-shabbath-sabbaton.md) for the full Hebrew-to-Gr
 - [G4521-sabbaton.md](G4521-sabbaton.md) — canonical study of parent word σάββατον (the Sabbath)
 - [TR-shabbath-sabbaton.md](TR-shabbath-sabbaton.md) — cross-testament trace: H7676 shabbath → G4521 sabbaton
 - [WG-sabbath.md](WG-sabbath.md) — word group: Sabbath/rest concept cluster
+- [G2663-katapausis.md](G2663-katapausis.md) — paired "rest" term in Hebrews 3-4 from which sabbatismos is deliberately distinguished
+- [WG-rest.md](WG-rest.md) — rest/cessation cluster that includes both katapausis and sabbatismos
+- [H7673-shabath.md](H7673-shabath.md) — Hebrew root verb: to cease, rest
+- [H7676-shabbath.md](H7676-shabbath.md) — Hebrew Sabbath noun behind the sabbat- word family
+- [H3117-yowm.md](H3117-yowm.md) — day; calendrical frame within which Sabbath observance is marked
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py --lexicon, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, search_strongs.py --lexicon, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

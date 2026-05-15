@@ -33,6 +33,10 @@ From Strong's: "to wed (of either sex) — marry (a wife)." Used of both the man
 - **Subdomain:** 034 — Association
 - **Other words in subdomain:** ἄγαμος (G22), ἀπολύω (G630), ἁρμόζω (G718), γαμίζω (G1061a), γάμος (G1062), γυνή (G1135), ἐπιγαμβρεύω (G1918), λύσις (G3080), μνηστεύω (G3423)
 
+## UBS Semantic Domains
+
+- **[034] Association** — `search_relationships.py` places **γαμέω** in the relationship and household field centered on marriage formation and marital status.
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -124,6 +128,12 @@ Simple factual statement of marriage entering into a narrative context.
 - **G1547 ἐκγαμίζω (ekgamizō)** — compound form: also "give in marriage"; variant of G1061a, 3 co-occurrences with G1060
 - **G22 ἄγαμος (agamos)** — "unmarried" (alpha-privative + gamos); Paul's term for those without a spouse (1 Cor 7:8, 11, 32, 34)
 
+### Synonyms
+No direct non-cognate synonyms were returned by `search_relationships.py`; the nearest lexical parallels are the γαμ- family forms already listed above.
+
+### Antonyms
+*No antonyms were returned by `search_relationships.py` for G1060.*
+
 ### Domain Neighbors (Louw-Nida 034010)
 | Word | Strong's | Total vv | Key Distinction |
 |------|----------|----------|-----------------|
@@ -143,8 +153,12 @@ Simple factual statement of marriage entering into a narrative context.
 
 ## See Also
 
+- [G1062-gamos.md](G1062-gamos.md) — cognate noun: marriage, wedding
+- [G3566-nymphios.md](G3566-nymphios.md) — bridegroom; the marital counterpart in parables and Revelation
 - [WG-marry.md](WG-marry.md) — word group: marry, marriage, divorce, adultery
+- [WG-bridegroom.md](WG-bridegroom.md) — word group: bridegroom / wedding imagery
+- [G2787-kibotos.md](G2787-kibotos.md) — ark; includes the Noah "marrying and giving in marriage" setting
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

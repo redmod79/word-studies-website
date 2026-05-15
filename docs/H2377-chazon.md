@@ -121,6 +121,16 @@ Vision as something to be recorded, awaited, or established.
 - **H2384 חִזָּיוֹן (chizzayon)** — vision, revelation by dream (9x)
 - **H4236 מַחֲזֶה (machazeh)** — vision (4x)
 
+### Synonyms
+- **H2472 חֲלוֹם (chălôwm)** — dream; overlaps where revelation comes through dream-vision, though *chazon* is broader than dream contexts.
+- **H4758 מַרְאֶה (marʼeh)** — appearance, sight, vision; overlaps in visionary contexts, especially where the seen form is foregrounded.
+- **H4853 מַשָּׂא (massâʼ)** — burden/oracle; close at the level of prophetic revelation, especially in superscriptions and formal prophetic messages.
+- **H7080 קָסַם (qâçam)** — to divine; a neighboring revelatory term returned by the tool, though it belongs to illicit divination rather than true prophecy.
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for H2377.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -130,6 +140,13 @@ Vision as something to be recorded, awaited, or established.
 | חִזָּיוֹן (chizzayon) | H2384 | "vision" (9x) | chizzayon = vision received in dreams/night; chazon = broader prophetic revelation |
 | חֵזֵו (chezev) | H2376 | "vision" (11x) | chezev = Aramaic equivalent, used in Daniel's Aramaic sections |
 | מַחֲזֶה (machazeh) | H4236 | "vision" (4x) | machazeh = the act/experience of seeing (Balaam, Gen 15:1); chazon = the content revealed |
+
+## Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 002004002015 | Vision | Core domain for *chazon* as prophetic/apocalyptic revelation received by sight. |
+| 001002008001014 | Scrolls | Secondary association from superscription and inscription contexts such as "the book of the vision" and "write the vision" (Nah 1:1; Hab 2:2). |
 
 ## LXX Mapping
 
@@ -144,5 +161,5 @@ Vision as something to be recorded, awaited, or established.
 - [WG-vision.md](WG-vision.md) — word group: prophetic vision
 
 ---
-*Generated from: search_strongs.py, kjv.txt, lxx-map*
-*Last updated: 2026-03-31*
+*Generated from: search_strongs.py, kjv.txt, lxx-map, search_relationships.py*
+*Last updated: 2026-04-27*

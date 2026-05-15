@@ -71,6 +71,14 @@ The fallen angels abandoned their own oikētḗrion — the proper sphere or sta
 - **G3619 οἰκοδομή** — building, edification (18x)
 - **G2732 κατοικητήριον** — dwelling place (kata- compound; 2x)
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G3613.*
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for G3613.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -79,10 +87,21 @@ The fallen angels abandoned their own oikētḗrion — the proper sphere or sta
 | οἶκος (oîkos) | G3624 | both = "house" in some contexts | G3624 is a concrete, general dwelling or household; G3613 stresses proper/assigned habitation, often supernatural |
 | οἰκία (oikía) | G3614 | both = "house" | G3614 is the physical/concrete residence; G3613 is more abstract — the dwelling as one's fitting abode |
 
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 085 | Existence in Space | `search_relationships.py` places *oikētḗrion* in the spatial-existence field, fitting both the heavenly dwelling of 2 Cor 5:2 and the angelic sphere/estate abandoned in Jude 6. |
+
 ## Hebrew Source
 
 No LXX bridge found. G3613 has no significant Hebrew OT equivalent — the concept of the glorified body as a "heavenly habitation" is distinctively Pauline NT theology.
 
+## See Also
+
+- [G746-arche.md](G746-arche.md) — "first estate" / principality language paired with Jude 1:6
+- [G2217-zophos.md](G2217-zophos.md) — gloom/darkness imagery from Jude's angelic-fall context
+
 ---
-*Generated from: gather_word_data.py, greek_parser.py, kjv.txt, louw_nida.db*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, kjv.txt, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

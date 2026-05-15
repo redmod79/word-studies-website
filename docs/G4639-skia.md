@@ -19,14 +19,17 @@ Thayer's: *shade* caused by the interception of light (literal), or *shadow* in 
 
 (b) Typological shadow: an outline or adumbration of the reality — contrasted with σῶμα (the body/substance itself) in Col 2:17, and with εἰκών (the express likeness/image itself) in Heb 10:1.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Domain 014.007** — Darkness (physical sense: shadow as absence/interception of light)
-- **Domain 058.010** — Archetype, Corresponding Type [Antitype] (typological sense: shadow as precursor/representation)
+**Louw-Nida:**
+- **014.007** — Darkness (physical sense: shadow as absence/interception of light)
+- **058.010** — Archetype, Corresponding Type [Antitype] (typological sense: shadow as precursor/representation)
+- **Other words in 014.007:** ἀποσκίασμα (G644), ἐπισκιάζω (G1982), κατασκιάζω (G2683), ζόφος (G2217), σκοτία (G4653), σκότος (G4655), νύξ (G3571)
+- **Other words in 058.010:** ἀντίτυπος (G499), τύπος (G5179), εἰκών (G1504), σῶμα (G4983), παραβολή (G3850)
 
-Other words in Domain 014.007: ἀποσκίασμα (G644), ἐπισκιάζω (G1982), κατασκιάζω (G2683), ζόφος (G2217), σκοτία (G4653), σκότος (G4655), νύξ (G3571)
-
-Other words in Domain 058.010: ἀντίτυπος (G499), τύπος (G5179), εἰκών (G1504), σῶμα (G4983), παραβολή (G3850)
+**UBS Semantic Domains:**
+- **[014]** Physical Events and States
+- **[058]** Nature, Class, Example
 
 ## Translation Distribution (KJV)
 
@@ -89,6 +92,15 @@ The Law, festivals, and tabernacle worship are a shadow cast by the coming subst
 - **κατασκιάζω (G2683)** — to cover with shadow (cherubim overshadowing the mercy seat, Heb 9:5)
 - **ἀποσκίασμα (G644)** — shadow, variation (James 1:17 — "no shadow of turning" with God)
 
+### Synonyms
+- **G4655 σκότος (skotos)** — darkness; the closest broader NT darkness term in the same semantic field
+
+### Antonyms
+- **G1504 εἰκών (eikōn)** — image; Heb 10:1 contrasts shadow with the image itself
+- **G4983 σῶμα (sōma)** — body/substance; Col 2:17 contrasts shadow with the body/reality
+- **G4407 πρωϊνός (prōinos)** — morning; physical-light counterpart returned by `search_relationships.py`
+- **G5462 φωτισμός (phōtismos)** — illumination; explicit light/illumination opposite
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -119,10 +131,16 @@ The "shadow of death" phrase (σκιά θανάτου) is the LXX rendering of t
 
 ## See Also
 
+- [G1504-eikon.md](G1504-eikon.md) — image/substance contrast in Heb 10:1
+- [G228-alethinos.md](G228-alethinos.md) — true/substantial reality contrasted with shadow-copy language
+- [G2217-zophos.md](G2217-zophos.md) — deep gloom / darkness neighbor
+- [G2288-thanatos.md](G2288-thanatos.md) — death; paired in the stock phrase "shadow of death"
+- [G4653-skotia.md](G4653-skotia.md) — Johannine darkness term in the same field
+- [G4655-skotos.md](G4655-skotos.md) — broader NT darkness term
 - [TR-tsel-skia.md](TR-tsel-skia.md) — cross-testament trace: צֵל / צַלְמָוֶת → σκιά
 - [WG-shadow.md](WG-shadow.md) — shadow/type/antitype/image typological word group
 - [WG-tabernacle.md](WG-tabernacle.md) — word group covering tabernacle/sanctuary theology; includes σκιά in the typological shadow cluster
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py --lexicon, KJV text*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, search_strongs.py --lexicon, KJV text, search_relationships.py*
+*Last updated: 2026-04-28*

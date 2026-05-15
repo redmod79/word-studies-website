@@ -11,9 +11,9 @@ The sealing concept spans both Testaments, involving a cluster of cognate and se
 | G4973 | σφραγίς | sphragis | noun | 16 (NT) | The instrument — seal, signet | [G4973-sphragis](G4973-sphragis.md) |
 | G2696 | κατασφραγίζω | katasphragizō | verb | 1 (NT) | Intensive — to seal up completely | [G2696-katasphragizo](G2696-katasphragizo.md) |
 | H2856 | חָתַם | chatham | verb | 23 (OT) | Hebrew equivalent — to close up, seal | [H2856-chatham](H2856-chatham.md) |
-| H2368 | חוֹתָם | chowtham | noun | 3 (OT) | Hebrew instrument — seal ring, signet | TODO(need H2368 study) |
+| H2368 | חוֹתָם | chowtham | noun | 13 (OT) | Hebrew instrument — seal ring, signet | [H2368-chowtham](H2368-chowtham.md) |
 | H5640 | סָתַם | satham | verb | 14 (OT) | Paired sealing verb — to stop up, shut up, block access | [H5640-catham](H5640-catham.md) |
-| H2857 | חֲתַם | chatham (Aram.) | verb | 1 (OT) | Aramaic equivalent — to seal | TODO(need H2857 study) |
+| H2857 | חֲתַם | chatham (Aram.) | verb | 1 (OT) | Aramaic equivalent — to seal | [A2857-chatham](A2857-chatham.md) |
 
 ## Relationships
 

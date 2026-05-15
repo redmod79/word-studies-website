@@ -16,12 +16,19 @@
 From G1832 (in the sense of ability); privilege, i.e. (subjectively) force, capacity, competency,
 freedom, or (objectively) mastery; also delegated influence, potentate, token of control.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
+**Louw-Nida:**
 - **Primary Domain:** 37 — Control, Rule (subdomains: 37.1 Control/Restrain; 37.3 Exercise Authority)
 - **Secondary Domain:** 12 — Supernatural Beings and Powers (subdomain: 12.2 Supernatural Powers)
 - **Also in Domain:** 76 — Power, Force
 - **Key domain neighbors:** ἀρχή G746, ἄρχων G758, δύναμις G1411, θρόνος G2362
+
+**UBS Semantic Domains:**
+- **[037]** Control, Rule
+- **[076]** Power, Force
+- **[012]** Supernatural Beings and Powers
+- **[030]** Think
 
 ## Translation Distribution (KJV)
 
@@ -122,6 +129,13 @@ Exousia granted to the beast and eschatological powers; also promised to overcom
 - **G1850 ἐξουσιάζω** (exousiazō) — denominal verb: to exercise authority over (1 Cor 6:12; 7:4)
 - **G2715 κατεξουσιάζω** (katexousiazō) — intensified: to lord it over, dominate (Mat 20:25; Mark 10:42)
 
+### Synonyms
+- **G1411 δύναμις (dynamis)** — power, might; nearest overlap when ἐξουσία is rendered "power," though δύναμις stresses force more than delegated right
+
+### Antonyms
+
+No direct antonyms identified from `search_relationships.py`. For ἐξουσία, the opposite is usually contextual (lack of authority, subjection, restraint) rather than a single lexical counterpart.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -154,11 +168,15 @@ No dominant Hebrew equivalent (all co-occurrences < 20); cross-testament trace n
 ## See Also
 
 - [WG-power](WG-power.md) — word group: exousia, dynamis, kratos, ischys, arche, archon
+- [G1411-dynamis.md](G1411-dynamis.md) — power, might; paired with and distinguished from exousia
+- [G746-arche.md](G746-arche.md) — principality, rule; frequent cosmic-hierarchy partner
+- [G2342-therion.md](G2342-therion.md) — beast authority in Revelation
+- [G1404-drakon.md](G1404-drakon.md) — dragon granting authority in Revelation
 - [WG-ruler](WG-ruler.md) — Hebrew leadership word group (nagiyd, sar, and related titles)
 - [WG-throne](WG-throne.md) — throne and sovereignty concepts
 - [G2362-thronos](G2362-thronos.md) — throne (frequent domain neighbor)
 - [A4437-malkuw](A4437-malkuw.md) — Aramaic kingdom/dominion (primary Aramaic source)
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, gather_word_group_data.py*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, search_strongs.py, gather_word_group_data.py, search_relationships.py*
+*Last updated: 2026-04-27*

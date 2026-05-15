@@ -114,6 +114,14 @@ Heavily concentrated in Wisdom literature: Proverbs alone holds 43% of all occur
 - **H1844 דֵּעָה (de'ah)** — feminine noun: knowledge (6 verses; 1Sa 2:3; Isa 11:9)
 - **H4093 מַדָּע (madda')** — masculine noun: knowledge, science, intelligence (6 verses; 2Ch 1:10-12)
 
+### Synonyms
+
+No synonym entries were returned by `search_relationships.py` for H1847.
+
+### Antonyms
+
+No antonym entries were returned by `search_relationships.py` for H1847.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -123,6 +131,14 @@ Heavily concentrated in Wisdom literature: Proverbs alone holds 43% of all occur
 | מַדָּע (madda') | H4093 | "knowledge" | madda' emphasizes intelligence/consciousness; used only 6x, mostly in 2 Chronicles |
 | חׇכְמָה (chokmah) | H2451 | Context overlap | chokmah = wisdom (skill in living); da'ath = knowledge (perception, discernment) — frequently paired but distinct |
 | בִּינָה (biynah) | H998 | Context overlap | biynah = understanding (ability to distinguish); da'ath = knowledge (content grasped) |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002004002007] Know** — `search_relationships.py` places *da'ath* in the knowing field alongside **H183 אוה**, **H184 אוה**, **H226 אֹות**, **H262 אַחֲוָה**, **H264 אַחֲוָה**, and **H502 אלף**.
+- **[002001001001] Able** — the relationship tool also surfaces this adjacent capacity field, alongside **A412 אֵל**, **H410 אֵל**, **H411 אֵל**, **H415 אֵל**, **H416 אֵל**, and **H2790 חרשׁ**.
+- **[002003002022] Serve** — `search_relationships.py` additionally returns a service/agency field with neighbors such as **A1946 הלך**, **A1981 הלך**, **H1980 הלך**, **H3212 הלך**, **H2388 חזק**, and **H3027 יָד**.
+- **[002001002029] Wise** — the tool also maps *da'ath* into the wisdom field, with **H270 אחז**, **H833 אשׁר**, **H935 בוא**, **H995 בין**, **H2146 זִכָּרֹון**, and **H2205 זָקֵן** among the listed neighbors.
 
 ## LXX Mapping
 
@@ -142,5 +158,5 @@ The LXX translators rendered da'ath primarily as gnosis (direct cognition) but a
 - [WG-knowledge.md](WG-knowledge.md) — word group: knowledge/wisdom/understanding cluster
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py (--lexicon, --lookup, --lxx-map)*
-*Last updated: 2026-04-11*
+*Generated from: gather_word_data.py, search_strongs.py (--lexicon, --lookup, --lxx-map), search_relationships.py*
+*Last updated: 2026-04-27*

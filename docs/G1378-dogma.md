@@ -15,13 +15,16 @@
 
 From the base of δοκέω (G1380); a law (civil, ceremonial, or ecclesiastical) — a decree, ordinance. Refers to a formal rule, regulation, or authoritative decision issued by a governing body or authority.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Domain 33:** Communication
-- **Subdomain 33.032:** Command, Order
-- **Subdomain 33.033:** Law, Regulation, Ordinance
-- **Other words in 33.033:** δικαίωμα (dikaiōma), νόμος (nomos), νομοθέτης (nomothētēs), κανών (kanōn)
-- **Other words in 33.032:** διαταγή (diatagē), διάταγμα (diatagma), ἐντολή (entolē), ἐπιταγή (epitagē)
+**Louw-Nida:**
+- **33.032** — Command, Order
+- **33.033** — Law, Regulation, Ordinance
+
+δόγμα sits in the communication / regulation field, covering both the issuing of an authoritative order and the resulting ordinance or decree.
+
+**UBS Semantic Domains:**
+- **[033]** Communication
 
 ## Translation Distribution (KJV)
 
@@ -73,6 +76,14 @@ Concentrated in Luke-Acts (3 of 5) and Pauline epistles (2 of 5). Absent from th
 - **G1380 δοκέω (dokeō)** — to think, seem, suppose (root verb; a dogma is what "seems good" to an authority)
 - **G1379 δογματίζω (dogmatizō)** — to decree, prescribe by statute; reflexively, to submit to ordinances (1 occurrence: Col 2:20)
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G1378.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G1378.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -97,11 +108,16 @@ The Hebrew source is predominantly Aramaic legal/administrative terms from Danie
 
 ## See Also
 
-- [G5498-cheirographon](G5498-cheirographon.md) — χειρόγραφον; "the handwriting of ordinances" — appears in the same verse (Col 2:14); the document whose content is δόγματα
+- [G1345-dikaioma](G1345-dikaioma.md) — ordinance / righteous requirement; the closest NT legal parallel
+- [G3551-nomos](G3551-nomos.md) — law; the broader framework within which a dogma functions
+- [G1785-entole](G1785-entole.md) — commandment; overlaps in the command / regulation field
+- [G1772-ennomos](G1772-ennomos.md) — lawful / under law; related legal vocabulary
+- [G2673-katargeo](G2673-katargeo.md) — abolish / render inoperative; governs dogma in Eph 2:15
+- [G5498-cheirographon](G5498-cheirographon.md) — χειρόγραφον; "the handwriting of ordinances" in Col 2:14
 - [G1379-dogmatizo](G1379-dogmatizo.md) — δογματίζω; verb cognate; "subject to ordinances" (Col 2:20)
-- [A1882-dath](A1882-dath.md) — דָּת (Aramaic); primary Aramaic source word rendered dogma in LXX; royal decree/law in Daniel and Ezra
+- [A1882-dath](A1882-dath.md) — דָּת (Aramaic); major LXX source field for royal decree / law
 - [WG-law](WG-law.md) — broader law/commandment word group
 
 ---
-*Generated from: search_strongs.py (--lexicon, --lookup, --verses, --hebrew-source), louw_nida.db*
-*Last updated: 2026-03-31*
+*Generated from: search_strongs.py (--lexicon, --lookup, --verses, --hebrew-source), louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

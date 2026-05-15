@@ -16,17 +16,23 @@
 
 A signet (as fencing in or protecting from misappropriation); by implication, the stamp impressed as a mark of genuineness or the thing that fastens or secures. Used both literally (a signet ring or its impression) and figuratively (a confirming mark, token of authentication, divine ownership, or protection).
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
+
+**Louw-Nida:**
 
 σφραγίς appears in multiple Louw-Nida domains, reflecting its function as both a physical instrument and authenticating sign:
 
-- **006.010** — Artifacts: Instruments Used in Marking and Writing *(primary physical object)*
-- **033.056** — Communication: Non-Verbal Communication *(seal as non-verbal sign)*
-- **073** — Genuine, Phony *(seal as authentication device)*
-- **006** — Artifacts *(general artifact classification)*
-- **033.005** — Written Language *(seal in documentary context)*
+- **Domain 006.010:** Artifacts: Instruments Used in Marking and Writing *(primary physical object)*
+- **Domain 033.056:** Communication: Non-Verbal Communication *(seal as non-verbal sign)*
+- **Domain 073:** Genuine, Phony *(seal as authentication device)*
+- **Domain 006:** Artifacts *(general artifact classification)*
+- **Domain 033.005:** Written Language *(seal in documentary context)*
+- **Other words in 006.010:** κατασφραγίζω (G2696), βιβλίον (G975), κάλαμος (G2563), μέλας (G3189)
 
-Other words in 006.010: κατασφραγίζω (G2696), βιβλίον (G975), κάλαμος (G2563), μέλας (G3189)
+**UBS Semantic Domains:**
+- **[006]** Artifacts
+- **[033]** Communication
+- **[073]** Genuine, Phony
 
 ## Translation Distribution (KJV)
 
@@ -97,6 +103,14 @@ A seal held by an angel from the east, marking God's servants as protected from 
 - **G4972 σφραγίζω (sphragizō)** — the corresponding verb: to seal, stamp with a signet (25 NT occurrences)
 - **G2696 κατασφραγίζω (katasphragizō)** — intensive compound: to seal up completely (1x — Rev 5:1 only)
 
+### Synonyms
+
+No direct synonyms were returned by `search_relationships.py` for G4973.
+
+### Antonyms
+
+No direct antonyms were returned by `search_relationships.py` for G4973.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -116,9 +130,22 @@ High PMI scores reflect LXX Exodus contexts (Exod 28:11, 21, 36; 39:6, 14, 30) w
 
 ## See Also
 
-- [WG-sealing.md](WG-sealing.md) — sealing word group: σφραγίς, σφραγίζω, κατασφραγίζω, H2856, H2368
 - [G4972-sphragizo.md](G4972-sphragizo.md) — cognate verb study
+- [G2696-katasphragizo.md](G2696-katasphragizo.md) — intensive compound used of the fully sealed scroll
+- [G5480-charagma.md](G5480-charagma.md) — mark/imprint language adjacent to seal imagery
+- [G455-anoigo.md](G455-anoigo.md) — opening the sealed book
+- [G3359-metopon.md](G3359-metopon.md) — forehead marking in sealing scenes
+- [G2563-kalamos.md](G2563-kalamos.md) — writing/document instrument in the same artifact domain
+- [G975-biblion.md](G975-biblion.md) — the scroll sealed with seven seals
+- [G974-bibliaridion.md](G974-bibliaridion.md) — the little scroll in Revelation's document imagery
+- [G2226-zoon.md](G2226-zoon.md) — living creatures involved in the seal-opening sequences
+- [G4969-sphazo.md](G4969-sphazo.md) — the slain Lamb who opens the seals
+- [G4602-sige.md](G4602-sige.md) — silence at the opening of the seventh seal
+- [H2856-chatham.md](H2856-chatham.md) — Hebrew sealing root
+- [WG-sealing.md](WG-sealing.md) — sealing word group: σφραγίς, σφραγίζω, κατασφραγίζω, H2856, H2368
+- [WG-opened.md](WG-opened.md) — open/sealed contrast cluster
+- [WG-mark.md](WG-mark.md) — mark, seal, forehead-sign cluster
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-28*

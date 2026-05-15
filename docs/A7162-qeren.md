@@ -68,12 +68,22 @@ In the night visions, the horns of the fourth beast represent successive kingdom
 ### Word Family / Cognates
 - **H7161 קֶרֶן (qeren)** — Hebrew cognate: identical form, Hebrew register; 69 verses spanning Pentateuch through Prophets; covers literal animal horns, altar corners, flasks, and the power/strength metaphor
 
+### Synonyms
+No synonyms returned by `search_relationships.py` for this Aramaic lemma.
+
+### Antonyms
+No antonyms returned by `search_relationships.py` for this Aramaic lemma.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
 |------|----------|------------------------|----------------|
 | קֶרֶן (qeren) — Hebrew | H7161 | horn / horns | Same word, different language register; H7161 is the broader Hebrew base (69v), H7162 is its Aramaic equivalent confined to Daniel |
 | שׁוֹפָר (shôwphâr) | H7782 | cornet | Both rendered "cornet" in KJV; shophar is the liturgical ram's-horn trumpet used at Sinai and Jubilee; qeren in Dan 3 is a court instrument serving political/idolatrous signaling |
+
+## Semantic Domains
+
+No semantic-domain data returned by `search_relationships.py` for this Aramaic lemma.
 
 ## LXX Mapping
 
@@ -88,8 +98,8 @@ The high PMI of G4858 and others reflects the narrow Dan 3 context (all ten vers
 ## See Also
 
 - [TR-qeren-keras.md](TR-qeren-keras.md) — cross-testament trace: Hebrew/Aramaic qeren → LXX κέρας → NT usage in Luke 1:69 and Revelation
-- [H7161-qeren.md](H7161-qeren.md) — Hebrew counterpart (TODO: study not yet written)
+- [H7161-qeren.md](H7161-qeren.md) — Hebrew counterpart
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py (--lookup, --lxx-map)*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, search_strongs.py (--lookup, --lxx-map), search_relationships.py*
+*Last updated: 2026-04-27*

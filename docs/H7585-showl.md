@@ -120,6 +120,19 @@ Root is uncertain. Proposed etymology from:
 
 No clear cognate family.
 
+### Synonyms
+
+- **H10 אֲבַדֹּון (ʼăvaddôwn)** — Abaddon / destruction; close wisdom-text parallel to sheol.
+- **בֹּור (bôr)** — pit; tool-returned underworld / descent parallel.
+- **H2822 חֹשֶׁךְ (chôshek)** — darkness; the gloom associated with the realm of the dead.
+- **H4194 מָוֶת (mâveth)** — death; sheol's most frequent poetic partner.
+- **H7845 שַׁחַת (shaḥath)** — pit / corruption; another grave-pit parallel.
+
+### Antonyms
+
+- **H2416 חַיִּים (ḥayyîm)** — life; the direct opposite of the realm of the dead.
+- **H8064 שָׁמַיִם (shâmayim)** — heaven; the vertical opposite to sheol's downward region.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -128,6 +141,12 @@ No clear cognate family.
 | בּוֹר (bôr) | H953 | both "pit" | bôr = physical cistern or pit; sheol = underworld realm, used figuratively |
 | γέεννα (géenna) | G1067 | both "hell" | géenna = Valley of Hinnom, place of final fiery judgment; sheol = realm of dead (no fire imagery) |
 | ᾅδης (háidēs) | G86 | both "hell / grave" | háidēs is the LXX/NT equivalent — semantically closest; direct heir |
+
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|-------------|-------|
+| 001003 | Regions Under the Earth | Captures sheol as the subterranean realm of the dead, alongside tool-returned neighbors like Abaddon and the pit. |
 
 ## LXX Mapping
 
@@ -147,7 +166,10 @@ The H7585 → G86 bridge is exceptionally strong (co-occ 58, PMI 33.87). See cro
 - [TR-maveth-thanatos.md](TR-maveth-thanatos.md) — cross-testament trace for māvet (primary parallel word)
 - [TR-nephesh-psyche.md](TR-nephesh-psyche.md) — cross-testament trace for nephesh (key collocation)
 - [TR-chay-zoe.md](TR-chay-zoe.md) — cross-testament trace for chay / zōē (key collocation)
+- [G1067-geenna.md](G1067-geenna.md) — final-judgment "Gehenna," contrasted with sheol / hades
+- [G2288-thanatos.md](G2288-thanatos.md) — death, the dominant Greek parallel partner in the death field
+- [H7592-shaal.md](H7592-shaal.md) — root proposal often discussed alongside sheol's "asking / demanding" etymology
 
 ---
-*Generated from: gather_word_data.py, gather_trace_data.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, gather_trace_data.py, search_relationships.py*
+*Last updated: 2026-04-27*

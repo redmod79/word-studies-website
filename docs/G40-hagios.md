@@ -15,12 +15,20 @@
 
 From ἅγος hágos (an awful thing); sacred (physically pure, morally blameless or religious, ceremonially consecrated) — (most) holy (one, thing), saint.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Primary Domain:** 088003 — Holy, Pure
-- **Parent Domain:** 088 — Moral and Ethical Qualities and Related Behavior
+**Louw-Nida:**
+- **088.003** — Holy, Pure
+- **053.006** — Dedicate, Consecrate
+- **011.002** — Socio-Religious grouping ("saints")
+- **007.002 / 007.003** — Sacred buildings and holy places
 - **Glosses:** holy, pure, divine
-- **Other domains:** 053006 (Dedicate, Consecrate), 011002 (Socio-Religious), 007002 (Buildings), 007003 (Parts and Areas of Buildings), 053 (Religious Activities)
+
+**UBS Semantic Domains:**
+- **[088]** Moral and Ethical Qualities and Related Behavior
+- **[053]** Religious Activities
+- **[011]** Groups and Classes of Persons and Members of Such Groups and Classes
+- **[007]** Constructions
 
 ## Domain Neighbors (088003 — Holy, Pure)
 
@@ -151,6 +159,14 @@ Qualifying revered persons, writings, or divine agreements.
 - **G47 ἁγνεία (hagneia)** — purity (2x) — related root
 - **G53 ἁγνός (hagnos)** — pure, chaste (8x) — related root
 
+### Synonyms
+- **G53 ἁγνός (hagnos)** — pure, chaste; emphasizes moral purity
+- **G3741 ὅσιος (hosios)** — holy, devout; emphasizes piety or covenant faithfulness
+- **G2413 ἱερός (hieros)** — sacred; emphasizes ritual or temple-related holiness
+
+### Antonyms
+- **G953 βεβηλόω (bebeloo)** — to profane, desecrate; the cultic opposite of treating something as holy
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -175,6 +191,7 @@ The qodesh/hagios bridge is dominant: 346 LXX co-occurrences. The qadash (q-d-sh
 
 ## See Also
 
+- [H6944-qodesh.md](H6944-qodesh.md) — Hebrew holiness noun most frequently aligned with hagios in the LXX
 - [TR-qodesh-hagios.md](TR-qodesh-hagios.md) — cross-testament trace: qodesh → hagios
 - [TR-qadash-hagiazo.md](TR-qadash-hagiazo.md) — cross-testament trace: qadash → hagiazō (the verb form)
 - [WG-holiness.md](WG-holiness.md) — word group: holiness concept cluster
@@ -185,5 +202,5 @@ The qodesh/hagios bridge is dominant: 346 LXX co-occurrences. The qadash (q-d-sh
 - [TR-heykal-naos.md](TR-heykal-naos.md) — cross-testament trace: temple terms
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db*
-*Last updated: 2026-04-09*
+*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

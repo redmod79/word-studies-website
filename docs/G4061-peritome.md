@@ -24,6 +24,13 @@ Outline of Biblical Usage: The covenant sign commanded in Genesis 17; the physic
 - **Key domain neighbor:** βαπτίζω (G907, baptize) — in Colossians 2:11–12, baptism explicitly succeeds circumcision as the initiation rite
 - **Cognate in domain:** περιτέμνω (G4059, to circumcise) — the verb counterpart
 
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 053 | Religious Activities | `search_relationships.py` places *peritomē* in the covenant-rite field as a consecrating religious act. |
+| 011 | Groups and Classes of Persons and Members of Such Groups and Classes | Covers the articular collective use, "the circumcision," as a social-religious group label. |
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -106,6 +113,14 @@ Paul redefines circumcision as inward heart-transformation, then declares it irr
 - **G4059 περιτέμνω (peritemnō)** — "to cut around, circumcise" (the root verb; 17 NT occurrences)
 - **G1986 ἐπισπάομαι (epispaomai)** — "to become uncircumcised" (reverse the rite; 1 Cor 7:18; hapax)
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G4061.*
+
+### Antonyms
+
+- **G564 ἀπερίτμητος (aperitmetos)** — uncircumcised; alpha-privative opposite and the clearest lexical contrast returned by `search_relationships.py`
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -122,7 +137,8 @@ No LXX bridge found by tools — περιτομή is a NT coinage not attested a
 - [WG-circumcision.md](WG-circumcision.md) — word group: circumcision cluster (G4061, G4059, G203)
 - [G1484-ethnos.md](G1484-ethnos.md) — ἔθνος (nations/Gentiles) — the contrasting ethnic category
 - [G3551-nomos.md](G3551-nomos.md) — νόμος (law) — tied to circumcision in Galatians and Romans arguments
+- [G3742-hosiotes.md](G3742-hosiotes.md) — holiness/piety; referenced in related covenant-boundary discussion
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py --lexicon, louw_nida.db*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py --lexicon, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

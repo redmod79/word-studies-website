@@ -15,11 +15,14 @@
 
 **Thayer:** to fix one's tabernacle, have one's tabernacle, abide (or live) in a tabernacle (or tent), tabernacle (often in Xenophon, Demosthenes). Of God — σκηνώσει ἐπ' αὐτούς: will spread his tabernacle over them, so that they may dwell in safety and security under its cover and protection (Rev 7:15). Universally equivalent to "to dwell": followed by ἐν with dative of place (Rev 12:12; 13:6); ἐν ἡμῖν, among us (John 1:14); μετά τίνος, with one (Rev 21:3). Compare: ἐπισκηνόω, κατασκηνόω.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Domain:** 085 — Existence in Space
-- **Subdomain:** 085.005 — Dwell, Reside
+**Louw-Nida:**
+- **085.005** — Dwell, Reside (Domain 085: Existence in Space)
 - **Other words in domain:** ἀστατέω (G790), ἐγκατοικέω (G1460), ἐμπεριπατέω (G1704), ἐνοικέω (G1774), κατοικέω (G2730), ἐπισκηνόω (G1981)
+
+**UBS Semantic Domains:**
+- **[085]** Existence in Space
 
 ## Translation Distribution (KJV)
 
@@ -84,6 +87,14 @@ Tense contrast is exegetically significant: the Incarnation uses aorist (complet
 - **G4636 σκῆνος (skēnos)** — tent = the mortal body (2x; 2 Cor 5:1, 4)
 - **G1981 ἐπισκηνόω (episkēnoō)** — to rest/overshadow upon; intensified form (1x; 2 Cor 12:9)
 
+### Synonyms
+
+*No synonyms were returned by `search_relationships.py` for G4637.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G4637.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -107,10 +118,12 @@ No LXX alignment data available for G4637 (this verb does not appear in the LXX 
 
 ## See Also
 
+- [G4633-skene.md](G4633-skene.md) — parent noun: tent/tabernacle
 - [H7931-shakan.md](H7931-shakan.md) — Hebrew OT source: שָׁכַן (shākan), the dwelling-presence verb
 - [TR-shakan-kataskenoo.md](TR-shakan-kataskenoo.md) — cross-testament trace: shākan → κατασκηνόω
+- [TR-cukkah-skene.md](TR-cukkah-skene.md) — booth/tabernacle trace intersecting the same vocabulary field
 - [WG-tabernacle.md](WG-tabernacle.md) — tabernacle/tent-dwelling word group (σκηνή family)
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, kjv.txt*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, search_strongs.py, kjv.txt, search_relationships.py*
+*Last updated: 2026-04-28*

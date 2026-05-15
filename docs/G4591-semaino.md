@@ -22,6 +22,12 @@ From σῆμα (sēma), a mark; to indicate, signify. The core sense is communic
 - **Glosses:** to indicate clearly, to make clear
 - **Other words in subdomain:** ἀνατίθημι (G394, explain), δείκνυμι (G1166a, show/demonstrate), δηλόω (G1213, make known/reveal), διασαφέω (G1285, make clear/explain), διερμηνεύω (G1329, translate/interpret)
 
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 033 | Communication | `search_relationships.py` keeps *sēmaínō* in the broad communication field, reinforcing that the verb concerns making meaning known by signals rather than performing the sign itself. |
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -99,6 +105,14 @@ The dominant collocation with "death" (50%) and "about to" (50%) underscores the
 - **G1978 ἐπίσημος (episēmos)** — notable, of note (2x: Matt 27:16; Rom 16:7). Having a mark upon, distinguished.
 - **G4953 σύσσημον (syssēmon)** — a sign agreed upon, token (1x: Mark 14:44). A shared or prearranged sign.
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G4591.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G4591.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -130,8 +144,11 @@ No single Hebrew word dominates as a primary equivalent (all co-occurrence count
 
 ## See Also
 
-No existing TR-, WG-, or EN- files currently reference G4591.
+- [G4592-semeion.md](G4592-semeion.md) — cognate noun: the sign itself
+- [G2288-thanatos.md](G2288-thanatos.md) — death; the dominant Johannine collocation ("signifying what death")
+- [H7782-showphar.md](H7782-showphar.md) — trumpet-signaling background surfaced in the LXX bridge
+- [H8643-truwah.md](H8643-truwah.md) — alarm/shout/trumpet-blast background surfaced in the LXX bridge
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-05*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -109,6 +109,14 @@ Neutral administrative sense: the political territory governed; found in Ezra an
 - **H4430 מֶלֶךְ (melek)** — king (Aramaic noun; the direct Aramaic collocate)
 - **H4438 מַלְכוּת (malkûwth)** — kingdom/royal (Hebrew cognate; 82 verses, 12 books)
 
+### Synonyms
+
+No synonyms were returned by `search_relationships.py` for this Aramaic noun.
+
+### Antonyms
+
+No antonyms were returned by `search_relationships.py` for this Aramaic noun.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -128,6 +136,12 @@ Neutral administrative sense: the political territory governed; found in Ezra an
 
 *The G932 bridge (41 co-occurrences) is exceptionally strong — Daniel's Aramaic malkûw is the direct antecedent of NT βασιλεία τοῦ θεοῦ ("kingdom of God") vocabulary.*
 
+## Semantic Domains
+
+- **[002003002007] Control** — the Aramaic noun is grouped in an authority/rule field.
+- **[001002001] Land** — the term also participates in the territorial-realm field, fitting the "kingdom/realm" sense in Ezra and Daniel.
+- **[002001001] Attribute** — `search_relationships.py` also places *malkûw* alongside royal-status terms such as **H4410 מְלוּכָה**, **H4438 מַלְכוּת**, and **H4467 מַמְלָכָה**.
+
 ## See Also
 
 - [TR-malkuwth-basileia.md](TR-malkuwth-basileia.md) — cross-testament trace: Hebrew/Aramaic kingdom → Greek βασιλεία
@@ -135,5 +149,5 @@ Neutral administrative sense: the political territory governed; found in Ezra an
 - [WG-kingdom.md](WG-kingdom.md) — word group: all "kingdom" vocabulary
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -17,10 +17,14 @@ From θλίβω (G2346); *pressure* (literally or figuratively):—afflicted(-ti
 
 The core image is **pressing or squeezing** — the noun denotes an external force bearing down on a person. It is used exclusively in figurative, experiential senses in the NT.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Domain:** 022.001 — Trouble, Hardship, Distress
-- **Other words in domain:** ἀνάγκη (G318), βάρος (G922), κόπος (G2873), στενοχωρία (G4730), πληγή (G4127), οὐαί (G3759)
+**Louw-Nida:**
+- **022.001** — Trouble, Hardship, Distress
+- Other words in domain: ἀνάγκη (G318), βάρος (G922), κόπος (G2873), στενοχωρία (G4730), πληγή (G4127), οὐαί (G3759)
+
+**UBS Semantic Domains:**
+- **[022]** Trouble, Hardship, Relief, Favorable Circumstances
 
 ## Translation Distribution (KJV)
 
@@ -110,6 +114,21 @@ Tribulation that God sends as judgment on the disobedient; a form of righteous r
 ### Word Family / Cognates
 - **G2346 θλίβω (thlibō)** — root verb: to press, squeeze, oppress (10 occurrences; e.g., 2 Cor 1:6 "we are troubled on every side")
 
+### Synonyms
+
+- **G1375 διωγμός (diogmos)** — persecution
+- **G318 ἀνάγκη (ananke)** — distress, necessity
+- **G4730 στενοχωρία (stenochoria)** — distress, anguish
+- **G5604 ὠδίν (odin)** — travail, acute distress
+- **G150 αἰσχρός (aischros)** — shameful, base
+- **G2873 κόπος (kopos)** — toil, trouble
+- **G3709 ὀργή (orge)** — wrath
+- **G4432 πτωχεία (ptocheia)** — poverty
+
+### Antonyms
+
+No direct antonyms were identified by `search_relationships.py` for θλῖψις.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -119,7 +138,7 @@ Tribulation that God sends as judgment on the disobedient; a form of righteous r
 | κόπος (kopos) | G2873 | "trouble" | kopos = wearisome toil, labor, exhaustion from effort; thlipsis = external oppression/affliction |
 | στενοχωρία (stenochōria) | G4730 | "distress, anguish" | stenochōria = confinement in a narrow space (related metaphor); appears alongside thlipsis in Rom 2:9 and 8:35 as an intensifying pair |
 
-## Domain Neighbors (Louw-Nida 022.001)
+### Domain Neighbors (Louw-Nida 022.001)
 
 | Strong's | Word | Transliteration | Primary KJV | Key Difference |
 |----------|------|-----------------|-------------|----------------|
@@ -140,8 +159,11 @@ Tribulation that God sends as judgment on the disobedient; a form of righteous r
 | צוֹק (tsok) | H6695 | 3 | 7.47 | a strait, figuratively distress |
 
 ## See Also
+- [G1515-eirene.md](G1515-eirene.md) — peace as the recurring experiential contrast to tribulation
+- [G5281-hupomone.md](G5281-hupomone.md) — endurance / patience produced through tribulation
+- [G5479-chara.md](G5479-chara.md) — joy coexisting with affliction
 - [WG-patience.md](WG-patience.md) — word group: patience/endurance cluster; thlipsis is the "context" member that occasions ὑπομονή
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, search_relationships.py*
+*Last updated: 2026-04-27*

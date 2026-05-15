@@ -18,12 +18,16 @@ From G2014; a manifestation, i.e. (specially) the advent of Christ (past or futu
 
 The word denotes a visible, luminous appearing — an irruption of divine presence into the visible realm. In the wider Greek world ἐπιφάνεια was used for the dramatic appearance of a god or the arrival of a king/emperor in public splendor.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
+**Louw-Nida:**
 - **Domain:** 024.001 — Sensory Events and States: See
 - **Glosses:** appearance, appearing
 
 The visual/luminous nuance is primary: the word belongs to the "seeing/appearing" domain, not merely the "coming/arrival" domain. This distinguishes it from παρουσία (presence/arrival, G3952), which emphasizes official royal presence.
+
+**UBS Semantic Domains:**
+- **[024]** Sensory Events and States
 
 ## Translation Distribution (KJV)
 
@@ -81,6 +85,14 @@ The only "brightness" rendering — the devastating, annihilating splendor of Ch
 - **G2017 ἐπιφαύω** — variant verb form: to illuminate figuratively (1x: Eph 5:14 — "Christ shall give thee light")
 - **G5316 φαίνω** — base root verb: to shine, to appear, to become visible (31 occurrences)
 
+### Synonyms
+
+No direct synonyms identified from `search_relationships.py` beyond the broader appearing/manifestation vocabulary already handled in the related-word discussion below.
+
+### Antonyms
+
+No direct antonyms identified from `search_relationships.py` for ἐπιφάνεια.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -95,9 +107,11 @@ No dominant Hebrew source found via LXX mapping. ἐπιφάνεια is not used
 ## See Also
 
 - [G3952-parousia.md](G3952-parousia.md) — παρουσία: the companion NT term for Christ's coming/arrival; used alongside ἐπιφάνεια in 2Th 2:8
+- [G602-apokalypsis.md](G602-apokalypsis.md) — unveiling, revelation; adjacent appearing vocabulary
+- [H7200-raah.md](H7200-raah.md) — Hebrew verb "see/appear"; OT visual background to manifestation language
 - [WG-appearing.md](WG-appearing.md) — word group: appearing/manifestation vocabulary (ἐπιφάνεια, ἐπιφαίνω, παρουσία, φανερόω)
 - [WG-came.md](WG-came.md) — word group: NT coming/arrival vocabulary including παρουσία
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_strongs.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

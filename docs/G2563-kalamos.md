@@ -23,6 +23,11 @@ Of uncertain affinity; a reed (the plant or its stem, or that of a similar plant
 - **Other words in 3.3:** ἄκανθα (G173), ἄμπελος (G288), βάτος (G942), ζιζάνιον (G2215), κρίνον (G2918)
 - **Other words in 6.22:** ζυγός (G2218)
 
+## UBS Semantic Domains
+
+- **[003]** Plants
+- **[006]** Artifacts
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -94,6 +99,12 @@ The dative instrumental uses cluster in the Passion (struck *with* a reed, spong
 ### Word Family / Cognates
 - **G2562 καλάμη (kalame)** — stubble (the stalk after harvest); related but distinct — kalame is the cut remains, kalamos is the living plant or its intact stem
 
+### Synonyms
+No direct lexical synonyms were confirmed for G2563. `search_relationships.py` returned broad domain-adjacent neighbors, but the nearest genuine related term remains **G2562 καλάμη (kalamē)**, already listed under Word Family / Cognates.
+
+### Antonyms
+- No direct antonyms were identified by `search_relationships.py` for G2563.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -120,6 +131,15 @@ The dative instrumental uses cluster in the Passion (struck *with* a reed, spong
 
 The dominant Hebrew source is H7070 qaneh, which maps strongly to kalamos through the LXX. The secondary sources (madad "to measure," middah "measurement") appear because kalamos inherits the measuring-reed context from Ezekiel 40-42 where qaneh is used as the standard of measurement.
 
+## See Also
+
+- [G3354-metreo.md](G3354-metreo.md) — measure
+- [G3690-oxos.md](G3690-oxos.md) — vinegar (sponge-on-a-reed Passion context)
+- [G4973-sphragis.md](G4973-sphragis.md) — seal / signet
+- [G2696-katasphragizo.md](G2696-katasphragizo.md) — seal up
+- [G974-bibliaridion.md](G974-bibliaridion.md) — little book / scroll
+- [G975-biblion.md](G975-biblion.md) — book / scroll
+
 ---
-*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db*
-*Last updated: 2026-04-05*
+*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -21,6 +21,13 @@ Graciousness (as gratifying), of manner or act (abstract or concrete; literal, f
 - **Domain 088009:** Kindness, Harshness — other words in subdomain include: ἐνευλογέω (G1757), εὐλογέω (G2127), εὐλογία (G2129), φιλανθρωπία (G5363), **χαριτόω (G5487)**, χρηστεύομαι (G5541)
 - **Also in:** 025008 (Acceptable To), 033036 (Thanks), 057008 (Give)
 
+## UBS Semantic Domains
+
+- **[088] Moral and Ethical Qualities and Related Behavior** — primary UBS placement for grace as beneficent favor or gracious quality.
+- **[057] Possess, Transfer, Exchange** — reflects grace as gift, grant, or benefaction bestowed.
+- **[033] Communication** — accounts for thanksgiving and greeting-formula uses.
+- **[025] Attitudes and Emotions** — covers grace's overlap with joy, gratitude, and glad response.
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -125,6 +132,15 @@ Virtually every NT letter closes with charis upon the recipients.
 - **G5486 χάρισμα (charisma)** — a grace-gift, especially a spiritual gift (1 Cor 12)
 - **G5487 χαριτόω (charitoo)** — to bestow grace upon, make highly favored (Luke 1:28; Eph 1:6)
 
+### Synonyms
+
+`search_relationships.py` did not return a clean synonym set for G5485 beyond the χαρ-/χαριτ- family already listed above. The clearest additional neighbor it surfaced was:
+- **G2746 καύχησις (kauchēsis)** — boasting / rejoicing; adjacent where grace overflows into thankful exultation rather than functioning as a direct equivalent.
+
+### Antonyms
+
+*No stable antonym set was returned by `search_relationships.py` for G5485 suitable for canonical listing.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -158,8 +174,17 @@ Virtually every NT letter closes with charis upon the recipients.
 
 - [TR-hen-charis.md](TR-hen-charis.md) — cross-testament trace: ḥēn → χάρις
 - [WG-grace.md](WG-grace.md) — word group: grace, joy, forgiveness, peace, faith
+- [WG-joy.md](WG-joy.md) — joy word group; χάρις and χαρά remain etymologically and conceptually linked
+- [G1515-eirene.md](G1515-eirene.md) — peace; the standard epistolary pair with grace
+- [G1344-dikaioo.md](G1344-dikaioo.md) — justify; grace in justification texts
+- [G2316-theos.md](G2316-theos.md) — God; primary source phrase "grace of God"
+- [G5547-christos.md](G5547-christos.md) — Christ; "grace of our Lord Jesus Christ" formula
+- [H7522-ratsown.md](H7522-ratsown.md) — favor / delight; secondary Hebrew LXX background term
+- [G1391-doxa.md](G1391-doxa.md) — glory; doxological pairing with grace
+- [G5218-hupakoe.md](G5218-hupakoe.md) — obedience; grace leading to obedient response
+- [G1325-didomi.md](G1325-didomi.md) — give; grace as something bestowed or granted
 - [G4102-pistis.md](G4102-pistis.md) — frequent co-word: faith
 
 ---
-*Generated from: gather_word_data.py, gather_trace_data.py, gather_word_group_data.py, search_strongs.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, gather_trace_data.py, gather_word_group_data.py, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-28*

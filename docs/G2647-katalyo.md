@@ -30,6 +30,15 @@ Domain neighbors (020.003 — Destroy):
 Domain neighbors (034.008 — Show Hospitality):
 ξενίζω (G3579), ξενοδοχέω (G3580), φιλοξενία (G5381), ξένος (G3581)
 
+## UBS Semantic Domains
+
+- **[020] Violence, Harm, Destroy, Kill**
+- **[013] Be, Become, Exist, Happen**
+- **[076] Power, Force**
+- **[034] Association**
+
+*UBS captures both major NT senses of καταλύω: demolishing/nullifying and lodging/association.*
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -117,6 +126,13 @@ The οἰκοδομέω pairing (destroy ↔ build) is the dominant structural p
 - **G3089 λύω (lyō)** — to loose, release; root of katalyō
 - **G2646 κατάλυμα (katalyma)** — lodging place, inn (from same compound); Luke 2:7; 22:11; Mark 14:14
 
+### Synonyms
+No direct curated synonyms returned by `search_relationships.py`.
+
+### Antonyms
+- **οἰκοδομεῖν** — verbal opposite in the recurring destroy/build pairings
+- **G179 ἀκατάλυτος (akatálytos)** — alpha-privative opposite: indissoluble, not to be dissolved
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -139,7 +155,14 @@ The strongest LXX link is H3885 (lodge/stay overnight), explaining Luke 9:12 and
 
 - [WG-abolish.md](WG-abolish.md) — word group including katalyō
 - [WG-temple.md](WG-temple.md) — word group including katalyō
+- [G3485-naos.md](G3485-naos.md) — ναός (naos)
+- [H7673-shabath.md](H7673-shabath.md) — שָׁבַת (shâbath)
+- [G2041-ergon.md](G2041-ergon.md) — ἔργον (érgon)
+- [G2673-katargeo.md](G2673-katargeo.md) — καταργέω (katargéō)
+- [H7931-shakan.md](H7931-shakan.md) — שָׁכַן (shākan)
+- [G622-apollymi.md](G622-apollymi.md) — ἀπόλλυμι (apóllymi)
+- [G2507-kathaireo.md](G2507-kathaireo.md) — καθαιρέω (kathairéō)
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py --lexicon, greek_parser.py*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, search_strongs.py --lexicon, greek_parser.py, search_relationships.py*
+*Last updated: 2026-04-27*

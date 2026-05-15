@@ -16,13 +16,18 @@
 
 A live thing, i.e., a living creature or animal. Neuter derivative of ζάω (zaō, to live). In NT contexts, used both of ordinary animals and of the four supernatural living beings surrounding God's throne in Revelation.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
+**Louw-Nida:**
 - **Domain 004:** Animals
 - **Domain 012:** Supernatural Beings and Powers
   - **Subdomain 012.001:** Supernatural Beings
 
 The dual domain placement reflects ζῶον's range: literal animals (Heb, 2 Pet, Jude) and the celestial throne-attendants of Revelation.
+
+**UBS Semantic Domains:**
+- **[004]** Animals
+- **[012]** Supernatural Beings and Powers
 
 ## Translation Distribution (KJV)
 
@@ -88,6 +93,14 @@ Used to describe the animal nature of those who act without reason or spiritual 
 - **G2222 ζωή (zōē)** — life, living existence (136 occurrences)
 - **G2221 ζωγρέω (zōgreō)** — take alive, capture living
 
+### Synonyms
+- **θηρίον (G2342)** — overlapping creature vocabulary returned by `search_relationships.py`; closest at the level of shared KJV "beast/beasts" usage.
+- **τετράπους (G5074)** — narrower animal vocabulary ("four-footed") returned by `search_relationships.py`.
+
+### Antonyms
+- **τελευτή (G5054)** — contrastive death-related term returned by `search_relationships.py`.
+- **ᾅδης (G86)** — contrastive death-realm term returned by `search_relationships.py`.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -111,8 +124,14 @@ The Revelation ζῶα are John's NT development of Ezekiel's חַיּוֹת (Ez
 
 ## See Also
 
+- [G2342-therion.md](G2342-therion.md) — contrasting "beast" vocabulary in Revelation
+- [G4245-presbyteros.md](G4245-presbyteros.md) — elders paired with the living creatures around the throne
+- [G2222-zoe.md](G2222-zoe.md) — life vocabulary from the same root family
+- [G4973-sphragis.md](G4973-sphragis.md) — seal scenes announced by the living creatures
+- [G721-arnion.md](G721-arnion.md) — Lamb scenes shared with the four living creatures
+- [G2462-hippos.md](G2462-hippos.md) — horse / rider scenes introduced by the creatures
 - [WG-beast.md](WG-beast.md) — word group: beast, living creature, wild animal
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, kjv.txt*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, search_strongs.py, kjv.txt, search_relationships.py*
+*Last updated: 2026-04-27*

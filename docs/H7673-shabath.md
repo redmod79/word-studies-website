@@ -139,6 +139,14 @@ Two occurrences in Daniel use the Hiphil in eschatological/prophetic passages.
 - **H7676 שַׁבָּת (shabbâth)** — noun: "the Sabbath; intermission" (primary derived noun; the weekly Sabbath institution)
 - **H7677 שַׁבָּתוֹן (shabbâthôwn)** — noun: "rest, a sabbath observance" (intensive/extended form)
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for H7673.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for H7673.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -147,6 +155,13 @@ Two occurrences in Daniel use the Hiphil in eschatological/prophetic passages.
 | נוּחַ (nûwach) | H5117 | both: "rest" | nûwach = settle down, find a resting place; shabath = desist from activity/exertion |
 | דָּמָה (dâmâh) | H1820 | both: "cease" | dâmâh = be silent, be still (cessation of sound/noise); shabath = cessation of action/labor |
 | שֶׁבֶת (shebeth) | H7674 | both: "cease" | shebeth is the abstract noun form of H7673; not a competing verb |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002003003010] End** — the core cessation/completion field: *shâbath* marks an action or process coming to an end.
+- **[002003003012] Non-Engage** — the Sabbath/rest nuance: refraining from labor, activity, or participation.
+- **[002002002006] Non-Exist** — a secondary causative field that fits Hiphil uses where something is made to cease or disappear.
 
 ## LXX Mapping
 
@@ -164,9 +179,13 @@ Two occurrences in Daniel use the Hiphil in eschatological/prophetic passages.
 
 - [TR-shabbath-sabbaton.md](TR-shabbath-sabbaton.md) — cross-testament trace: noun shabbath → sábbaton (G4521)
 - [WG-weeks.md](WG-weeks.md) — word group: weeks, sabbaths, calendar
-- [H7676-shabbath](H7676-shabbath.md) — canonical noun study: the Sabbath institution
+- [H7676-shabbath.md](H7676-shabbath.md) — canonical noun study: the Sabbath institution
+- [H7677-shabbathown.md](H7677-shabbathown.md) — intensified Sabbath-rest noun built on the same root
 - [WG-sabbath.md](WG-sabbath.md) — word group: Sabbath theology cluster
+- [G4521-sabbaton.md](G4521-sabbaton.md) — Greek Sabbath noun descended from the same Hebrew rest-time family
+- [G4520-sabbatismos.md](G4520-sabbatismos.md) — NT "Sabbath-rest" concept built from the same cessation/rest vocabulary
+- [G2647-katalyo.md](G2647-katalyo.md) — Greek cessation/dissolution verb overlapping the Hiphil "cause to cease" sense
 
 ---
-*Generated from: gather_word_data.py, BHSA/Text-Fabric morphological data (ETCBC/bhsa)*  
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, BHSA/Text-Fabric morphological data (ETCBC/bhsa), search_relationships.py*  
+*Last updated: 2026-04-27*

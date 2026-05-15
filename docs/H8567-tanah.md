@@ -82,6 +82,14 @@ Pattern: the verb consistently appears with (a) a communal plural subject, (b) a
 - **H8566 תָּנָה (tânâh I)** — homograph root meaning "to hire" (as in Hos 8:9–10). Strong's treats these as formally identical but semantically distinct.
 - **H866 אֶתְנָה (ʼethnâh)** / **H868 אֶתְנַן (ʼethnan)** — "hire, wages," derived from H8566, not H8567.
 
+### Synonyms
+
+*No synonyms returned by `search_relationships.py` for H8567.*
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for H8567.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Semantic Field | Key Difference |
@@ -94,6 +102,12 @@ Pattern: the verb consistently appears with (a) a communal plural subject, (b) a
 ### KJV Translation Overlap
 - "rehearse" is also used for H1696 (dabar, Ex 17:14), H5608 (saphar, 1 Sam 17:31), H8085 Hiph. (shama, 1 Sam 8:21).
 - "lament" is also used for H5594 (saphad), H6969 (qun), H5091 (nahah), H421 (alah).
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002004001009006] Sing** — the relationship tool groups *tânâh* with voiced recital/singing language, which fits the communal, spoken commemoration in Judges 5:11 and 11:40.
+- **[002003002014] Hire** — this second domain appears because H8567 is formally identical to H8566 "to hire"; it belongs to the homograph cluster noted above, not to the memorial-recital sense treated in this study.
 
 ## LXX Mapping
 
@@ -111,5 +125,5 @@ The LXX translators, like the KJV, split the two tonal registers. No single Gree
 - [WG-judgment.md](WG-judgment.md) — word group (overlaps via H6666 tsᵉdâqâh "righteous acts," the object of rehearsal in Jdg 5:11)
 
 ---
-*Generated from: gather_word_data.py, hebrew_parser.py, search_strongs.py, kjv.txt*
-*Last updated: 2026-04-16*
+*Generated from: gather_word_data.py, hebrew_parser.py, search_strongs.py, kjv.txt, search_relationships.py*
+*Last updated: 2026-04-27*

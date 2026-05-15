@@ -15,11 +15,14 @@
 
 Of uncertain affinity; a deity, especially (with the article) the supreme Deity; God. Used both for the God of the Bible and (rarely) for pagan deities.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Domain:** 012 — Supernatural Beings and Powers
-- **Subdomain:** 012.001 — Supernatural Beings
-- **Other words in domain:** ἀββά (G5), ἄγγελος (G32), ἄθεος (G112), αἰών (G165), ἀρχάγγελος (G743), δαιμόνιον (G1140), διάβολος (G1228), εἴδωλον (G1497)
+**Louw-Nida:**
+- **012.001** — Supernatural Beings
+- Other words in domain: ἀββά (G5), ἄγγελος (G32), ἄθεος (G112), αἰών (G165), ἀρχάγγελος (G743), δαιμόνιον (G1140), διάβολος (G1228), εἴδωλον (G1497)
+
+**UBS Semantic Domains:**
+- **[012]** Supernatural Beings and Powers
 
 ## Translation Distribution (KJV)
 
@@ -137,7 +140,17 @@ Applied to non-divine beings worshipped by Gentiles; the plural "gods" or in 2 C
 | χάρις (cháris) | G5485 | 69x (6%) | "grace of God"; epistolary greetings |
 | λόγος (lógos) | G3056 | 70x (6%) | "word of God" |
 
-## Easily Confused Words
+## Related Words
+
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G2316.*
+
+### Antonyms
+
+- **G112 ἄθεος (atheos)** — "without God"; the alpha-privative form and clearest lexical antonym surfaced by `search_relationships.py`
+
+### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
 |------|----------|--------------------|----------------|
@@ -147,7 +160,7 @@ Applied to non-divine beings worshipped by Gentiles; the plural "gods" or in 2 C
 | אֱלָהּ (ʼĕlāhh) | H426 | "God" | Aramaic equivalent; used in Daniel and Ezra sections written in Aramaic |
 | κύριος (kúrios) | G2962 | "Lord" / "God" | kúrios = Lord, master, owner; used in LXX for YHWH; closely linked with θεός but distinct in referent |
 
-## Domain Neighbors (Louw-Nida 012.001)
+### Domain Neighbors (Louw-Nida 012.001)
 
 | Strong's | Lemma | Total Vv | Primary KJV Translation | Key Difference |
 |----------|-------|----------|------------------------|----------------|
@@ -174,7 +187,17 @@ The LXX consistently uses θεός to render H430 (ʼĕlōhîm), the common Hebr
 - [WG-god.md](WG-god.md) — word group: God / divine beings cluster (theós, Christós, kúrios, huiós, patēr, pneuma, basileía)
 - [WG-law.md](WG-law.md) — word group including G2316
 - [WG-temple.md](WG-temple.md) — word group including G2316
+- [G1515-eirene.md](G1515-eirene.md) — peace from God / "God of peace" formulas
+- [G1096-ginomai.md](G1096-ginomai.md) — theological becoming / occurrence statements involving God
+- [G1484-ethnos.md](G1484-ethnos.md) — nations in relation to God
+- [G2372-thumos.md](G2372-thumos.md) — fury / wrath language tied to God
+- [G2379-thysiastērion.md](G2379-thysiastērion.md) — altar language in relation to God
+- [G3485-naos.md](G3485-naos.md) — temple language centered on God
+- [G3529-nike.md](G3529-nike.md) — victory language grounded in God
+- [G3709-orge.md](G3709-orge.md) — wrath of God
+- [G4151-pneuma.md](G4151-pneuma.md) — Spirit of God / God's Spirit
+- [G4633-skene.md](G4633-skene.md) — tabernacle / dwelling language in relation to God
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py --lexicon, search_strongs.py --hebrew-source*
-*Date: 2026-04-02*
+*Generated from: gather_word_data.py, search_strongs.py --lexicon, search_strongs.py --hebrew-source, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -22,6 +22,12 @@ From an apparently primary στέφω (stephō, to twine or wreathe); a chaplet 
 - **Subdomain:** 006018 — Adornments
 - **Other words in subdomain:** διάδημα (G1238), στέμμα (G4725), κόσμος (G2889), κράσπεδον (G2899), φυλακτήριον (G5440), χρυσίον (G5553)
 
+### UBS Semantic Domains
+
+- **[006] Artifacts**
+- **[057] Possess, Transfer, Exchange**
+- **[042] Perform, Do**
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -108,6 +114,16 @@ Revelation deploys stephanos across multiple symbolic figures — elders, the co
 - **G4737 στεφανόω (stephanoō)** — to crown, to wreathe; the verbal form of stephanos (used in 2 Tim 2:5; Heb 2:7, 9)
 - **G4725 στέμμα (stemma)** — a wreath (used only in Acts 14:13 for garlands on sacrificial animals)
 
+### Synonyms
+- **G1391 δόξα** — glory / honor; the crown as a visible sign of bestowed honor
+- **G5552 χρυσοῦς** — golden; linked by the repeated "golden crown(s)" imagery in Revelation
+- **G2007 ἐπιτίθημι** — to place upon; the action verb repeatedly associated with crowning scenes
+- **G2746 καύχησις** — boasting / rejoicing; honor-reward vocabulary adjacent to the crown image
+- **G438 ἄνθος** — flower; perishable-wreath imagery and fading-beauty associations
+
+### Antonyms
+- **G877 ἀφροσύνη** — foolishness; the lone contrastive term returned by `search_relationships.py`, opposing the honor/wisdom side of the crown motif
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -131,7 +147,10 @@ Primary LXX source is H5850 atarah — a crown of honor, beauty, or royal dignit
 ## See Also
 
 - [G1238-diadema.md](G1238-diadema.md) — royal diadem; confused with στέφανος via shared KJV translation "crown"
+- [G3022-leukos.md](G3022-leukos.md) — white / bright imagery frequently paired with crowns in Revelation
+- [G2962-kyrios.md](G2962-kyrios.md) — the Lord as the giver of the crown in reward texts
+- [G2776-kephale.md](G2776-kephale.md) — head study: the crown's repeated point of placement
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, kjv.txt*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, search_strongs.py, kjv.txt, search_relationships.py*
+*Last updated: 2026-04-28*

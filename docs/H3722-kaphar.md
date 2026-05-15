@@ -123,6 +123,14 @@ The collocations reveal a tightly structured ritual pattern: the **priest** (koh
 - **H3725 כִּפֻּר (kippur)** — masculine noun (only plural כִּפֻּרִים kippurim): expiation, atonement (8x); as in Yom Kippurim "Day of Atonement"
 - **H3727 כַּפֹּרֶת (kapporeth)** — feminine noun: mercy seat, atonement cover on the Ark (27x)
 
+### Synonyms
+- **H4229 מָחָה (machah)** — `search_relationships.py` returns *machah* as a near-neighbor in the wipe-away / remove field, fitting texts where guilt is blotted out.
+- **H3249 סוּר (sur)** — the same tool links *kaphar* with removal/turning-away vocabulary, especially where wrath or guilt is averted.
+
+### Antonyms
+
+No antonyms were returned by `search_relationships.py` for H3722.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -134,6 +142,15 @@ The collocations reveal a tightly structured ritual pattern: the **priest** (koh
 
 ### LXX Overlap
 Both kaphar and salach map to G2433 ἱλάσκομαι (hilaskomai) "propitiate" in the LXX (salach 6x, kaphar 4x), showing the LXX translators saw overlap in their atoning/forgiving functions.
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002003001005] Cover** — `search_relationships.py` places *kaphar* in the core covering field, with neighbors such as **H270 אחז**, **H331 אטם**, **H332 אטר**, **H642 אֲפֻדָּה**, **H925 בָּהִיר**, and **H1716 דגר**.
+- **[002001001012] Clean** — the tool also groups *kaphar* with purification vocabulary such as **H1252/H1253 בֹּר**, **H1305 ברר**, **H1740 דוח**, **H2212 זקק**, and **H2219 זרה**.
+- **[002003003015] Innocent** — a related field of cleared/blameless status, with neighbors such as **H935 בוא**, **H1252/H1253 בֹּר**, **H1305 ברר**, and **H1460 גֵּו**.
+- **[002002003004] Non-Happen** — a cancellation/averting field including **H3711 כפה**, **H3782 כשׁל**, **H4513 מנע**, **H5186 נטה**, and **H5737 עדר**.
+- **[002002003002] Non-Endure** — another removal/end field, with neighbors such as **H4131 מוט**, **H6996 קָטֹן**, **H7114 קצר**, **H7116 קָצֵר**, and **H7138 קָרֹוב**.
 
 ## LXX Mapping
 
@@ -150,5 +167,5 @@ The LXX does not use a single Greek equivalent for kaphar, reflecting the word's
 - [WG-atonement.md](WG-atonement.md) — word group: atonement concept cluster
 
 ---
-*Generated from: search_strongs.py, hebrew_parser.py, lxx-map*
-*Last updated: 2026-03-31*
+*Generated from: search_strongs.py, hebrew_parser.py, lxx-map, search_relationships.py*
+*Last updated: 2026-04-27*

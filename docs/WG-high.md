@@ -10,7 +10,7 @@ The Hebrew vocabulary of height and exaltation spans six principal words, rangin
 |----------|------|-----------------|-----|-------------|-----------------|---------------|
 | H7311 | רוּם | rûwm | verb | 184 | Primary verb: to be high, raise, exalt | [H7311-ruwm.md](H7311-ruwm.md) |
 | H5375 | נָשָׂא | nâsâʼ | verb | 607 | To lift and carry; overlaps in "lifting up" contexts | [H5375-nasa.md](H5375-nasa.md) |
-| H1361 | גָּבַהּ | gâbahh | verb | 33 | To soar, be lofty; often connotes pride | TODO(need H1361 study) |
+| H1361 | גָּבַהּ | gâbahh | verb | 33 | To soar, be lofty; often connotes pride | [H1361-gabahh.md](H1361-gabahh.md) |
 | H7682 | שָׂגַב | sâgab | verb | 20 | Inaccessibly high; used of God as secure refuge | TODO(need H7682 study) |
 | H5945 | עֶלְיוֹן | ʻelyôwn | adj/noun | 53 | Most High — divine title; superlative of elevation | TODO(need H5945 study) |
 | H4791 | מָרוֹם | mârôwm | noun | 52 | Height, high place, lofty abode | TODO(need H4791 study) |

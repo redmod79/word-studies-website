@@ -21,6 +21,11 @@ From a presumed compound of μέσος (G3319) and οὐρανός (G3772); mid-
 - **Glosses:** high in the sky; midpoint in the sky; directly overhead
 - **Other words in domain:** ἀήρ (G109, air), οὐρανός (G3772, heaven/sky), ἐπουράνιος (G2032, heavenly), οὐράνιος (G3770, heavenly), οὐρανόθεν (G3771, from heaven), παράδεισος (G3857, paradise), ὑψηλός (G5308, high), ὕψιστος (G5310, most high)
 
+## UBS Semantic Domains
+
+- **[001]** Geographical Objects and Features
+- Representative UBS neighbors include ἀήρ (G109) and ἐπουράνιος (G2032), placing μεσουράνημα in the sky/overhead-location field.
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -73,6 +78,14 @@ The consistent pattern is: a being at the zenith + loud voice + universal audien
 - **G3319 μέσος (mesos)** — middle, midst, among (58 verses) — the spatial root
 - **G3772 οὐρανός (ouranos)** — heaven, sky (241 verses) — the domain root
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G3321.*
+
+### Antonyms
+
+*No direct antonyms were returned by `search_relationships.py` for G3321.*
+
 ### Domain Neighbors (Louw-Nida 1.5: Regions Above the Earth)
 
 | Word | Strong's | Total Verses | Primary KJV Translation | Key Difference |
@@ -96,8 +109,9 @@ No Hebrew source via LXX. This word does not appear in the Septuagint. It is a d
 ## See Also
 
 - [G2098-euangelion.md](G2098-euangelion.md) — "gospel" (co-occurs in Rev 14:6)
-- [G3772-ouranos.md](G3772-ouranos.md) — "heaven" (cognate root, if study exists)
+- [G2032-epouranios.md](G2032-epouranios.md) — "heavenly" (same sky/heaven semantic field; referenced from related word studies)
+- G3772 οὐρανός (ouranos) — cognate root; no standalone study file yet
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-13*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -16,11 +16,16 @@
 
 Of uncertain affinity; a witness (literally judicially, or figuratively genially); by analogy, a martyr: — martyr, record, witness.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
+**Louw-Nida:**
 - **Domain 33.263** — Witness, Testify (Communication)
   - *Other words in domain:* ἀμάρτυρος (G267), μαρτυρέω (G3140), μαρτυρία (G3141), μαρτύριον (G3142), συμμαρτυρέω (G4828), ψευδομαρτυρέω (G5576)
 - **Domain 20.87** — Die, Kill (secondary — the "martyr" sense)
+
+**UBS Semantic Domains:**
+- **[033]** Communication
+- **[020]** Violence, Harm, Destroy, Kill
 
 ## Translation Distribution (KJV)
 
@@ -125,6 +130,13 @@ Heb 12:1 applies the word to OT saints whose faithful lives stand as an encourag
 - **G5576 ψευδομαρτυρέω** (pseudomartyréō) — to bear false witness (6 verses)
 - **G267 ἀμάρτυρος** (amártyros) — without witness (Acts 14:17, hapax)
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G3144.*
+
+### Antonyms
+- **G267 ἀμάρτυρος (amártyros)** — without witness; alpha-privative opposite
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -147,10 +159,16 @@ The overwhelmingly dominant Hebrew source is H5707 עֵד (co-occ 38, PMI 30.47)
 
 ## See Also
 
+- [G4103-pistos.md](G4103-pistos.md) — related faithful-witness study
+- [G3142-martyrion.md](G3142-martyrion.md) — related testimony-object study
+- [G3140-martyreo.md](G3140-martyreo.md) — cognate verb study
+- [H5715-eduwth.md](H5715-eduwth.md) — Hebrew testimony counterpart
 - [TR-ed-martys.md](TR-ed-martys.md) — cross-testament trace: H5707 עֵד → G3144 μάρτυς
+- [TR-aman-pistos.md](TR-aman-pistos.md) — cross-testament trace
+- [TR-eduwth-martyrion.md](TR-eduwth-martyrion.md) — related testimony trace
 - [WG-testimony.md](WG-testimony.md) — word group: the μαρτυρ- family (G3140, G3141, G3142, G3144, G5576)
 - [G3141-martyria.md](G3141-martyria.md) — canonical study of μαρτυρία (testimony)
 
 ---
-*Generated from: gather_word_data.py, gather_trace_data.py, search_strongs.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, gather_trace_data.py, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

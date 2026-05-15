@@ -34,11 +34,20 @@ The passive voice dominates (~30 of 39 forms) — the sinner is acted upon; God 
 
 [Tallied from greek_parser.py --lemma δικαιόω]
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Primary Domain:** 056.005 — Courts and Legal Procedures: Judge, Condemn, Acquit
-- **Secondary Domain:** 088.002 — Moral and Ethical Qualities: Just, Righteous
-- **Domain neighbors (056.005):** δικαίωμα (G1345, righteous act/ordinance), δικαίωσις (G1347, justification), δικαστής (G1348, judge), καταδικάζω (G2613, condemn), δικαιοκρισία (G1341, righteous judgment)
+**Louw-Nida:**
+- **056.005** — Courts and Legal Procedures: Judge, Condemn, Acquit
+- **088.002** — Moral and Ethical Qualities: Just, Righteous
+
+Domain neighbors (056.005): δικαίωμα (G1345, righteous act/ordinance), δικαίωσις (G1347, justification), δικαστής (G1348, judge), καταδικάζω (G2613, condemn), δικαιοκρισία (G1341, righteous judgment)
+
+**UBS Semantic Domains:**
+- **[056]** Courts and Legal Procedures
+- **[088]** Moral and Ethical Qualities and Related Behavior
+- **[034]** Association
+- **[037]** Control, Rule
+- **[036]** Guide, Discipline, Follow
 
 ## Translation Distribution (KJV)
 
@@ -127,6 +136,17 @@ Always used negatively — attempting to appear right before others rather than 
 - **G0094 ἄδικος (ádikos)** — unrighteous (negative prefix)
 - **G0093 ἀδικία (adikía)** — unrighteousness
 
+### Synonyms
+
+`search_relationships.py` did not return a tight non-cognate synonym set for G1344 beyond the δικ- family. The closest semantic neighbors it surfaced were:
+- **G1348 δικαστής (dikastēs)** — judge; same forensic field, but names the declaring agent rather than the verdict
+- **G2511 καθαρίζω (katharizō)** — cleanse; overlaps where acquittal is expressed in purity imagery
+- **G2513 καθαρός (katharos)** — clean, pure; adjectival purity term adjacent to acquittal/vindication language
+
+### Antonyms
+- **G264 ἁμαρτάνω (hamartanō)** — to sin; verb-level moral opposite to being declared righteous
+- **G764 ἀσεβέω (asebeō)** — to act ungodly; opposite action in judgment/condemnation contexts
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -147,6 +167,13 @@ The primary LXX bridge is H6663 tsadaq → G1344 dikaióō. See trace file.
 
 ## See Also
 
+- [G1342-dikaios.md](G1342-dikaios.md) — just/righteous; the adjective behind the verb
+- [G1343-dikaiosyne.md](G1343-dikaiosyne.md) — righteousness; the corresponding abstract noun
+- [G1345-dikaioma.md](G1345-dikaioma.md) — righteous act/decree; closely related forensic noun
+- [H6663-tsadaq.md](H6663-tsadaq.md) — primary Hebrew verbal source behind dikaioō
+- [H8199-shaphat.md](H8199-shaphat.md) — judicial Hebrew verb that sometimes overlaps in vindication contexts
+- [G3083-lytron.md](G3083-lytron.md) — ransom; redemption language frequently paired with justification
+- [G3084-lytroo.md](G3084-lytroo.md) — redeem; related liberation vocabulary in salvation contexts
 - [TR-tsadaq-dikaioo.md](TR-tsadaq-dikaioo.md) — cross-testament trace: tsadaq → dikaióō
 - [WG-righteousness.md](WG-righteousness.md) — word group: righteousness / justification cluster
 - [WG-hebrew-righteousness.md](WG-hebrew-righteousness.md) — Hebrew righteousness word group (tsadaq family)
@@ -154,5 +181,5 @@ The primary LXX bridge is H6663 tsadaq → G1344 dikaióō. See trace file.
 - [WG-law.md](WG-law.md) — law word group (nomos — frequent collocation)
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

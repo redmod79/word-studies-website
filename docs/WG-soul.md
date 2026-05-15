@@ -11,7 +11,7 @@ The soul/life concept in the NT involves three Greek words for "life" — ψυχ
 | G2222 | ζωή | zōē | noun | 134 | Vital principle — eternal/spiritual life | [G2222-zoe](G2222-zoe.md) |
 | G979 | βίος | bios | noun | 11 | Livelihood — possessions, manner of life | TODO(need G979 study) |
 | G2588 | καρδία | kardia | noun | 160 | Overlap — heart as seat of inner life | TODO(need G2588 study) |
-| G622 | ἀπόλλυμι | apollymi | verb | 92 | Key verb — lose/destroy soul/life | TODO(need G622 study) |
+| G622 | ἀπόλλυμι | apollymi | verb | 92 | Key verb — lose/destroy soul/life | [G622-apollymi.md](G622-apollymi.md) |
 | G5591 | ψυχικός | psychikos | adj | 6 | Derivative — natural, sensual (vs. spiritual) | TODO(need G5591 study) |
 
 ## Relationships

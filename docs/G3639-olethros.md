@@ -74,6 +74,14 @@ Catastrophic ruin linked to covetousness and sinful desire — ὄλεθρος a
 - **G622 ἀπόλλυμι (apollymi)** — verb: to destroy, to perish; the semantic parent; olethros is the resulting noun state
 - **G1842 ἐξολεθρεύω (exolethreúō)** — compound verb: to utterly destroy (1x NT); shares the ὄλεθρος root
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G3639.*
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for G3639.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -91,6 +99,12 @@ Catastrophic ruin linked to covetousness and sinful desire — ὄλεθρος a
 | G2049 | ἐρημόω | 4 | desolate, brought to desolation | Laying waste (physical space); olethros = punitive ruin of persons |
 | G355 | ἀναλίσκω | 3 | consume | Consuming/using up; olethros = catastrophic punitive destruction |
 
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 020 | Violence, Harm, Destroy, Kill | `search_relationships.py` keeps *olethros* in the destructive-harm field, which matches its punitive, catastrophic sense in both disciplinary and eschatological contexts. |
+
 ## Hebrew Source (via LXX, ranked by PMI)
 
 | Hebrew | Strong's | Transliteration | PMI Score | Definition |
@@ -103,8 +117,13 @@ The high-PMI Hebrew sources indicate olethros in LXX contexts renders words for 
 
 ## See Also
 
+- [G622-apollymi.md](G622-apollymi.md) — apóllymi: destroy / perish; the main verbal counterpart
+- [G684-apoleia.md](G684-apoleia.md) — apōleia: destruction / perdition; closest NT noun parallel
+- [G1842-exolethreuo.md](G1842-exolethreuo.md) — exolothreúō: utterly destroy; cognate compound
+- [G2050-eremosis.md](G2050-eremosis.md) — erēmōsis: desolation; neighboring destruction vocabulary
+- [G166-aionios.md](G166-aionios.md) — aionios: eternal / everlasting; linked to 2 Thess 1:9
 - [WG-death.md](WG-death.md) — word group covering the NT death cluster (thanatos, zoe, hades, hamartia, anastasis)
 
 ---
-*Generated from: gather_word_data.py, louw_nida.db, strongs_translations.db*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, louw_nida.db, strongs_translations.db, search_relationships.py*
+*Last updated: 2026-04-27*

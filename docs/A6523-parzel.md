@@ -89,11 +89,21 @@ In Daniel's vision of the four beasts, the fourth beast has iron teeth — a par
 ### Word Family / Cognates
 - **H1270 בַּרְזֶל (barzel)** — Hebrew counterpart: iron; used throughout the non-Aramaic OT (appears in 49 unique verses); same meaning, different language register. Common in descriptions of weapons, tools, and constraints.
 
+### Synonyms
+No synonyms returned by `search_relationships.py` for this Aramaic lemma.
+
+### Antonyms
+No antonyms returned by `search_relationships.py` for this Aramaic lemma.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
 |------|----------|--------------------|----------------|
 | בַּרְזֶל (barzel) | H1270 | both = "iron" | barzel is Hebrew (used outside Daniel); parzel is Aramaic (Daniel only); functionally synonymous — one is the Aramaic loanword form of the other |
+
+## Semantic Domains
+
+No semantic-domain data returned by `search_relationships.py` for this Aramaic lemma.
 
 ## LXX Mapping
 
@@ -114,5 +124,5 @@ The NT continues the iron symbolism of Daniel via the LXX: Rev 2:27 and 19:15 us
 - [A4437-malkuw.md](A4437-malkuw.md) — malkûw "kingdom" — thematic collocation
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

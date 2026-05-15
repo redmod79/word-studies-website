@@ -15,12 +15,16 @@
 
 From ἀπό (G575) and καλύπτω (G2572); to take off the cover, i.e. disclose — reveal. The literal sense is "to uncover, unveil" — removing something that conceals so the hidden thing becomes visible or known. Exclusively translated "reveal/revealed" in the KJV.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
+**Louw-Nida:**
 - **Domain:** 28 — Know
 - **Subdomain:** 28.003 — Well Known, Clearly Shown, Revealed
 - **Glosses:** to reveal, to disclose, to make fully known
 - **Other words in subdomain:** ἀποκάλυψις (apokalypsis, G602), φανερόω (phaneroō, G5319), φανέρωσις (phanerōsis, G5321), δηλόω (dēloō, G1213), ἐμφανίζω (emphanizō, G1718), χρηματίζω (chrēmatizō, G5537), ἀποκρύπτω (apokryptō, G613)
+
+**UBS Semantic Domains:**
+- **[028]** Know
 
 ## Voice Distribution
 
@@ -142,6 +146,12 @@ The gospel system arriving at its appointed time.
 - **G613 ἀποκρύπτω (apokryptō)** — antonym: to hide away, conceal (6x); co-occurs 2x
 - **G2927 κρυπτός (kryptos)** — related concept: hidden, secret
 
+### Synonyms
+- **G5319 φανερόω (phaneroō)** — to make manifest, show openly; the closest curated overlap in the reveal/disclose field.
+
+### Antonyms
+No direct antonyms were identified by `search_relationships.py`; the lexical opposite **G613 ἀποκρύπτω** remains listed above in the word family as the concealment counterpart.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -179,10 +189,14 @@ The dominant Hebrew-to-Greek bridge is H1540 galah → G601 apokalyptō (67 co-o
 ## See Also
 
 - [G602-apokalypsis.md](G602-apokalypsis.md) — noun cognate: revelation, disclosure
+- [G459-anomos.md](G459-anomos.md) — "lawless one" revealed in the 2 Thessalonians 2 cluster
+- [G584-apodeiknymi.md](G584-apodeiknymi.md) — public demonstration/accreditation alongside revelation language
+- [G646-apostasia.md](G646-apostasia.md) — apostasy/falling-away vocabulary in the same 2 Thessalonians 2 context
+- [H2372-chazah.md](H2372-chazah.md) — Hebrew "see/vision" verb cross-linked in revelation studies
 - [TR-galah-apokalypto.md](TR-galah-apokalypto.md) — cross-testament trace: H1540 galah → G601 apokalyptō
 - [WG-revelation.md](WG-revelation.md) — word group: revelation and disclosure concept cluster
 - [WG-mystery.md](WG-mystery.md) — word group: mystery concept cluster (the content revealed)
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_strongs.py*
-*Last updated: 2026-04-11*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

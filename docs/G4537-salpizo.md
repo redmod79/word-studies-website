@@ -22,6 +22,10 @@ From G4536 (σάλπιγξ); to trumpet, i.e. sound a blast (literally or figura
 - **Broader domain:** 006 — Artifacts
 - **Other words in domain:** αὐλέω (G832), αὐλητής (G834), αὐλός (G836), ἠχέω (G2278), κιθάρα (G2788), κιθαρίζω (G2789), κιθαρῳδός (G2790), κύμβαλον (G2950), σάλπιγξ (G4536), σαλπιστής (G4538)
 
+### UBS Semantic Domains
+
+- **[006]** Artifacts
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -78,6 +82,14 @@ Seven angels sequentially sound trumpets, each unleashing a wave of cosmic judgm
 - **G4536 σάλπιγξ (sálpinx)** — trumpet (feminine noun); the instrument itself
 - **G4538 σαλπιστής (salpistḗs)** — trumpeter (masculine noun); the person who sounds it
 
+### Synonyms
+
+- **G2950 κύμβαλον** — listed by `search_relationships.py`
+
+### Antonyms
+
+No direct antonyms surfaced by `search_relationships.py`.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -104,7 +116,13 @@ The DB's Outline of Biblical Usage cites Numbers 10 as the OT backdrop, where Go
 ## See Also
 
 - [WG-trumpet.md](WG-trumpet.md) — trumpet word group (G4536, G4537, G4538)
+- [G4536-salpinx.md](G4536-salpinx.md)
+- [H7782-showphar.md](H7782-showphar.md)
+- [TR-showphar-salpinx.md](TR-showphar-salpinx.md)
+- [G3173-megas.md](G3173-megas.md)
+- [H8643-truwah.md](H8643-truwah.md)
+- [G1096-ginomai.md](G1096-ginomai.md)
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, louw_nida.db*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, search_strongs.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

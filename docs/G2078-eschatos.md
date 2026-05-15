@@ -17,12 +17,18 @@
 Superlative adjective: farthest, final (of place, sequence, or time); last, lowest, uttermost.
 From the script: "-khat-os; a superlative probably from (in the sense of contiguity)"
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Domain 061:** Sequence — final position in an ordered series
-  - Other words in domain: ἄλφα (G1a), ἀπαρχή (G536), καθεξῆς (G2517), λοιπός (G3062)
-- **Domain 087.004:** Low Status or Rank (persons of low status)
-  - Other words: ἐλάχιστος (G1646), ἐλάσσων (G1640), ἄτιμος (G820), μικρός (G3398)
+**Louw-Nida:**
+- **61** — Sequence
+- **87.004** — Low Status or Rank
+
+Other words in 61: ἄλφα (G1a), ἀπαρχή (G536), καθεξῆς (G2517), λοιπός (G3062)
+Other words in 87.004: ἐλάχιστος (G1646), ἐλάσσων (G1640), ἄτιμος (G820), μικρός (G3398)
+
+**UBS Semantic Domains:**
+- **[061]** Sequence
+- **[087]** Status
 
 ## Translation Distribution (KJV)
 
@@ -123,6 +129,12 @@ The farthest or outermost position — used of geographic ends of the earth, the
 ### Word Family / Cognates
 - **G2079 ἐσχάτως (eschátōs)** — adverb: extremely, at the last (Mk 5:23: "at the point of death"; hapax of this adverb form)
 
+### Synonyms
+- No direct synonyms surfaced from `search_relationships.py` for this lemma.
+
+### Antonyms
+- **G4413 πρῶτος (prōtos)** — first, foremost (explicit first/last contrast in Matt 19:30; 20:16; Mark 9:35; Luke 13:30; Rev 1:17; 22:13)
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -146,7 +158,11 @@ The farthest or outermost position — used of geographic ends of the earth, the
 - [TR-acharown-eschatos.md](TR-acharown-eschatos.md) — cross-testament trace: H314 (acharon) → G2078 (eschatos)
 - [WG-last.md](WG-last.md) — word group: last/first/lowest sequence vocabulary
 - [WG-end.md](WG-end.md) — Hebrew "end" concept cluster (qets, acharith, kalah, eth, moed)
+- [H314-acharown.md](H314-acharown.md)
+- [H319-achariyth.md](H319-achariyth.md)
+- [G4413-protos.md](G4413-protos.md)
+- [G584-apodeiknymi.md](G584-apodeiknymi.md)
 
 ---
-*Generated from: gather_word_data.py, gather_trace_data.py, gather_word_group_data.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, gather_trace_data.py, gather_word_group_data.py, search_relationships.py*
+*Last updated: 2026-04-27*

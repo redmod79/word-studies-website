@@ -106,6 +106,17 @@ Used once for prayer being shut out — God refusing to hear.
 ### Word Family / Cognates
 No derived nouns or adjective forms are attested in the OT. H5640 stands alone as a primitive root.
 
+### Synonyms
+No synonyms returned by `search_relationships.py`.
+
+### Antonyms
+No antonyms returned by `search_relationships.py`.
+
+### Semantic Domains
+- **[002001001013] Close** — Other words: גדר (H1443), גוף (H1479), חתם (A2857), חתם (H2856), טחח (H2902), נעל (H5274)
+- **[002004002008] Non-Know** — Other words: בָּצוּר (H1208), גנב (H1589), חבא (H2244), חֵיק (H2436), חפא (H2644), חפשׂ (H2664)
+- **[002001002031] Unwilling** — Other words: אֶבֶן (A69), אֶבֶן (H68), אֶשְׁתַּדּוּר (A849), בזה (H959), בזה (H960), גאל (H1350)
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -129,8 +140,9 @@ The LXX translates satham the same as chatham (both → σφραγίζω) in Dan
 ## See Also
 
 - [H2856-chatham.md](H2856-chatham.md) — the sealing verb paired with satham in Daniel 8:26, 12:4, 12:9
+- [G4972-sphragizo.md](G4972-sphragizo.md) — Greek LXX equivalent in Daniel's sealing passages
 - [WG-sealing.md](WG-sealing.md) — word group: sealing concept cluster
 
 ---
-*Generated from: gather_word_data.py, hebrew_parser.py, search_strongs.py*
-*Last updated: 2026-04-11*
+*Generated from: gather_word_data.py, hebrew_parser.py, search_relationships.py, search_strongs.py*
+*Last updated: 2026-04-27*

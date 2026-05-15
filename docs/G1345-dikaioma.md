@@ -17,13 +17,19 @@ From G1344 (dikaioō); an equitable deed; by implication, a statute or decision.
 
 Louw-Nida glosses: regulation, requirement, righteous act.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-δικαίωμα appears in three domains, reflecting its distinct semantic senses:
+**Louw-Nida:**
+- **33.333** — Law, Regulation, Ordinance
+- **56.005** — Judge, Condemn, Acquit
+- **88.002** — Just, Righteous
 
-- **Domain 33.333** — Communication > Law, Regulation, Ordinance (alongside δόγμα, νόμος, κανών)
-- **Domain 56.005** — Courts and Legal Procedures > Judge, Condemn, Acquit (alongside δικαιόω, δικαίωσις, δικαστής)
-- **Domain 88.002** — Moral and Ethical Qualities > Just, Righteous (alongside δίκαιος, δικαιοσύνη, ἀδικία)
+δικαίωμα appears in three Louw-Nida domains, reflecting its distinct semantic senses: ordinance, verdict, and righteous act.
+
+**UBS Semantic Domains:**
+- **[056]** Courts and Legal Procedures
+- **[088]** Moral and Ethical Qualities and Related Behavior
+- **[033]** Communication
 
 ## Translation Distribution (KJV)
 
@@ -99,6 +105,17 @@ Concrete acts of righteousness collectively.
 - **G1347 δικαίωσις (dikaiōsis)** — justification, the act of declaring right (2x)
 - **G1341 δικαιοκρισία (dikaiokrisia)** — righteous judgment (1x)
 
+### Synonyms
+
+`search_relationships.py` surfaced functional overlaps rather than strict lexical synonyms:
+- **G3551 νόμος (nomos)** — law; the broader legal framework within which a dikaiōma can function as a requirement
+- **G1785 ἐντολή (entolē)** — commandment; overlaps with the ordinance/requirement sense
+- **G2917 κρίμα (krima)** — judgment; overlaps when dikaiōma denotes a judicial decision or verdict
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G1345.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -121,8 +138,17 @@ In the LXX, dikaiōma primarily renders the "ordinance/statute" vocabulary of th
 
 ## See Also
 
+- [G1378-dogma.md](G1378-dogma.md) — decree/ordinance; closest legal parallel in the NT
+- [G1342-dikaios.md](G1342-dikaios.md) — righteous; adjectival member of the same family
+- [G1343-dikaiosyne.md](G1343-dikaiosyne.md) — righteousness; abstract quality behind righteous acts and requirements
+- [G1344-dikaioo.md](G1344-dikaioo.md) — justify; the direct verbal root named in this study
+- [H8451-towrah.md](H8451-towrah.md) — Torah/law; one major Hebrew legal source field
+- [H4941-mishpat.md](H4941-mishpat.md) — judgment/ordinance; primary LXX source
+- [H2708-chuqqah.md](H2708-chuqqah.md) — statute/ordinance; major LXX source for the ordinance sense
+- [TR-towrah-nomos.md](TR-towrah-nomos.md) — cross-testament trace for the broader law vocabulary
+- [TR-mishpat-krima.md](TR-mishpat-krima.md) — cross-testament trace for judgment/justice terminology
 - [WG-righteousness.md](WG-righteousness.md) — word group: the δικ- concept cluster
 
 ---
-*Generated from: search_strongs.py, louw_nida.db, strongs_translations.db*
-*Last updated: 2026-03-31*
+*Generated from: search_strongs.py, louw_nida.db, strongs_translations.db, search_relationships.py*
+*Last updated: 2026-04-27*

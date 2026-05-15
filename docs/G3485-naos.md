@@ -105,6 +105,14 @@ Heavily concentrated in Revelation (37% of all uses). The Gospels use naos prima
 ### Word Family / Cognates
 - **ναίω (naio)** — root verb: to dwell (not independently used in NT)
 
+### Synonyms
+- **G2411 ἱερόν (hieron)** — temple; the broader sanctuary complex related to *naos*, though less specific than the inner shrine.
+- **G2310 θεμέλιος (themelios)** — foundation; surfaced by `search_relationships.py` as a construction-field neighbor tied to temple-building imagery rather than a strict synonym.
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for G3485.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -114,6 +122,13 @@ Heavily concentrated in Revelation (37% of all uses). The Gospels use naos prima
 | εἰδωλεῖον (eidoleion) | G1493 | "idol's temple" (1x) | Specifically an idol's temple; hapax in 1 Cor 8:10 |
 
 **Key naos vs. hieron distinction:** In the Gospels, hieron is used for activities in the temple courts (teaching, buying/selling, walking), while naos is reserved for the inner sanctuary (the veil, Zacharias at the altar of incense, the "destroy this temple" saying). The NT never confuses these terms — no one "teaches" in the naos or "rends the veil" of the hieron.
+
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 007 | Constructions | `search_relationships.py` places *naos* in the building/sanctuary domain, matching both its literal temple use and its metaphorical extension to God's dwelling. |
+| 006 | Artifacts | The tool also associates *naos* with crafted shrine imagery, which helps explain the Acts 19:24 use for silver shrines. |
 
 ## Hebrew Source (via LXX)
 
@@ -127,9 +142,18 @@ Heavily concentrated in Revelation (37% of all uses). The Gospels use naos prima
 
 ## See Also
 
+- [G2411-hieron.md](G2411-hieron.md) — broader temple-precinct term contrasted with *naos*
+- [G4633-skene.md](G4633-skene.md) — tabernacle/tent sanctuary vocabulary
+- [H6944-qodesh.md](H6944-qodesh.md) — holiness/sanctuary background term
 - [TR-heykal-naos.md](TR-heykal-naos.md) — cross-testament trace: Hebrew heykal → Greek naos
+- [G2316-theos.md](G2316-theos.md) — "temple of God" collocation
+- [G3354-metreo.md](G3354-metreo.md) — Revelation's temple-measuring scene
+- [G1632-ekcheo.md](G1632-ekcheo.md) — Revelation temple-outpouring context
+- [G1504-eikon.md](G1504-eikon.md) — idol-image vocabulary contrasted with God's sanctuary
+- [G1497-eidolon.md](G1497-eidolon.md) — idol vocabulary contrasted with God's temple
 - [WG-temple.md](WG-temple.md) — word group: temple/sanctuary concept cluster
+- [WG-holiness.md](WG-holiness.md) — word group referencing sanctuary holiness
 
 ---
-*Generated from: search_strongs.py, greek_parser.py, louw_nida.db, strongs_translations.db*
-*Last updated: 2026-03-31*
+*Generated from: search_strongs.py, greek_parser.py, louw_nida.db, strongs_translations.db, search_relationships.py*
+*Last updated: 2026-04-27*

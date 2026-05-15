@@ -111,6 +111,14 @@ Succession crises, disputed royal honor, and prophetic visions of broken or divi
 - **H4467 מַמְלָכָה (mamlakah)** — kingdom, dominion (most common synonym in OT)
 - **H4468 מַמְלָכוּת (mamlakuth)** — alternate form of mamlakah, rare (6x)
 
+### Synonyms
+
+- **H1369 גְּבוּרָה (gᵉbûrâh)** — strength, might, ruling power; `search_relationships.py` places it in malkuwth's sovereignty/authority field rather than as a full lexical equivalent.
+
+### Antonyms
+
+No antonyms were returned by `search_relationships.py` for H4438.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -131,10 +139,16 @@ Succession crises, disputed royal honor, and prophetic visions of broken or divi
 
 [From gather_word_data.py LXX mapping; G932 primary with PMI=6.19, count=66]
 
+## Semantic Domains
+
+- **[002003002007] Control** — places *malkuwth* in the authority/exercise-of-rule field.
+- **[001002001] Land** — captures kingdom as territorial realm.
+- **[002001001] Attribute** — groups the term with royal-status vocabulary such as **H4410 מְלוּכָה**, **A4437 מַלְכוּ**, and **H4467 מַמְלָכָה**.
+
 ## See Also
 - [TR-malkuwth-basileia.md](TR-malkuwth-basileia.md) — cross-testament trace: malkuwth → basileía
 - [WG-throne.md](WG-throne.md) — word group covering G932 basileía, G935 basileús, G2362 thrónos and the sovereign seat concept
 
 ---
-*Generated from: gather_word_data.py, kjv.txt*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, kjv.txt, search_relationships.py*
+*Last updated: 2026-04-27*

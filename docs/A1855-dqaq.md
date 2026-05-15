@@ -89,12 +89,24 @@ The only non-visionary use: lions physically crush bones.
 - **H1854 דָּקַק (daqaq)** — Hebrew cognate verb: to crush, beat fine, grind small; used 13 times in Hebrew OT (Exo 30:36; 32:20; Deut 9:21; 2 Sam 22:43; Isa 28:28; 41:15; etc.). Hiphil stem in Hebrew (causative) = Haphel stem in Aramaic.
 - **H1851 דַּק (daq)** — Hebrew adjective from same root: thin, fine, small (e.g., "thin ears of grain" in Gen 41:6; "fine as hoarfrost" in Exo 16:14). The adjectival state produced by the crushing action.
 
+### Synonyms
+
+No synonym entries were returned by `search_relationships.py` for this Aramaic verb.
+
+### Antonyms
+
+No antonym entries were returned by `search_relationships.py` for this Aramaic verb.
+
 ### Easily Confused Words
 No other Aramaic or Hebrew words share the distinctive KJV rendering "break/broke/broken in pieces" for this root. The closest semantic neighbor in Aramaic Daniel is:
 
 | Word | Strong's | Shared Context | Key Difference |
 |------|----------|----------------|----------------|
 | H1854 דָּקַק (daqaq, Hebrew) | H1854 | Same root; same KJV translation "break in pieces" | H1854 = Hebrew form (appears outside Daniel); H1855 = Aramaic form (Daniel 2–7 only) |
+
+## Semantic Domains
+
+No semantic-domain data was returned by `search_relationships.py` for this Aramaic verb.
 
 ## LXX Mapping
 
@@ -110,5 +122,5 @@ The primary Theodotion-Greek rendering is **λεπτύνω** (G3016, "to make fi
 - [WG-image](WG-image.md) — Image word group; the statue-image in Dan 2 is the primary object of dqaq
 
 ---
-*Generated from: gather_word_data.py, hebrew_parser.py (--lemma), kjv.txt verse lookup*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, hebrew_parser.py (--lemma), kjv.txt verse lookup, search_relationships.py*
+*Last updated: 2026-04-27*

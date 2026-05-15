@@ -26,7 +26,7 @@ H3789, 212x in OT       185x as translation        197x in NT
 - **Jos 1:8** — "This book of the law shall not depart out of thy mouth; but thou shalt meditate therein day and night"
 - **Jer 31:33** — "I will put my law in their inward parts, and write it in their hearts" (cited in Heb 8:10 with ἐγγράφω)
 
-Library entry: TODO(need H3789 study)
+Library entry: [H3789-kathab.md](H3789-kathab.md)
 
 ## LXX Bridge
 

@@ -24,6 +24,11 @@
 - **Broader domain:** 041 — Behavior and Related States
 - **Other words in subdomain:** ἀμετανόητος (G279), ἐπιστρέφω (G1994), ἐπιστροφή (G1995), μετάνοια (G3341), παλιγγενεσία (G3824), στρέφω (G4762)
 
+## UBS Semantic Domains
+
+- **[041]** Behavior and Related States
+- Representative UBS neighbors include ἀμετανόητος (G279), ἐπιστρέφω (G1994), and μετάνοια (G3341), matching the repentance/turning cluster already visible in the Louw-Nida data.
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -110,6 +115,22 @@ Heaviest concentration in Revelation (10 of 32 uses), where unrepentance under j
 - **G3326 μετά (meta)** — preposition/prefix: after, with (changes implied)
 - **G3539 νοέω (noeō)** — to think, perceive, exercise the mind
 
+### Synonyms
+
+- **G3338 μεταμέλλομαι (metamellomai)** — regret, remorse; the closest NT partner returned by `search_relationships.py`, but one that emphasizes feeling rather than full reorientation.
+- **G5339 φείδομαι (pheidomai)** — spare, refrain; listed by `search_relationships.py` as a semantic neighbor in the broader repentance/behavior network.
+- **G3709 ὀργή (orgē)** — wrath, anger; returned by `search_relationships.py` within the same wider moral-response field.
+- **G659 ἀποτίθημι (apotithēmi)** — put off, lay aside; a change-of-conduct neighbor returned by `search_relationships.py`.
+- **G1556 ἐκδικέω (ekdikeō)** — avenge, vindicate; a judicial-response neighbor returned by `search_relationships.py`.
+- **G2919 κρίνω (krinō)** — judge, decide; a judgment-related semantic neighbor returned by `search_relationships.py`.
+- **G3627 οἰκτείρω (oikteirō)** — have compassion; a mercy-oriented neighbor returned by `search_relationships.py`.
+- **G5574 ψεύδομαι (pseudomai)** — lie, speak falsely; a negative-behavior counterpart returned by `search_relationships.py` within the same broad domain network.
+
+### Antonyms
+
+- **G3710 ὀργίζω (orgizō)** — be angry, be provoked; returned by the Greek antonym-bucket data as a behavior set against repentance's turning.
+- **G279 ἀμετανόητος (ametanoētos)** — unrepentant, impenitent; alpha-privative form and the clearest lexical opposite (Rom 2:5).
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -129,8 +150,15 @@ The Hebrew background reveals two streams: nâcham (emotional sorrow, compassion
 
 ## See Also
 
+- [G3338-metamellomai.md](G3338-metamellomai.md) — the affective regret word (primary contrast; Judas vs. true repentance)
+- [G4202-porneia.md](G4202-porneia.md) — "fornication" — a named object of repentance in Revelation's Jezebel warning
+- [G5331-pharmakeia.md](G5331-pharmakeia.md) — "sorceries" — among the sins Revelation says the wicked refuse to repent of
+- [G2782-kerygma.md](G2782-kerygma.md) — proclamation/preaching vocabulary tied to repentance summons
+- [G863-aphiemi.md](G863-aphiemi.md) — forgiveness language linked with interpersonal repentance (Luke 17:3-4)
+- [H5162-nacham.md](H5162-nacham.md) — Hebrew relenting/sorrow background that overlaps the repentance field
+- [TR-nacham-metamellomai.md](TR-nacham-metamellomai.md) — cross-testament trace distinguishing regret/relenting from full repentance
 - [WG-repent.md](WG-repent.md) — word group: repentance cluster (metanoeō, metanoia, epistréphō, metamellomai, nâcham, shûwb)
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, louw_nida.db*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, search_strongs.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

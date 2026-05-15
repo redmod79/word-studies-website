@@ -22,7 +22,7 @@ H571, 125x in OT     LXX co-occ: 83x         99x in NT
 - **Psa 25:5** — "Lead me in thy truth, and teach me"
 - **Psa 51:6** — "thou desirest truth in the inward parts"
 
-Library: TODO(need H571 study)
+Library: [H571-emeth.md](H571-emeth.md)
 
 ## LXX Bridge
 

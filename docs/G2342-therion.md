@@ -15,11 +15,16 @@
 
 Diminutive from θήρ (thēr); a dangerous animal, a wild beast. The diminutive form does not indicate small size but rather denotes a specific, concrete instance of the general category (θήρ = "wild beast" as a class; θηρίον = a particular wild beast). In classical Greek, used for any wild animal as distinguished from domestic animals.
 
-## Louw-Nida Semantic Domains
+## Semantic Domains
 
-- **Domain 4:** Animals — animal, quadruped
-- **Domain 88.115:** Bad, Evil, Harmful, Damaging — reflecting the word's connotation of danger and harm
-- **Other words in Domain 4:** ζῷον (zōon), δράκων (drakōn), λέων (leōn), λύκος (lykos), κτῆνος (ktēnos)
+**Louw-Nida:**
+- **04** — Animals — animal, quadruped
+- **88.115** — Bad, Evil, Harmful, Damaging — reflecting the word's connotation of danger and harm
+- Other words in domain 04: ζῷον (zōon), δράκων (drakōn), λέων (leōn), λύκος (lykos), κτῆνος (ktēnos)
+
+**UBS Semantic Domains:**
+- **[004]** Animals
+- **[088]** Moral and Ethical Qualities and Related Behavior
 
 ## Translation Distribution (KJV)
 
@@ -94,6 +99,14 @@ The word is overwhelmingly concentrated in Revelation (84% of all occurrences). 
 - **G2340 θηρεύω (thēreuō)** — to hunt, to catch
 - **G2341 θηριομαχέω (thēriomachéō)** — to fight with wild beasts (hapax: 1 Cor 15:32)
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G2342.*
+
+### Antonyms
+
+No direct antonyms were identified by `search_relationships.py` for θηρίον.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -122,7 +135,15 @@ The strongest LXX connection is with Aramaic חֵיוָא (H2423), used in Danie
 - [WG-beast](WG-beast.md) — word group
 - [G5480-charagma.md](G5480-charagma.md) — the mark of the beast (χάραγμα); top collocation in Rev 13-20
 - [WG-mark.md](WG-mark.md) — mark of the beast word group
+- [A8133-shna.md](A8133-shna.md) — Aramaic Daniel background word study referenced with beast symbolism
+- [G1238-diadema.md](G1238-diadema.md) — diadem / crown imagery in beast scenes
+- [G1404-drakon.md](G1404-drakon.md) — dragon imagery paired with the beast
+- [G1504-eikon.md](G1504-eikon.md) — image of the beast
+- [G1849-exousia.md](G1849-exousia.md) — beastly authority in Revelation
+- [G2226-zoon.md](G2226-zoon.md) — contrasting "beast" vocabulary for the holy living creatures
+- [G4127-plege.md](G4127-plege.md) — plague / wound language in beast contexts
+- [WG-dragon.md](WG-dragon.md) — related apocalyptic power cluster
 
 ---
-*Generated from: search_strongs.py, louw_nida.db, KJV text*
-*Last updated: 2026-03-31*
+*Generated from: search_strongs.py, louw_nida.db, KJV text, search_relationships.py*
+*Last updated: 2026-04-27*

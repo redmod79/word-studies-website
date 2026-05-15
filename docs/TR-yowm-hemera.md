@@ -58,7 +58,7 @@ adverbial constructions — showing sensitivity to whether yôwm was functioning
 - **1 Cor 1:8** — "Who shall also confirm you unto the end, that ye may be blameless in the day of our Lord Jesus Christ" *(yom YHWH → hēméra tou kyriou)*
 - **John 1:39** — "They came and saw where he dwelt, and abode with him that day" *(simple calendar day)*
 
-→ Canonical study: TODO(need G2250 study)
+→ Canonical study: [G2250-hemera.md](G2250-hemera.md)
 
 ## Direct OT→NT Quotations / Allusions
 

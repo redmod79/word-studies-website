@@ -120,6 +120,14 @@ The signature phrase is **smite with the edge of the sword + utterly destroy + a
 - **H2766 חָרִם (Harim)** — proper name (Ezra 2:32, 39; 10:21, 31).
 - **H2767 חָרְמָה (Hormah)** — place name (Num 21:3) from the same root: "devoted place."
 
+### Synonyms
+- **בדל (H914)** — returned by `search_relationships.py`.
+- **נתן לַטֶּבַח** — returned by `search_relationships.py` without a Strong's number in the output.
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for H2763.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -132,6 +140,13 @@ The signature phrase is **smite with the edge of the sword + utterly destroy + a
 | מְאֹד (mᵉʼōd) | H3966 | "utterly" (adverb) | Intensifier "very, exceedingly" — not a verb of destruction. |
 
 Charam is distinguished by its **cultic character**: the object is "set apart unto the LORD" by being wholly destroyed or given over; it cannot be redeemed, owned, or reused.
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002001001024] Impact** — Neighboring entries returned by `search_relationships.py`: אֲבַעְבֻּעָה (H76), אָכְלָה (H402), ארר (H779), אשׁם (H816), בֶּדֶק (H919), בֹּהַק (H933).
+- **[002003002009] Dissociate** — Neighboring entries returned by `search_relationships.py`: אחז (H270), אַלְמֹון (H489), אַלְמָן (H488), אַלְמָנוּת (H491), בַּד (H905), בַּד (H906).
+- **[002002002006] Non-Exist** — Neighboring entries returned by `search_relationships.py`: אבד (A7), אבד (H6), אֹבֵד (H8), אַבְדָן (H12), אָבְדָן (H13), אֶבֶן (A69).
 
 ## LXX Mapping
 
@@ -152,5 +167,5 @@ The Greek ἀνάθεμα / ἀναθεματίζω word-group is the LXX's tech
 - [H2764-cherem.md](H2764-cherem.md) — the noun cognate (the ban / devoted thing).
 
 ---
-*Generated from: gather_word_data.py, hebrew_parser.py, BDB/Strong's lexicon*
-*Last updated: 2026-04-16*
+*Generated from: gather_word_data.py, hebrew_parser.py, BDB/Strong's lexicon, search_relationships.py*
+*Last updated: 2026-04-27*

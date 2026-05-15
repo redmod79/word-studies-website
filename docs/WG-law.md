@@ -13,7 +13,7 @@ The law concept cluster in the NT centers on νόμος (nomos) and its relation
 | G4102 | πίστις | pistis | noun | 244 | The alternative basis (faith) | [G4102](G4102-pistis.md) |
 | G5547 | Χριστός | Christos | noun | 569 | The law's goal/end (Christ) | TODO(need G5547 study) |
 | G3544 | νομικός | nomikos | adj/noun | 9 | Pertaining to law / lawyer | TODO(need G3544 study) |
-| G459 | ἄνομος | anomos | adj | 10 | Without law / lawless | TODO(need G459 study) |
+| G459 | ἄνομος | anomos | adj | 10 | Without law / lawless | [G459-anomos.md](G459-anomos.md) |
 
 ## Relationships
 

@@ -17,12 +17,16 @@ From G601 (apokalypto); disclosure: — appearing, coming, lighten, manifestatio
 
 The noun denotes the act or result of uncovering — removing what conceals so that something hidden becomes visible or known. Etymologically: apo (away from) + kalyptō (to cover, veil).
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
+**Louw-Nida:**
 - **Domain:** 28 — Know
 - **Subdomain:** 28.003 — Well Known, Clearly Shown, Revealed
 - **Glosses:** to reveal, to disclose, to make fully known
 - **Other words in subdomain:** ἀποκαλύπτω (apokalypto, G601), φανερόω (phaneroō, G5319), φανέρωσις (phanerōsis, G5321), δηλόω (dēloō, G1213), χρηματισμός (chrēmatismos, G5538), δείκνυμι (deiknymi, G1166a)
+
+**UBS Semantic Domains:**
+- **[028]** Know
 
 ## Translation Distribution (KJV)
 
@@ -117,6 +121,14 @@ The formal title of the final NT book, framing the entire work as an unveiling.
 - **G601 ἀποκαλύπτω (apokalyptō)** — root verb: to reveal, to disclose, to uncover (26x in NT)
 - **G2572 καλύπτω (kalyptō)** — to cover, to hide, to conceal (8x in NT) — the base verb that apo- reverses
 
+### Synonyms
+- **G5321 φανέρωσις (phanerōsis)** — manifestation; another disclosure noun in the same reveal/manifest field.
+- **G3952 παρουσία (parousia)** — coming/presence; overlaps where apokalypsis marks Christ's end-time unveiling.
+- **G2015 ἐπιφάνεια (epiphaneia)** — appearing, manifestation; overlaps in eschatological manifestation contexts.
+
+### Antonyms
+No direct antonyms were identified by `search_relationships.py`.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -143,6 +155,12 @@ No direct Hebrew-to-Greek LXX mapping found for G602 as a noun. However, the ver
 
 ## See Also
 
+- [G601-apokalypto.md](G601-apokalypto.md) — cognate verb: reveal, disclose, uncover
+- [G2098-euangelion.md](G2098-euangelion.md) — gospel as content received and announced by revelation
+- [G3525-nepho.md](G3525-nepho.md) — watchfulness language paired with coming revelation, especially in 1 Peter
+- [G5229-hyperairo.md](G5229-hyperairo.md) — self-exaltation linked with visionary/revelatory contexts in 2 Corinthians 12
+- [G584-apodeiknymi.md](G584-apodeiknymi.md) — public demonstration/disclosure in the same broad reveal domain
+- [TR-galah-apokalypto.md](TR-galah-apokalypto.md) — Hebrew uncovering verb that underlies the G601/G602 revelation cluster
 - [WG-revelation.md](WG-revelation.md) — word group for revelation and disclosure (Greek)
 - [WG-vision.md](WG-vision.md) — word group for vision-related terms (Hebrew)
 - [WG-appearance-vision.md](WG-appearance-vision.md) — word group for appearance and vision (Hebrew)
@@ -150,5 +168,5 @@ No direct Hebrew-to-Greek LXX mapping found for G602 as a noun. However, the ver
 - [G3466-mysterion.md](G3466-mysterion.md) — mystery: the content that apokalypsis discloses
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db*
-*Last updated: 2026-04-05*
+*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

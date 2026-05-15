@@ -10,8 +10,8 @@ The "anointed" concept in Hebrew Scripture involves oil consecrating a person to
 |----------|------|-----------------|-----|-------------|-----------------|---------------|
 | H4899 | מָשִׁיחַ | mashiyach | noun | 38 | The anointed one — the office itself | [H4899-mashiyach.md](H4899-mashiyach.md) |
 | H4886 | מָשַׁח | mashach | verb | 66 | The act of anointing — consecration ritual | [H4886-mashach.md](H4886-mashach.md) |
-| H4428 | מֶלֶךְ | melek | noun | 1919 | The royal office the anointed holds | TODO(need H4428 study) |
-| H3548 | כֹּהֵן | kohen | noun | 653 | The priestly office the anointed holds | TODO(need H3548 study) |
+| H4428 | מֶלֶךְ | melek | noun | 1919 | The royal office the anointed holds | [H4428-melek.md](H4428-melek.md) |
+| H3548 | כֹּהֵן | kohen | noun | 653 | The priestly office the anointed holds | [H3548-kohen.md](H3548-kohen.md) |
 | H5057 | נָגִיד | nagiyd | noun | 44 | Commander/prince — paired with mashiyach in Dan 9:25 | [H5057-nagiyd.md](H5057-nagiyd.md) |
 
 ## Relationships

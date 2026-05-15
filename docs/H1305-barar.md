@@ -109,6 +109,14 @@ Bringing hidden things to light through examination; making speech or knowledge 
 - **H1249 בַּר (bar)** — adj/adv: pure, clean, choice (7x; Job 11:4; Ps 19:9; 24:4; 73:1; Song 6:9–10)
 - **H1252 בֹּר (bôr)** — masc. noun: purity, pureness (6x; 2 Sam 22:21, 25; Job 9:30; 22:30; Ps 18:20, 24)
 
+### Synonyms
+- **H3835 לָבַן (laban)** — make white; overlaps with *bârar* in Daniel's refining-and-whitening contexts.
+- **H6884 צָרַף (tsaraph)** — refine, smelt, test; the closest metallurgical parallel to *bârar*'s purification sense.
+
+### Antonyms
+- **H6617 פָּתַל (pathal)** — twisted / perverse; the explicit opposite in the moral-purity contrast of 2 Sam 22:27 / Ps 18:26.
+- **תפל** — bland, insipid, or unrefined; surfaced by `search_relationships.py` as a secondary opposite in the purity/clarity field.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -116,6 +124,15 @@ Bringing hidden things to light through examination; making speech or knowledge 
 | בָּחַר (bâchar) | H977 | both: "choice," "chosen" | bâchar (172x) = to choose by preference/election; bârar = to choose by refining/testing — the purified becomes the chosen |
 | מִבְחָר (mibchâr) | H4005 | "choice, choicest" | derivative noun of H977; bârar emphasizes the *process* of purification, mibchâr the *quality* of what is selected |
 | זַךְ (zak) | H2134 | "the pure" | zak = an adjective describing a static quality (clear, clean); bârar = a dynamic verb of active purifying or being purified |
+
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 002001001012 | Clean | Primary domain for *bârar* as purify, cleanse, or refine. |
+| 002003003015 | Innocent | Captures the moral-purity sense in 2 Sam 22:27 / Ps 18:26. |
+| 002004002007 | Know | Reflects the clarify/make-clear sense in passages like Job 33:3. |
+| 002003002009 | Dissociate | Secondary "separate/select" field behind the "choice/chosen" usages. |
 
 ## LXX Mapping
 
@@ -131,5 +148,5 @@ Bringing hidden things to light through examination; making speech or knowledge 
 - [H2891-taher.md](H2891-taher.md) — the primary ritual cleansing verb; compare semantic range
 
 ---
-*Generated from: gather_word_data.py, hebrew_parser.py, search_strongs.py --lexicon*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, hebrew_parser.py, search_strongs.py --lexicon, search_relationships.py*
+*Last updated: 2026-04-27*

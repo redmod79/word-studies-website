@@ -137,6 +137,14 @@ The root meaning "going up" surfaces where the noun denotes a literal ascent or 
 - **H5929 עָלֶה (ʻâleh)** — leaf, foliage (lit. "that which sprouts up")
 - **H5945 עֶלְיוֹן (ʻelyôn)** — Most High (the One above)
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for H5930.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for H5930.*
+
 ### Easily Confused Words (other sacrificial terms)
 
 | Word | Strong's | Shared field | Key Difference |
@@ -148,6 +156,13 @@ The root meaning "going up" surfaces where the noun denotes a literal ascent or 
 | מִנְחָה minchâh | H4503 | "tribute / meal offering" — grain | minchâh is grain/flour (bloodless); ʻôlâh is animal (blood) |
 | כָּלִיל kâlîl | H3632 | also "whole" burnt offering | kâlîl emphasizes "entire"; often poetic/parallel term for ʻôlâh |
 | קָרְבָּן qorbân | H7133 | generic "offering/gift" | qorbân is the superordinate category; ʻôlâh is one species within it |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002003002020] Sacrifice** — the primary semantic field for the burnt offering as a distinct sacrificial category.
+- **[001002006] Animals** — reflects the animal victims regularly supplied for the ʻôlâh.
+- **[001002008001008] Furnishings** — captures the altar/temple-furnishing contexts in which the burnt offering is presented.
 
 ## LXX Mapping
 
@@ -171,8 +186,16 @@ Primary LXX gloss is clearly **ὁλοκαύτωμα (G3646)** — from which En
 - [WG-atonement.md](WG-atonement.md) — word group: atonement terminology cluster
 - [WG-continual-worship.md](WG-continual-worship.md) — word group: the daily/continual offering system
 - [WG-lamb.md](WG-lamb.md) — word group: sacrificial lamb vocabulary
-- TR-olah-holokautoma.md — cross-testament trace (to be generated if bridge study warranted; co-occ 163 far exceeds threshold)
+- [TR-olah-holokautoma.md](TR-olah-holokautoma.md) — cross-testament trace of עֹלָה (H5930) to ὁλοκαύτωμα
+- [G2379-thysiastērion.md](G2379-thysiastērion.md) — altar study cross-referenced with burnt-offering contexts
+- [G2378-thysia.md](G2378-thysia.md) — Greek sacrifice study linked by `search_relationships.py`
+- [H3722-kaphar.md](H3722-kaphar.md) — atonement verb frequently paired with sacrificial language
+- [H4150-moed.md](H4150-moed.md) — appointed-time/festival study linked to scheduled burnt offerings
+- [H8548-tamid.md](H8548-tamid.md) — continual-offering terminology cross-reference
+- [H5262-necek.md](H5262-necek.md) — drink-offering companion term
+- [H2403-chattaah.md](H2403-chattaah.md) — sin-offering companion term
+- [G286-amnos.md](G286-amnos.md) — lamb study tied to burnt-offering victims
 
 ---
-*Generated from: gather_word_data.py H5930 (search_strongs.py, lxx-map)*
-*Last updated: 2026-04-16*
+*Generated from: gather_word_data.py H5930 (search_strongs.py, lxx-map), search_relationships.py*
+*Last updated: 2026-04-27*

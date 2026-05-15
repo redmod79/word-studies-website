@@ -45,6 +45,23 @@ pipto appears in multiple Louw-Nida domains, reflecting its broad semantic range
 | G4352 | προσκυνέω (proskyneo) | worship, prostrate |
 | G4363 | προσπίπτω (prospipto) | fall before |
 
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 015 | Linear Movement | `search_relationships.py` places *piptō* first in the movement field: literal falling or descending. |
+| 017 | Stances and Events Related to Stances | Covers prostration, falling down, and posture-change scenes. |
+| 020 | Violence, Harm, Destroy, Kill | Captures collapse, ruin, and destructive-fall contexts. |
+| 023 | Physiological Processes and States | Covers bodily falling, dying, and embodied collapse. |
+| 068 | Aspect | Reflects resultative uses such as "is fallen" and cessation/collapse states. |
+| 013 | Be, Become, Exist, Happen | Marks change-of-state uses where something comes to ruin or falls from a condition. |
+| 075 | Adequate, Qualified | Includes "fall short" or failure-related extensions in the broader semantic field. |
+| 090 | Case | Captures befalling/falling-upon patterns in case-like or circumstantial usage. |
+| 030 | Think | Covers metaphorical falling into error or failure of judgment. |
+| 024 | Sensory Events and States | Includes visible/cosmic falling phenomena such as stars falling from heaven. |
+| 087 | Status | Captures falling from a position or rank. |
+| 056 | Courts and Legal Procedures | Covers judicial-collapse or condemnation-adjacent uses in the broader semantic field. |
+
 ## Verb Form Distribution
 
 | Tense-Voice-Mood | Count | Notes |
@@ -185,6 +202,14 @@ The stone or mountains falling upon someone in judgment.
 - **G4045 περιπίπτω (peripipto)** — fall among (3x) — encounter: falling *around/among*
 - **G4417 πταίω (ptaio)** — stumble, trip (5x) — related root; partial fall vs. complete fall
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G4098.*
+
+### Antonyms
+
+- **G2476 ἵστημι / ἑστόναι (histēmi / hestonai)** — to stand; `search_relationships.py` returned ἑστόναι as the opposite posture/state to falling
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -212,7 +237,13 @@ The dominant Hebrew source is naphal (H5307) with 239 co-occurrences — an over
 - [TR-naphal-pipto.md](TR-naphal-pipto.md) — cross-testament trace: naphal (H5307) → pipto (G4098)
 - [WG-fall.md](WG-fall.md) — word group: pipto and compounds
 - [G4352-proskyneo.md](G4352-proskyneo.md) — worship, prostrate (top collocation partner)
+- [G2598-kataballo.md](G2598-kataballo.md) — cast down; nearby down-fall vocabulary
+- [H5307-naphal.md](H5307-naphal.md) — the dominant Hebrew source behind *piptō*
+- [H7812-shachah.md](H7812-shachah.md) — bow down/worship; major OT posture counterpart
+- [G897-babylon.md](G897-babylon.md) — Babylon; linked by Revelation's "is fallen" refrain
+- [G868-aphistemi.md](G868-aphistemi.md) — depart/fall away; adjacent falling/apostasy vocabulary
+- [G2226-zoon.md](G2226-zoon.md) — living creature; appears in Revelation throne scenes where heavenly beings fall in worship
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_strongs.py*
-*Last updated: 2026-04-16*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

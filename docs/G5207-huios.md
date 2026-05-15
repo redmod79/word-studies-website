@@ -17,13 +17,23 @@
 Apparently a primary word; a "son" (sometimes of animals), used very widely of immediate, remote or
 figuratively, kinship: child, foal, son.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Domain 010** — Kinship Terms
+**Louw-Nida:**
+- **010** — Kinship Terms
   - **010002** — Kinship Relations Involving Successive Generations: genealogy language, generational descent
-- **Domain 009005** — Persons For Whom There Is Affectionate Concern: θυγάτηρ (daughter), τέκνον, παιδίον, τεκνίον
-- **Domain 012001** — Supernatural Beings: used for Jesus as divine Son; ἄγγελος, δαιμόνιον share this domain
-- **Domain 011001** — General group/class membership: λαός, ὄχλος, γενεά (see Domain Neighbors below)
+- **009005** — Persons For Whom There Is Affectionate Concern: θυγάτηρ (daughter), τέκνον, παιδίον, τεκνίον
+- **012001** — Supernatural Beings: used for Jesus as divine Son; ἄγγελος, δαιμόνιον share this domain
+- **011001** — General group/class membership: λαός, ὄχλος, γενεά (see Domain Neighbors below)
+
+**UBS Semantic Domains:**
+- **[010]** Kinship Terms
+- **[009]** People
+- **[004]** Animals
+- **[036]** Guide, Discipline, Follow
+- **[011]** Groups and Classes of Persons and Members of Such Groups and Classes
+- **[058]** Nature, Class, Example
+- **[012]** Supernatural Beings and Powers
 
 ## Translation Distribution (KJV)
 
@@ -135,6 +145,13 @@ Believers positioned as legal sons/heirs of God through Christ — distinct from
 ### Word Family / Cognates
 - **G5206 υἱοθεσία (huiothesia)** — adoption as sons; the legal act of receiving believer status as heirs (Rom 8:15, 8:23; Gal 4:5; Eph 1:5)
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G5207.*
+
+### Antonyms
+- **G3541 νόθος (nothos)** — illegitimate son / bastard; Heb 12:8 contrasts true sons with νόθοι.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -168,10 +185,20 @@ marker, membership in a class, and covenantal/divine sonship.
 
 ## See Also
 
+- [G5043-teknon.md](G5043-teknon.md) — counterpart term emphasizing birth/affection rather than legal-status sonship
+- [G2316-theos.md](G2316-theos.md) — Son of God / Father-Son theology
+- [G5547-christos.md](G5547-christos.md) — messianic title pair in "Jesus Christ, the Son..."
+- [G4690-sperma.md](G4690-sperma.md) — offspring / seed language adjacent to filial descent
+- [G3952-parousia.md](G3952-parousia.md) — Son of Man coming / parousia contexts
+- [G2064-erchomai.md](G2064-erchomai.md) — coming-language often paired with Son of Man sayings
+- [G3709-orge.md](G3709-orge.md) — "children of wrath" category language
+- [G1228-diabolos.md](G1228-diabolos.md) — "children of the devil" contrast class-membership language
+- [H2945-taph.md](H2945-taph.md) — Hebrew "little ones," a narrower child-grouping parallel
+- [H4432-molek.md](H4432-molek.md) — Molech-son sacrifice contexts using sonship language
 - [TR-ben-huios.md](TR-ben-huios.md) — cross-testament trace: ben → huios (Son / Sonship)
-- [H1121-ben](H1121-ben.md) — Hebrew source word: son, child, member of a class
+- [H1121-ben.md](H1121-ben.md) — Hebrew source word: son, child, member of a class
 - [WG-family.md](WG-family.md) — word group: family and kinship terms
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db, KJV text*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db, KJV text, search_relationships.py*
+*Last updated: 2026-04-28*

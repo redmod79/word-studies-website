@@ -23,6 +23,14 @@ From G2513; to cleanse (literally or figuratively): — (make) clean(-se), purge
 - **Related Domain:** 023.008 — Physiological: Health, Vigor, Strength
 - **Other words in 053.003:** ἁγνίζω (G0048), ἁγνισμός (G0049), βαπτίζω (G0907), βαπτισμός (G0909), καθαρισμός (G2512), καθαρός (G2513), καθαρότης (G2514), ῥαντίζω (G4472)
 
+## UBS Semantic Domains
+
+- **[053] Religious Activities** — purification, consecration, and ritual cleansing.
+- **[079] Features of Objects** — the clean/unclean contrast as a state.
+- **[023] Physiological Processes and States** — cleansing in healing and bodily-restoration contexts.
+
+`search_relationships.py` keeps **καθαρίζω** anchored in ritual-purity language while also recognizing its overlap with physical cleanness and restoration.
+
 ## Verb Form Distribution
 
 | Tense | Count | Notes |
@@ -124,6 +132,21 @@ One instance of the word in a food/body context.
 - **G2508 καθαίρω** (kathairō) — to cleanse, prune (2x: John 15:2; Heb 10:2)
 - **G1245 διακαθαρίζω** (diakatharizō) — to thoroughly cleanse (2x: Matt 3:12, Luke 3:17)
 
+### Synonyms
+
+`search_relationships.py` surfaced a mixed set of cleansing-field neighbors rather than one tight equivalent set:
+- **G2436 ἵλεως (híleōs)** — merciful / propitious; a looser mercy-and-cleansing neighbor surfaced by the tool
+- **G1344 δικαιόω (dikaióō)** — justify, declare righteous; overlaps where cleansing language expresses removal of guilt
+- **G0037 ἁγιάζω (hagiázō)** — make holy, consecrate; overlaps in ritual-purity contexts
+- **G0863 ἀφίημι (aphíēmi)** — send away, forgive; overlaps where purification is expressed as remission
+
+### Antonyms
+
+`search_relationships.py` returned one clear impurity opposite and two looser contextual contrasts:
+- **G3392 μιαίνω (miaínō)** — defile, stain, contaminate; the direct opposite of cleansing
+- **G5165 τρύβλιον (trýblion)** — bowl, dish; a contextual purity-term contrast surfaced by the tool rather than a lexical antonym
+- **G4969 σφάζω (spházō)** — slaughter, butcher; bloodshed imagery set against cleansing and purification results
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -160,7 +183,14 @@ Primary bridge: **H2891 טָהֵר (ṭâhêr)** — the LXX translates taher wi
 
 - [TR-taher-katharizo.md](TR-taher-katharizo.md) — cross-testament trace: H2891 ṭâhêr → G2511 katharizō
 - [WG-cleansing.md](WG-cleansing.md) — word group: the Hebrew taher/tame purity system
+- [H2891-taher.md](H2891-taher.md) — primary Hebrew verb behind καθαρίζω in the LXX
+- [H3722-kaphar.md](H3722-kaphar.md) — atonement verb paired with cleansing in Levitical purification contexts
+- [G1344-dikaioo.md](G1344-dikaioo.md) — justification study cross-referenced by `search_relationships.py`
+- [G3084-lytroo.md](G3084-lytroo.md) — redemption study cross-referenced by `search_relationships.py`
+- [G4221-poterion.md](G4221-poterion.md) — cup imagery study cross-referenced by `search_relationships.py`
+- [WG-unclean.md](WG-unclean.md) — word group around clean/unclean polarity
+- [G169-akathartos.md](G169-akathartos.md) — explicit antonym: unclean
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

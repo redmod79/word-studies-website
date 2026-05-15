@@ -21,6 +21,12 @@ From a primary νέμω (nemō), to parcel out, especially food or grazing to an
 - **Domain 33.05:** Written Language
 - **Other words in 33.33:** νομικός (nomikos), νομοδιδάσκαλος (nomodidaskalos), νομοθεσία (nomothesia), νομοθετέω (nomotheteo), νομοθέτης (nomothetes), δόγμα (dogma), ἔννομος (ennomos)
 
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 033 | Communication | `search_relationships.py` places *nomos* in the communication field as authoritative instruction, decree, and codified teaching. |
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -116,6 +122,18 @@ Specific ceremonial or regulatory requirements, especially in contrast to the ne
 - **G460 ἀνόμως (anomōs)** — lawlessly, without the law (2x)
 - **G3891 παρανομέω (paranomeō)** — to transgress the law (1x)
 
+### Synonyms
+
+`search_relationships.py` surfaced functional overlaps within the legal-command field:
+- **G1785 ἐντολή (entolē)** — commandment; a specific command within the broader framework of law
+- **G3142 μαρτύριον (martyrion)** — testimony; covenantal witness language closely tied to authoritative legal witness
+- **G1345 δικαίωμα (dikaiōma)** — ordinance, righteous requirement
+- **G2917 κρίμα (krima)** — judgment, judicial decision
+
+### Antonyms
+
+- **G459 ἄνομος (anomos)** — lawless, without law; an alpha-privative formation built directly from *nomos* and thus the clearest lexical opposite returned by `search_relationships.py`
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -142,9 +160,17 @@ The LXX overwhelmingly renders תּוֹרָה (torah) as νόμος, making this
 
 - [H8451-towrah](H8451-towrah.md) — Hebrew source word study
 - [TR-towrah-nomos](TR-towrah-nomos.md) — cross-testament trace
+- [G1345-dikaioma.md](G1345-dikaioma.md) — ordinance / righteous requirement within the legal field
+- [G1378-dogma.md](G1378-dogma.md) — decree / ordinance; narrower regulatory term
+- [G1379-dogmatizo.md](G1379-dogmatizo.md) — cognate verb for being subjected to ordinances
+- [G5055-teleo.md](G5055-teleo.md) — fulfill / complete; law-fulfillment vocabulary
+- [G1242-diatheke.md](G1242-diatheke.md) — covenant; law framed within covenantal administration
+- [G4137-pleroo.md](G4137-pleroo.md) — fulfill; key fulfillment verb in law discussions
+- [A1882-dath.md](A1882-dath.md) — Aramaic decree / law term in the same legal field
+- [G1344-dikaioo.md](G1344-dikaioo.md) — justify; central Pauline partner in law-justification discourse
 - [WG-law](WG-law.md) — word group
 - [WG-commandment](WG-commandment.md) — related concept cluster
 
 ---
-*Generated from: search_strongs.py, greek_parser.py, louw_nida.db, strongs_translations.db*
-*Last updated: 2026-03-31*
+*Generated from: search_strongs.py, greek_parser.py, louw_nida.db, strongs_translations.db, search_relationships.py*
+*Last updated: 2026-04-27*

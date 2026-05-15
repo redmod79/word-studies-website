@@ -132,6 +132,32 @@ A visible banner or standard identifying a tribal or military grouping.
 - **H225 אוּת (ʼuwth)** — probable root verb: to consent, agree (sense of appearing/signaling)
 - **H852 אָת (ʼath)** — Aramaic cognate: a portent, sign
 
+### Synonyms
+
+*`search_relationships.py` places H226 in a broad sign/portent/reminder cluster that includes:*
+
+- **זִכָּרֹון (H2146)**
+- **טֹוטָפֹת**
+- **מֹופֵת (H4159)**
+- **מָשָׁל (H4912)**
+- **זְרֹועַ נְטוּיָה**
+- **יָד חֲזָקָה**
+- **מֹורָא (H4172)**
+- **מַסָּה (H4531)**
+- **מַעֲשֶׂה (H4639)**
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for H226.*
+
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|-------------|-------|
+| 001002008001016 | Signs | Core domain for H226 as a visible marker, token, or signal. |
+| 002004002007 | Know | Reflects the epistemic function of a sign: it makes something known or confirms a message. |
+| 002001003006 | Extraordinary | Covers prodigious or miraculous signs, especially the Exodus "signs and wonders" usage. |
+
 ## LXX Mapping
 
 | Greek Equivalent | Co-occurrences | PMI Score | Notes |
@@ -147,5 +173,5 @@ The LXX overwhelmingly renders ʼowth as semeion. The G4592 bridge is one of the
 - [WG-sign.md](WG-sign.md) — word group: sign/token/wonder concept cluster
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, kjv.txt*
-*Last updated: 2026-04-15*
+*Generated from: gather_word_data.py, search_strongs.py, kjv.txt, search_relationships.py*
+*Last updated: 2026-04-27*

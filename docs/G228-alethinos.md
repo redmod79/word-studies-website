@@ -109,6 +109,17 @@ Describes something as sincere, authentic in character.
 
 All derive from alpha-privative + λανθάνω ("to be hidden"). The family centers on what is unconcealed, real, reliable.
 
+### Synonyms
+- **G227 ἀληθής (alēthēs)** — true, truthful; the closest adjective counterpart
+
+### Antonyms
+No direct antonyms were identified by `search_relationships.py`.
+
+### UBS Semantic Domains
+- **[070] Real, Unreal** — includes ἀλήθεια (G225), ἀληθής (G227), ἀληθῶς (G230), ἔγγυος (G1450), ἐν (G1722), κατά (G2596)
+- **[072] True, False** — includes ἀκρίβεια (G195), ἀκριβής (G196), ἀκριβῶς (G199), ἀλήθεια (G225), ἀληθής (G227), ἀμήν (G281)
+- **[073] Genuine, Phony** — includes ἀνυπόκριτος (G505), γνήσιος (G1103), γνησίως (G1104), δοκίμιον (G1383), δόκιμος (G1384), λογικός (G3050)
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -150,7 +161,15 @@ Primary Hebrew equivalent is H571 אֶמֶת (emeth, "truth, faithfulness, stabi
 - [WG-death.md](WG-death.md)
 - [WG-life.md](WG-life.md)
 - [WG-truth.md](WG-truth.md) — word group (auto-generated)
+- [TR-emeth-aletheia.md](TR-emeth-aletheia.md) — cross-testament truth trace
+- [G4103-pistos.md](G4103-pistos.md) — faithful/true adjective in nearby semantic space
+- [G2288-thanatos.md](G2288-thanatos.md) — referenced in related word-study cross-links
+- [G4639-skia.md](G4639-skia.md) — shadow vs. true reality contrast
+- [G2673-katargeo.md](G2673-katargeo.md) — referenced in related word-study cross-links
+- [G4127-plege.md](G4127-plege.md) — referenced in related word-study cross-links
+- [H5794-az.md](H5794-az.md) — Hebrew study cross-reference
+- [H7585-showl.md](H7585-showl.md) — Hebrew Sheol study cross-reference
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, louw_nida.db*
-*Last updated: 2026-04-13*
+*Generated from: gather_word_data.py, search_strongs.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

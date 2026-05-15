@@ -23,6 +23,13 @@ Verbal adjective from παρακαλέω (parakaleō, G3870); one called alongsi
 - **Other words in subdomain:** βοηθέω (boētheō, G997), βοηθός (boēthos, G998), συναντιλαμβάνομαι (synantilambanomai, G4878), ἀντιλαμβάνω (antilambano, G482), ἐπαρκέω (eparkeō, G1884)
 - **Also in Domain:** 12 — Supernatural Beings and Powers (subdomain 12.001 — Supernatural Beings)
 
+## UBS Semantic Domains
+
+- **[012]** Supernatural Beings and Powers
+- **[035]** Help, Care For
+
+*The UBS data preserves both sides of Johannine usage: παράκλητος is both supernatural-person language (the Spirit) and helper/advocate language.*
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -76,6 +83,14 @@ The paraklētos is consistently described as being **sent** (by the Father or th
 - **G3874 παράκλησις (paraklēsis)** — cognate noun: comfort, consolation, exhortation (29x in NT). Top translations: "consolation" (12x), "comfort" (5x), "exhortation" (5x)
 - **G3931 παρηγορία (parēgoria)** — comfort, consolation (1x — Col 4:11)
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G3875.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G3875.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -101,9 +116,11 @@ No Hebrew source found via LXX mapping. παράκλητος does not appear in 
 ## See Also
 
 - [G3316-mesites.md](G3316-mesites.md) — mediator (references paraklētos in confused words section)
+- [G399-anaphero.md](G399-anaphero.md) — offer up / bear up; referenced in related advocacy-intercession material
+- [H5162-nacham.md](H5162-nacham.md) — OT comfort background term already contrasted above
 - [WG-spirit.md](WG-spirit.md) — word group on Spirit vocabulary
 - [WG-advocacy-comfort.md](WG-advocacy-comfort.md) — word group on advocacy/comfort concept
 
 ---
-*Generated from: search_strongs.py, greek_parser.py, louw_nida.db, strongs_translations.db*
-*Last updated: 2026-04-13*
+*Generated from: search_strongs.py, greek_parser.py, louw_nida.db, strongs_translations.db, search_relationships.py*
+*Last updated: 2026-04-27*

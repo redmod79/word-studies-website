@@ -15,11 +15,17 @@
 
 From θυμιάω (G2370); an aroma, i.e. fragrant powder burnt in religious service — incense, odours.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Primary Domain:** 053.002 — Offering, Sacrifice
-- **Secondary Domain:** 006.021 — Perfumes and Incense
-- **Other words in 053.002:** θυμιάω (G2370, burn incense), θυσία (G2378, sacrifice), θυσιαστήριον (G2379, altar), ὁλοκαύτωμα (G3646, burnt offering)
+**Louw-Nida:**
+- **053.002** — Offering, Sacrifice
+- **006.021** — Perfumes and Incense
+
+Other words in 053.002: θυμιάω (G2370, burn incense), θυσία (G2378, sacrifice), θυσιαστήριον (G2379, altar), ὁλοκαύτωμα (G3646, burnt offering)
+
+**UBS Semantic Domains:**
+- **[006]** Artifacts
+- **[053]** Religious Activities
 
 ## Translation Distribution (KJV)
 
@@ -78,6 +84,15 @@ Listed among imported spices and ointments in the merchant inventory of the grea
 - **G2369 θυμιαστήριον (thymiastērion)** — the censer / altar of incense (Heb 9:4)
 - **G2372 θυμός (thymós)** — wrath, fury (from same root "fume"; semantic split: fragrant offering vs. burning anger)
 
+### Synonyms
+
+`search_relationships.py` surfaced a functional overlap rather than a strict lexical synonym:
+- **G1637 ἔλαιον (elaion)** — oil; another fragrant cultic substance used in worship and perfumery, adjacent to incense rather than equivalent to it
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G2368.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -95,9 +110,15 @@ Listed among imported spices and ointments in the merchant inventory of the grea
 ## See Also
 
 - [TR-qtoreth-thymiama.md](TR-qtoreth-thymiama.md) — cross-testament trace: H7004 קְטֹרֶת → G2368 θυμίαμα
+- [H7004-qtoreth.md](H7004-qtoreth.md) — Hebrew incense noun; direct OT source behind θυμίαμα
+- [G3031-libanotos.md](G3031-libanotos.md) — frankincense; adjacent incense commodity in Rev 18:13
+- [G5357-phiale.md](G5357-phiale.md) — bowls/vials that carry the odours imagery in Rev 5:8
+- [G2378-thysia.md](G2378-thysia.md) — sacrifice; neighboring offering term in the same cultic domain
+- [G364-anamnesis.md](G364-anamnesis.md) — remembrance; cultic memorial language linked with offering imagery
+- [WG-incense.md](WG-incense.md) — incense word group
 - [WG-altar.md](WG-altar.md) — altar word group (θυσιαστήριον co-occurs with θυμίαμα 2x)
 - [WG-worship.md](WG-worship.md) — worship word group (broader sanctuary worship context)
 
 ---
-*Generated from: gather_word_data.py, gather_trace_data.py*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, gather_trace_data.py, search_relationships.py*
+*Last updated: 2026-04-27*

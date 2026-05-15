@@ -125,6 +125,14 @@ Non-Israelites vowing to YHWH, or vows made insincerely/condemned.
 ### Word Family / Cognates
 - **H5088 נֶדֶר (neder)** — the cognate noun: "a vow, votive offering." Co-occurs with H5087 in virtually every verse (the figura etymologica "vow a vow"). Appears independently ~60x in OT.
 
+### Synonyms
+
+*No direct synonyms returned by `search_relationships.py` for H5087.*
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for H5087.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -134,6 +142,12 @@ Non-Israelites vowing to YHWH, or vows made insincerely/condemned.
 | אָסַר (ʼâsar) | H631 | "bind" | ʼâsar = bind oneself with an issar (restrictive abstention); nadar = positive commitment to do/give |
 | אֱסָר (ʼĕsâr) | H632 | "bond, binding vow" | issar = negative self-restriction; neder = positive offering or gift to God |
 | פָּלָא (palaʼ) | H6381 | "perform a vow" | palaʼ = to make a special/extraordinary vow (intensifier with neder); nadar = ordinary vowing |
+
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 002004001009013 | Vow | `search_relationships.py` places *nâdar* in the vow/oath field, matching its consistent use for spoken commitments made to God. |
 
 ## LXX Mapping
 
@@ -154,8 +168,10 @@ The primary Greek bridge is **G2172 εὔχομαι**, which in the LXX carries 
 - [TR-shabbath-sabbaton.md](TR-shabbath-sabbaton.md) — sabbath/festival pilgrimage context for paying vows
 - [H5088-neder.md](H5088-neder.md) — cognate noun (the vow / thing promised)
 - [TR-neder-euche.md](TR-neder-euche.md) — cross-testament trace (neder → euchē)
+- [TR-nadar-euchomai.md](TR-nadar-euchomai.md) — cross-testament trace of the verb *nâdar* into Greek *euchomai*
 - [WG-vow.md](WG-vow.md) — word group for the vow cluster
+- [H6187-erek.md](H6187-erek.md) — valuation/assessed value; closely tied to vowed persons and things in Leviticus 27
 
 ---
-*Generated from: gather_word_data.py, hebrew_parser.py, search_strongs.py*
-*Last updated: 2026-04-16*
+*Generated from: gather_word_data.py, hebrew_parser.py, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

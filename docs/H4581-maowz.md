@@ -89,6 +89,14 @@ From עוז; a fortified place; figuratively, a defence:—force, fort(-ress), r
 - **H5797 עֹז (oz)** — noun: strength, might (abstract quality, not fortified place)
 - **H5794 עַז (az)** — adjective: strong, fierce, bold ← [H5794-az.md](H5794-az.md)
 
+### Synonyms
+
+*No close synonyms returned by `search_relationships.py` for H4581.*
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for H4581.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -96,6 +104,14 @@ From עוז; a fortified place; figuratively, a defence:—force, fort(-ress), r
 | עֹז (oz) | H5797 | both → "strength", "my strength" | oz = abstract quality of strength or power; mâʻôwz = a fortified place of refuge (noun of place, prefix מ) |
 | כֹּחַ (koach) | H3581 | both → "strength" | koach = inherent physical capacity or vitality; mâʻôwz = defensive stronghold, place of safety |
 | צוּר (tsur) | H6697 | both → "my strength", "rock" | tsur = a cliff or rock (literal or metaphor for God); mâʻôwz = a fortified, defended position |
+
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 001002009003 | Fortifications | `search_relationships.py` places *mâʻôwz* in the fortifications field, matching its literal fortress / stronghold usage in Daniel and other military contexts. |
+| 002001002003 | Confident | The same tool also groups it with confidence/refuge language, fitting Psalms and Nahum where the LORD is a *mâʻôwz* for those who trust him. |
+| 001002008001020 | Weapons | A secondary military domain reflects the word's overlap with defensive force and war-making power in national-strength contexts. |
 
 ## LXX Mapping
 
@@ -113,5 +129,5 @@ From עוז; a fortified place; figuratively, a defence:—force, fort(-ress), r
 - [WG-strength.md](WG-strength.md) — word group: Hebrew words for strength/fortress (oz, koach, tsur)
 
 ---
-*Generated from: gather_word_data.py, hebrew_parser.py*  
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, hebrew_parser.py, search_relationships.py*  
+*Last updated: 2026-04-27*

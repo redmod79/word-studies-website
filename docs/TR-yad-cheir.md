@@ -31,7 +31,7 @@ direction, agency"
 
 **First OT occurrence:** Gen 3:22 — "lest he put forth his hand, and take also of the tree of life"
 
-[See canonical word study: TODO(need H3027 study)]
+[See canonical word study: H3027-yad.md](H3027-yad.md)
 
 ## LXX Bridge
 

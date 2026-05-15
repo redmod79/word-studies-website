@@ -24,6 +24,14 @@ Probably strengthened from a presumed derivative of the base of G5114; the mouth
 - **Domain 79.023:** Shapes — mouth as an opening/edge
 - **Domain 83.006:** In Front Of, Face To Face — mouth = face/presence
 
+### UBS Semantic Domains
+
+- **[008] Body, Body Parts, and Body Products**
+- **[033] Communication**
+- **[079] Features of Objects**
+- **[083] Spacial Positions**
+- **[020] Violence, Harm, Destroy, Kill**
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -129,6 +137,12 @@ Mouth as the organ through which legal testimony is given, establishing truth by
 
 ## Related Words
 
+### Synonyms
+- **G1100 γλῶσσα** — tongue; the closest speech-organ synonym / companion term returned by `search_relationships.py`
+
+### Antonyms
+- **G2588 καρδία** — heart; contrasted with στόμα where inward reality and outward speech are paired (e.g. Mat 12:34; Rom 10:8-10)
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -175,8 +189,17 @@ The strong genitive bias (47%) reflects the prepositional idiom ἐκ/διὰ σ
 
 ## See Also
 
+- [G2980-laleo.md](G2980-laleo.md) — speech verb frequently paired with the mouth as the speaking organ
+- [TR-dabar-laleo.md](TR-dabar-laleo.md) — speech trace study intersecting prophetic "mouth" formulas
+- [G4501-rhomphaia.md](G4501-rhomphaia.md) — sword study: "the sword of his mouth"
+- [G988-blasphemia.md](G988-blasphemia.md) — blasphemy study linked to mouths speaking against God
+- [G4602-sige.md](G4602-sige.md) — silence study contrasting open speech with silence
+- [G1404-drakon.md](G1404-drakon.md) — dragon study: apocalyptic mouth imagery in Revelation
+- [G2586-kapnos.md](G2586-kapnos.md) — smoke study: smoke issuing from mouths in apocalyptic scenes
+- [G3961-pateo.md](G3961-pateo.md) — trampling/judgment study linked in Revelation's violent imagery cluster
+- [G2462-hippos.md](G2462-hippos.md) — horse study intersecting the mounted-mouth imagery of Rev 9
 - [WG-sword.md](WG-sword.md) — Sword concept group (stoma as source of the judgment-sword)
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-10*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-28*

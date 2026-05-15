@@ -16,12 +16,21 @@
 
 Middle voice of a primary verb (used only in the present and imperfect tenses, the others being supplied by a kindred (middle voice) word, ἐλεύθομαι eleúthomai; or (active) ἔλθω élthō, to come or go (in a wide variety of applications, literally and figuratively).
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Primary Domain:** 15 — Linear Movement
-- **Subdomain:** 15.006 — Come, Come To, Arrive
-- **Other words in subdomain:** ἥκω (G2240), ἐπέρχομαι (G1904), παραγίνομαι (G3854), εἴσοδος (G1529), ἔλευσις (G1660), καταντάω (G2658), μαράνα θᾶ (G3134)
-- **Also appears in:** 13 (Be/Become/Happen → 13.004 Happen), 88 (Moral Qualities → 88.029 Hypocrisy), 89 (Relations → 89.008 Result)
+**Louw-Nida:**
+- **15.006** — Come, Come To, Arrive
+- **13.004** — Happen
+- **88.029** — Hypocrisy
+- **89.008** — Result
+
+Other words in 15.006: ἥκω (G2240), ἐπέρχομαι (G1904), παραγίνομαι (G3854), εἴσοδος (G1529), ἔλευσις (G1660), καταντάω (G2658), μαράνα θᾶ (G3134)
+
+**UBS Semantic Domains:**
+- **[015]** Linear Movement
+- **[013]** Be, Become, Exist, Happen
+- **[089]** Relations
+- **[088]** Moral and Ethical Qualities and Related Behavior
 
 ## Translation Distribution (KJV)
 
@@ -138,6 +147,13 @@ Impersonal or abstract subjects: the kingdom, wrath, times of refreshing, decept
 | κατέρχομαι | G2718 | come down |
 | προέρχομαι | G4281 | go before |
 
+### Synonyms
+- **G5562 χωρέω (choreo)** — make room, pass
+- **G4198 πορεύομαι (poreuomai)** — go, travel
+
+### Antonyms
+- No direct antonyms surfaced from `search_relationships.py` for this lemma.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -162,7 +178,16 @@ H935 (בּוֹא) is the overwhelming primary OT source — ἔρχομαι is i
 ## See Also
 
 - [WG-came.md](WG-came.md) — word group: come/arrival vocabulary (ἥκω, παρουσία, ἐπέρχομαι, παραγίνομαι)
+- [G1096-ginomai.md](G1096-ginomai.md)
+- [G1163-dei.md](G1163-dei.md)
+- [G1486-etho.md](G1486-etho.md)
+- [G2540-kairos.md](G2540-kairos.md)
+- [G2917-krima.md](G2917-krima.md)
+- [G3565-nymphe.md](G3565-nymphe.md)
+- [G3709-orge.md](G3709-orge.md)
+- [G3952-parousia.md](G3952-parousia.md)
+- [G4352-proskyneo.md](G4352-proskyneo.md)
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

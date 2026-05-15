@@ -84,6 +84,14 @@ Used of an adversarial figure inciting or opposing Israel — transitional towar
 ### Word Family / Cognates
 - **H7853 שָׂטַן (śāṭan)** — root verb: to accuse, attack, be an adversary (6 occurrences; e.g., Ps 38:20; 71:13; 109:4, 20, 29)
 
+### Synonyms
+
+*No synonym entries were returned by `search_relationships.py` for H7854.*
+
+### Antonyms
+
+*No antonym entries were returned by `search_relationships.py` for H7854.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -91,6 +99,12 @@ Used of an adversarial figure inciting or opposing Israel — transitional towar
 | Σατανᾶς (Satanâs) | G4567 | "Satan" | NT proper-name form transliterated from Aramaic; 33 occurrences in NT; same referent as the OT accuser |
 | ἀντίδικος (antídikos) | G476 | "adversary" | Greek legal term: opponent in a lawsuit; used of the devil in 1 Pet 5:8 and of human opponents |
 | צַר (tsar) | H6862 | "adversary" | General Hebrew term for enemy, distress, oppressor — lacks the accusatorial/prosecutorial force of śāṭān |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[001002007002] Enemies** — the core relationship domain returned by `search_relationships.py`, fitting the noun's adversary / opposer sense.
+- **[003001012] Names of Supernatural Beings** — a secondary domain surfaced by the tool because the word also names a specific supernatural accuser.
 
 ## LXX Mapping
 
@@ -106,7 +120,10 @@ The LXX's primary rendering as διάβολος (diabolos, "slanderer/accuser") 
 - [TR-malak-aggelos.md](TR-malak-aggelos.md) — cross-testament trace of the messenger/angel concept (overlaps with Num 22 use)
 - [G1228-diabolos.md](G1228-diabolos.md) — canonical study of the NT "devil/slanderer"
 - [WG-satan.md](WG-satan.md) — word group: the adversary/accuser concept cluster
+- [G480-antikeimai.md](G480-antikeimai.md) — Greek adversarial / oppositional vocabulary surfaced by `search_relationships.py`
+- [H5799-azazel.md](H5799-azazel.md) — related supernatural-being study surfaced by the tool
+- [H1403-gabriyel.md](H1403-gabriyel.md) — contrasting named supernatural-being study surfaced by the tool
 
 ---
-*Generated from: gather_word_data.py, gather_word_group_data.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, gather_word_group_data.py, search_relationships.py*
+*Last updated: 2026-04-27*

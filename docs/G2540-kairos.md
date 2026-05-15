@@ -22,6 +22,11 @@ Of uncertain affinity; an occasion, i.e. set or proper time (KJV: time, season, 
 - **Subdomain 022007:** Favorable Circumstances or State
 - **Cognates in same subdomain:** εὐκαιρέω (G2119), εὐκαιρία (G2120), εὔκαιρος (G2121), ἀκαιρέομαι (G0170)
 
+## UBS Semantic Domains
+
+- **[067]** Time
+- **[022]** Trouble, Hardship, Relief, Favorable Circumstances
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -117,6 +122,15 @@ The proper time of year for harvest or fruiting — the divinely ordered natural
 - **G2121 εὔκαιρος** — timely, seasonable
 - **G0170 ἀκαιρέομαι** — to be without opportunity, be unseasonable
 
+### Synonyms
+`search_relationships.py` surfaced a temporal cluster rather than exact one-for-one equivalents.
+
+- **G5550 χρόνος (chronos)** — time as duration or measurable span; overlaps in English translation but contrasts with καιρός as the fitting or appointed moment.
+- **G3375 μήν (mēn)** — month; a calendar unit that can mark an appointed season, though narrower than καιρός.
+
+### Antonyms
+- No direct antonyms were identified by `search_relationships.py` for this lemma.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -137,9 +151,17 @@ The proper time of year for harvest or fruiting — the divinely ordered natural
 
 ## See Also
 
+- [H6256-eth.md](H6256-eth.md) — time / occasion
+- [H4150-moed.md](H4150-moed.md) — appointed time / feast
+- [A5732-iddan.md](A5732-iddan.md) — Aramaic time / season
+- [H7093-qets.md](H7093-qets.md) — end / appointed end-point
+- [G5550-chronos.md](G5550-chronos.md) — time as duration
+- [G5610-hora.md](G5610-hora.md) — hour / fixed time
+- [G2064-erchomai.md](G2064-erchomai.md) — come / arrival
+- [TR-eth-kairos.md](TR-eth-kairos.md) — cross-testament trace: עֵת → καιρός
 - [TR-moed-heorte.md](TR-moed-heorte.md) — cross-testament trace: appointed feast time (H4150 → ἑορτή)
 - [WG-aramaic-time.md](WG-aramaic-time.md) — word group: Aramaic time vocabulary (ʻiddân, zᵉmân)
 
 ---
-*Generated from: gather_word_data.py, louw_nida.db*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

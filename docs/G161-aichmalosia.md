@@ -15,11 +15,14 @@
 
 Captivity. From αἰχμάλωτος (G164). The state of being a prisoner of war; captivity as an abstract condition or collective body of captives.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Domain:** 55 — Military Activities
-- **Subdomain:** 55.005 — Prisoners of War
-- **Other words in subdomain:** αἰχμαλωτεύω (aichmalōteuō, G162), αἰχμαλωτίζω (aichmalōtizō, G163), αἰχμάλωτος (aichmalōtos, G164)
+**Louw-Nida:**
+- **55.005** — Prisoners of War
+- **Related words in 55.005:** αἰχμαλωτεύω (aichmalōteuō, G162), αἰχμαλωτίζω (aichmalōtizō, G163), αἰχμάλωτος (aichmalōtos, G164)
+
+**UBS Semantic Domains:**
+- **[055]** Military Activities
 
 ## Translation Distribution (KJV)
 
@@ -78,6 +81,12 @@ With only 2 verses, all collocations are 1x. The most structurally significant i
 
 All four words share the root αἰχμ- (spear/war). G161 is the abstract noun (the state of captivity), G164 is the adjective/noun (the captive person), and G162/G163 are near-synonymous verbs (to make captive).
 
+### Synonyms
+No close non-cognate synonyms were identified by `search_relationships.py`. The nearest lexical parallels are the cognate captivity terms already listed in the word family (G162-G164).
+
+### Antonyms
+No direct antonyms were identified by `search_relationships.py`.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -112,5 +121,5 @@ The LXX uses αἰχμαλωσία primarily to translate the שׁבי/שׁבה 
 - [TR-yad-cheir.md](TR-yad-cheir.md) — cross-testament trace (references this word)
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-10*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

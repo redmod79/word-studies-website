@@ -21,6 +21,10 @@ A race (as sharing the same habit/custom), i.e., a tribe; especially a foreign (
 - **Subdomain:** 011002 — Socio-Religious; 011003 — Socio-Political
 - **Key domain neighbors:** ἅγιος (G40), ἀδελφός (G80), ἀκροβυστία (G203), αἵρεσις (G139), δῆμος (G1218), ἄνομος (G459)
 
+## UBS Semantic Domains
+
+- **[011] Groups and Classes of Persons and Members of Such Groups and Classes** — `search_relationships.py` keeps **ἔθνος** in the people-group / class-membership field, fitting both neutral "nation" usage and the Jew-Gentile contrast.
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -128,6 +132,14 @@ Nations as objects of final judgment, divine anger, and ultimate redemption.
 - **G1482 ἐθνικός (ethnikós)** — Gentile (adj.), heathen (Matt 5:47; 6:7; 18:17; 3x)
 - **G1483 ἐθνικῶς (ethnikōs)** — in Gentile fashion, as a Gentile (Gal 2:14; 1x)
 
+### Synonyms
+
+- **G2992 λαός (laós)** — people; the closest near-parallel surfaced by `search_relationships.py`, especially where **ἔθνος** denotes a people-group corporately rather than "Gentiles" specifically.
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G1484.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -162,7 +174,16 @@ The dominant Hebrew source is **H1471 גּוֹי (gowy)** — the standard OT wo
 
 - [TR-gowy-ethnos.md](TR-gowy-ethnos.md) — cross-testament trace: H1471 gowy → G1484 ethnos
 - [WG-gentiles.md](WG-gentiles.md) — word group: ethnos, laos, dēmos, Héllēn, ethnikós, hagios
+- [G4061-peritome.md](G4061-peritome.md) — circumcision / uncircumcision language framing Gentile identity
+- [G3466-mysterion.md](G3466-mysterion.md) — mystery language tied to Gentile inclusion
+- [G3709-orge.md](G3709-orge.md) — wrath on the nations
+- [G2372-thumos.md](G2372-thumos.md) — rage / wrath language in judgment-on-the-nations contexts
+- [H8045-shamad.md](H8045-shamad.md) — OT destruction-of-the-nations language
+- [G4202-porneia.md](G4202-porneia.md) — Gentile moral contrast in apostolic exhortation
+- [G5331-pharmakeia.md](G5331-pharmakeia.md) — nations deceived by sorcery in Revelation
+- [G3961-pateo.md](G3961-pateo.md) — nations trampled in apocalyptic judgment imagery
+- [G4578-seismos.md](G4578-seismos.md) — nations shaken in judgment scenes
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py (--lexicon, --lookup, --hebrew-source), gather_trace_data.py*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, search_strongs.py (--lexicon, --lookup, --hebrew-source), gather_trace_data.py, search_relationships.py*
+*Last updated: 2026-04-27*

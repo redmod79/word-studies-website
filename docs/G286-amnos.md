@@ -14,11 +14,16 @@
 
 Apparently a primary word; a lamb.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Domain:** 004 — Animals
+**Louw-Nida:**
+- **004** — Animals
 - **Gloss:** lamb
-- **Other words in domain:** ἀρνίον (arnion, G721) — lamb/lambkin; ἀρήν (aren, G704) — lamb; πρόβατον (probaton, G4263) — sheep; αἴγειος (aigeios, G122) — of a goat; τράγος (tragos, G5131) — he-goat; μόσχος (moschos, G3448) — calf; ταῦρος (tauros, G5022) — bull
+
+**UBS Semantic Domains:**
+- **[004]** Animals
+
+**Other words in domain:** ἀρνίον (arnion, G721) — lamb/lambkin; ἀρήν (aren, G704) — lamb; πρόβατον (probaton, G4263) — sheep; αἴγειος (aigeios, G122) — of a goat; τράγος (tragos, G5131) — he-goat; μόσχος (moschos, G3448) — calf; ταῦρος (tauros, G5022) — bull
 
 ## Translation Distribution (KJV)
 
@@ -82,6 +87,14 @@ Evokes Passover/sacrificial imagery (cf. Exod 12:5). The lamb's blood is the mea
 | ἀρήν (aren) | G704 | 1 | lamb (Luk 10:3) | Generic lamb; used once in "lambs among wolves" |
 | πρόβατον (probaton) | G4263 | 40 | sheep | General term for sheep; flock/pastoral imagery, not sacrificial focus |
 
+### Synonyms
+No close lexical synonyms were identified by `search_relationships.py`. The nearest sacrificial-animal parallels it surfaced were:
+- **G5131 τράγος (tragos)** — goat; a neighboring sacrificial-animal term, not a true synonym for "lamb"
+- **G1151 δάμαλις (damalis)** — heifer; likewise a sacrificial parallel rather than a synonym
+
+### Antonyms
+No direct antonyms were identified by `search_relationships.py`.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -106,11 +119,13 @@ The Hebrew source data shows amnos firmly embedded in OT sacrificial vocabulary.
 
 ## See Also
 
+- [G721-arnion.md](G721-arnion.md) — the other NT "Lamb" term, especially dominant in Revelation
+- [WG-lamb.md](WG-lamb.md) — word group covering NT lamb vocabulary
 - [WG-atonement.md](WG-atonement.md) — word group covering sacrificial/atonement vocabulary
 - [WG-thatwereslain.md](WG-thatwereslain.md) — word group on slaying imagery
 - [H1818-dam.md](H1818-dam.md) — blood (dam), paired with lamb in 1 Pet 1:19
 - [TR-dam-haima.md](TR-dam-haima.md) — blood cross-testament trace
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, louw_nida.db*
-*Last updated: 2026-04-13*
+*Generated from: gather_word_data.py, search_strongs.py, search_relationships.py, louw_nida.db*
+*Last updated: 2026-04-27*

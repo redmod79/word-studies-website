@@ -86,6 +86,14 @@ Heavily concentrated in Exodus (construction instructions + Bezaleel's implement
 - **H3724 כֹּפֶר (kopher)** — ransom, pitch, bribe; something paid to cover/redeem
 - **H3725 כִּפֻּר (kippur)** — atonement; plural כִּפֻּרִים (kippurim) = Yom Kippurim, Day of Atonement
 
+### Synonyms
+
+No synonyms were returned by `search_relationships.py` for H3727.
+
+### Antonyms
+
+No antonyms were returned by `search_relationships.py` for H3727.
+
 ### Easily Confused Words
 
 | Word | Strong's | Relation | Key Difference |
@@ -94,6 +102,11 @@ Heavily concentrated in Exodus (construction instructions + Bezaleel's implement
 | כִּפֻּר (kippur) | H3725 | Cognate noun | The atonement ceremony/event; kapporeth is the ritual object/location where atonement happens |
 
 KJV translates kapporeth exclusively as "mercy seat," so there is no KJV translation overlap with other Hebrew words.
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002003001005] Cover** — `search_relationships.py` places *kapporeth* squarely in the cover/lid field, with neighbors such as **H270 אחז**, **H331 אטם**, **H332 אטר**, **H642 אֲפֻדָּה**, **H925 בָּהִיר**, and **H1716 דגר**.
 
 ## LXX Mapping
 
@@ -110,9 +123,11 @@ The LXX renders kapporeth as hilastērion rather than a word for "lid" or "cover
 
 ## See Also
 
-- [WG-atonement](WG-atonement.md) — word group covering the כפר root cluster and atonement vocabulary
-- [H3722-kaphar](H3722-kaphar.md) — root verb: to cover, atone, expiate
+- [G2435-hilasterion.md](G2435-hilasterion.md) — Greek counterpart ἱλαστήριον
+- [TR-kapporeth-hilasterion.md](TR-kapporeth-hilasterion.md) — cross-testament trace H3727 → G2435
+- [WG-atonement.md](WG-atonement.md) — word group covering the כפר root cluster and atonement vocabulary
+- [H3722-kaphar.md](H3722-kaphar.md) — root verb: to cover, atone, expiate
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

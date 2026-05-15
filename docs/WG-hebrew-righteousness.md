@@ -13,8 +13,8 @@ The צדק (tsadaq) word family in the OT forms the core vocabulary for righteou
 | H6666 | צְדָקָה | tsedaqah | noun-f | 157 | The quality (righteousness as attribute/act) | [H6666-tsedaqah](H6666-tsedaqah.md) |
 | H4941 | מִשְׁפָּט | mishpat | noun-m | 406 | The context (judgment, justice, verdict) | [H4941](H4941-mishpat.md) |
 | H8199 | שָׁפַט | shaphat | verb | 203 | The process (to judge, render verdict) | [H8199-shaphat](H8199-shaphat.md) |
-| H7563 | רָשָׁע | rasha' | adj | 263 | The antonym-person (wicked one) | TODO(need H7563 study) |
-| H7561 | רָשַׁע | rasha' | verb | 34 | The antonym-action (condemn, act wickedly) | TODO(need H7561 study) |
+| H7563 | רָשָׁע | rasha' | adj | 248 | The antonym-person (wicked one) | [H7563](H7563-rasha.md) |
+| H7561 | רָשַׁע | rasha' | verb | 34 | The antonym-action (condemn, act wickedly) | [H7561](H7561-rasha.md) |
 
 ## Relationships
 

@@ -40,7 +40,7 @@ These words cluster in Exodus 30 (incense instructions), Leviticus 16 (Day of At
 | Word | Study File |
 |------|-----------|
 | H7004 | [H7004-qtoreth.md](H7004-qtoreth.md) ✓ |
-| H6999 | TODO(need H6999 study) |
+| H6999 | [H6999-qatar.md](H6999-qatar.md) |
 | H6988 | TODO(need H6988 study) |
 | H7002 | TODO(need H7002 study) |
 | H3828 | TODO(need H3828 study) |

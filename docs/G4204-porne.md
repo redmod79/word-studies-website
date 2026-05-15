@@ -22,6 +22,9 @@ Feminine of G4205; a strumpet; figuratively, an idolater:—harlot, whore.
 - **Broader Domain:** 088 — Moral and Ethical Qualities and Related Behavior
 - **Other words in subdomain:** ἀρσενοκοίτης (G733), ἀσέλγεια (G766), ἐκπορνεύω (G1608), κοίτη (G2845), μαλακός (G3120), μοιχαλίς (G3428), μοιχάω (G3429), μοιχεία (G3430), μοιχεύω (G3431)
 
+**UBS Semantic Domains:**
+- **[088]** Moral and Ethical Qualities and Related Behavior
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -99,6 +102,14 @@ Figurative/symbolic usage — Babylon personified as a harlot who seduces nation
 - **G4205 πόρνος (pornos)** — masculine noun: fornicator, whoremonger (10 vv)
 - **G1608 ἐκπορνεύω (ekporneuō)** — compound verb: give oneself over entirely to fornication (1 v; Jude 7)
 
+### Synonyms
+
+*No distinct synonyms were returned by `search_relationships.py` for G4204 beyond the cognate family already listed above.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G4204.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -134,9 +145,12 @@ Primary Hebrew source is זָנָה (H2181, to play the harlot), with 23 co-occu
 ## See Also
 
 - [G4202-porneia.md](G4202-porneia.md) — cognate abstract noun: fornication
+- [G4203-porneuo.md](G4203-porneuo.md) — cognate verb: to commit fornication
+- [G4205-pornos.md](G4205-pornos.md) — cognate masculine noun: fornicator
 - [TR-zanah-porne.md](TR-zanah-porne.md) — cross-testament trace: H2181 zânâh → G4204 pórnē
+- [G4160-poieo.md](G4160-poieo.md) — "do/make"; notable for Rahab's works context in Jas 2:25
 - [WG-fornication.md](WG-fornication.md) — word group: πορνεία, πορνεύω, πόρνη, πόρνος, μοιχεία, ἀκαθαρσία, ἀσέλγεια
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py*
-*Last updated: 2026-04-08*
+*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

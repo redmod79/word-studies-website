@@ -118,11 +118,31 @@ A projecting point — applied to a mountain summit or beams of radiant light.
 ### Word Family / Cognates
 - **H7162 קֶרֶן (qeren, Aramaic)** — direct Aramaic cognate; "a horn (literal or figurative)"; used in Daniel 7 for the horns of the four apocalyptic beasts (distinct from Dan 8 which uses H7161)
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for H7161.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for H7161.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
 |------|----------|--------------------|---------------|
 | H7162 קֶרֶן (Aram.) | H7162 | "horn(s)" | Aramaic form, same meaning; used in Daniel 7 Aramaic section only |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[001002006] Animals** — matches the literal-animal-horn usage.
+- **[001002008001003] Containers** — matches the oil-flask sense of a horn used as a vessel.
+- **[001002008001013] Musical Instruments** — matches the cornet/trumpet-like sense of projecting horn instruments.
+- **[001002008001008] Furnishings** — aligns with altar horns as projecting parts of cultic furniture.
+- **[001002002] Landforms** — accounts for the rare "hill / peak" usage.
+- **[002001001049] Shine** — aligns with the radiant "rays / horns" imagery of Hab 3:4.
+- **[003001017] Titles** — reflects the figurative honor/power field into which exalted-horn imagery can move.
+- **[003001010] Names of Locations** — a low-signal grouping surfaced by `search_relationships.py`; retained here as relationship-index output.
 
 ## LXX Mapping
 
@@ -136,7 +156,13 @@ A projecting point — applied to a mountain summit or beams of radiant light.
 ## See Also
 
 - [TR-qeren-keras.md](TR-qeren-keras.md) — cross-testament trace: Hebrew qeren → Greek κέρας (NT usage in Rev 5:6, 13:1, 17:3, Lk 1:69, etc.)
+- [A7162-qeren.md](A7162-qeren.md) — Aramaic cognate confined to Daniel's Aramaic chapters
+- [H7311-ruwm.md](H7311-ruwm.md) — exalt / lift up; often paired with horn imagery in power formulas
+- [H6842-tsaphir.md](H6842-tsaphir.md) — the he-goat term linked to horn imagery in Daniel 8
+- [G2768-keras.md](G2768-keras.md) — primary Greek horn equivalent
+- [G1632-ekcheo.md](G1632-ekcheo.md) — related study cross-referenced by the relationship index
+- [G2722-katecho.md](G2722-katecho.md) — related study cross-referenced by the relationship index
 
 ---
-*Generated from: gather_word_data.py, KJV text search*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, KJV text search, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -23,6 +23,12 @@ KJV usage: *silence* (2×)
 - **Subdomain:** 033.008 — Keep Silent
 - **Other words in domain:** ἐπιστομίζω (G1993), ἡσυχάζω (G2270), ἡσυχία (G2271), σιγάω (G4601), σιωπάω (G4623), στόμα (G4750), φιμόω (G5392), φράσσω (G5420)
 
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 033 | Communication | `search_relationships.py` keeps *sigē* inside the communication field, highlighting silence as the suspension of speech or noise rather than a separate ontological state. |
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -68,6 +74,14 @@ No strong content-word collocations (only 2 verses). The two most theologically 
 ### Word Family / Cognates
 - **G4601 σιγάω** (sigaō) — verb form: to keep silence, hold one's peace (3× NT: Luke 9:36; Acts 15:12; 1 Cor 14:28, 30, 34). The verb is more frequent than the noun.
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G4602.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G4602.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -94,8 +108,8 @@ No LXX attestation found. σιγή does not appear in the Septuagint; it is a cl
 
 ## See Also
 
-*(No TR or WG files currently exist for σιγή — no strong LXX bridge, and collocations are insufficient for a word group.)*
+*No additional word-study cross-references were returned by `search_relationships.py`; no TR or WG files currently exist for σιγή.*
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -7,7 +7,7 @@ The prophecy concept in the NT involves four cognate Greek words forming a singl
 
 | Strong's | Word | Transliteration | POS | Occurrences | Role in Concept | Library Entry |
 |----------|------|-----------------|-----|-------------|-----------------|---------------|
-| G4396 | προφήτης | prophētēs | masculine noun | 143 | The person — prophet, foreteller | TODO(need G4396 study) |
+| G4396 | προφήτης | prophētēs | masculine noun | 143 | The person — prophet, foreteller | [G4396-prophetes.md](G4396-prophetes.md) |
 | G4395 | προφητεύω | prophēteúō | verb | 27 | The act — to prophesy | TODO(need G4395 study) |
 | G4394 | προφητεία | prophēteía | feminine noun | 19 | The message/gift — prophecy | [G4394-propheteia.md](G4394-propheteia.md) |
 | G4397 | προφητικός | prophētikós | adjective | 2 | The quality — prophetic | TODO(need G4397 study) |

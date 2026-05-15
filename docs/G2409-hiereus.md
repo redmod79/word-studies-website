@@ -16,11 +16,16 @@
 
 From ἱερός (hieros); a priest (literally or figuratively): — (high) priest.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
-- **Domain:** 053 — Religious Activities
-- **Subdomain:** 053009 — Roles and Functions
-- **Other words in subdomain:** ἀρχιερεύς (G749), ἀρχιερατικός (G748), γραμματεύς (G1122), διάκονος (G1249), ἐπίσκοπος (G1985), ἀπόστολος (G652)
+**Louw-Nida:**
+- **053** — Religious Activities
+- **053.009** — Roles and Functions
+
+Other words in subdomain: ἀρχιερεύς (G749), ἀρχιερατικός (G748), γραμματεύς (G1122), διάκονος (G1249), ἐπίσκοπος (G1985), ἀπόστολος (G652)
+
+**UBS Semantic Domains:**
+- **[053]** Religious Activities
 
 ## Translation Distribution (KJV)
 
@@ -102,6 +107,14 @@ Hebrews dominates by density (12 of 30 NT occurrences, 4.0 per 100 verses), driv
 - **G2413 ἱερός (hieros)** — holy, sacred (root adjective)
 - **G749 ἀρχιερεύς (archiereus)** — high priest / chief priest; compound: ἀρχι- (chief) + ἱερεύς
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G2409.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G2409.*
+
 ### Easily Confused Words
 
 | Word               | Strong's | Shared Translation | Key Difference                                                                        |
@@ -129,11 +142,17 @@ Hebrews dominates by density (12 of 30 NT occurrences, 4.0 per 100 verses), driv
 ## See Also
 
 - [TR-kohen-hiereus.md](TR-kohen-hiereus.md) — cross-testament trace: kôhên → ἱερεύς
+- [G2411-hieron.md](G2411-hieron.md) — temple complex served by priests
+- [G2512-katharismos.md](G2512-katharismos.md) — cleansing/purification; priestly certification context
+- [G3316-mesites.md](G3316-mesites.md) — mediator language that intersects priestly intercession
+- [G3142-martyrion.md](G3142-martyrion.md) — testimony/tabernacle witness language tied to sanctuary service
+- [G3338-metamellomai.md](G3338-metamellomai.md) — referenced word study with priestly actors in view
+- [G500-antichristos.md](G500-antichristos.md) — referenced word study touching priestly or messianic contrast
 - [WG-priests.md](WG-priests.md) — word group: Greek priestly vocabulary
 - [WG-atonement.md](WG-atonement.md) — priestly atonement cluster (Hebrew)
 - [WG-anointed.md](WG-anointed.md) — anointed one (priest / king / messiah)
 - [WG-holiness.md](WG-holiness.md) — holiness vocabulary
 
 ---
-*Generated from: gather_word_data.py, gather_trace_data.py, gather_word_group_data.py*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, gather_trace_data.py, gather_word_group_data.py, search_relationships.py*
+*Last updated: 2026-04-27*

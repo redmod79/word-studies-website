@@ -12,8 +12,8 @@ The NT commandment-keeping concept clusters around 7 words. The core triad — e
 | G25 | ἀγαπάω | agapaō | verb | 109 | Love — the motive and the content of the commandment | [G25-agapao](G25-agapao.md) |
 | G3551 | νόμος | nomos | m. noun | 158 | The Law — broader legal category entolē operates within | TODO(need G3551 study) |
 | G1781 | ἐντέλλομαι | entellomai | verb | 17 | To command/enjoin — parent verb of entolē | TODO(need G1781 study) |
-| G1778 | ἔνταλμα | entalma | n. noun | 3 | Human religious precept (always negative in NT) | TODO(need G1778 study) |
-| G2003 | ἐπιταγή | epitagē | f. noun | 7 | Apostolic directive/decree (Pauline) | TODO(need G2003 study) |
+| G1778 | ἔνταλμα | entalma | n. noun | 3 | Human religious precept (always negative in NT) | [G1778](G1778-entalma.md) |
+| G2003 | ἐπιταγή | epitagē | f. noun | 7 | Apostolic directive/decree (Pauline) | [G2003](G2003-epitage.md) |
 
 ## Relationships
 

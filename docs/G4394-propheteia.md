@@ -20,6 +20,12 @@ From G4396 (prophētēs); prediction (scriptural or other): prophecy, prophesyin
 - **Domain:** 33.053 — Prophesy (subset of domain 33: Communication)
 - **Other words in subdomain:** προφητεύω (G4395), προφητικός (G4397)
 
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 033 | Communication | `search_relationships.py` keeps *propheteia* in revelation/utterance language, fitting both prophetic speech in the churches and written prophecy in Scripture/Revelation. |
+
 ## Domain Neighbors
 
 | Strong's | Lemma | Occurrences | Primary KJV |
@@ -109,6 +115,14 @@ Revelation self-designates as a prophecy (1:3) and enforces this identity with f
 - **G4395 προφητεύω (prophēteúō)** — the verb, to prophesy; 27 occurrences
 - **G4397 προφητικός (prophētikós)** — prophetic (adjective); 2 occurrences (Rom 16:26; 2 Pet 1:19)
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G4394.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G4394.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -125,9 +139,12 @@ Low co-occurrence count (3); no dominant Hebrew equivalent for this noun in LXX.
 
 ## See Also
 
+- [G1125-grapho.md](G1125-grapho.md) — write; Revelation repeatedly speaks of "the words of this prophecy" as a written text
+- [G975-biblion.md](G975-biblion.md) — book; Revelation frames itself as "the book of this prophecy"
+- [H5016-nbuwah.md](H5016-nbuwah.md) — Hebrew prophecy noun; OT background term for prophetic utterance
 - [WG-prophecy.md](WG-prophecy.md) — word group: prophecy cluster (G4394, G4395, G4396, G4397)
 - [G4151-pneuma.md](G4151-pneuma.md) — "spirit of prophecy" (Rev 19:10); Spirit as source of prophecy (2 Pet 1:21)
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

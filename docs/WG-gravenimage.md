@@ -8,9 +8,9 @@ Five Hebrew words form the core vocabulary for prohibited images and idols in th
 | Strong's | Word | Transliteration | POS | Occurrences | Role in Concept | Library Entry |
 |----------|------|-----------------|-----|-------------|-----------------|---------------|
 | H6459 | פֶּסֶל | pecel | masc. noun | 30 | The carved/hewn idol — the specific object prohibited in the Decalogue | [H6459-pecel.md](H6459-pecel.md) |
-| H4541 | מַסֵּכָה | massekah | fem. noun | 28 | The cast/molten image — metal idol produced by pouring | TODO(need H4541 study) |
+| H4541 | מַסֵּכָה | massekah | fem. noun | 28 | The cast/molten image — metal idol produced by pouring | [H4541-maccekah.md](H4541-maccekah.md) |
 | H6456 | פְּסִיל | peciyl | masc. noun | 24 | Sibling of pecel — carved image (+ "quarry" in Jdg 3) | [H6456-pciyl.md](H6456-pciyl.md) |
-| H457 | אֱלִיל | eliyl | masc. adj. | 18 | The worthless/vain idol — emphasizes the idol's nothingness | TODO(need H457 study) |
+| H457 | אֱלִיל | eliyl | masc. adj. | 18 | The worthless/vain idol — emphasizes the idol's nothingness | [H457-eliyl.md](H457-eliyl.md) |
 | H8544 | תְּמוּנָה | temunah | fem. noun | 10 | Likeness/similitude/form — the visual representation itself | TODO(need H8544 study) |
 
 ## Relationships

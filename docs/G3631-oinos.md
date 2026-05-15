@@ -112,6 +112,14 @@ Revelation has the highest raw count (8), with heavy concentration in chapters 1
 | σίκερα (sikera) | G4608 | 1 | strong drink | Any fermented drink other than grape wine; Lk 1:15 only |
 | σμυρνίζω (smyrnizo) | G4669 | 1 | mingled with myrrh | Wine mixed with myrrh as anesthetic; Mk 15:23 only |
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G3631.*
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for G3631.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -119,6 +127,12 @@ Revelation has the highest raw count (8), with heavy concentration in chapters 1
 | יַיִן (yayin) | H3196 | wine (OT) | Hebrew equivalent; primary OT word for fermented grape wine |
 | חֲמַר (chamar) | A2562 | wine (Aramaic) | Aramaic word for wine; Dan 5:1-4 only |
 | תִּירוֹשׁ (tirosh) | H8492 | wine / new wine (OT) | Fresh/unfermented grape juice; emphasis on harvest blessing |
+
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 006 | Artifacts | `search_relationships.py` groups *oinos* with concrete material-goods vocabulary, matching its treatment as a stored commodity, traded product, and poured substance in both ordinary and judgment contexts. |
 
 ## Hebrew Source (via LXX)
 
@@ -135,13 +149,18 @@ The primary Hebrew source is yayin (H3196), the standard OT word for wine, with 
 ## See Also
 
 - [TR-yayin-oinos.md](TR-yayin-oinos.md) — cross-testament trace (yayin → oinos)
+- [H1612-gephen.md](H1612-gephen.md) — vine imagery and grape-bearing background
+- [H7941-shekar.md](H7941-shekar.md) — strong drink paired with wine in abstinence and vice contexts
 - [WG-wine.md](WG-wine.md) — word group (wine/fermented drink cluster)
 - [WG-wrath.md](WG-wrath.md) — word group (references oinos in wrath context)
 - [G2372-thumos.md](G2372-thumos.md) — thumos: wrath/fury (co-occurs 5x with oinos)
 - [G3709-orge.md](G3709-orge.md) — orge: wrath/anger (co-occurs 3x)
+- [G1632-ekcheo.md](G1632-ekcheo.md) — ekcheō: pour out; poured wine / poured-out wrath imagery
+- [G2537-kainos.md](G2537-kainos.md) — kainos: new; new wine/new wineskins sayings
 - [G4202-porneia.md](G4202-porneia.md) — porneia: fornication (co-occurs 3x)
+- [G4203-porneuo.md](G4203-porneuo.md) — porneuō: commit fornication; Babylon's intoxicating corruption
 - [G1484-ethnos.md](G1484-ethnos.md) — ethnos: nations (co-occurs 4x)
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db*
-*Last updated: 2026-04-13*
+*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

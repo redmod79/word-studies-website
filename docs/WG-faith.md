@@ -13,8 +13,8 @@ The faith word group centers on πίστις (pistis) and its cognates, covering
 | πιστός (pistos) | G4103 | adj | Faithful, trustworthy | 67 | TODO(need G4103 study) |
 | ἀγάπη (agapē) | G26 | noun | Love (paired companion) | 116 | [G26-agape](G26-agape.md) |
 | δικαιοσύνη (dikaiosynē) | G1343 | noun | Righteousness (received by faith) | 92 | [G1343-dikaiosyne](G1343-dikaiosyne.md) |
-| ἐλπίς (elpis) | G1680 | noun | Hope (triad companion) | 54 | TODO(need G1680 study) |
-| ἀπιστία (apistia) | G570 | noun | Unbelief (antonym) | 12 | TODO(need G570 study) |
+| ἐλπίς (elpis) | G1680 | noun | Hope (triad companion) | 54 | [G1680-elpis.md](G1680-elpis.md) |
+| ἀπιστία (apistia) | G570 | noun | Unbelief (antonym) | 12 | [G570](G570-apistia.md) |
 
 ## Pairwise Co-occurrence
 

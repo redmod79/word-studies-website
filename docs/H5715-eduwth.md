@@ -102,6 +102,22 @@ In Psalms the plural "thy testimonies" functions as a synonym for God's commandm
 - **H5707 עֵד (ʻêd)** — masculine noun: a witness, the person who testifies; 69 occurrences
 - **H5713 עֵדָה (ʻêdâh)** — alternate feminine noun form: testimony, witness; 26 occurrences (see below)
 
+### Synonyms
+- **בְּרִית (H1285)**
+- **חֹק (H2706)**
+- **מִצְוָה (H4687)**
+- **מִשְׁפָּט (H4941)**
+- **פִּקּוּדִים (H6490)**
+- **תֹורָה**
+
+### Antonyms
+No antonyms returned by `search_relationships.py`.
+
+### Semantic Domains
+- **[002003003016] Laws** — Other words: אֲמָנָה (H548), אֲמָנָה (H549), אֱסָר (A633), גְּזֵרָה (A1510), גְּזֵרָה (H1509), דָּת (A1882)
+- **[001002008001014] Scrolls** — Other words: אִגְּרָה (A104), אִגֶּרֶת (H107), גִּלָּיֹון (H1549), דָּבָר (H1697), דִּכְרֹון (A1799), דָּכְרָן (A1799)
+- **[002004001009006] Sing** — Other words: בַּת (A1325), בַּת (H1323), בַּת (H1324), גִּתִּית (H1665), זָמִיר (H2158), זָמִיר (H2159)
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -126,10 +142,12 @@ In Psalms the plural "thy testimonies" functions as a synonym for God's commandm
 
 - [TR-eduwth-martyrion.md](TR-eduwth-martyrion.md) — cross-testament trace: ʻêdûwth → μαρτύριον
 - [TR-ed-martys.md](TR-ed-martys.md) — cross-testament trace for the companion word H5707 עֵד (witness-person → μάρτυς)
+- [G3142-martyrion.md](G3142-martyrion.md) — primary Greek equivalent: μαρτύριον
+- [H3727-kapporeth.md](H3727-kapporeth.md) — mercy seat; major sanctuary collocate in ark-of-the-testimony contexts
 - [TR-arown-kibotos.md](TR-arown-kibotos.md) — trace for H727 אָרוֹן (ark) — most frequent collocate
 - [TR-moed-heorte.md](TR-moed-heorte.md) — trace for H4150 מוֹעֵד (appointed meeting/feast) — overlaps "tabernacle of the congregation"
 - [WG-testimony.md](WG-testimony.md) — word group for the Greek μαρτυρ- family (G3142 + G3141 + G3144 etc.)
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py --lexicon, kjv.txt*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, search_relationships.py, search_strongs.py --lexicon, kjv.txt*
+*Last updated: 2026-04-27*

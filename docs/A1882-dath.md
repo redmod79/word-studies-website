@@ -76,6 +76,14 @@ Confined entirely to the Aramaic sections of the OT (Daniel 2–7; Ezra 4–7). 
 ### Word Family / Cognates
 - **H1881 דָּת (dâth)** — Hebrew cognate: exact same spelling, same meaning ("royal edict, statute"); appears 22 times in Hebrew portions of OT, predominantly in Esther (19x) and once each in Deut 33:2, Ezra 8:36, and Isaiah 65:5. Same Persian loan-word, different biblical language section.
 
+### Synonyms
+
+No synonym entries were returned by `search_relationships.py` for this Aramaic noun.
+
+### Antonyms
+
+No antonym entries were returned by `search_relationships.py` for this Aramaic noun.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -95,6 +103,10 @@ Confined entirely to the Aramaic sections of the OT (Daniel 2–7; Ezra 4–7). 
 
 *G1378 (dogma) is the most precise LXX equivalent, capturing the formal-decree nuance. G3551 (nomos) is used when the referent is God's law specifically.*
 
+## Semantic Domains
+
+No semantic-domain data was returned by `search_relationships.py` for this Aramaic noun.
+
 ## See Also
 
 - [G1378-dogma](G1378-dogma.md) — δόγμα; the primary LXX equivalent; formal decree/ordinance (5 NT occurrences: Luke, Acts, Eph, Col)
@@ -104,5 +116,5 @@ Confined entirely to the Aramaic sections of the OT (Daniel 2–7; Ezra 4–7). 
 - [WG-law](WG-law.md) — broader law/commandment word group (Greek NT focus)
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py (--lexicon, --lookup, --lxx-map)*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, search_strongs.py (--lexicon, --lookup, --lxx-map), search_relationships.py*
+*Last updated: 2026-04-27*

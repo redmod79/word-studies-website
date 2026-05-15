@@ -15,14 +15,22 @@
 
 To stamp with a signet or private mark for security or preservation; to close up, make secure; to set a seal upon, mark with a seal as a means of identification, confirmation, or authentication.
 
-## Louw-Nida Semantic Domains
+## Semantic Domains
 
-- **6.55** — Instruments Used in Marking and Writing (physical seal/stamp)
-- **28.52** — Well Known, Clearly Shown, Revealed (confirmation/authentication)
-- **33.46** — Non-Verbal Communication (mark/sign)
-- **57.84** — Give (bestow/deliver securely)
+**Louw-Nida:**
+- **Domain 6.55:** Instruments Used in Marking and Writing (physical seal/stamp)
+- **Domain 28.52:** Well Known, Clearly Shown, Revealed (confirmation/authentication)
+- **Domain 33.46:** Non-Verbal Communication (mark/sign)
+- **Domain 57.84:** Give (bestow/deliver securely)
 - **Glosses:** to seal, to put a seal on, to make secure
-- **Other words in domain 6.55:** κατασφραγίζω, σφραγίς, βιβλίον, γράμμα
+- **Other words in domain 6.55:** κατασφραγίζω (G2696), σφραγίς (G4973), βιβλίον (G975), γράμμα (G1121)
+
+**UBS Semantic Domains:**
+- **[006]** Artifacts
+- **[033]** Communication
+- **[057]** Possess, Transfer, Exchange
+- **[015]** Linear Movement
+- **[028]** Know
 
 ## Translation Distribution (KJV)
 
@@ -111,6 +119,14 @@ The passive voice appears exclusively in contexts of divine sealing of believers
 - **G4973 σφραγίς (sphragis)** — seal, signet ring (noun); 16 NT occurrences
 - **G2696 κατασφραγίζω (katasphragizō)** — to seal closely; 1 NT occurrence (Rev 5:1)
 
+### Synonyms
+
+No direct synonyms were returned by `search_relationships.py` for G4972.
+
+### Antonyms
+
+No direct antonyms were returned by `search_relationships.py` for G4972.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -134,8 +150,17 @@ Primary Hebrew equivalent: **H2856 חָתַם (chatham)** — to close up, to se
 
 ## See Also
 
+- [G4973-sphragis.md](G4973-sphragis.md) — cognate noun: seal, signet, impressed mark
+- [G2696-katasphragizo.md](G2696-katasphragizo.md) — intensive compound: seal up completely
+- [G5480-charagma.md](G5480-charagma.md) — mark/imprint language in Revelation's sealing-marking contrast
+- [G975-biblion.md](G975-biblion.md) — sealed scroll/book imagery
+- [G974-bibliaridion.md](G974-bibliaridion.md) — little book/scroll in the same apocalyptic document field
+- [G225-aletheia.md](G225-aletheia.md) — truth/authentication overlap ("set to his seal that God is true")
+- [G4151-pneuma.md](G4151-pneuma.md) — Spirit as the divine agent of sealing
+- [H2856-chatham.md](H2856-chatham.md) — primary Hebrew sealing verb
+- [H5640-catham.md](H5640-catham.md) — "stop up/shut" vocabulary linked in the sealing field
 - [WG-sealing.md](WG-sealing.md) — word group: sealing concept cluster
 
 ---
-*Generated from: search_strongs.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-03-31*
+*Generated from: search_strongs.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-28*

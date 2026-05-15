@@ -135,6 +135,14 @@ Highest density in Amos (the "three...and four" judgment formula) and Ezra-Nehem
 - **H8029 שִׁלֵּשׁ (shillesh)** — pertaining to the third (generation)
 - **H8032 שִׁלְשׁוֹם (shilshowm)** — three days ago, formerly (lit. "the day before yesterday")
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for H7969.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for H7969.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -142,6 +150,12 @@ Highest density in Amos (the "three...and four" judgment formula) and Ezra-Nehem
 | תְּלָת (telath) | H8532 | "three" (10 vv) | Aramaic equivalent of shalosh — used only in Daniel and Ezra |
 | שְׁלִישִׁי (shliyshiy) | H7992 | "third" (13 vv) | Ordinal form ("third") vs. cardinal ("three") |
 | שִׁלְשׁוֹם (shilshowm) | H8032 | "three" (1 v) | Temporal adverb meaning "formerly / three days ago," not the number |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002001001042] Quantity** — `search_relationships.py` places *shalowsh* in the core numeral field alongside other quantity terms such as **H259 אֶחָד** and the **אֶלֶף** word family.
+- **[002001003009] Frequency** — the same tool also links *shalowsh* to recurrence/counting language, fitting adverbial uses such as "thrice" and repeated-number formulas.
 
 ## LXX Mapping
 
@@ -156,6 +170,13 @@ Highest density in Amos (the "three...and four" judgment formula) and Ezra-Nehem
 
 The LXX consistently maps shalosh to the Greek τρι- word family. The primary equivalent G5140 (treis) covers the straightforward cardinal uses.
 
+## See Also
+
+- [H7992-shliyshiy.md](H7992-shliyshiy.md) — ordinal counterpart derived from shalowsh
+- [G5154-tritos.md](G5154-tritos.md) — Greek "third" study cross-referenced through number/ordinal usage
+- [H6588-pesha.md](H6588-pesha.md) — references the Amos "for three transgressions" judgment formula
+- [H4960-mishteh.md](H4960-mishteh.md) — cross-references numbered feast / banquet usage
+
 ---
-*Generated from: gather_word_data.py, search_strongs.py*
-*Last updated: 2026-04-15*
+*Generated from: gather_word_data.py, search_strongs.py, search_relationships.py*
+*Last updated: 2026-04-27*

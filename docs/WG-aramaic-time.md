@@ -8,7 +8,7 @@ The time concept in Daniel's Aramaic sections (Dan 2-7) involves 6 Aramaic words
 | Strong's | Word | Transliteration | POS | Occurrences | Role in Concept | Library Entry |
 |----------|------|-----------------|-----|-------------|-----------------|---------------|
 | H5732 | עִדָּן | ʻiddân | noun | 15 | The time-period (set time, year) | [A5732](A5732-iddan.md) |
-| H2166 | זְמָן | zᵉmân | noun | 11 | The appointed occasion (season, time) | TODO(need H2166 study) |
+| H2166 | זְמָן | zᵉmân | noun | 11 | The appointed occasion (season, time) | [A2166](A2166-zman.md) |
 | H8133 | שְׁנָא | shᵉnâʼ | What happens to times (change, alter) | [A8133-shna](A8133-shna.md) |
 | H2499 | חֲלַף | chălaph | verb | 4 | How time advances (pass over) | TODO(need H2499 study) |
 | H7655 | שִׁבְעָה | shibʻâh | noun | 6 | Time quantifier (seven) | TODO(need H7655 study) |

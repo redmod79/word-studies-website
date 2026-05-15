@@ -25,6 +25,10 @@
 - **Subdomain:** 40.2 — Forgiveness
 - **Other words in subdomain:** ἱλάσκομαι (G2433), ἱλασμός (G2434), ἄφεσις (G0859), ἀφίημι (G0863), χαρίζομαι (G5483)
 
+## UBS Semantic Domains
+
+- **[040] Reconciliation, Forgiveness** — `search_relationships.py` keeps G2435 in the same reconciliation/forgiveness field as its Louw-Nida placement.
+
 ## Translation Distribution (KJV)
 
 | Translation | Count | % |
@@ -73,6 +77,14 @@ Paul applies ἱλαστήριον to Christ himself. The anarthrous form (no ar
 - **G2434 ἱλασμός (hilasmos)** — noun: propitiation, the atoning act or event (2x: 1 John 2:2; 4:10)
 - **G2436 ἵλεως (hileōs)** — adjective: propitious, gracious, merciful (2x: Matt 16:22; Heb 8:12)
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G2435. The tool instead surfaced adjacent reconciliation/forgiveness vocabulary in the same semantic field.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G2435.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -101,10 +113,16 @@ The dominant LXX usage is for H3727 kapporeth (the mercy seat/atonement cover). 
 
 ## See Also
 
+- [G2643-katallage.md](G2643-katallage.md) — reconciliation / atonement language closely related to the propitiatory field
+- [TR-arown-kibotos.md](TR-arown-kibotos.md) — cross-testament trace: ʼārôn -> kibōtós (the ark beneath the mercy seat)
+- [G1343-dikaiosyne.md](G1343-dikaiosyne.md) — righteousness, explicit in Rom 3:25 alongside ἱλαστήριον
+- [G859-aphesis.md](G859-aphesis.md) — forgiveness / remission; neighboring release vocabulary in the same semantic field
+- [G863-aphiemi.md](G863-aphiemi.md) — forgive / release; verbal counterpart to ἄφεσις
+- [H5715-eduwth.md](H5715-eduwth.md) — testimony / witness; ark-testimony context beneath the mercy seat
 - [TR-kapporeth-hilasterion.md](TR-kapporeth-hilasterion.md) — cross-testament trace: כַּפֹּרֶת → ἱλαστήριον
 - [WG-atonement.md](WG-atonement.md) — atonement word group
 - [H3727-kapporeth.md](H3727-kapporeth.md) — canonical study of the Hebrew mercy seat
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py (--lexicon, --hebrew-source), louw_nida.db*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, search_strongs.py (--lexicon, --hebrew-source), louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

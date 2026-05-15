@@ -21,6 +21,14 @@ To frighten, i.e. (passively) to be alarmed; by analogy, to be in awe of, revere
 - **Domain 053.007:** Worship, Reverence — alongside δέος (G0127a), εὐσεβέω (G2151), προσκυνέω (G4352)
 - **Domain 087.002:** Honor or Respect in Relation to Status — alongside δόξα (G1391), δοξάζω (G1392), ἐντρέπω (G1788)
 
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 025 | Attitudes and Emotions | `search_relationships.py` places *phobeō* in the core emotional field of fear/alarm. |
+| 087 | Status | The same tool also groups it with status/honor language, matching uses where fear overlaps with reverence and deference. |
+| 053 | Religious Activities | The worship domain fits commands such as "Fear God" where reverence functions as explicitly religious response. |
+
 ## Voice and Tense Distribution
 
 | Voice/Tense | Count | Notes |
@@ -154,6 +162,17 @@ Heavily concentrated in the Synoptic Gospels and Acts (62 of 90 verses). The Gos
 - **G1630 ἔκφοβος (ekphobos)** — adjective: exceedingly afraid (2 verses: Mark 9:6; Heb 12:21)
 - **G870 ἀφόβως (aphobos)** — adverb: without fear (4 verses)
 
+### Synonyms
+
+- **G1629 ἐκφοβέω (ekphobeō)** — the closest lexeme-family parallel returned by `search_relationships.py`; "to frighten utterly."
+- **G2292 θαρρέω (tharreō)** — listed by `search_relationships.py` within the same emotional field, on the courage side of the fear/courage polarity.
+- **G225 ἀλήθεια (alētheia)** — listed by `search_relationships.py` in the broader reverence/truth network tied to fearing God.
+- **G2274 ἡσσάομαι (hēssaomai)** — listed by `search_relationships.py` as a status/defeat neighbor in the same broader semantic field.
+
+### Antonyms
+
+- **ὑψηλοφρονεῖν** — "to be high-minded"; contrast term returned through the Abbott-Smith antonym bucket used by `search_relationships.py`.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -186,10 +205,12 @@ H3372 יָרֵא (yare) is the dominant Hebrew equivalent by a wide margin (241 
 
 ## See Also
 
+- [H3372-yare.md](H3372-yare.md) — the primary Hebrew verb behind φοβέω in the LXX
 - [TR-yare-phobeo.md](TR-yare-phobeo.md) — cross-testament trace: H3372 yare → G5399 phobeo
 - [WG-fear.md](WG-fear.md) — word group: fear/reverence concept cluster
 - [G4352-proskyneo.md](G4352-proskyneo.md) — worship (domain neighbor, paired with phobeo in Rev 14:7)
+- [G225-aletheia.md](G225-aletheia.md) — truth; surfaced by `search_relationships.py` as a linked study in the reverence/truth network
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py --hebrew-source*
-*Last updated: 2026-04-13*
+*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py --hebrew-source, search_relationships.py*
+*Last updated: 2026-04-28*

@@ -17,10 +17,14 @@ From G2596 (κατά, intensifying) and G4972 (σφραγίζω); to seal closel
 
 The κατά- prefix intensifies the action of the base verb σφραγίζω, emphasizing thoroughness or finality of the sealing. BLB lists two biblical occurrences: LXX Job 9:7 (translating H2856 חָתַם) and Rev 5:1.
 
-## Louw-Nida Semantic Domain
+## Semantic Domains
 
+**Louw-Nida:**
 - **Domain:** 006010 — Instruments Used in Marking and Writing
 - **Other words in domain:** βιβλίον (G0975), βίβλος (G0976), γράμμα (G1121), ἐπιστολή (G1992), κάλαμος (G2563)
+
+**UBS Semantic Domains:**
+- **[006]** Artifacts
 
 ## Translation Distribution (KJV)
 
@@ -61,6 +65,14 @@ The immediate context of Rev 5:1 pairs this word with σφραγίς (G4973, "se
 - **G4972 σφραγίζω (sphragizō)** — base verb: to seal, to stamp with a signet (27 NT occurrences); G2696 is its intensive compound
 - **G4973 σφραγίς (sphragis)** — noun: seal, signet (16 NT occurrences); co-occurs with G2696 at Rev 5:1
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for G2696.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G2696.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -80,7 +92,11 @@ The immediate context of Rev 5:1 pairs this word with σφραγίς (G4973, "se
 - [WG-sealing.md](WG-sealing.md) — word group: sealing (G4972, G4973, G2696, H2856, H2368, H2857)
 - [G4972-sphragizo.md](G4972-sphragizo.md) — base verb σφραγίζω (to seal)
 - [G4973-sphragis.md](G4973-sphragis.md) — noun σφραγίς (seal, signet)
+- [H2856-chatham.md](H2856-chatham.md) — חָתַם, the primary Hebrew sealing root reflected in Job 9:7
+- [G2563-kalamos.md](G2563-kalamos.md) — κάλαμος, reed/writing vocabulary in the same artifact domain
+- [G974-bibliaridion.md](G974-bibliaridion.md) — βιβλαρίδιον, the little scroll in Revelation's sealed-book imagery
+- [G975-biblion.md](G975-biblion.md) — βιβλίον, the sealed scroll/book in Rev 5:1
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, search_strongs.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

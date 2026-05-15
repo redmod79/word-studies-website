@@ -37,6 +37,20 @@ The **tense/voice** carries the semantic weight: perfect active = intransitive "
 - **Domain:** 17.1 — Stances and Events Related to Stances: **Stand**
 - **Other words in domain:** ἀνίστημι (G450), ἐγείρω (G1453), ἐφίστημι (G2186), παρίστημι (G3936), στήκω (G4739), συνίστημι (G4921)
 
+## UBS Semantic Domains
+
+- **[017] Stances and Events Related to Stances** — the core "stand / set / station" field.
+- **[085] Existence in Space** — spatial presence and locatedness.
+- **[076] Power, Force** — establishment and force-of-position overlaps.
+- **[057] Possess, Transfer, Exchange** — presentation and placement uses.
+- **[030] Think** — secondary overlap where settled stance shades into resolve.
+- **[033] Communication** — witness and courtroom scenes where persons stand and speak.
+- **[068] Aspect** — continuative "remain / continue standing" force.
+- **[013] Be, Become, Exist, Happen** — stative perfect uses ("is standing," "stands established").
+- **[031] Hold a View, Believe, Trust** — figurative firmness and settled conviction.
+
+`search_relationships.py` keeps **ἵστημι** anchored in stance vocabulary, but its broad NT range also pushes it into establishment, presentation, and steadfastness domains.
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -149,6 +163,14 @@ Beings stationed before the divine throne — prominent in Acts and Revelation.
 - **G4714 στάσις (stásis)** — noun from root; "standing; insurrection, dissension"
 - **G4921 συνίστημι (sunistēmi)** — σύν + ἵστημι; "stand with, commend, recommend"
 
+### Synonyms
+
+`search_relationships.py` did not return a tight non-cognate synonym set for G2476 beyond the existing στη-/στα- family already listed above.
+
+### Antonyms
+
+`search_relationships.py` did not return a dedicated antonym pair for G2476.
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -174,7 +196,14 @@ Beings stationed before the divine throne — prominent in Acts and Revelation.
 
 ## See Also
 - [WG-stood.md](WG-stood.md) — word group: ἵστη- root cluster (histēmi, anistēmi, paristēmi, stēkō, stasis)
+- [H5975-amad.md](H5975-amad.md) — primary Hebrew "stand" equivalent behind ἵστημι in the LXX
+- [G868-aphistemi.md](G868-aphistemi.md) — away-stand verb built on the same root
+- [G646-apostasia.md](G646-apostasia.md) — standing-away / apostasy noun from the same root family
+- [G2379-thysiastērion.md](G2379-thysiastērion.md) — existing study cross-referencing ἵστημι
+- [G1228-diabolos.md](G1228-diabolos.md) — existing study cross-referencing ἵστημι
+- [G2424-Iesous.md](G2424-Iesous.md) — existing study cross-referencing ἵστημι
+- [G946-bdelygma.md](G946-bdelygma.md) — existing study cross-referencing ἵστημι
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-02*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

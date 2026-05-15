@@ -140,6 +140,19 @@ The collocation with abad (serve) is theologically significant: "serve and worsh
 - **H7811 שָׂחָה (sachah)** — to swim (different root, similar form)
 - **H7807 שַׁח (shach)** — humble, lowly (adjective from same root concept of being low/depressed)
 
+### Synonyms
+- **H5046 נגד** — returned by `search_relationships.py` among nearby homage / relation vocabulary.
+- **H1288 ברך** — returned by the tool in the wider bodily-deference field.
+- **H3766 כרע** — returned in the same bowing cluster.
+- **H5307 נפל** — returned in the same fall-down / prostration cluster.
+- **H5456 סגד** — Aramaic worship / bowing vocabulary surfaced by the tool.
+- **H6915 קדד** — returned in the bowing-posture field.
+- **H7817 שׁחח** — returned as a low / bowed posture neighbor.
+
+### Antonyms
+
+*No antonym entries were returned by `search_relationships.py` for H7812.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -150,6 +163,16 @@ The collocation with abad (serve) is theologically significant: "serve and worsh
 | יָרֵא (yare) | H3372 | "reverence" | Inner feeling of fear/awe; shachah is the outward physical act |
 | קָדַד (qadad) | H6915 | "bow down (the head)" | Head-bowing only; shachah involves the whole body prostrating |
 | προσκυνέω (proskyneō) | G4352 | "worship" (NT Greek) | The standard LXX/NT translation of shachah; same semantic range |
+
+## Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 002001001009 | Bow | Core relationship domain returned by `search_relationships.py`; this is the central bodily-prostration field. |
+| 002001001057 | Stance | Secondary posture field returned alongside bowing vocabulary. |
+| 002004001009008 | Speak | Peripheral association surfaced by the tool. |
+| 002004002007 | Know | Peripheral association surfaced by the tool. |
+| 002003003022 | Unsafe | Peripheral association surfaced in vulnerability / subjection contexts. |
 
 ## LXX Mapping
 
@@ -168,7 +191,11 @@ The overwhelming mapping to proskyneō (G4352) at 94% makes this one of the stro
 
 - [TR-shachah-proskyneo.md](TR-shachah-proskyneo.md) — cross-testament trace: shachah → proskyneō
 - [WG-worship.md](WG-worship.md) — word group: Worship / Prostration
+- [G4352-proskyneo.md](G4352-proskyneo.md) — Greek NT study of the primary LXX / NT bridge
+- [H5307-naphal.md](H5307-naphal.md) — related "fall down" vocabulary surfaced by `search_relationships.py`
+- [H6459-pecel.md](H6459-pecel.md) — carved-image study tied to forbidden worship contexts
+- [A5457-cgid.md](A5457-cgid.md) — Aramaic worship verb in Daniel 3
 
 ---
-*Generated from: gather_word_data.py, hebrew_parser.py, kjv.txt*
-*Last updated: 2026-04-15*
+*Generated from: gather_word_data.py, hebrew_parser.py, kjv.txt, search_relationships.py*
+*Last updated: 2026-04-27*

@@ -128,6 +128,14 @@ A figurative outgrowth: something of comparable rank, worth, or proportion.
 - **H6299 פָּדָה (padah)** — to ransom, redeem (esp. firstborn).
 - **H3724 כֹּפֶר (kopher)** — ransom price, covering.
 
+### Synonyms
+
+*No direct synonyms were returned by `search_relationships.py` for H6187.*
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for H6187.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
@@ -137,6 +145,15 @@ A figurative outgrowth: something of comparable rank, worth, or proportion.
 | כֹּפֶר kopher | H3724 | ransom-covering | kopher frees from *guilt or death* (e.g. Exo 30:12); ʻerek discharges a *vow*. |
 | מֶכֶס mekec | H4371 | "tribute, tax" | mekec is a census-based tribute (Num 31); ʻerek when used of tax (2 Kgs 23:35) is an assessed per-head levy. |
 | מַעֲרֶכֶת maʻarekheth | H4635 | "row, order" (of bread) | maʻarekheth is the specific showbread-row item; ʻerek (Exo 40:4, 23) is the *act* of arranging. |
+
+## Semantic Domains
+
+### UBS / Relationship Domains
+- **[002004002005] Estimate** — the core priestly-valuation field, matching *ʻerek*'s dominant Leviticus usage.
+- **[002002001001] Arrange** — preserves the root sense of setting things in order, visible in the tabernacle/showbread passages.
+- **[002004002003] Compare** — supports the extended senses of relative worth, equality, and price.
+- **[002001001042] Quantity** — reflects the counted and measured tariff dimension of the valuation schedule.
+- **[002001001048] Shape** — a broad arrangement/form bucket returned by the tool, secondary to the estimate/arrange senses above.
 
 ## LXX Mapping
 
@@ -174,5 +191,5 @@ The consistent collocations — *kohen* (priest), *keseph* (silver), *sheqel haq
 - [TR-neder-euche.md](TR-neder-euche.md) — cross-testament trace of "vow"
 
 ---
-*Generated from: gather_word_data.py, kjv.txt, Strong's lexicon, LXX PMI map*
-*Last updated: 2026-04-17*
+*Generated from: gather_word_data.py, kjv.txt, Strong's lexicon, LXX PMI map, search_relationships.py*
+*Last updated: 2026-04-27*

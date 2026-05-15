@@ -24,6 +24,11 @@ The word carries two distinct legal senses in the Greek world: (1) a bilateral *
 - **Key neighbors in domain:** G1303 διατίθεμαι (make a covenant), G0802 ἀσύνθετος (covenant-breaker), G1325 δίδωμι (give)
 - **Secondary Domain:** 57 — Possess, Transfer, Exchange (the testamentary/will sense)
 
+## UBS Semantic Domains
+
+- **[034] Association** — covenant as an established relationship or binding arrangement between parties.
+- **[057] Possess, Transfer, Exchange** — the testamentary sense in Hebrews, where inheritance or disposition takes effect through death.
+
 ## Translation Distribution (KJV)
 
 | Translation | Verses | % |
@@ -115,6 +120,18 @@ Paul argues the Abrahamic diathēkē is an irrevocable arrangement the Mosaic la
 - **G1303 διατίθεμαι (diatithēmi)** — root verb: to arrange, assign, dispose; to make a covenant (Heb 8:10; 9:16; 10:16)
 - **G1304 διατριβή (diatribē)** — distant cognate (spending time); unrelated semantically
 
+### Synonyms
+
+- **G3142 μαρτύριον (martyrion)** — testimony / witness; `search_relationships.py` grouped it with covenant-document and witness themes.
+- **G2665 καταπέτασμα (katapetasma)** — veil; Hebrews' covenant argument is tightly bound to tabernacle-access imagery.
+- **G685 ἀρά (ara)** — curse; covenant oath and sanction language form the linkage surfaced by the relationship tool.
+- **G1656 ἔλεος (eleos)** — mercy; biblical covenant discourse regularly overlaps with covenant-mercy language.
+- **G3051 λόγιον (logion)** — oracle; divine covenant words and covenant documents are a recurring pairing.
+
+### Antonyms
+
+*No antonyms were returned by `search_relationships.py` for G1242.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared KJV Translation | Key Difference |
@@ -135,11 +152,18 @@ Paul argues the Abrahamic diathēkē is an irrevocable arrangement the Mosaic la
 
 ## See Also
 
+- [H5769-owlam.md](H5769-owlam.md) — everlasting / perpetual; frequent in "everlasting covenant" formulations
+- [G1632-ekcheo.md](G1632-ekcheo.md) — pour out / shed; the new covenant is ratified in blood "shed for many"
+- [G2537-kainos.md](G2537-kainos.md) — new; the adjective that regularly qualifies the new covenant
+- [G2673-katargeo.md](G2673-katargeo.md) — abolish / make ineffective; Galatians and Hebrews set covenant permanence over against annulment
+- [G2787-kibotos.md](G2787-kibotos.md) — ark; the ark of the covenant preserves the concrete cultic sense of diathēkē
 - [TR-beriyth-diatheke.md](TR-beriyth-diatheke.md) — cross-testament trace: Hebrew beriyth → Greek diathēkē
 - [TR-karath-diatithemi.md](TR-karath-diatithemi.md) — cross-testament trace: "cut a covenant" karath → diatithēmi
+- [TR-arown-kibotos.md](TR-arown-kibotos.md) — cross-testament trace: ark terminology tied to covenant vocabulary
 - [WG-covenant.md](WG-covenant.md) — word group: full covenant concept cluster (beriyth, karath, shamar, olam, aron)
+- [WG-new.md](WG-new.md) — word group tracking "new" vocabulary that shapes new-covenant language
 - [H1285-beriyth.md](H1285-beriyth.md) — Hebrew source word canonical study
 
 ---
-*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, greek_parser.py, louw_nida.db, search_relationships.py*
+*Last updated: 2026-04-27*

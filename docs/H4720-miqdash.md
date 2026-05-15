@@ -109,11 +109,28 @@ From H6942 (qadash — to be set apart as holy). The word designates a specific 
 - **H6944 קֹדֶשׁ (qodesh)** — abstract noun: holiness, a holy thing, sacred portion (468 occurrences)
 - **H6918 קָדוֹשׁ (qadosh)** — adjective: holy, set apart (117 occurrences)
 
+### Synonyms
+- **H1004 בַּיִת (bayith)** — house, building; overlaps where the sanctuary is treated as the temple-house.
+- **H1116 בָּמָה (bamah)** — high place, shrine; overlaps at the level of cultic site, though usually for illicit worship rather than the authorized sanctuary.
+- **H4908 מִשְׁכָּן (mishkan)** — dwelling, tabernacle; close synonym when the focus is on God's dwelling place.
+- **H6944 קֹדֶשׁ (qodesh)** — holiness, holy place; overlaps in phrases translated "sanctuary" or "holy place," though *qodesh* is broader than a specific structure.
+
+### Antonyms
+
+*No antonyms returned by `search_relationships.py` for H4720.*
+
 ### Easily Confused Words
 
 | Word | Strong's | Shared Translation | Key Difference |
 |------|----------|--------------------|----------------|
 | קֹדֶשׁ (qodesh) | H6944 | both translated "sanctuary," "holy place" | qodesh = abstract holiness or any consecrated *thing*; miqdash = a specific consecrated *place/structure*. Qodesh is 6× more frequent and covers holiness, holy days, holy objects, and sacred portions. Miqdash always means a location. |
+
+## UBS Semantic Domains
+
+| Code | Domain Label | Notes |
+|------|--------------|-------|
+| 002001001031 | Holy | `search_relationships.py` places *miqdâsh* in the holiness field, fitting its core sense as a set-apart sacred place. |
+| 001002009001 | Buildings | The same tool also groups it with building/structure vocabulary, reflecting the sanctuary as an actual consecrated site or complex. |
 
 ## LXX Mapping
 
@@ -132,5 +149,5 @@ From H6942 (qadash — to be set apart as holy). The word designates a specific 
 - [H6944-qodesh.md](H6944-qodesh.md) — closely related word, abstract holiness (if/when available)
 
 ---
-*Generated from: gather_word_data.py, search_strongs.py, kjv.txt*
-*Last updated: 2026-04-01*
+*Generated from: gather_word_data.py, search_strongs.py, kjv.txt, search_relationships.py*
+*Last updated: 2026-04-27*
