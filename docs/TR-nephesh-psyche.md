@@ -46,7 +46,7 @@ H5315, 682 verses      ~599x as translation     94 verses in NT
 **Key NT passages:**
 - **Matthew 16:25-26** — "whosoever will lose his life (psychē) for my sake shall find it. For what is a man profited, if he shall gain the whole world, and lose his own soul (psychē)?" — one verse: life risked; next verse: soul weighed against the world
 - **Acts 2:41** — "there were added unto them about three thousand souls (psychē)" — counting persons, exactly like OT nephesh in census use
-- **Revelation 6:9** — "I saw under the altar the souls (psychē) of them that were slain for the word of God" — post-death conscious existence; closer to Greek psychē than Hebrew nephesh
+- **Revelation 6:9** — "I saw under the altar the souls (psychē) of them that were slain for the word of God" — apocalyptic vision-symbol; psychē = the slain *lives* poured out, echoing "the blood of thy brother crieth" (Gen 4:10) and "the life (nephesh) is in the blood" (Lev 17:11). The martyrs' cry for vindication is figurative, not a statement that souls exist consciously detached from the body
 - **1 Peter 1:9** — "Receiving the end of your faith, even the salvation of your souls (psychē)" — whole persons saved, not just an immaterial part
 - **Hebrews 4:12** — "piercing even to the dividing asunder of soul (psychē) and spirit (pneuma)" — psychē distinguished from pneuma, the only clear NT division
 
@@ -65,7 +65,7 @@ H5315, 682 verses      ~599x as translation     94 verses in NT
 - Psychē as seat of emotion and longing (John 12:25; 1 Pet 1:9)
 
 **What shifts:**
-- OT nephesh never denotes a disembodied, immortal entity; NT psychē in Rev 6:9 and 20:4 describes deceased souls consciously existing apart from a body
+- NT psychē keeps the Hebrew totality-of-self meaning throughout; it never denotes a disembodied, immortal entity. The "souls under the altar" (Rev 6:9; cf. 20:4) belong to apocalyptic vision-symbolism — the slain lives crying for vindication, like Abel's blood (Gen 4:10) — and should not be read as a doctrinal shift toward a conscious soul existing apart from the body
 - The Shema (Deut 6:5) carries nephesh intact into NT Greek via psychē (Matt 22:37), preserving the Hebrew totality-of-self meaning even in a Greek frame
 - NT introduces the psychē/pneuma distinction (Heb 4:12; 1 Thess 5:23) which has no direct parallel in the OT Hebrew usage of nephesh
 

@@ -13,7 +13,9 @@
 
 ## Lexicon Definition
 
-From ψύχω; breath, i.e. (by implication) spirit, abstractly or concretely — the animal sentient principle only; thus distinguished on the one hand from πνεῦμα (G4151), which is the rational and immortal soul; and on the other from ζωή (G2222), which is mere vitality, even of plants. These terms correspond respectively to the Hebrew נֶפֶשׁ (H5315), רוּחַ (H7307), and חַי (H2416).
+From ψύχω; breath, i.e. (by implication) spirit, abstractly or concretely — the animal sentient principle only; thus distinguished on the one hand from πνεῦμα (G4151), the rational/animating spirit, and on the other from ζωή (G2222), which is mere vitality, even of plants. These terms correspond respectively to the Hebrew נֶפֶשׁ (H5315), רוּחַ (H7307), and חַי (H2416).
+
+> **Note on the lexicon wording:** Thayer's original entry calls πνεῦμα "the rational and immortal soul." That phrase imports a Greek-philosophical assumption, not a biblical one. Scripture grants immortality to God alone (1 Tim 6:16) and gives it to the redeemed only at the resurrection (1 Cor 15:53-54); neither ψυχή nor πνεῦμα is portrayed as inherently immortal. The lexical *distinction* between the three words holds; the word "immortal" has been removed above to avoid asserting an unbiblical doctrine.
 
 ## Semantic Domains
 
