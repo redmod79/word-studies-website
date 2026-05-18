@@ -216,7 +216,7 @@ No synonym entries were returned by `search_relationships.py` for H2421.
 
 - [TR-chay-zoe.md](TR-chay-zoe.md) — cross-testament trace: chay/chayah → zōē/záō (the life word-family from OT to NT)
 - [WG-life.md](WG-life.md) — word group on the NT life-concept (ζωή, ζάω, ψυχή, βίος, αἰώνιος, θάνατος)
-- TODO(need H2416 chay study) — the cognate adjective/noun
+- [H2416-chay.md](H2416-chay.md) — the cognate adjective/noun
 - [H4191-muwth.md](H4191-muwth.md) — the antithetical verb "die"
 - TODO(need A2418 chayah study) — Aramaic counterpart
 - TODO(need G2198 zao study) — primary NT bridge

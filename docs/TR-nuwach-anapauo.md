@@ -60,7 +60,7 @@ H5117, 67x in OT      LXX co-occ: 24x          12x in NT
 - **1 Pet 4:14** — "the spirit of glory and of God resteth upon you" (echoes Isa 11:2 "the spirit of the LORD shall rest upon him")
 - **Rev 6:11** — "it was said unto them, that they should rest yet for a little season" (eschatological rest — cf. Dan 12:13 "thou shalt rest")
 
-TODO(need G373 study)
+See [G373-anapauo.md](G373-anapauo.md) for the full canonical word study.
 
 ## Direct OT→NT Quotations
 

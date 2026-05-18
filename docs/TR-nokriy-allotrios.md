@@ -16,14 +16,14 @@ H5237, 45x in OT       38x as translation          13x in NT
 |----------|------|-------------|-----------------|
 | H5237 | נׇכְרִי (nokriy) | 45 | foreign person, strange woman, alien |
 | H5236 | נֵכָר (nekar) | 35 | foreignness, foreign land/god |
-| H2114 | זוּר (zuwr) | 76 | to turn aside; stranger, estranged |
+| H2114 | זוּר (zuwr) | 76 | to turn aside; stranger, estranged — [H2114-zuwr.md](H2114-zuwr.md) |
 
 **Key OT passages:**
 - **Deut 17:15** — "thou mayest not set a stranger (nokriy) over thee, which is not thy brother"
 - **1 Ki 8:41** — "concerning a stranger (nokriy), that is not of thy people Israel, but cometh out of a far country for thy name's sake"
 - **Ezra 10:2** — "We have trespassed against our God, and have taken strange (nokriy) wives"
 
-[H5237-nokriy.md](H5237-nokriy.md)
+[H5237-nokriy.md](H5237-nokriy.md); [H2114-zuwr.md](H2114-zuwr.md)
 
 ## LXX Bridge
 

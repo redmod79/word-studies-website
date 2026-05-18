@@ -9,7 +9,7 @@ The Mosaic sacrificial system uses seven core Hebrew words that form an intercon
 |----------|------|-----------------|-----|-------------|-----------------|---------------|
 | H5930 | עֹלָה | olah | f. noun | 262 | Whole burnt offering — entirely consumed, total dedication | [H5930-olah.md](H5930-olah.md) |
 | H8002 | שֶׁלֶם | shelem | m. noun | 84 | Peace/fellowship offering — shared meal, thanksgiving, vow | [H8002-shelem.md](H8002-shelem.md) |
-| H2077 | זֶבַח | zebach | m. noun | 153 | General slaughter-sacrifice — the act and flesh of sacrifice | TODO(need H2077 study) |
+| H2077 | זֶבַח | zebach | m. noun | 153 | General slaughter-sacrifice — the act and flesh of sacrifice | [H2077-zebach.md](H2077-zebach.md) |
 | H7133 | קׇרְבָּן | qorban | m. noun | 78 | Oblation/offering brought near — generic presentation term | TODO(need H7133 study) |
 | H4503 | מִנְחָה | minchah | f. noun | 194 | Grain/meat offering — non-blood offering, tribute | [H4503-minchah.md](H4503-minchah.md) |
 | H2403 | חַטָּאָה | chattaah | f. noun | 270 | Sin offering — addresses defilement and purification | [H2403-chattaah.md](H2403-chattaah.md) |

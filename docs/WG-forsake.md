@@ -10,7 +10,7 @@ The Greek NT uses several compounds of the λειπ- (leip-, "leave") root to ex
 | G1459 | ἐγκαταλείπω | enkataleipō | verb | 9 | Intensified abandonment — "leave down in" a place/situation | [G1459](G1459-enkataleipo.md) |
 | G863 | ἀφίημι | aphiēmi | verb | 133 | Broad "send away" — includes forsaking but also forgiving, permitting | [G863](G863-aphiemi.md) |
 | G2641 | καταλείπω | kataleipō | verb | 25 | Physical/spatial "leave behind" — neutral departure tone | TODO(need G2641 study) |
-| G620 | ἀπολείπω | apoleipō | verb | 6 | "Leave remaining" — focus on what remains, not the leaving | TODO(need G620 study) |
+| G620 | ἀπολείπω | apoleipō | verb | 6 | "Leave remaining" — focus on what remains, not the leaving | [G620](G620-apoleipo.md) |
 | G4518 | σαβαχθάνι | sabachthani | Aramaism | 2 | Aramaic "thou hast left me" — transliteration of Ps 22:1 | TODO(need G4518 study) |
 
 ## Relationships

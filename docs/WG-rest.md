@@ -8,11 +8,11 @@ The biblical concept of "rest" draws on a cluster of Greek and Hebrew words that
 | Strong's | Word | Transliteration | POS | Occurrences | Role in Concept | Library Entry |
 |----------|------|-----------------|-----|-------------|-----------------|---------------|
 | G2663 | κατάπαυσις | katapausis | feminine noun | 8 | The "settling-down" rest / God's dwelling; Heb 3–4 / Acts 7:49 | [G2663-katapausis](G2663-katapausis.md) |
-| G2664 | καταπαύω | katapauo | verb | 4 | Causative: to cause to rest, to give rest | TODO(need G2664 study) |
+| G2664 | καταπαύω | katapauo | verb | 4 | Causative: to cause to rest, to give rest | [G2664](G2664-katapauo.md) |
 | G372 | ἀνάπαυσις | anapausis | feminine noun | 5 | Refreshment / intermission — temporary rest | [G372](G372-anapausis.md) |
-| G373 | ἀναπαύω | anapauo | verb | 12 | To refresh, repose, take rest | TODO(need G373 study) |
+| G373 | ἀναπαύω | anapauo | verb | 12 | To refresh, repose, take rest | [G373](G373-anapauo.md) |
 | G4520 | σαββατισμός | sabbatismos | masculine noun | 1 | Sabbath-keeping rest as eschatological reality (Heb 4:9) | [G4520-sabbatismos](G4520-sabbatismos.md) |
-| H4496 | מְנוּחָה | menuchah | feminine noun | 22 | The OT settled resting place; primary Hebrew source for katapausis | TODO(need H4496 study) |
+| H4496 | מְנוּחָה | menuchah | feminine noun | 22 | The OT settled resting place; primary Hebrew source for katapausis | [H4496](H4496-mnuwchah.md) |
 
 ## Relationships
 

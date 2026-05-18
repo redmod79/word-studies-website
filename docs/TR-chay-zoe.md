@@ -26,7 +26,7 @@ H2416, 449x in OT      ζωή: 136x co-occ           126x in NT
 
 The word family (H2416 noun/adjective, H2421 verb) pervades OT biological, covenantal, and doxological contexts. The phrase נֶפֶשׁ חַיָּה ("living soul/creature") is the foundational OT description of created life.
 
-See Also: TODO(need H2416 study)
+See Also: [H2416-chay.md](H2416-chay.md)
 
 ## LXX Bridge
 

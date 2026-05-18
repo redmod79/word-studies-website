@@ -14,7 +14,7 @@ The Hebrew concept of the vow is built on a tight lexical cluster: a cognate nou
 | H632 | אֱסָר | esar | m. noun | 10 | The binding/bond (abstinence vow) | TODO(need H632 study) |
 | H631 | אָסַר | asar | verb | 64 | To bind / impose a bond | TODO(need H631 study) |
 | H7999 | שָׁלַם | shalam | verb | 107 | To pay / complete a vow | TODO(need H7999 study) |
-| H2077 | זֶבַח | zebach | m. noun | 153 | Sacrifice — the ritual category a vow often fills | TODO(need H2077 study) |
+| H2077 | זֶבַח | zebach | m. noun | 153 | Sacrifice — the ritual category a vow often fills | [H2077-zebach.md](H2077-zebach.md) |
 
 ## Relationships
 

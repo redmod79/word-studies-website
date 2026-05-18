@@ -12,7 +12,7 @@ The English word "beast" in the KJV translates several distinct Greek and Hebrew
 | G2934 | κτῆνος | ktēnos | noun | 4 | Domestic animal, beast of burden | TODO(need G2934 study) |
 | G2341 | θηριομαχέω | thēriomachéō | verb | 1 | To fight with wild beasts (cognate of thērion) | TODO(need G2341 study) |
 | H929 | בְּהֵמָה | behemah | noun | 190 | Domestic/dumb animal, cattle (OT primary) | — |
-| H2416 | חַי | chay | noun/adj | 501 | Living thing, alive (broad OT term) | TODO(need H2416 study) |
+| H2416 | חַי | chay | noun/adj | 501 | Living thing, alive (broad OT term) | [H2416-chay.md](H2416-chay.md) |
 | H2423 | חֵיוָא | chêyvâ' | noun | 20 | Aramaic "beast" — Daniel's four beasts | TODO(need H2423 study) |
 
 ## Relationships

@@ -38,7 +38,7 @@ aírō (G142) is the root; compounds add directional prefixes:
 | Hebrew Word | Strong's | Greek Members Mapped | Notes |
 |-------------|----------|---------------------|-------|
 | נָשָׂא (nāśāʾ) | H5375 | G142 (164×), G5342 (30×) | Primary Hebrew equivalent for both; same semantic breadth |
-| חֶלֶב (cheleb) | H2459 | G4014 (10×), G399 (13×) | Fat-removal context: periairéō for stripping fat, anaphérō for offering up |
+| חֶלֶב (cheleb) | [H2459](H2459-cheleb.md) | G4014 (10×), G399 (13×) | Fat-removal context: periairéō for stripping fat, anaphérō for offering up |
 
 ## Roles in the Concept
 

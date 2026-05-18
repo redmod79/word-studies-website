@@ -151,6 +151,7 @@ The primary Greek bridge is σάλπιγξ/σαλπίζω — forming the word f
 
 ## See Also
 
+- [H3104-yowbel.md](H3104-yowbel.md) — jubilee ram's horn; co-occurs with shôwphâr in Joshua 6; instrument that names the institution
 - [TR-showphar-salpinx.md](TR-showphar-salpinx.md) — cross-testament trace: shôwphâr → σάλπιγξ
 - [WG-trumpet.md](WG-trumpet.md) — word group: Greek trumpet family (G4536, G4537, G4538)
 - [G4536-salpinx.md](G4536-salpinx.md) — Greek NT study: σάλπιγξ

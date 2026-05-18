@@ -1,7 +1,7 @@
 # WG: Stranger / Sojourner / Alien
 
 ## Overview
-The Hebrew vocabulary for non-Israelites residing among Israel distinguishes several statuses by degree of integration. Four words denote the person's relation to the community (ger, toshab, nokriy, nekar), one denotes the activity of residing (gur), and one provides the contrastive native-born category (ezrach). Nekar is the abstract noun ("foreignness") and parent of nokriy, but also used concretely for foreign persons (ben-nekar). Two additional words (almanah, yathom) form a fixed social-welfare triad with ger.
+The Hebrew vocabulary for outsiders among Israel distinguishes several statuses by degree of integration. Four words denote the person's relation to the community (ger, toshab, nokriy, nekar), one denotes the activity of residing (gur), one marks the native-born contrast (ezrach), and zuwr names the strange/unauthorized/estranged outsider. Nekar is the abstract noun ("foreignness") and parent of nokriy, but also used concretely for foreign persons (ben-nekar). Two additional words (almanah, yathom) form a fixed social-welfare triad with ger.
 
 ## Word Group Members
 
@@ -11,6 +11,7 @@ The Hebrew vocabulary for non-Israelites residing among Israel distinguishes sev
 | H1481 | גּוּר | gur | verb | 94 | Root verb: "to sojourn" — the activity that defines ger status | TODO(need H1481 study) |
 | H5236 | נֵכָר | nekar | m. noun | 35 | Foreignness (abstract) or foreign person (concrete, esp. ben-nekar); parent noun of nokriy | [H5236-nekar.md](H5236-nekar.md) |
 | H5237 | נׇכְרִי | nokriy | adj. | 45 | Foreigner, outsider — no covenant integration; contrastive to ger | [H5237-nokriy.md](H5237-nokriy.md) |
+| H2114 | זוּר | zuwr | verb / adj. forms | 76 | Strange, unauthorized, or estranged outsider; cultic and moral alienness rather than resident-alien status | [H2114-zuwr.md](H2114-zuwr.md) |
 | H8453 | תּוֹשָׁב | toshab | m. noun | 13 | Temporary sojourner, tenant — less integrated than ger | [H8453-towshab.md](H8453-towshab.md) |
 | H249 | אֶזְרָח | ezrach | m. noun | 17 | Native-born, homeborn — the contrastive category to ger | TODO(need H249 study) |
 | H490 | אַלְמָנָה | almanah | f. noun | 54 | Widow — co-member of the ger-yathom-almanah welfare triad | TODO(need H490 study) |
@@ -21,6 +22,7 @@ The Hebrew vocabulary for non-Israelites residing among Israel distinguishes sev
 ### Shared Roots
 - ger (H1616) derives from gur (H1481) — the noun names the person, the verb names the activity
 - nokriy (H5237) derives from nekar (H5236) — the adjective describes a person, the noun names the quality of foreignness
+- zuwr (H2114) is a separate primitive root — it emphasizes turning aside, unauthorized strangeness, or estrangement rather than ethnicity alone
 
 ### Co-occurrence (appear in same verses)
 
@@ -33,6 +35,7 @@ The Hebrew vocabulary for non-Israelites residing among Israel distinguishes sev
 | ger / ezrach | | 14 | "one law for stranger and homeborn" — equality formula |
 | ger / toshab | | 7 | "stranger and sojourner" — hendiadys for resident alien |
 | ger / nokriy | | 3 | Rare; distinct categories seldom juxtaposed |
+| nokriy / zuwr | | 12 | Paired outsider vocabulary; Proverbs "strange woman" and foreign/strange-person overlap |
 
 ### LXX Overlaps
 
@@ -43,6 +46,7 @@ The Hebrew vocabulary for non-Israelites residing among Israel distinguishes sev
 | almanah | → χήρα (chera) | Clean one-to-one mapping |
 | yathom | → ὀρφανός (orphanos) | Clean one-to-one mapping |
 | nokriy | → ἀλλότριος (allotrios) or ξένος (xenos) | Distinct from proselytos — preserves the outsider sense |
+| zuwr | → ἀλλότριος (allotrios) | LXX often renders zuwr with the same "belonging to another" term used for nokriy/nekar |
 
 ## Roles in the Concept
 
@@ -51,6 +55,7 @@ The Hebrew vocabulary for non-Israelites residing among Israel distinguishes sev
 - **The Temporary Resident:** toshab (תּוֹשָׁב) — less permanent, fewer legal protections than ger
 - **The Abstract Category:** nekar (נֵכָר) — foreignness itself; used in "gods of nekar" (idolatry) and "sons of nekar" (foreign persons); parent noun from which nokriy derives
 - **The True Outsider:** nokriy (נׇכְרִי) — a foreigner with no covenant obligations (different lending/dietary rules apply: Deut 14:21, 23:20)
+- **The Unauthorized/Estranged Outsider:** zuwr (זוּר) — a stranger, strange thing, strange woman, or estranged party; common in cultic boundary texts and Proverbs
 - **The Native Counterpart:** ezrach (אֶזְרָח) — "one sprung up" natively; the legal equal the ger is measured against
 - **The Welfare Triad:** ger + yathom (יָתוֹם) + almanah (אַלְמָנָה) — the three classes without land-inheritance who require provision through gleaning, tithe, and festival inclusion
 
